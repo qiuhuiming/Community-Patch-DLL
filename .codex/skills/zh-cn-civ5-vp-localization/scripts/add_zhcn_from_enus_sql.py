@@ -15,17 +15,25 @@ def _strip_bom(text: str) -> str:
     return text.lstrip("\ufeff")
 
 
-def _parse_sql_updates(sql_text: str) -> dict[str, str]:
+def _unescape_sql_string(s: str) -> str:
+    return s.replace("''", "'")
+
+
+def _escape_sql_string(s: str) -> str:
+    return s.replace("'", "''")
+
+
+def _parse_sql_updates(sql_text: str, language: str) -> dict[str, str]:
     sql_text = _strip_bom(sql_text)
     updates: dict[str, str] = {}
     pattern = re.compile(
-        r"UPDATE\s+Language_zh_CN\s+SET\s+Text\s*=\s*'((?:''|[^'])*)'\s*"
+        rf"UPDATE\s+{re.escape(language)}\s+SET\s+Text\s*=\s*'((?:''|[^'])*)'\s*"
         r"WHERE\s+Tag\s*=\s*'([^']+)'\s*;",
         re.IGNORECASE | re.DOTALL,
     )
     for match in pattern.finditer(sql_text):
         raw_text, tag = match.group(1), match.group(2)
-        updates[tag] = raw_text.replace("''", "'")
+        updates[tag] = _unescape_sql_string(raw_text)
     return updates
 
 
@@ -61,7 +69,7 @@ def _parse_sql_inserts(sql_text: str) -> dict[str, str]:
             if not (m_tag and m_text):
                 continue
             tag = m_tag.group(1)
-            text = m_text.group(1).replace("''", "'")
+            text = _unescape_sql_string(m_text.group(1))
             inserts.setdefault(tag, text)
 
     return inserts
@@ -99,7 +107,7 @@ def _build_reference_dictionary(reference_root: Path) -> dict[str, str]:
             sql_text = path.read_text(encoding="utf-8", errors="replace")
         except OSError:
             continue
-        for tag, value in _parse_sql_updates(sql_text).items():
+        for tag, value in _parse_sql_updates(sql_text, "Language_zh_CN").items():
             dictionary.setdefault(tag, value)
         for tag, value in _parse_sql_inserts(sql_text).items():
             dictionary.setdefault(tag, value)
@@ -107,88 +115,66 @@ def _build_reference_dictionary(reference_root: Path) -> dict[str, str]:
     return dictionary
 
 
-_xml_block_en = re.compile(r"<Language_en_US\b[^>]*>([\s\S]*?)</Language_en_US>", re.IGNORECASE)
-_xml_block_zh = re.compile(r"<Language_zh_CN\b[^>]*>([\s\S]*?)</Language_zh_CN>", re.IGNORECASE)
-_xml_entry = re.compile(
-    r"<(?P<kind>Row|Replace)\b(?P<attrs>[^>]*)\bTag=\"(?P<tag>[^\"]+)\"(?P<attrs2>[^>]*)>[\s\S]*?<Text>(?P<text>[\s\S]*?)</Text>[\s\S]*?</(?P=kind)>",
-    re.IGNORECASE,
+_en_update = re.compile(
+    r"(UPDATE\s+Language_en_US\s+SET\s+Text\s*=\s*'(?P<text>(?:''|[^'])*)'\s*"
+    r"WHERE\s+Tag\s*=\s*'(?P<tag>[^']+)'\s*;)",
+    re.IGNORECASE | re.DOTALL,
 )
 
 
-def _extract_entries_from_block(block_body: str) -> list[tuple[str, str, str]]:
-    entries: list[tuple[str, str, str]] = []
-    for match in _xml_entry.finditer(block_body):
-        kind = match.group("kind")
+def _apply_sql(sql_path: Path, dictionary: dict[str, str]) -> bool:
+    raw = _strip_bom(sql_path.read_text(encoding="utf-8", errors="replace"))
+    original_raw = raw
+
+    en_updates = list(_en_update.finditer(raw))
+    if not en_updates:
+        return False
+
+    existing_zh = _parse_sql_updates(raw, "Language_zh_CN")
+
+    inserts: list[tuple[int, str]] = []
+    for match in en_updates:
         tag = match.group("tag")
-        text = match.group("text")
-        entries.append((kind, tag, text))
-    return entries
+        en_text = _unescape_sql_string(match.group("text"))
+        if tag in existing_zh:
+            if existing_zh[tag] == en_text and tag in dictionary and dictionary[tag] != en_text:
+                # Replace placeholder text in-place
+                target = dictionary[tag]
+                pattern = re.compile(
+                    rf"(UPDATE\s+Language_zh_CN\s+SET\s+Text\s*=\s*)'((?:''|[^'])*)'(\s*WHERE\s+Tag\s*=\s*'{re.escape(tag)}'\s*;)",
+                    re.IGNORECASE | re.DOTALL,
+                )
+                raw_new, n = pattern.subn(
+                    lambda m: m.group(1) + f"'{_escape_sql_string(target)}'" + m.group(3),
+                    raw,
+                    count=1,
+                )
+                if n:
+                    raw = raw_new
+            continue
 
+        zh_text = dictionary.get(tag, en_text)
+        block = (
+            "\n\nUPDATE Language_zh_CN\n"
+            f"SET Text = '{_escape_sql_string(zh_text)}'\n"
+            f"WHERE Tag = '{tag}';"
+        )
+        inserts.append((match.end(0), block))
 
-def _existing_tags_in_block(block_body: str) -> set[str]:
-    return {tag for _kind, tag, _text in _extract_entries_from_block(block_body)}
+    updated = raw
+    if not inserts:
+        if updated == original_raw:
+            return False
+        sql_path.write_text(updated, encoding="utf-8")
+        return True
 
-
-def _render_entry(kind: str, tag: str, text: str, indent: str) -> str:
-    return (
-        f"{indent}<{kind} Tag=\"{tag}\">\n"
-        f"{indent}\t<Text>{text}</Text>\n"
-        f"{indent}</{kind}>\n"
-    )
-
-
-def _apply_xml(xml_path: Path, dictionary: dict[str, str]) -> bool:
-    raw = _strip_bom(xml_path.read_text(encoding="utf-8", errors="replace"))
-
-    en_match = _xml_block_en.search(raw)
-    if not en_match:
-        return False
-    en_body = en_match.group(1)
-    en_entries = _extract_entries_from_block(en_body)
-    if not en_entries:
-        return False
-
-    zh_match = _xml_block_zh.search(raw)
-    if zh_match:
-        zh_body = zh_match.group(1)
-        existing_entries = _extract_entries_from_block(zh_body)
-        existing_by_tag = {tag: (kind, text) for kind, tag, text in existing_entries}
-
-        indent_match = re.search(r"\n([ \t]+)<(?:Row|Replace)\b", zh_body)
-        indent = indent_match.group(1) if indent_match else "\t\t"
-
-        rendered: list[str] = []
-        seen: set[str] = set()
-        for en_kind, tag, en_text in en_entries:
-            seen.add(tag)
-            kind, current_text = existing_by_tag.get(tag, (en_kind, en_text))
-            if current_text == en_text:
-                current_text = dictionary.get(tag, en_text)
-            rendered.append(_render_entry(kind, tag, current_text, indent))
-
-        for kind, tag, text in existing_entries:
-            if tag in seen:
-                continue
-            rendered.append(_render_entry(kind, tag, text, indent))
-
-        new_body = "\n" + "".join(rendered)
-        updated = raw[: zh_match.start(1)] + new_body + raw[zh_match.end(1) :]
-    else:
-        indent_match = re.search(r"\n([ \t]+)<Language_en_US\b", raw)
-        lang_indent = indent_match.group(1) if indent_match else "\t"
-        entry_indent = lang_indent + "\t"
-
-        additions = []
-        for kind, tag, en_text in en_entries:
-            additions.append(_render_entry(kind, tag, dictionary.get(tag, en_text), entry_indent))
-
-        zh_block = f"\n{lang_indent}<Language_zh_CN>\n{''.join(additions)}{lang_indent}</Language_zh_CN>"
-        updated = raw[: en_match.end()] + zh_block + raw[en_match.end() :]
+    for offset, block in reversed(inserts):
+        updated = updated[:offset] + block + updated[offset:]
 
     if updated == raw:
         return False
 
-    xml_path.write_text(updated, encoding="utf-8")
+    sql_path.write_text(updated, encoding="utf-8")
     return True
 
 
@@ -200,7 +186,7 @@ def main() -> int:
         dest="inputs",
         action="append",
         required=True,
-        help="输入 XML 文件或目录路径（可重复传入；目录将递归处理其中所有 *.xml）",
+        help="输入 SQL 文件或目录路径（可重复传入；目录将递归处理其中所有 *.sql）",
     )
     args = parser.parse_args()
 
@@ -224,19 +210,17 @@ def main() -> int:
             skipped_count += 1
             continue
 
-        xml_paths = (
-            sorted(input_path.rglob("*.xml")) if input_path.is_dir() else [input_path]
-        )
-        for xml_path in xml_paths:
-            if not xml_path.exists() or xml_path.suffix.lower() != ".xml":
-                print(f"skip (not an xml file): {xml_path}", file=sys.stderr)
+        sql_paths = sorted(input_path.rglob("*.sql")) if input_path.is_dir() else [input_path]
+        for sql_path in sql_paths:
+            if not sql_path.exists() or sql_path.suffix.lower() != ".sql":
+                print(f"skip (not a sql file): {sql_path}", file=sys.stderr)
                 skipped_count += 1
                 continue
-            if _apply_xml(xml_path, dictionary):
-                print(f"updated: {xml_path}")
+            if _apply_sql(sql_path, dictionary):
+                print(f"updated: {sql_path}")
                 updated_count += 1
             else:
-                print(f"nochange: {xml_path}")
+                print(f"nochange: {sql_path}")
                 unchanged_count += 1
 
     print(
