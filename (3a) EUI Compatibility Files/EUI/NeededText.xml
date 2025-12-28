@@ -76,4 +76,76 @@
 			<Text>[ICON_PEACE] Purchase this Unit or Building with Faith.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_DEBUG_X_Y">
+			<Text>X: {1_Num} / Y: {2_Num} / 地块危险: {3_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CP_HAPPINESS_EXPLANATION">
+			<Text>这是帝国范围的细分。[ICON_HAPPINESS_1] 快乐抵消每座城市的 [ICON_HAPPINESS_3] 不满。不满受到城市规模限制，除了城市化！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LOCAL_RESOURCES_CBP">
+			<Text>本地资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_MISC_RESOURCES">
+			<Text>杂项资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_GP_RESOURCES">
+			<Text>来自伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CORP_RESOURCES">
+			<Text>来自企业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_FRANCHISE_RESOURCES">
+			<Text>来自企业特许公司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CS_ALLY_RESOURCES">
+			<Text>来自城邦盟友数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_STRAT_MOD_RESOURCES">
+			<Text>来自战略资源修正</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CP_DIPLO_DP">
+			<Text>防御条约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CP_DIPLO_MARRIAGE">
+			<Text>联姻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CP_DIPLO_MASTER_OF">
+			<Text> [COLOR_POSITIVE_TEXT]宗主[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CP_DIPLO_VASSAL_OF">
+			<Text> [COLOR_POSITIVE_TEXT]附庸于[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WARSCORE_CP">
+			<Text>战争分数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AT_WAR_WITH_CP">
+			<Text> [COLOR_NEGATIVE_TEXT]与 {1_enemy} 交战中[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CORPSBUILDING_TEXT">
+			<Text>企业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNHIDE_BUILDINGS">
+			<Text>取消隐藏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNHIDE_BUILDINGS_TT">
+			<Text>让隐藏的建筑重新在该城市的生产选项中可见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNHAPPINESS_LABEL">
+			<Text>不满：</Text>
+		</Row>
+		<!-- Condensed Help Texts -->
+		<Row>
+			<Tag>TXT_KEY_CITYVIEW_PURCHASE_TT_BUILDING</Tag>
+			<Text>[ICON_GOLD] 在建筑上花费的金钱会进行投资，使其 [ICON_PRODUCTION] 产能成本降低 50%（奇观为 25%）</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CITYVIEW_PURCHASE_TT_UNIT</Tag>
+			<Text>[ICON_GOLD] 购买的单位起始经验为 [ICON_PRODUCTION] 生产单位的一半。</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CITYVIEW_PURCHASE_TT_FAITH</Tag>
+			<Text>[ICON_PEACE] 使用信仰购买此单位或建筑。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>
