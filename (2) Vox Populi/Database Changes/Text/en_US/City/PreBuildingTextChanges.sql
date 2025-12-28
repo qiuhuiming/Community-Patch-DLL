@@ -3,3 +3,7 @@
 UPDATE Language_en_US
 SET Text = ''
 WHERE Tag IN (SELECT Help FROM Buildings);
+
+UPDATE Language_zh_CN
+SET Text = ''
+WHERE Tag IN (SELECT Help FROM Buildings);

@@ -623,4 +623,594 @@
 			<Text>Lawrence Alma-Tadema</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_SKIRMISHER">
+			<Text>重型散兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_SKIRMISHER_STRATEGY">
+			<Text>重型散兵是中世纪时代的单位，能够快速移动和远程攻击。用他们来骚扰敌人并支持你的战争努力，但要小心不要让他们单独被捕。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_SKIRMISHER_TEXT">
+			<Text>事实证明，装备长矛的骑兵在对抗长枪兵与弩兵的编队时是无效的，而弩兵的武器可以穿透大多数骑士的盔甲。推杆和棘轮牵引机构的发明使得十字弓可以在马背上使用，从而导致了新的骑兵战术的发展。骑士和佣兵排成三角形阵型，最重甲的骑士在最前面。其中一些骑手会携带自己的小型、强大的全金属十字弓。十字弓最终在战争中被更强大的火药武器所取代，尽管早期的枪支比当代十字弓的射速更慢，精度也更差。后来，类似的竞争战术包括火绳枪手或火枪手与长枪兵（长枪和射击）组成的队形，与使用手枪或卡宾枪的骑兵进行对抗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HEAVY_SKIRMISHER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUIRASSIER">
+			<Text>胸甲骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUIRASSIER_STRATEGY">
+			<Text>胸甲骑兵是文艺复兴时期的单位，能够快速移动和远程攻击。用它们骚扰敌人并支持你的战争努力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUIRASSIER_TEXT">
+			<Text>胸甲骑兵，源自法国胸甲骑兵，是装备盔甲和火器的骑兵，最早出现在15世纪末的欧洲。这个法语术语的意思是“拥有胸甲的人”（cuirasse），他们穿着的胸甲。第一批胸甲骑兵是装甲骑兵的产物，例如重甲骑兵和半枪骑兵，他们放弃了骑枪并采用手枪作为主要武器。 17世纪后期，胸甲骑兵失去了四肢装甲，随后仅使用胸甲（胸甲和背甲），有时还佩戴头盔。此时，剑已成为胸甲骑兵的主要武器，手枪被降级为次要武器。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUIRASSIER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMMANDO">
+			<Text>突击队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMMANDO_STRATEGY">
+			<Text>突击队是侦察和攻击部队，专门通过困难地形打击脆弱目标并快速撤退。使用这些单位包抄并扰乱敌人的后线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMMANDO_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMMANDO_TEXT">
+			<Text>突击队是一支精英轻步兵，专门攻击高价值目标和前线侦察。这个词在布尔战争和伟大的长途跋涉之后开始普遍使用，布尔突击队民兵采用游击战和不对称战术，在对抗科萨人、祖鲁人和英国军队时取得了巨大成功。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER_TEXT">
+			<Text>探索是为了发现信息或资源而进行的搜索行为。探索发生在所有非固着动物物种中，包括人类。在人类历史上，其最引人注目的崛起是在大航海时代，当时欧洲探险家航行并绘制了世界其他大部分地区的地图，主要是为了追求物质财富。从那时起，大航海时代之后的重大探索不断出现，其原因主要是为了信息发现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIELD_GUN">
+			<Text>野战炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIELD_GUN_TEXT">
+			<Text>野战炮是一种火炮。该术语最初用于描述军队行军时可以携带的小型枪支。在战斗中，野战炮可以根据需要在战场上快速移动。堡垒内安装的火炮、攻城炮和迫击炮都太大，无法快速移动，只有在长期攻城时才会使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIELD_GUN_STRATEGY">
+			<Text>野战炮的战斗力比大炮更强，尽管它们本身的视野不够远。使用野战炮支援你的工业时代军队，但要小心让敌人靠近他们！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIELD_GUN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FREE_COMPANY">
+			<Text>自由公司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FCOMPANY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FCOMPANY_STRATEGY">
+			<Text>自由连是管理局政策树完成后提供的第一批雇佣兵单位。尽管它们不能直接生产，但它们在战斗能力方面比长枪兵有直接的提高，同时获得了一些额外的优势。[NEWLINE][NEWLINE]因为它们在购买时可以立即移动并且具有完整的经验，所以如果你有金币，你可以很快地部署大量它们。此外，这些恶棍从进攻性战争中受益匪浅，因为他们能够在不消耗移动成本的情况下进行掠夺，并在对城市造成损害时获得黄金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FCOMPANY_TEXT">
+			<Text>当机会遇到战争和无法无天时，士兵的生活很快就会变成抢劫。[NEWLINE][NEWLINE]自由连队，也称为伟大连队或冒险家连队，是 12 世纪至 15 世纪初在欧洲各地活动的雇佣兵团体。他们通常受雇于贵族，以无视武器法和作为掠夺者的有用性而闻名。自由连队因其在 14 世纪无休止的冲突中发挥的作用而闻名，百年战争期间，英国人利用这些连队来恐吓法国乡村。[NEWLINE][NEWLINE]虽然这些公司在战时有工作，但在和平时期它们可能会成为祸害。一旦他们不再获得掠夺他人土地的报酬，他们往往就会开始掠夺前雇主的土地。 1360 年《布雷蒂尼和约》签订后，自由军团被解除服役并变得失控。他们从一个封地到另一个封地，攻击农场和城堡，在整个西欧活动，甚至设法战胜了反对他们的军队。和平和瘟疫帮助这些乐队的规模和胆量不断扩大，在出国时获得了财富和恶名。当时著名的公司包括意大利的怀特公司、希腊的加泰罗尼亚公司和法国的塔德维纳斯公司。这些冒险家中的许多人都从他们的功绩中获得了相当大的政治权力，例如英国人约翰·霍克伍德，他成为了意大利几个州和教皇雇用的富有的雇佣兵。[NEWLINE][NEWLINE]15世纪西欧国家的重建以及职业军队和有效民兵的形成结束了雇佣军权力的使用。然而，自由公司造成的死亡和破坏在欧洲记忆中留下了深深的伤痕。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MERCENARY">
+			<Text>雇佣兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GUERILLA_TEXT">
+			<Text>私营军事公司 (PMC) 中的士兵是当代雇佣军贸易的一部分，提供后勤、士兵、军事训练和其他服务。因此，PMC 承包商是被授权陪同军队前往战场的平民（在政府、国际和民间组织中）；因此，出现了民用承包商一词。然而，私营军事公司可以使用武装力量，因此被定义为：“合法成立的企业，通过以系统的方式和军事手段提供涉及可能使用[武装]力量的服务，和/或通过培训和其他做法，例如后勤支持、设备采购和情报收集，将这种潜力转移给客户，从而获利。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GUERILLA_STRATEGY">
+			<Text>使用雇佣兵作为一种廉价但效果稍差的手段来保卫你的土地免受入侵者的侵害，或者作为精确攻击的侧翼。雇佣兵在侧翼攻击时会获得大量奖励，因此请明智地部署他们！仅当您解锁了权限分支的整理器策略时才可用。只能通过[ICON_GOLD]黄金购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GUERILLA">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PIONEER">
+			<Text>先锋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PIONEER_STRATEGY">
+			<Text>使用该单位建造新城市。它无法自卫，所以需要一个战斗单位陪伴它。建立时，先驱者建造的城市从 3 个公民开始，要求额外的领土，并自动接收以下建筑物选择：[NEWLINE][NEWLINE][ICON_BULLET]竞技场[NEWLINE][ICON_BULLET]军营[NEWLINE][ICON_BULLET]理事会[NEWLINE][ICON_BULLET]锻造[NEWLINE][ICON_BULLET]粮仓[NEWLINE][ICON_BULLET]草药师[NEWLINE][ICON_BULLET]图书馆[NEWLINE][ICON_BULLET]市场[NEWLINE][ICON_BULLET]纪念碑[NEWLINE][ICON_BULLET]神社[NEWLINE][ICON_BULLET]熏制室[NEWLINE][ICON_BULLET]水磨坊（如果适用）[NEWLINE][ICON_BULLET]好（如果适用）[NEWLINE][NEWLINE]注意：进步和产业政策分支建造建筑物的奖金不适用于先锋建造的建筑物！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PIONEER_TEXT">
+			<Text>先驱者是指历史上为定居和开发新地区而迁徙的人们。该术语特指那些打算定居欧洲或美洲社会以前未曾定居或开发的任何领土的人，尽管该领土可能已被土著人民居住或利用。拓荒者的概念和精神大大早于移民到现在被称为西部的美国部分地区，因为许多现在被认为是东部的地方也是由沿海拓荒者定居的。例如，美国历史上的关键人物丹尼尔·布恩就定居在肯塔基州，当时“黑暗血腥之地”尚未开发。西部定居点的一项重要发展是《宅地法》，它提供了规范定居过程的正式立法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PIONEER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COLONIST">
+			<Text>殖民者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COLONIST_STRATEGY">
+			<Text>使用该单位建造新城市。它无法自卫，所以需要一个战斗单位陪伴它。建立时，殖民者建造的城市从 5 个公民开始，声称拥有额外的领土，并自动接收以下建筑物选择：[NEWLINE][NEWLINE][ICON_BULLET]露天剧场[NEWLINE][ICON_BULLET]渡槽[NEWLINE][ICON_BULLET]竞技场[NEWLINE][ICON_BULLET]军营[NEWLINE][ICON_BULLET]理事会[NEWLINE][ICON_BULLET]锻造[NEWLINE][ICON_BULLET]粮仓[NEWLINE][ICON_BULLET]港口[NEWLINE][ICON_BULLET]草药师[NEWLINE][ICON_BULLET]图书馆[NEWLINE][ICON_BULLET]灯塔[NEWLINE][ICON_BULLET]市场[NEWLINE][ICON_BULLET]纪念碑[NEWLINE][ICON_BULLET]神社[NEWLINE][ICON_BULLET]熏制室[NEWLINE][ICON_BULLET]寺庙[NEWLINE][ICON_BULLET]水磨坊（如果适用）[NEWLINE][ICON_BULLET]好（如果适用）[NEWLINE][ICON_BULLET]风车[NEWLINE][ICON_BULLET]车间[NEWLINE][NEWLINE]注意：进步和工业政策部门建造建筑物的奖金不适用于殖民者建造的建筑物！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COLONIST_TEXT">
+			<Text>研究整个历史，我们可以目睹殖民者（一种塞特人）如何经常占领以前居住已久的民族的土地，这些民族被称为土著（也称为“原住民”、“原住民”，或者在美洲称为“印第安人”）。在某些情况下（例如澳大利亚），随着殖民主义心态和法律的变化，一些土地的合法所有权受到土著人民的质疑，他们要求或寻求恢复传统用途、土地权、原住民所有权和相关形式的合法所有权或部分控制权。 “定居者”一词最初并不通常用于指代不自由的劳工移民，例如奴隶（例如在美国）、契约劳工（例如在美洲殖民地）或罪犯（例如在英属美洲，约 1615-1775 年；澳大利亚，1788-1868 年）。最近，这些移民的后裔可能会争辩说，他们与自由移民的后裔一样有权利使用“定居者”一词。在比喻用法中，“先行或先做某事的人”也适用于美式英语中“pioneer”的用法，指的是定居者——迁移到人烟稀少的地区并在那里建立永久居住地的人，通常是为了殖民该地区；最早于 1605 年以英语记录。在美国历史上，它指的是那些帮助开拓新土地的人。在这种用法中，拓荒者通常是最先到达某个地区的人，而定居者可以在首次定居后到达，并与其他人一起参与人类定居的过程。[需要引用]这与军事拓荒者的工作相关，他们的任务是在部队主力到达指定营地之前建造营地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COLONIST_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VP_GALLEY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLEET_DESTROYER">
+			<Text>舰队驱逐舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLEET_DESTROYER_STRATEGY">
+			<Text>舰队驱逐舰是一种海军近战攻击单位，旨在追捕潜艇并提供防空支援。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLEET_DESTROYER_TEXT">
+			<Text>驱逐舰是一种 20 世纪的船舶，设计用于巡逻、护航、防空和反潜任务。最早的驱逐舰是轻型船只，不适合远洋巡航，除非配有携带额外燃料的“补给船”。到第二次世界大战时，驱逐舰速度快、机动性好，并携带足够的武器和补给，可以执行跨越世界海洋的远程任务。[NEWLINE][NEWLINE]在武器装备方面，驱逐舰携带高射炮、轻型反舰炮、鱼雷和深水炸弹。它们经常伴随航母编队，在更有价值、更大的潜艇舰艇周围水域巡逻，并提供防空掩护。他们护送补给船队并巡逻港口和海岸。在二战驱逐舰上执行任务确实很危险。战争期间，超过 220 艘英国、美国、澳大利亚和加拿大驱逐舰损失，大部分是因飞机袭击而损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLEET_DESTROYER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSOR_COMBAT_SHIP">
+			<Text>传感器战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSOR_COMBAT_SHIP_STRATEGY">
+			<Text>传感器战斗舰是驱逐舰的现代版本，可携带 3 枚导弹并增加了空中拦截范围。它可以用作攻击或护送单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSOR_COMBAT_SHIP_TEXT">
+			<Text>导弹驱逐舰（北约代号“DDG”）是一种设计用于发射导弹的驱逐舰。它通常配备两个大型导弹弹匣，大部分位于垂直发射单元中。除了导弹和火炮外，许多还装备用于执行反潜、防空和反水面作战。有些包含强大的雷达系统，可用于反导弹或弹道导弹防御作用。对于不拥有巡洋舰的海军来说尤其如此，因为必须采用其他舰艇来填补空白。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSOR_COMBAT_SHIP_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBURNA">
+			<Text>利布纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBURNA_STRATEGY">
+			<Text>用致命的箭矢进行攻击，使其成为第一个进行远程攻击的海军单位。它无法结束海洋瓷砖中的回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBURNA_TEXT">
+			<Text>Liburna 是一种小型、快速的桨帆船，用于地中海的袭击和巡逻。利布纳号最初由位于现今达尔马提亚的利布纳人发明，后来被罗马海军采用，作为对抗海盗的敏捷巡逻船。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBURNA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CRUISER">
+			<Text>巡洋舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CRUISER_STRATEGY">
+			<Text>建造巡洋舰来增强你的铁甲舰，并控制海洋！不过，请确保您有足够的铁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CRUISER_TEXT">
+			<Text>巡洋舰是战舰的一种。该术语已经使用了数百年，并且在整个时期具有不同的含义。在航海时代，巡航一词指的是某些类型的任务：由护卫舰或单桅帆船（舰队的巡航战舰）执行的独立侦察、袭击或商业保护。在 19 世纪中叶，巡洋舰成为了对此类舰艇的一个分类，尽管巡洋舰的尺寸多种多样，从小型防护巡洋舰到与战列舰一样大（尽管没有那么强大）的装甲巡洋舰。到20世纪初，巡洋舰可以与军舰尺寸保持一致，比战列舰小，但比驱逐舰大。 1922年，《华盛顿海军条约》对巡洋舰进行了正式限制，巡洋舰被定义为排水量不超过1万吨、携带口径不超过8英寸火炮的军舰。这些限制一直影响着巡洋舰直到第二次世界大战结束。第一次世界大战时期的大型战列巡洋舰现在与战列舰一起被归类为主力舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CRUISER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DREADNOUGHT">
+			<Text>无畏舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DREADNOUGHT_STRATEGY">
+			<Text>无畏舰能够远距离射击，但需要铁来建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DREADNOUGHT_TEXT">
+			<Text>无畏舰是 20 世纪初的主要战列舰类型。它的设计有两个革命性的特点：“全大炮”武器装备方案，比以前的舰艇拥有更多的大口径火炮，以及蒸汽涡轮推进。英国皇家海军的“无畏舰”是同类中的第一艘，安装了 10 门 12 英寸（305 毫米）火炮。美国海军是第一个采用燃油的海军，于 1910 年决定这样做，并于 1911 年为内华达级订购了燃油锅炉。其他主要海军一直保留煤油混合燃烧，直到第一次世界大战结束。[NEWLINE][NEWLINE]“无畏舰”服役五年内，新一代更强大的“超级无畏舰”正在建造中。第一艘超级无畏舰通常被认为是英国的“猎户座”级。使它们变得“超级”的是更重的 13.5 英寸（343 毫米）火炮的引入以及所有主要武器都放置在中心线上。 1917年，日本订购了“长门”级，这是第一艘安装16英寸（406毫米）火炮的无畏舰，使其成为世界上最强大的战舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DREADNOUGHT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ATTACK_SUBMARINE">
+			<Text>攻击潜艇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ATTACK_SUBMARINE_STRATEGY">
+			<Text>攻击潜艇是一种海军进攻单位，比前身更强大、更快。它还可以携带导弹。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ATTACK_SUBMARINE_TEXT">
+			<Text>攻击潜艇或猎杀潜艇是专门为攻击和击沉其他潜艇和海军舰艇而设计的潜艇。一些攻击潜艇还配备了安装在垂直发射管中的巡航导弹，扩大了其潜在任务的范围，包括陆地目标。[NEWLINE][NEWLINE]20 世纪 50 年代全球大多数非核潜艇设计的基础是 XXI 型 U 型潜艇，这是一种二战时期的先进德国潜艇，配备沃尔特过氧化氢燃料燃气轮机和高电池容量，可实现高持续水下速度。[NEWLINE][NEWLINE]20 世纪 60 年代，作为冷战核威慑战略的一部分，美国（乔治·华盛顿级）和苏联（高尔夫级）都投入了第一艘弹道导弹潜艇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ATTACK_SUBMARINE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUPERCARRIER">
+			<Text>超级航母</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUPERCARRIER_STRATEGY">
+			<Text>超级航母是一种运载战斗机、轰炸机和原子弹的特种舰艇。它携带的飞机使其成为最强大的海上攻击性武器。在防御方面，超级航母比其前身强得多，但仍应有驱逐舰和潜艇护航。您不能同时拥有超过 2 个活跃的超级航母。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUPERCARRIER_TEXT">
+			<Text>超级航母是最大类型航空母舰的非官方描述性术语，通常是排水量超过 70,000 吨的航空母舰。超级航母是有史以来建造的最大的战舰。[NEWLINE][NEWLINE]尼米兹级超级航母是美国海军服役的十艘核动力航空母舰。该级舰的主舰以二战时期美国太平洋舰队司令、美国海军最后一位舰队上将切斯特·W·尼米兹 (Chester W. Nimitz) 命名。它们的总长度为 1,092 英尺（333 m），满载排水量超过 100,000 吨，是建造和服役的最大战舰，尽管它们正在被即将到来的杰拉尔德·福特级航空母舰黯然失色。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUPERCARRIER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKET_MISSILE">
+			<Text>火箭导弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKET_MISSILE_STRATEGY">
+			<Text>火箭导弹是一种一次性单位，当它攻击敌方目标时就会被摧毁。它可以直接伤害驻守在城市中的部队。有关更多信息，请参阅导弹规则。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKET_MISSILE_TEXT">
+			<Text>火箭是一种由火箭发动机驱动的自行式非制导武器系统。历史上，它们主要用作空对地和空对空武器。[NEWLINE][NEWLINE]第一批投入作战使用的导弹是纳粹德国在第二次世界大战中研制的一系列导弹。其中最著名的是 V-1 飞行炸弹和 V-2 火箭，两者都使用简单的机械自动驾驶仪来保持导弹沿着预先选择的路线飞行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKET_MISSILE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EMISSARY">
+			<Text>使者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EMISSARY_STRATEGY">
+			<Text>使者是玩家可以使用的第一个外交单位，代表着不同文明之间和平合作的早期尝试。由于远古时代的外交文化还很粗糙，使者的作用并不是很大。使者仅从外交使团获得大约 20 点影响力，尚未掌握治国之术，也没有掌握邻近城邦的外语，这并不奇怪。生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EMISSARY_TEXT">
+			<Text>虽然使者是最便宜且最早可用的外交单位，但作为稳定影响力的来源并不是非常可靠。玩家只能使用使者来确保或维持与您已经友好或结盟的城邦的关系。因此，最好只是使用这些单位来增强你完成城邦任务的努力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EMISSARY_HELP">
+			<Text>将本机移至[ICON_CITY_STATE]与你没有交战的城邦并执行外交任务以获得 40[ICON_INFLUENCE]影响。[ICON_PRODUCTION]生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENVOY">
+			<Text>使者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENVOY_TEXT">
+			<Text>中世纪时期，外交艺术终于成熟。在此期间出现了新的外交理论，这些理论不再基于“强权就是公理”，而是基于奉承、老练以及必要时的恐吓艺术。特使代表了外交权力的飞跃，因此比使者更有效，也更昂贵。生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENVOY_STRATEGY">
+			<Text>特使作为对城邦的外交影响力的来源更为有用。然而，这种实用程序会增加成本。玩家将需要充足的纸张来满足迅速发展的外交服务的需求。城邦任务对于维持友好或同盟关系仍然非常重要，但其重要性正在减弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENVOY_HELP">
+			<Text>将本机移至[ICON_CITY_STATE]与你没有交战的城邦并执行外交任务以获得 50[ICON_INFLUENCE]影响。[ICON_PRODUCTION]生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DIPLOMAT">
+			<Text>外交官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DIPLOMAT_TEXT">
+			<Text>凭借启蒙运动的哲学和现代工业的力量，工业时代的外交官是外交和影响力的强者。尽管外交官的费用越来越高，但它使玩家能够极大地扩大他们对世界各地城邦的影响范围。生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DIPLOMAT_STRATEGY">
+			<Text>与使者和特使相比，外交官的费用非常昂贵。没有持续增加纸张供应的玩家将很难继续对世界各地的城邦产生影响。然而，如果你有资源和生产力来培养大量外交官，世界就会在你的软实力和说服力帝国面前屈服。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DIPLOMAT_HELP">
+			<Text>将本机移至[ICON_CITY_STATE]与你没有交战的城邦并执行外交任务以获得 60[ICON_INFLUENCE]影响。[ICON_PRODUCTION]生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMBASSADOR">
+			<Text>大使</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMBASSADOR_TEXT">
+			<Text>现代大使是在原子战争兴起所造成的紧张局势中诞生的，代表着外交权力的顶峰。多年的语言学、政治、文化和经济方面的正式培训使大使能够控制他们选择的任何城邦。然而，这些人才使大使成为游戏中最昂贵的外交单位 - 每个大使的成本几乎与坦克一样高！这笔投入看似很高，但如果玩家选择放弃城邦外交，他们很快就会发现自己在全球舞台上的影响力下降，而其他玩家无疑将在世界大会上占据主导地位。生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMBASSADOR_STRATEGY">
+			<Text>大使虽然费用昂贵，但对于赢得外交胜利至关重要。利用它们从其他玩家手中夺取城邦的控制权，维持自己的联盟​​，并且总体上将世界议会的权力掌握在自己手中。这种力量将使你能够制定你选择的任何决议，从而将全球霸权置于你的掌握之中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMBASSADOR_HELP">
+			<Text>将本机移至[ICON_CITY_STATE]与你没有交战的城邦并执行外交任务以获得 70[ICON_INFLUENCE]影响。[ICON_PRODUCTION]生产成本随 Era 的变化而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_DIPLOMAT">
+			<Text>伟大的外交家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_DIPLOMAT_TEXT">
+			<Text>纵观每一个文明的历史，在冲突时期或强权时期都会出现伟大的调解者、谋士和权贵。伟大的外交官代表了这些重要的历史人物，因此有能力大大提高玩家的外交力量。玩家可以利用它们立即获得对城邦的大量影响力，或者，如果他们着眼于未来，则可以利用它们在城邦的土地上建造大使馆，从而在世界议会成立时让玩家获得额外的投票权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_DIPLOMAT_STRATEGY">
+			<Text>收到[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_GREAT_DIPLOMAT}[ENDCOLOR]免费促销，赠送100[ICON_INFLUENCE]来自外交使团的影响，加上额外的影响[ICON_INFLUENCE]对每个已完成时代的影响。[NEWLINE][NEWLINE]您可以[ICON_MOVES]将此单位移至未与您交战的城邦，然后选择以下两个选项之一：[NEWLINE][ICON_BULLET]进行一次[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR]这将授予你[ICON_INFLUENCE]影响并减少[ICON_INFLUENCE]其他文明的影响力相同，同时也增加了与该城邦的休息点。[NEWLINE][ICON_BULLET]构建一个[COLOR_POSITIVE_TEXT]大使馆[ENDCOLOR]，这在世界大会上授予了额外的投票权。有关大使馆的更多信息，请参阅其公民百科页面的“改进”部分。[NEWLINE][NEWLINE]当以这两种方式使用时，伟大外交家都会被消耗。消耗时获得+1[ICON_RES_PAPER]纸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_DIPLOMAT_HELP">
+			<Text>该部队的外交使团授予100个基地[ICON_INFLUENCE]对目标的影响[ICON_CITY_STATE]城邦，加上 15 个额外[ICON_INFLUENCE]每个时代过去的影响力，并减少相同数量的[ICON_INFLUENCE]目标的影响[ICON_CITY_STATE]与所有其他文明一起的城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_SETTLER">
+			<Text>定居者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_WORKER">
+			<Text>工人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_WORKBOAT">
+			<Text>工作船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CARGO">
+			<Text>货物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CARAVAN">
+			<Text>大篷车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_INQUISITOR">
+			<Text>审判官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_MISSIONARY">
+			<Text>传教士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_DIPLOMACY">
+			<Text>外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KISSINGER">
+			<Text>亨利·基辛格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALBRIGHT">
+			<Text>马德琳·奥尔布赖特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANNAN">
+			<Text>科菲·安南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAN">
+			<Text>潘基文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BELL">
+			<Text>格特鲁德·贝尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAG">
+			<Text>达格·哈马舍尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DINTEVILLE">
+			<Text>让·德丁特维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DURRELL">
+			<Text>劳伦斯·达雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAY">
+			<Text>约翰·杰伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KOLLONTAI">
+			<Text>亚历山大·柯伦泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LAWRENCE">
+			<Text>T.E.劳伦斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_METTERNICH">
+			<Text>克莱门斯·冯·梅特涅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NERUDA">
+			<Text>巴勃罗·聂鲁达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ODO">
+			<Text>奥多·拉塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SELVE">
+			<Text>乔治·德塞尔夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SEWARD">
+			<Text>威廉·苏厄德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHIGERU">
+			<Text>吉田茂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SZABO">
+			<Text>维奥莱特·萨博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TALLEYRAND">
+			<Text>夏尔·莫里斯·德塔列朗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THANT">
+			<Text>吴丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WALDHEIM">
+			<Text>库尔特·瓦尔德海姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WALLENBERG">
+			<Text>拉乌尔·瓦伦堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WEIJUN">
+			<Text>顾维军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WHOWARD">
+			<Text>威廉·霍华德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZIMMERMAN">
+			<Text>阿瑟·齐默尔曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__010">
+			<Text>哈图西里三世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__020">
+			<Text>提图斯·昆克提乌斯·弗拉米尼努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__025">
+			<Text>张谦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__030">
+			<Text>教皇利奥一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__035">
+			<Text>王选策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__040">
+			<Text>吉贡萨西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__050">
+			<Text>巴尔达萨·郎世宁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__060">
+			<Text>尤斯塔斯·查普伊斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__070">
+			<Text>卡美哈美哈三世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__080">
+			<Text>帕加利·易卜拉欣帕夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__090">
+			<Text>托马斯·罗伊爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__100">
+			<Text>雨果·格老秀斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__110">
+			<Text>约翰·鲁道夫·韦特斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__120">
+			<Text>科萨潘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__130">
+			<Text>马戛尔尼勋爵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__140">
+			<Text>莫舒舒一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__150">
+			<Text>斯特拉特福·坎宁爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__160">
+			<Text>阿尔伯特·冯·门斯多夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__170">
+			<Text>何塞·玛丽亚·达席尔瓦·帕拉尼奥斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__180">
+			<Text>奥瑞斯特斯·费拉拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__190">
+			<Text>塞缪尔·埃比尼泽·龙加纳丹爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__200">
+			<Text>罗伯特·安东尼·艾登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__210">
+			<Text>陈文昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__220">
+			<Text>米格尔·安赫尔·阿斯图里亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__230">
+			<Text>纳西索·拉莫斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__240">
+			<Text>苏珊·博雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__250">
+			<Text>乔治·F·凯南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__260">
+			<Text>雅科夫·马利克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__270">
+			<Text>尚克·沙姆舍尔·张·巴哈杜尔·拉纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__280">
+			<Text>亚当·马利克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__290">
+			<Text>史蒂芬·赫塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__300">
+			<Text>哈维尔·佩雷斯·德奎利亚尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__310">
+			<Text>布特罗斯·布特罗斯-加利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__320">
+			<Text>马克斯·雅各布森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__330">
+			<Text>热拉尔·韦德拉奥戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__340">
+			<Text>爱德华·谢瓦尔德纳泽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__350">
+			<Text>兹比格涅夫·布热津斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__360">
+			<Text>劳伦斯·伊格尔伯格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__370">
+			<Text>雷达·马利克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__380">
+			<Text>帕特里克·诺索姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__390">
+			<Text>拉尔比·梅萨里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__400">
+			<Text>唐纳德·麦克亨利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__410">
+			<Text>彼得·杰伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__420">
+			<Text>阿里·图雷基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__430">
+			<Text>马尔蒂·阿赫蒂萨里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__440">
+			<Text>雅克·迪乌夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__450">
+			<Text>吉里·格鲁萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__460">
+			<Text>恩底弥翁·威尔金森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__470">
+			<Text>蒙塔加·迪亚洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__480">
+			<Text>米戈内特·帕特里夏·杜兰特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__490">
+			<Text>阿瑟·J·科林斯沃斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__500">
+			<Text>罗布尔·奥尔哈耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__510">
+			<Text>塞萨尔·马约拉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__520">
+			<Text>武藤正俊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__530">
+			<Text>本尼迪克特·阿斯盖尔松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__540">
+			<Text>胡安·曼努埃尔·桑托斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__550">
+			<Text>维塔利·乔尔金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__560">
+			<Text>安德烈·卡洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__570">
+			<Text>马茨门厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__580">
+			<Text>萨布·埃拉卡特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__590">
+			<Text>贾迈勒·贾迈勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__600">
+			<Text>赵立坚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__610">
+			<Text>雷切尔·奥马莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__620">
+			<Text>苏珊·赖斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__630">
+			<Text>艾哈迈德·萨雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__640">
+			<Text>萨曼莎·史密斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__650">
+			<Text>尼古拉·季米特洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__660">
+			<Text>卡罗琳·罗德里格斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__670">
+			<Text>武克·耶雷米奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__680">
+			<Text>阿比·艾哈迈德·阿里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__690">
+			<Text>朱莉·查佩尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__700">
+			<Text>纳迪娅·穆拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__710">
+			<Text>马拉拉·优素福扎伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__720">
+			<Text>阿拉亚·伊斯特蒙德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_D__730">
+			<Text>格蕾塔·桑伯格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LAWRENCE_ALMA_TADEMA">
+			<Text>劳伦斯·阿尔玛·塔德玛</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

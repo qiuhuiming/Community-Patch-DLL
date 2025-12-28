@@ -62,4 +62,60 @@
 			<Text>Contribute this city's [ICON_PRODUCTION] Production towards the United Nations project. Cost goes up based on the number of players in the game, and the current Era.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PROCESS_CULTURE">
+			<Text>艺术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_CULTURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]艺术[ENDCOLOR]转化 25%[ICON_PRODUCTION]本市生产量[ICON_CULTURE]文化，并减少[ICON_CULTURE]无聊度增加了 25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_CULTURE_STRATEGY">
+			<Text>投资艺术生产是提高文明文化产出的好方法，无论是抓住下一个政策还是避免旅游业的胜利。也能减少无聊感。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_DEFENSE">
+			<Text>防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_DEFENSE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御[ENDCOLOR]提振城市[ICON_STRENGTH]防御力并使生命值恢复量增加城市生命值的 10%[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_DEFENSE_STRATEGY">
+			<Text>投资国防生产是避免你的城市被外国势力征服的最后一搏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_FOOD">
+			<Text>农业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_FOOD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]农业[ENDCOLOR]转化 25%[ICON_PRODUCTION]本市生产量[ICON_FOOD]食物，并减少[ICON_FOOD]和[ICON_PRODUCTION]窘迫25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_FOOD_STRATEGY">
+			<Text>投资农业生产是促进城市发展的好方法，如果您拥有比公民更多的生产性瓷砖，或者从长远来看您想雇用更多专家，这可能会很有用。也能减少痛苦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_TOURISM">
+			<Text>宣传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_TOURISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]宣传[ENDCOLOR]转化15%[ICON_PRODUCTION]本市生产量[ICON_TOURISM]旅游。[NEWLINE][NEWLINE]需要解锁社会主义现实主义信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_TOURISM_STRATEGY">
+			<Text>{TXT_KEY_PROCESS_TOURISM_HELP}[NEWLINE][NEWLINE]投资于宣传生产是提高城市在世界上的影响力的好方法，如果您目前正处于革命浪潮中，或者如果您想迫使其他文明经历一场革命，这可能会很有用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_TREASURE_FLEET">
+			<Text>宝藏舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_TREASURE_FLEET_HELP">
+			<Text>为这座城市贡献一份力量[ICON_PRODUCTION]宝藏舰队项目的生产。成本根据游戏中的玩家数量和当前时代而增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WARGAMES">
+			<Text>全球兵棋推演</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WARGAMES_HELP">
+			<Text>为这座城市贡献一份力量[ICON_PRODUCTION]全球兵棋项目的制作。成本根据游戏中的玩家数量和当前时代而增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_UNITED_NATIONS">
+			<Text>联合国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_UNITED_NATIONS_HELP">
+			<Text>为这座城市贡献一份力量[ICON_PRODUCTION]为联合国项目进行生产。成本根据游戏中的玩家数量和当前时代而增加。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

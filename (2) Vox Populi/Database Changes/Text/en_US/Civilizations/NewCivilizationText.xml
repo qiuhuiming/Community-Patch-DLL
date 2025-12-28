@@ -1815,4 +1815,1641 @@
 			<Text>Can only be built in owned territory or adjacent to your own borders in an unowned tile, and cannot be adjacent to other Isibaya. Removes any feature on the tile.[NEWLINE][NEWLINE]Constructing the Isibaya will expand your Cultural borders to surround the Isibaya, increase your [ICON_WAR] Military Unit Supply Cap by 1, place a [ICON_RES_COW] Cattle Resource on an adjacent tile, and will consume this unit. If the new Cultural border claims hexes already owned by another civilization, you will incur a diplomatic penalty as a result.[NEWLINE][NEWLINE]+100% [ICON_STRENGTH] Defensive Strength for any Unit stationed in this tile. Deals 30 damage to adjacent Enemy Units. Provides +1 [ICON_CULTURE] Culture to adjacent Pastures. Contains [COLOR_POSITIVE_TEXT]Fortifications[ENDCOLOR], allowing owned Units to stay stationed in this tile after attacking and a [COLOR_POSITIVE_TEXT]Canal[ENDCOLOR], allowing friendly [COLOR_POSITIVE_TEXT]Sea[ENDCOLOR] Units to traverse through it.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_BUILDING_INDEPENDENCE_HALL">
+			<Text>独立厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDEPENDENCE_HALL_HELP">
+			<Text>解锁访问权限[COLOR_POSITIVE_TEXT]斯莱特磨坊[ENDCOLOR], [COLOR_POSITIVE_TEXT]西点军校[ENDCOLOR]， 和[COLOR_POSITIVE_TEXT]史密森学会[ENDCOLOR]在[COLOR_CYAN]工业时代[ENDCOLOR]. [NEWLINE]可能的主题奖励：[NEWLINE][ICON_BULLET] +8 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GW_ART].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDEPENDENCE_HALL_TEXT">
+			<Text>独立厅最初是宾夕法尼亚州的州议会大厦，是美国独立宣言和宪法辩论和正式通过的地方，是美利坚民族的诞生地。如今，独立厅是一座博物馆，也是费城市中心独立国家公园的中心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDEPENDENCE_HALL_STRATEGY">
+			<Text>确保在获得下一份保单之前构建它，以便在第一次时享受独特的 5% 保单成本降低。文化奖励与皇家收藏相同，但它没有任何主题要求，因此请将任何伟大的艺术作品放入插槽中。此外，它还能将所有城市的无聊度降低 1。简而言之，建造独立厅是当务之急。[NEWLINE][NEWLINE]解锁美国在工业时代建造三个独特奇迹之一的能力。尽早选择最适合您的奇迹，以便相应地安排您的技术研究顺序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_INDEPENDENCEHALL">
+			<Text>国宝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INDEPENDENCE_HALL_THEMING_BONUS_HELP">
+			<Text>为了最大化你的奖金，请确保伟大的工作槽都充满了来自你的文明的艺术。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMITHSONIAN_INSTITUTION">
+			<Text>史密森学会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMITHSONIAN_INSTITUTION_TEXT">
+			<Text>史密森学会最初成立于 1846 年，当时名为美国国家博物馆，是由美国政府管理的一组博物馆和研究中心。该机构拥有 1.38 亿件藏品，被誉为“国家的阁楼”，拥有 19 个博物馆、9 个研究中心和动物园，其中包括历史和建筑地标，大部分位于哥伦比亚特区。其他设施位于亚利桑那州、马里兰州、马萨诸塞州、纽约市、弗吉尼亚州和巴拿马。另外 170 个博物馆是史密森尼附属机构。该机构每年接待三千万名游客，免费入场；资金来自该机构的捐赠、私人、企业和政府捐款、会员费以及零售、特许和许可收入。机构出版物包括史密森尼杂志和航空航天杂志。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMITHSONIAN_INSTITUTION_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMITHSONIAN_INSTITUTION_STRATEGY">
+			<Text>美国独立厅建成后可以建造的三个相互排斥的奇迹之一。仔细选择你的命运。[NEWLINE][NEWLINE]请注意，所有三大奇迹之间都是对称的，要么集中在[ICON_CULTURE]文化，[ICON_RESEARCH]科学，或[ICON_PRODUCTION]生产方式类似。因此，您最关心的产量和胜利类型应该会影响您的选择。[NEWLINE][NEWLINE]如果您的目标是文化或科学胜利，请建立史密森学会。你的城市获得额外的[ICON_CULTURE]文化基于他们[ICON_GOLD]黄金输出，让您更快地解锁保单。专注于[ICON_GOLD]从现在开始，每回合黄金是一个强大的策略。这一奇迹与艺术相得益彰，因为该政策分支可让您创造更多伟大的作品或地标，从而获得[ICON_RESEARCH]这个奇迹的科学奖励。自由意识形态将进一步有利于地标建筑和旅游业的产出。[NEWLINE][NEWLINE]博物馆和研究实验室可以获得巨大的收益，因此值得尽快建造它们。[NEWLINE][NEWLINE]由于它已在考古学中解锁，您将尽早发现古代遗址，因此请考虑在无主遗址附近扩张，以在您的新领土上创建地标。他们比伟大的作品更受推荐，因为除了更大的作品之外[ICON_RESEARCH]科学奖金，他们提供[ICON_GOLD]黄金反馈到[ICON_CULTURE]文化红利。但是，请检查您的城市号码，以避免[ICON_TOURISM]旅游处罚。[NEWLINE][NEWLINE]瓷砖 25% 折扣[ICON_GOLD]购买黄金可以促进大量购买瓷砖，从而促进重要建筑物、奇迹或单位的生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEST_POINT">
+			<Text>西点军校</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEST_POINT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEST_POINT_TEXT">
+			<Text>美国军事学院，非正式名称为西点军校，是最古老的军校，培养学员成为美国陆军的军官。该学院以培养出现代历史上一些最著名的将军以及众多国内外国家元首而闻名。该校园是最古老的持续运营的美国陆军哨所，最初是作为河堡建造的，用于俯瞰和控制哈德逊河沿岸的航运。因此，校园成为国家地标，散布着众多纪念碑和雕像，代表着其悠久而传奇的历史。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WEST_POINT_STRATEGY">
+			<Text>美国独立厅建成后可以建造的三个相互排斥的奇迹之一。仔细选择你的命运。[NEWLINE][NEWLINE]请注意，所有三大奇迹之间都是对称的，要么集中在[ICON_CULTURE]文化，[ICON_RESEARCH]科学，或[ICON_PRODUCTION]生产方式类似。因此，您最关心的产量和胜利类型应该会影响您的选择。[NEWLINE][NEWLINE]如果您的目标是科学或统治胜利，请建造西点军校。你的城市获得额外的[ICON_RESEARCH]科学基于他们[ICON_GOLD]黄金输出，可以让你更快地解锁技术，因此也有助于获得军事优势。专注于[ICON_GOLD]从现在开始，每回合黄金是一个强大的策略。此外，Splash I 是一个强大的促销活动，适用于所有攻城和海军远程单位，所以如果你打算战争，请多考虑这个奇迹。尽管 Splash I 被赋予了攻城单位，但民兵是如此强大，以至于他们在以任何方式攻击敌方单位时都不应该被取代。西点军校从鼓励广泛帝国的忠诚中获益最多，因为科学和统治的胜利都需要这样的帝国。理性主义和工业也都适合，通过相乘[ICON_RESEARCH]科学成果来自建筑物和推动[ICON_GOLD]黄金一代分别。[NEWLINE][NEWLINE]军事学院和兵工厂可以获得强大的收益，因此值得尽快建造它们。[NEWLINE][NEWLINE]既然它在军事科学中解锁，请尝试首先关注这项技术，然后如果可以的话，为什么不建造勃兰登堡门呢？[NEWLINE][NEWLINE]瓷砖 25% 折扣[ICON_GOLD]购买黄金可以促进大量购买瓷砖，从而促进重要建筑物、奇迹或单位的生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLATER_MILL">
+			<Text>斯莱特磨坊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLATER_MILL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLATER_MILL_TEXT">
+			<Text>斯莱特磨坊 (Slater Mill) 是国家历史地标，位于罗德岛州波塔基特的黑石河 (Blackstone River) 旁。 Slater Mill 仿照英格兰最早建立的棉纺厂，是北美第一家采用由 Richard Arkwright 开发的 Arkwright 棉纺系统的水力棉纺厂。该工厂的创始人塞缪尔·斯莱特（Samuel Slater）年轻时曾在英国贝尔珀跟随实业家杰迪戴亚·斯特鲁特（Jedediah Strutt）当学徒。移民到美国后不久，斯莱特受罗德岛州普罗维登斯的摩西·布朗聘请，负责生产一套使用水力纺纱棉纱所需的机器。机器以及水坝、水道、水车和磨坊的建造于 1793 年完成。制造基于理查德·阿克莱特 (Richard Arkwright) 的棉纺系统，其中包括梳理机、并条机和纺纱机。斯莱特最初雇用儿童和家庭在他的工厂工作，建立了一种在整个黑石谷复制的模式，被称为“罗德岛系统”。后来弗朗西斯·卡伯特·洛厄尔的沃尔瑟姆系统使它黯然失色。斯莱特磨坊是第一处被列入国家历史名胜名录的建筑，并于 1966 年 11 月 13 日被指定为国家历史地标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SLATER_MILL_STRATEGY">
+			<Text>美国独立厅建成后可以建造的三个相互排斥的奇迹之一。仔细选择你的命运。[NEWLINE][NEWLINE]请注意，所有三大奇迹之间都是对称的，要么集中在[ICON_CULTURE]文化，[ICON_RESEARCH]科学，或[ICON_PRODUCTION]生产方式类似。因此，您最关心的产量和胜利类型应该会影响您的选择。[NEWLINE][NEWLINE]如果您的目标是外交或统治胜利，请建造斯莱特磨坊。你的城市获得额外的[ICON_PRODUCTION]根据他们的生产[ICON_GOLD]黄金输出，可以让你更快地建立军事和外交单位。这[ICON_RESEARCH]科学或[ICON_CULTURE]替代方案提供的文化更强大，除非你严重缺乏[ICON_PRODUCTION]生产。西点军校也鼓励统治，这通常是一个更好的选择，特别是如果你缺乏[ICON_RESEARCH]科学但你的[ICON_PRODUCTION]生产能力雄厚。否则斯莱特磨坊可能会更好。专注于[ICON_GOLD]从现在开始，每回合黄金是一个强大的策略。这个奇迹与治国之道有着最佳的协同作用，因为这个政策分支有助于与城邦结盟并获得国会选票，并提供额外的贸易路线。工业和自由将进一步增加重要的贸易路线，因为斯莱特磨坊的贸易路线持续时间缩短了 25%，您将能够更快地建立您的特许经营权。[NEWLINE][NEWLINE]工厂和证券交易所可以获得丰厚的收益，因此值得尽快建设。[NEWLINE][NEWLINE]瓷砖 25% 折扣[ICON_GOLD]购买黄金可以促进大量购买瓷砖，从而促进重要建筑物、奇迹或单位的生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_AMERICA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我的祖国由你组成，[NEWLINE]甜蜜的自由之地。[NEWLINE][TAB][TAB] - 塞缪尔·史密斯[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOMESTEAD">
+			<Text>家园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOMESTEAD_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOMESTEAD_TEXT">
+			<Text>宅基地是大片土地上的建筑物群，通常是牧场，根据美国宅基地法定居。美国政府实施了一项“免费土地”政策，允许索赔人（实际上是擅自占地者）拥有他们已转变为生产性农场或牧场的土地的所有权。美国大陆近10%的地区以这种方式定居； 1862 年至 1930 年间，约 160 万自耕农拥有 2.7 亿英亩土地。[NEWLINE][NEWLINE]大陆内陆大片地区的殖民化在美国人的心灵上留下了不可磨灭的印记。边疆、老西部、牛仔和印第安人的传说仍然渗透在美国文化中，体现着他们的独立意识、进取精神和对自然的掌控。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOMESTEAD_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONITOR">
+			<Text>监视器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONITOR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONITOR_TEXT">
+			<Text>在内战中，“监视舰”是一艘蒸汽驱动的装甲战舰，其干舷非常低（从吃水线到甲板一英尺），在一个或多个炮塔中安装了几门重炮。这些不适航的船只主要用于穿越南部领土的河流，用于支援地面部队、保护河岸阵地和控制河流通道；监察员对于联邦在西部的胜利至关重要，特别是在密西西比河沿岸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONITOR_STRATEGY">
+			<Text>监视器从战斗强度提升和无畏提升中受益匪浅，因为敌人对你造成的伤害越少，组合的 -8 伤害减免效果越好。因此，尽可能多地宣传你的监察员，并与伟大的海军上将一起陪伴他们。城防加成是一个小福利；这艘船的主要优势在于其高基础战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIMARISTAN">
+			<Text>比马里斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIMARISTAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIMARISTAN_TEXT">
+			<Text>比马里斯坦是医疗中心，是现代医院的前身。阿拉伯世界因当今已变得司空见惯的几种医疗实践而闻名，包括根据患者的病情将患者分入病房、建立患者病历、医疗保健的世俗化以及医生的标准（包括检查和许可）。比马里斯坦人的经费由称为 Waqfs 的慈善捐赠基金支付。这保证了手术和治疗费用将由该机构承担，无论患者的种族、宗教、性别或社会地位如何。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIMARISTAN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HASHEMITE_RAIDER">
+			<Text>哈希姆袭击者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HASHEMITE_RAIDER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HASHEMITE_RAIDER_TEXT">
+			<Text>长期以来，奥斯曼帝国被视为“欧洲病夫”，早在民族主义情绪在阿拉伯民众中扎根之前，奥斯曼帝国的权力就已经开始衰落。当第一次世界大战在欧洲列强之间爆发时，奥斯曼帝国开始镇压阿拉伯的异见人士。阿拉伯公民发起民众反抗，宣布建立新的伊斯兰帝国。[NEWLINE][NEWLINE]麦加谢里夫侯赛因·本·阿里开始叛乱，希望在阿拉伯重建哈希姆王朝，并领导阿拉伯同胞武装叛乱，反抗汉志的土耳其主人。英国看到了在新战线上束缚奥斯曼帝国军队的机会，承诺承认阿拉伯霸权并大力资助叛乱，派出现在著名的 T.E.劳伦斯担任联络人。随着新的资金和装备的注入，阿拉伯人在沙漠中发动了一场游击战，削弱了奥斯曼帝国的补给线。在法国和英国海军的帮助下，他们占领了地中海沿岸的多个港口，更加有勇气加入他们的事业。[NEWLINE][NEWLINE]随着 1918 年第一次世界大战的结束和奥斯曼帝国的失败，阿拉伯人在建立新王国时期望欧洲盟友的充分合作。然而，英国人和法国人却另有计划。法国和英国秘密缔结了《赛克斯-皮科协定》，将中东划分为各自的势力范围。从那时起，这种对值得信赖的盟友的公然背叛导致阿拉伯国家与西方之间的关系恶化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HASHEMITE_RAIDER_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_ROYAL_LIBRARY">
+			<Text>来自世界各地的知识</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_THEMING_BONUS_HELP">
+			<Text>为了最大限度地提高你的奖金，请确保所有三件伟大的作品都来自外国文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LAMASSU_GATE">
+			<Text>拉马苏门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LAMASSU_GATE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LAMASSU_GATE_TEXT">
+			<Text>拉马苏是亚述的保护神，通常被描绘成具有人头、公牛或狮子的身体以及鸟的翅膀。拉马苏是巴比伦和亚述平民的家庭保护神，后来被收养为王室保护者。亚述建筑中到处都有对拉马苏的描绘，它们被安置在建筑物门口的哨兵，以及城市和宫殿大门两侧的巨大雕像。普通民众则将拉玛西刻在泥板上，然后埋在门槛下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LAMASSU_GATE_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRON_CHARIOT">
+			<Text>铁战车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRON_CHARIOT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRON_CHARIOT_TEXT">
+			<Text>在马匹被培育成足以驮人之前，亚述战车被用来冲撞和驱散敌人的阵型。这些坚固的战车既是弓箭手和标枪手的平台，又是它们本身的武器，形成了历史上第一个突击战术。亚述人认识到马作为战争工具的巨大价值，专门因其受人尊敬的马血统而征服了米底亚的部分地区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRON_CHARIOT_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCHUTZENSTAND">
+			<Text>护卫站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCHUTZENSTAND_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCHUTZENSTAND_TEXT">
+			<Text>Standschützen 最初是 15 世纪和 16 世纪在奥地利蒂罗尔县成立的步枪行会和连队。 Standschütze 是 Schützenstand（“射击俱乐部”）的注册会员，该俱乐部自动承诺他自愿接受蒂罗尔州和福拉尔贝格州的军事保护。实际上，这使 Standschützen 成为蒂罗尔当地的民兵和家庭警卫。[NEWLINE][NEWLINE]Standschützen 定期被要求保卫家园免受叛乱和入侵，但他们在第一次世界大战中的行动尤其出色。意大利较晚才加入对奥地利的战争，并通过蒂罗尔的阿尔卑斯山口开辟了一条新战线。战争一开始，奥地利人就已经在其他地方派遣了蒂罗尔新兵营，因此由年轻人、老年人和伤员组成的预备役部队被要求在几乎没有通知或物质支持的情况下保卫自己的省份。尽管如此，Standschützen 仍为保卫家园而英勇作战，并击退了意大利人数周，直到正规部队抵达。毫无疑问，在机会主义敌人的新入侵时，预备队的行动使奥地利蒙受了毁灭性的损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCHUTZENSTAND_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BALLHAUSPLATZ">
+			<Text>博尔豪斯广场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BALLHAUSPLATZ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BALLHAUSPLATZ_TEXT">
+			<Text>Ballhausplatz 是维也纳市中心的一个广场，其中包含一座建筑（地址为 Ballhausplatz 2），两百多年来一直是奥地利最高内阁部长、国家总理、今天的奥地利总理（总理）的官邸。因此，Ballhausplatz 经常被用作奥地利联邦总理府的简称。 1918 年之前，奥匈帝国外交部也设在这里。与唐宁街或马蒂尼翁酒店类似，Ballhausplatz（或简称 Ballplatz）这个词是权力所在地的提喻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BALLHAUSPLATZ_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GRENZER">
+			<Text>格伦泽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GRENZER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GRENZER_TEXT">
+			<Text>哈布斯堡王朝的军事前沿由各种各样的附庸公国、士兵定居者和难民组成。这些边境人，或称格伦泽人，几代人保卫自己的土地免受奥斯曼帝国的袭击，以警惕、坚韧和野战能力而闻名。当穆斯林威胁在 18 世纪消退时，格伦茨步兵成为奥匈帝国军队在欧洲冲突中的中流砥柱，并在拿破仑战争中以灵活可靠的步兵而闻名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GRENZER_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TELPOCHCALLI">
+			<Text>特尔波赫卡利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TELPOCHCALLI_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TELPOCHCALLI_TEXT">
+			<Text>Telpochcalli 的意思是“年轻人之家”，是阿兹特克青年的教育中心。贵族子弟就读于一个名为 Calmecac 的独立机构，而 Telpochcalli 则向所有 15 岁起的阿兹特克男孩开放，使他们成为历史上最早的公共教育典范之一。阿兹特克社会的教育重点是公民、战争和宗教。关于在特尔波赫卡利长大的经历，描述了一个简朴而严格的环境，男孩们被要求在集体农场里自己种植食物，并承担维护和修理寺庙等公共设施的责任。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TELPOCHCALLI_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HUEY_TEOCALLI">
+			<Text>休伊·特奥卡利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HUEY_TEOCALLI_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HUEY_TEOCALLI_TEXT">
+			<Text>在阿兹特克帝国，特奥卡利是一座梯田金字塔，顶部有一座带屋顶的寺庙，是镇上所有重要宗教仪式的场所。其中最伟大的特奥卡利神庙位于特诺奇蒂特兰市中心，休伊特奥卡利神庙（或根据西班牙语，称为大神庙）供奉着一对神：战争之神维齐洛波奇特利和农业之神特拉洛克（这表明阿兹特克文化中什么是重要的）。每个神都有一个单独的寺庙，通过单独的楼梯到达。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HUEY_TEOCALLI_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTOMI">
+			<Text>乙美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTOMI_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTOMI_TEXT">
+			<Text>奥托米人是来自高原地区的一个古老民族，比墨西加人到达那里早了几千年。奥托米这个名字是纳瓦特尔语，意思是“带着箭行走的人”，以表彰他们在战斗中的力量和勇敢。在三国同盟中，乙美成为了一个军事社团的名称，也许是因为乙美人的可怕名声，或者因为他们最初是由乙美盟友和雇佣兵组成的。无论如何，奥托米既被用作阿兹特克帝国内的一个种族名称，又被用作一个军事派别，这使得很难辨别历史记录中的哪个是哪个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTOMI_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABUM_KIBITUM">
+			<Text>萨布姆·基比图姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABUM_KIBITUM_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABUM_KIBITUM_TEXT">
+			<Text>巴比伦人是美索不达米亚上游半游牧的亚摩利人和阿卡德部落的后裔。随着苏美尔和阿卡德王国的崩溃，这些亚摩利部落毫无抵抗地涌入美索不达米亚并建立了新的王朝。虽然这些征服者在许多方面融入了苏美尔文化，但他们的军队保留了游牧根源的坚韧。[NEWLINE][NEWLINE]萨布姆·基比图姆 (Sabum Kibitum) 是巴比伦人的重型部队，也是历史上最早的职业士兵之一。萨布姆·基比图姆由皇家卫队和城市居民组成，装备着长矛、短矛、标枪和弓箭，形成了一支纪律严明、灵活的战斗力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABUM_KIBITUM_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ETEMENANKI">
+			<Text>埃特梅南基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ETEMENANKI_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ETEMENANKI_TEXT">
+			<Text>埃特门南基 (Etemenanki) 是马杜克 (Marduk) 的金字形神塔，他是风暴之神和巴比伦万神殿之主。金字形神塔是建在美索不达米亚城市的宗教寺庙，是城市守护神的真正住所。人们相信神最初居住在高山上，因此金字形神塔在城市内采用了人造山的形式，以使居住的神感到更舒适。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ETEMENANKI_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BANDEIRANTE">
+			<Text>班代兰特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BANDEIRANTE_TEXT">
+			<Text>Bandeirantes（“携带旗帜的人”）是 17 世纪巴西的葡萄牙殖民者和财富猎手。他们领导了名为“bandeiras”（“旗帜”）的探险队，深入巴西内陆，位于 1494 年托德西拉斯线的南端和西端，该线正式将南美洲的卡斯蒂利亚或后来的西班牙（西）领土与葡萄牙（东）领土分开。尽管班德兰特人最初的目标是捕获并迫使美国原住民沦为奴隶，但他们后来开始将探险活动的重点放在寻找金、银和钻石矿上。当他们冒险进入未绘制地图的地区寻求利润和冒险时，他们扩大了巴西殖民地的有效边界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BANDEIRANTE_STRATEGY">
+			<Text>避免探索早期游戏（在合理范围内），为 Bandeirantes 留下大量未探索的领土，这样他们就可以为你提供大量的[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_CULTURE]通过揭示瓷砖来文化。作为参考，探索 60% 的标准地图将产生大约 10,000 个产量。这些收益会添加到最近的拥有城市中。[NEWLINE][NEWLINE]Bandeirante速度更快，每回合都会治愈，并且不使用移动进行掠夺，因此使用它来进行掠夺，但要小心。在和平时期，当你探索世界后，用它们在你的边境城市建造矿井、采石场、巴西木营地和堡垒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BANDEIRANTE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMBRAPA">
+			<Text>恩布拉帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMBRAPA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMBRAPA_TEXT">
+			<Text>Embrapa 是一家隶属于巴西农业部的国有研究公司。自1973年4月26日成立以来，它一直致力于开发针对巴西农业（包括畜牧业）的技术、知识和技术科学信息。 Embrapa 的组织结构由 46 个中心（可分为研究单位或服务单位）和 17 个中央单位（构成公司总部）组成。此类研究中心分布在巴西全国几乎所有州。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMBRAPA_STRATEGY">
+			<Text>当以文化胜利为目标时，Embrapa 是必须的，因为它具有额外的优势[ICON_TOURISM]来自城市的旅游[ICON_FOOD]粮食产量。[ICON_TOURISM]旅游是来之不易的收益，所以更要关注[ICON_FOOD]充分利用这一点可能有助于粮食生产。研究塑料以尽快解锁这座建筑。[NEWLINE][NEWLINE]当目标不是文化或科学胜利时，建造 Embrapa 仍然是值得的，因为它能带来丰厚的奖励[ICON_RESEARCH]科学总是有价值的，特别是在拥有许多森林或丛林瓷砖和农场资源的城市，因为它们可以获得显着的产量。在没有这些瓷砖的城市中，Embrapa 就失去了意义，因此您可能希望推迟其建设。无论如何，强烈建议使用 Embrapa 加固的所有瓷砖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMAZONAS">
+			<Text>亚马逊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMAZONAS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMAZONAS_TEXT">
+			<Text>亚马逊号是一艘大型蒸汽护卫舰，在巴拉圭战争（南美历史上最血腥的冲突）期间担任巴西海军的旗舰。这艘庞大的军舰在里亚丘埃洛战役中发挥了关键作用，巴拉圭的一个炮兵和海军联合旅试图在清晨在浓雾的掩护下伏击巴西人。出其不意的巴西队在处于极大劣势的情况下，却重整旗鼓，反击了巴拉圭队。亚马逊河被证明是决定性的因素，撞沉了两艘船，并使第三艘船瘫痪。在里亚丘埃洛，巴拉圭海军遭到严重破坏，导致他们在战争剩余时间里的势头陷入停滞。巴西及其盟国占据主动，并在战争剩余时间里保持了海军优势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMAZONAS_STRATEGY">
+			<Text>得益于闪电战促销，亚马逊不仅每回合可以攻击两次，而且攻击后还可以移动。这使得可以对船只进行集中攻击，这种攻击很强大，因为它可以更可靠地击败敌方单位。这与亚马逊在击败敌方单位时获得的黄金时代点数和伟大海军上将点数相协同，进一步与巴西的独特能力相协同。闪电战还允许在一个回合中用许多船只攻击城市，随着帆船的废弃，这一点不再可能。考虑建造许多亚马逊并用尽可能多的城市对城市进行大规模围攻，即使没有赫尔升级线的围攻升级！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TETRACONCH">
+			<Text>四孔石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TETRACONCH_TEXT">
+			<Text>许多世纪以来，拜占庭建筑逐渐脱离了古老的罗马形式。拜占庭风格的建筑通常以其高圆顶和复杂的马赛克作品以及更多地使用石头和砖结构而闻名。四孔教堂在希腊语中意为“四个贝壳”，代表了拜占庭建筑的最高成就。这些建筑物的平面图包括四个圆顶后殿，使建筑物呈十字形，中央空间由高圆顶覆盖。这种形式广泛用于陵墓和洗礼堂，并影响了后来的奥斯曼帝国和文艺复兴时期的建筑传统。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TETRACONCH_STRATEGY">
+			<Text>+1[ICON_PEACE]每 3 个公民奖励的信念非常强烈，因此鼓励拥有高人口。它将显着增加您的总信仰生成，因此请考虑您的信仰和政策，知道您将有大量信仰可供花费。例如，Zealotry 可能是拜占庭的非典型但非常强大的选择。随着+ 100％的宗教压力添加到接收贸易路线的城市，在选择贸易路线目的地时考虑哪些拥有或外国城市需要更多的宗教压力。由于没有金币维护、额外的文化以及上述奖励，该建筑应该是优先考虑的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TETRACONCH_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_APLEKTON">
+			<Text>阿普莱克顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_APLEKTON_HELP">
+			<Text>独特的拜占庭式堡垒替代品。[NEWLINE][NEWLINE]+50% [ICON_STRENGTH]驻扎在该图块中的任何单位的防御强度，并且不能[COLOR_NEGATIVE_TEXT]被盗[ENDCOLOR]由外国帝国。包含[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]，允许拥有的单位在攻击后留在该区域并[COLOR_POSITIVE_TEXT]运河[ENDCOLOR]，允许友好[COLOR_POSITIVE_TEXT]海[ENDCOLOR]遍历它的单位。与它所取代的堡垒相比，产量有所提高，包括[ICON_FOOD]食品和[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_APLEKTON_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_APLEKTON_HELP}[NEWLINE][NEWLINE]Aplekton 源自拉丁语“applicatum”，是 10 世纪至 14 世纪拜占庭术语，用于指坚固的军事基地（在这个意义上类似于希腊语 metaton）。阿普莱克塔是主要的集结地，那里存放着物资，也是地方省军队与帝国主力进行战役的地方。最初的建筑很可能可以追溯到君士坦丁五世皇帝（r.741-775）统治时期。皇帝君士坦丁七世·波菲罗根尼托斯（Constantine VII Porphyrogennetos，945-959 年在位）在其关于帝国远征的论文中，从西到东记录了阿普莱克塔（aplekta）如下：马拉吉纳（Malagina）、多里莱翁（Dorylaion）、卡博尔金（Kaborkin）、科洛尼亚（Koloneia）、凯萨雷亚（Kaisareia）和达齐蒙（Dazimon）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_APLEKTON">
+			<Text>构建一个 [LINK=IMPROVMENT_APLEKTON]Aplekton[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_APLEKTON_HELP">
+			<Text>+50% [ICON_STRENGTH]驻扎在该图块中的任何单位的防御强度，并且不能[COLOR_NEGATIVE_TEXT]被盗[ENDCOLOR]由外国帝国。包含[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]，允许拥有的单位在攻击后留在该区域并[COLOR_POSITIVE_TEXT]运河[ENDCOLOR]，允许友好[COLOR_POSITIVE_TEXT]海[ENDCOLOR]遍历它的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_APLEKTON_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_RESEARCH]科学，以及[ICON_CULTURE_LOCAL]边界生长点，并保卫瓷砖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_COTHON">
+			<Text>伟大的棉花</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_COTHON_TEXT">
+			<Text>Cothon 是一个人工的、受保护的内港，例如公元前 200 年左右布匿战争期间迦太基的港口。迦太基的科松被分为一个矩形商港，后面是一个仅供军事用途的内部受保护的港口。这个内港是圆形的，周围是一个外环结构，分为一系列用于船舶维护的坞站，中心还有一个岛屿结构，也容纳海军舰艇。每个单独的坞站均设有凸起的滑道。凸起的坞站上方是第二层，由仓库组成，里面存放着桨和索具以及木材和帆布等物资。岛屿结构上有一个凸起的“小屋”，指挥的海军上将可以在其中观察整个港口以及周围的海域。内部坞站总共可容纳多达 220 艘船只。整个港口都有外墙保护，主要入口可以用铁链封锁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_COTHON_STRATEGY">
+			<Text>最大化贸易路线的数量对于迦太基来说是一个优先事项，因为他们对贸易路线的奖励[ICON_GOLD]资源多样性产生的黄金使他们的利润更高。由于大棉花提供了 2 条额外的贸易路线和许多其他强大的奖励，因此这个奇迹是绝对优先的，特别是因为它较早在货币中解锁。[NEWLINE][NEWLINE]在拥有最多独特豪华资源的城市中建造它，因为它是贸易路线盈利能力的主要决定因素，并且与特许公司一样，伟大的科松进一步增加了其建造城市的奖金，并授予每项资源的额外副本。这个城市应该成为你贸易路线的主要发送者。[NEWLINE][NEWLINE]正如这个国家奇迹所授予的[ICON_PRODUCTION]生产及[ICON_CULTURE]对所有灯塔和港口进行文化建设，并向所有沿海城市授予免费港口，强烈鼓励沿海城市定居在内陆城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_COTHON_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASAMU">
+			<Text>浅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASAMU_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASAMU_TEXT">
+			<Text>与大多数腓尼基殖民地相比，迦太基凭借其有利的气候、耕地和利润丰厚的贸易路线，规模更大、速度更快。建国后仅一个世纪，人口就增至 30,000 人。虽然具体日期和情况不详，但迦太基于公元前六世纪中叶独立。它已经发展成为一个完全独立的海洋政治国家，在整个西地中海开展自己的殖民活动。由于渴望获得新的财富和贸易来源，迦太基成为了一个扩张主义国家。到公元前 300 年，迦太基通过其庞大的殖民地、附庸国和卫星国，以及对地中海西部和中部的海军优势，控制了该地区最大的领土，包括西北非洲海岸、伊比利亚南部和东部以及西西里岛、撒丁岛、科西嘉岛、马耳他岛和巴利阿里群岛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASAMU_STRATEGY">
+			<Text>Asamu 允许更积极的沉降，但要求非常高[ICON_GOLD]黄金一代，因为它无法生产，只能以大量购买[ICON_GOLD]金子。因为购买一个不会像生产定居者那样减少人口，所以早期游戏解决速度的主要瓶颈被替换为[ICON_GOLD]黄金一代。因此，考虑尽可能多地聚集[ICON_GOLD]通过你的独特能力，摧毁野蛮人营地，探索古代遗迹和工作，在早期游戏中获得尽可能多的金币[ICON_GOLD]然后金块会高速沉降。因为阿萨姆每回合可以从近战攻击中撤退一次，所以它可以在没有护卫的情况下穿越蛮族领地，除非有两个单位可以攻击它。此外，由于 Asamu 可以在没有钓鱼技术的情况下上船，因此您可以在对手之前占领宝贵的岛屿。您可以将其与同时制作《定居者》结合起来。通过这种方式，您可以利用许多豪华资源获得许多伟大的城市地点，并与您的独特能力相结合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CEILIDH_HALL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SCYTHED_CHARIOT">
+			<Text>镰刀战车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SCYTHED_CHARIOT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SCYTHED_CHARIOT_TEXT">
+			<Text>镰刀战车是经过改装的战车，其长刀片从轮轴延伸出来。尽管经常被认为是异想天开的故事，但镰刀战车的使用被认为是皮克特、爱尔兰和艾西尼军队的使用。除了罗马宣传之外，关于英国有镰刀战车的唯一报道来自爱尔兰阿尔斯特循环，在楚·楚林的冒险期间。[NEWLINE][NEWLINE]尽管从公元前 3 世纪末开始，战车在欧洲大陆就不再使用，但凯撒发现它们在英国战争中仍然发挥着重要作用。凯撒遇到了凯尔特骑兵和战车，并描述了这些战士如何从车上投掷标枪，然后下马徒步作战。凯尔特士兵可以返回战车快速撤退或重新部署。[NEWLINE][NEWLINE]“他们不仅在马背上发动战争，还使用两辆马车和装备有高卢风格的汽车——他们称之为科维尼——在车上使用配备镰刀的车轴。”[NEWLINE][TAB]-庞波尼乌斯·梅拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SCYTHED_CHARIOT_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OPPIDUM">
+			<Text>奥皮杜姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OPPIDUM_HELP">
+			<Text>独特的凯尔特伟人瓷砖改进。可由伟大的工程师、商人、科学家和将军建造。以减少的量增强所有这些伟大人民的使命。不能建在另一个 Oppidum 旁边。[NEWLINE]改善战略资源。提供各种收益率和+100%[ICON_STRENGTH]驻扎其上的单位的防御加值。改善相邻瓷砖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OPPIDUM_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_OPPIDUM_HELP}[NEWLINE][NEWLINE]奥皮杜姆 (Oppidum) 是一个大型的防御定居点，与晚期拉泰尼文化有关。这些防御工事的村庄通常建在自然保护区内，并且充满了圆形建筑。在冲突时期，居住在开阔地带的人们会搬到这些战略位置的大院，以确保他们的安全。奥皮达还可能有其他目的，例如控制领土或保护农作物。最著名的阿莱西亚是尤利乌斯·凯撒和韦辛格托里克斯之间的战斗地点，也是高卢人最终失败的地点，结束了法国和比利时高卢的独立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OPPIDUM">
+			<Text>构造一个 [LINK=IMPROVMENT_CELTS_OPPIDUM]Oppidum[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OPPIDUM_HELP">
+			<Text>不能建在另一个 Oppidum 旁边。[NEWLINE][NEWLINE]建造Oppidum将增加产量[ICON_GREAT_ENGINEER], [ICON_GREAT_MERCHANT]， 和[ICON_GREAT_SCIENTIST]任务（与他们自己的伟人瓷砖改进相比减少了数量），并将消耗该单位。[NEWLINE][NEWLINE]给予+100%[ICON_STRENGTH]驻扎其上的单位的防御加成。为所有相邻的图块提供奖励收益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SIHEYUAN">
+			<Text>四合院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SIHEYUAN_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_SIHEYUAN_HELP}[NEWLINE][NEWLINE]庄严的四合院是中国古代建筑的支柱。这种风格通常被称为中国四合院，从相对的住宅和寺院到最宏伟的宫殿都有使用。北京故宫被设计成一个巨大的四合院。所有四合院均沿东西轴线排列，正门朝南。这一规划的普遍性使得连续的四合院能够排成一长排，在中国许多大城市中形成了广阔的郊区。这些四合院之间的狭窄小巷在中国北方被称为胡同，形成类似于中东集市的长街。最近城市规划和建设的变化导致许多历史街区被拆除，但人们协调一致地努力保护一些地区作为中国文化特征的宝贵组成部分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SIHEYUAN_HELP">
+			<Text>只能建在邻近城市或另外两个四合院旁边的平坦土地上。 +1[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_RESEARCH]科学在城市中发挥作用[COLOR_POSITIVE_TEXT]我们爱皇后日[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SIHEYUAN">
+			<Text>建造一个[LINK=IMPROVMENT_SIHEYUAN]四合院[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SIHEYUAN_HELP">
+			<Text>+1 [ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_RESEARCH]城市工作期间的科学[COLOR_POSITIVE_TEXT]我们爱皇后日[ENDCOLOR]。只能建在靠近一座城市或两个四合院的平地上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SIHEYUAN_REC">
+			<Text>会增加[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_RESEARCH]科学。删除图块上的任何特征。[NEWLINE]提供额外的[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_RESEARCH]科学在城市中发挥作用[COLOR_POSITIVE_TEXT]我们爱皇后日[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXAMINATION_HALL">
+			<Text>考场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXAMINATION_HALL_TEXT">
+			<Text>也许中国文化最伟大的遗产是科举制度，天子帝国在两千年多的时间里都配备了公务员。科举考试代表了创建学术贵族的尝试，这是相对于统治世界其他地区的武士和世袭贵族的显着进步。考试相当于死记硬背，要求直接引用儒家五经中的儒家哲学和伦理道德。一个获得最高学位——进士的学者，他的记忆力将会得到极大的训练。[NEWLINE][NEWLINE]随着西方大学开始摆脱自己的古典传统，转向经济学、工程学和自然科学，中国的学术努力在古代文学中陷入了颓势。在现代化的压力下，慈禧太后于 1890 年废除了科举考试，留下了世界上第一个知识精英制度的遗产。[NEWLINE][NEWLINE]“我们尝试了一项世界历史上独一无二的实验：我们寻求不是通过武力，而是通过智慧来统治这个伟大的国家。几个世纪以来，我们成功了。”[NEWLINE][TAB]- 匿名儒家哲学家；摘自《中国荧屏上》</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXAMINATION_HALL_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXAMINATION_HALL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TREASURE_SHIP">
+			<Text>宝船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TREASURE_SHIP_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TREASURE_SHIP_TEXT">
+			<Text>下范贯军（字面意思是“远征舰队”）是明朝的伟大宝船舰队。在朱棣皇帝的授意下，传奇海军上将郑和于公元 1405 年至 1433 年间率领七次下西洋。下范军官的足迹远至阿拉伯半岛，其任务是向海外投射中国的影响力，将许多小国置于中国的宗主权之下。[NEWLINE][NEWLINE]下范官军拥有一些有史以来最大的木船，称为宝船（字面意思是“宝船”），长达 416 英尺。又过了一个世纪，欧洲船只的规模和力量才能够与中国舰队的规模和力量相媲美，从而使中国成为 15 世纪无可争议的海军超级大国。尽管郑和的航行具有优越性，但他的航行主要是外交性的，将使节甚至国王带到皇帝面前进贡并进行“磕头”，这是一种表示崇敬和臣服的仪式行为。[NEWLINE][NEWLINE]“作为在公海和波涛汹涌的大海以及广阔的内陆水道上载人及其商业的引擎，是否有任何类型的船只……比中国或印度的帆船更适合或更适合其用途，这是值得怀疑的，而且可以肯定的是，就航行的平坦性和轻便性而言，中国的钻井平台是无与伦比的。”[NEWLINE][TAB]- H.沃林顿·史密斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TREASURE_SHIP_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RUNESTONE">
+			<Text>符石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RUNESTONE_TEXT">
+			<Text>符文石通常是带有符文铭文的凸起石头，但该术语也可以应用于巨石和基岩上的铭文。这一传统始于 4 世纪，一直持续到 12 世纪，但大多数符文石都可以追溯到维京时代晚期。大多数符石位于斯堪的纳维亚半岛，但在维京时代挪威人访问过的地方也有零散的符石。符石通常是对死者的纪念。符石竖立时通常颜色鲜艳，但随着颜色褪色，这一点不再明显。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RUNESTONE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RUNESTONE_STRATEGY">
+			<Text>独特的丹麦替代品{TXT_KEY_BUILDING_LIGHTHOUSE}。除了{TXT_KEY_BUILDING_LIGHTHOUSE}的奖金，{TXT_KEY_BUILDING_RUNESTONE}产生[ICON_CULTURE]当来自该城市的单位掠夺瓷砖（道路和铁路不计算在内）时，文化会产生更多[ICON_FOOD]来自海洋瓷砖的食物，并增加[ICON_PRODUCTION]生产近战陆地和海军单位。与{TXT_KEY_BUILDING_LIGHTHOUSE}， 这{TXT_KEY_BUILDING_RUNESTONE}可以建在非沿海城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANDELSBEVAEGELSE">
+			<Text>安德尔斯贝瓦格尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANDELSBEVAEGELSE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANDELSBEVAEGELSE_TEXT">
+			<Text>Andelsbevægelse 是丹麦合作社运动，每个成员在集体中分享风险和利润。人们通常所说的合作社在农业领域仍然很受欢迎，作为减少少数成员歉收的一种方式。[NEWLINE][NEWLINE]在灾难性的第二次石勒苏益格战争后，丹麦失去了大片领土，丹麦开始在日德兰半岛中部和西部开垦荒原用于农业。不久之后，快速工业化的美国开始向丹麦最大的客户英国出口谷物，导致丹麦农产品价格下跌。由于许多丹麦农民的生计面临风险，他们制定了从谷物产品转向乳制品和肉类的新战略。[NEWLINE][NEWLINE]丹麦农业的这一转变充满了不确定性，要求农民组成 Andelsbevægelse 来分担风险。当谷物价格最终稳定下来时，丹麦农业已经彻底改变。乳制品厂和屠宰场星罗棋布。现在他们从俄罗斯进口谷物来喂养他们的牲畜！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANDELSBEVAEGELSE_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSHIP">
+			<Text>长船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSHIP_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSHIP_TEXT">
+			<Text>长船是维京时代挪威人发明并用于贸易、探险和战争的一种船只。长船的设计经历了多个世纪的演变，从石器时代 umiak 的发明开始，一直持续到 6 世纪，出现了像 Nydam 和 Kvalsund 这样的熟料建造的船只，并在 9 世纪和 13 世纪之间出现了完整的形式。它们都是用木头制成的，带有编织的羊毛帆，船体上有许多细节和雕刻。[NEWLINE][NEWLINE]长船以其速度快、结构轻而闻名。这些船在海上坚固可靠，但又足够轻，可以运到岸上，甚至可以翻倒作为临时避难所。在维京人臭名昭著的袭击中，快速进出海岸的能力是非常宝贵的。[NEWLINE][NEWLINE]这些船只的特征和外观仍然反映在斯堪的纳维亚造船传统中。制造长船的技能和方法仍在世界范围内使用，通常经过现代改造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSHIP_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAMLUK">
+			<Text>马穆鲁克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAMLUK_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAMLUK_TEXT">
+			<Text>马穆鲁克是一个军事骑士阶层，由年轻时被俘虏并被卖到阿拉伯世界充当家臣的奴隶士兵组成。由于他们的奴隶身份（“马穆鲁克”直接翻译为占有），这些年轻人在社会地位和职业发展方面依赖于他们的领主，使他们成为开罗法蒂玛王朝和阿尤布王朝可靠和可靠的机构。马穆鲁克是著名的战士，他们保卫伊斯兰教免受十字军和蒙古人的入侵。在某些情况下，马穆鲁克人崛起并建立了自己的王朝，在埃及、印度和伊拉克建立了苏丹国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAMLUK_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OBELISK">
+			<Text>方尖碑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OBELISK_HELP">
+			<Text>独特的埃及改进。[NEWLINE][NEWLINE]只能在古代遗址上建造，例如地标，但不能将其移除。提供[ICON_RESEARCH]科学，[ICON_CULTURE]文化，[ICON_PEACE]信仰，以及[ICON_GOLDEN_AGE]黄金时代积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OBELISK_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_OBELISK_HELP}[NEWLINE][NEWLINE]方尖碑是一座高大、细长、锥形的纪念碑，有四个侧面和金字塔形顶部。最初由古埃及人建造，称为 tekhenu，希腊人使用希腊语方尖碑来描述它们，这个词后来传入拉丁语，最终传入英语。古代方尖碑是整体的，由一块象征太阳神拉的石头组成。它们在宗教建筑中发挥着至关重要的作用，成对放置在寺庙的入口处。[NEWLINE][NEWLINE]公元前 30 年左右，罗马控制了埃及并洗劫了各个神庙建筑群；其中一次，他们摧毁了卡纳克神庙的墙壁，将其拖出。现在，罗马缴获并运出的方尖碑数量是留在埃及的方尖碑数量的两倍多。直到十九世纪，方尖碑才被运出埃及，其中三块方尖碑被送往伦敦、纽约和巴黎。值得注意的是，大英博物馆的四座方尖碑实际上来自亚述，它们也是在那里竖立的，但作为纪念国王的公共纪念碑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OBELISK">
+			<Text>建造一个[LINK=IMPROVMENT_OBELISK]方尖碑[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OBELISK_HELP">
+			<Text>不删除古代遗址。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_OBELISK_REC">
+			<Text>会增加[ICON_RESEARCH]科学，[ICON_CULTURE]文化，[ICON_PEACE]信仰，以及[ICON_GOLDEN_AGE]黄金时代积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WHITE_TOWER">
+			<Text>白塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WHITE_TOWER_TEXT">
+			<Text>白塔是伦敦塔的旧城堡。它由征服者威廉于 1080 年代初建造，后来又进行了扩建。白塔是城堡最坚固的防御点，最初是国王和他的代表的住所。纵观其悠久的历史，伦敦塔对于英国来说有很多意义：暴政的象征、金库、动物园、铸币厂、宫殿和监狱。如今，伦敦塔是一座巨大的博物馆，其中拥有众多珍宝，其中包括英国君主的皇冠珠宝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WHITE_TOWER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WHITE_TOWER_STRATEGY">
+			<Text>独特的英文替代品{TXT_KEY_BUILDING_IRONWORKS}。除了奖金之外{TXT_KEY_BUILDING_IRONWORKS}， 这{TXT_KEY_BUILDING_WHITE_TOWER}增强警察、城堡和军械库；提供[ICON_GOLD]黄金和[ICON_RESEARCH]进攻性和防御性间谍行动的科学；并包含一个免费的[ICON_GW_ART]伟大的艺术作品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_MILL">
+			<Text>蒸汽磨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_MILL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_MILL_TEXT">
+			<Text>固定式蒸汽机是用于泵送或驱动磨坊和工厂以及发电的固定式蒸汽机。它们不同于铁路上使用的机车发动机、道路上重型蒸汽运输的牵引发动机、蒸汽汽车（和其他机动车辆）、用于犁地或脱粒的农用发动机、船用发动机以及大多数核电站用作发电机构的蒸汽涡轮机。它们于 18 世纪引入，并在整个 19 世纪和 20 世纪上半叶的大部分时间里广泛生产，只是随着电力供应和内燃机的普及而减少。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEAM_MILL_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REDCOAT">
+			<Text>红衣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REDCOAT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REDCOAT_TEXT">
+			<Text>尽管在欧洲军事史上并不罕见（丹麦甚至法国部队有时都穿着鲜红色制服），但英国陆军和皇家海军步兵的红色制服已成为国内外公认的英国军事力量的明确象征。红色制服最初是为了降低制造成本，但其传播过程是一个缓慢的过程，可以追溯到 15 世纪的玫瑰战争。在导致新模范军创建的改革过程中，现在被认为是英国身份的主要元素的红色变得更加流行，并在接下来的几个世纪中一直如此：它的恶名来自于在英帝国主义政策的整个时期，从美洲到大洋洲，从非洲到欧洲和亚洲，英国步兵都穿着红色。制服颜色的唯一重大变化是在火灾的杀伤力变得更加普遍之后决定的，红色制服从一种区分手段变成了一种负担。尽管如此，它在英国军事仪式中仍然发挥着重要作用，皇家卫队在服役期间仍然佩戴它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REDCOAT_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STELE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHEWA">
+			<Text>切瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHEWA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHEWA_TEXT">
+			<Text>Chewa were the noble warrior caste of Ethiopian medieval society, appointed by the emperor and furnished with land grants for their service.切瓦贵族因使用“Shotel”而闻名，这是一把埃塞俄比亚帝国特有的弧形双刃剑。该枪几乎呈半圆形，可用于钩住盾牌，或绕过盾牌攻击对手。这把剑还可以用来钩住骑马的士兵并将其打落马下，将他们带倒在地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHEWA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OROMO_CAVALRY">
+			<Text>奥罗莫骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OROMO_CAVALRY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OROMO_CAVALRY_TEXT">
+			<Text>“奥罗莫”一词指的是埃塞俄比亚的主要民族，约占总人口的三分之一。奥罗莫人有时拥有自己的王国、语言和宗教（尽管在当今的埃塞俄比亚，他们的穆斯林和基督徒各占一半）。在第一次意大利-埃塞俄比亚战争期间，当意大利试图夺取埃塞俄比亚作为殖民地时，埃塞俄比亚皇帝梅尼利克使用奥罗莫骑兵造成了毁灭性的影响，特别是在决定性的阿德瓦战役中。[NEWLINE][NEWLINE]奥罗莫骑兵并不是真正的骑兵，而是骑马步兵，这意味着他们不会在马背上发射武器，而是会向意大利人驰骋，下马，然后开火。凭借狮鬃头饰和凶猛的声誉，他们成为了那个时代最令人畏惧的军事单位之一。意大利入侵期间，意大利军营中流传着这样一个谣言：奥罗莫骑兵（意大利人称之为“加拉”，奥罗莫人认为这个词具有冒犯性）会阉割持有武器的敌人的尸体，这一谣言导致许多意大利人在奥罗莫人开始冲锋的那一刻就把枪扔到一边。意大利士兵报告说，他们的同胞把枪口对准了自己，而不是面对奥罗莫人。一份报告描述了奥罗莫袭击中一名孤独的意大利幸存者，他茫然失措，除了“加拉骑兵。加拉骑兵。恐怖。恐怖。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OROMO_CAVALRY_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MONOLITHIC_CHURCH">
+			<Text>整体教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MONOLITHIC_CHURCH_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_MONOLITHIC_CHURCH_HELP}[NEWLINE][NEWLINE]“整体教堂”（或“岩石凿成的教堂”）一词可以指任何由单一石块切割而成的教堂，但最常用于指埃塞俄比亚拉利贝拉的 11 座教堂的建筑群。这些教堂由虔诚的基督徒格布雷·梅斯克尔·拉利贝拉国王于 12 世纪建造。这个“新耶路撒冷”位于埃塞俄比亚中部的山区，至今仍是基督徒朝圣的重要中心。[NEWLINE][NEWLINE]整体教堂在拉利贝拉以外的地方也有发现，包括提格雷的许多地方。这些教堂几乎不为外界所知，直到天主教牧师 Abba Tewelde Medhin Josief 宣布存在 120 多座岩石凿成的教堂，其中 90 座仍在使用。在接下来的几年里，已知教堂的总数增加到 153 座。[NEWLINE][NEWLINE]一体式教堂可以建立在[ICON_RES_STONE]石头，在没有资源的山上，而且不在另一个整体教堂旁边。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MONOLITHIC_CHURCH_HELP">
+			<Text>可以建立在[ICON_RES_STONE]石头，在没有资源的山上，而且不在另一个整体教堂旁边。[NEWLINE][NEWLINE]提供[ICON_PRODUCTION]生产及[ICON_PEACE]信仰。整体教堂不是通过技术来改进的，而是通过完成[COLOR_POSITIVE_TEXT]社会政策部门[ENDCOLOR]并采用[COLOR_POSITIVE_TEXT]思想[ENDCOLOR]或者[COLOR_POSITIVE_TEXT]宗教信仰[ENDCOLOR]:[NEWLINE] +1 [ICON_CULTURE]对于每个古代政策分支，[NEWLINE] +1 [ICON_PEACE]对于每个中世纪政策分支，[NEWLINE] +1 [ICON_RESEARCH]对于每个产业政策部门，[NEWLINE] +1 [ICON_PEACE]为了采用万神殿，[NEWLINE] +1 [ICON_PRODUCTION]为了创立一个宗教，[NEWLINE] +1 [ICON_CULTURE]和[ICON_PRODUCTION]为了加强宗教，[NEWLINE] +1 [ICON_GOLD]和[ICON_PRODUCTION]为了改革宗教，[NEWLINE] +2 [ICON_GOLD]采用意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MONOLITHIC_CHURCH">
+			<Text>建造一座[LINK=IMPROVMENT_ETHIOPIA_MONOLITHIC_CHURCH]整体教堂[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MONOLITHIC_CHURCH_HELP">
+			<Text>建造一座整体教堂，增加[ICON_PRODUCTION]生产及[ICON_PEACE]信仰。当你采用更多的政策和信仰时，单一教会会增加产量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MONOLITHIC_CHURCH_REC">
+			<Text>会增加[ICON_PRODUCTION]生产及[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALON">
+			<Text>沙龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALON_HELP">
+			<Text>可能的主题奖励：[NEWLINE][ICON_BULLET] +2 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GW_ART]. [NEWLINE][ICON_BULLET] +4 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GW_ART]从[COLOR_CYAN]同一时代[ENDCOLOR]. [NEWLINE][ICON_BULLET] +4 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]外国的[ENDCOLOR] [ICON_GW_ART]从[COLOR_POSITIVE_TEXT]同一个文明[ENDCOLOR]. [NEWLINE][ICON_BULLET] +8 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]外国的[ENDCOLOR] [ICON_GW_ART]从[COLOR_POSITIVE_TEXT]同一个文明[ENDCOLOR]和[COLOR_CYAN]同一时代[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALON_TEXT">
+			<Text>沙龙是人们在一位鼓舞人心的主人的主持下举行的聚会，举办的目的一方面是为了互相娱乐，另一方面是为了通过对话来提高参与者的品味和增长知识。这些聚会常常有意识地遵循贺拉斯对诗歌目的的定义，“要么取悦，要么教育”（“aut delectare aut prodesse est”）。沙龙通常与 17 世纪和 18 世纪的法国文学和哲学运动联系在一起，直到最近才在城市环境中进行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SALON_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SALON_1">
+			<Text>战斗画廊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SALON_2">
+			<Text>插图建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SALON_3">
+			<Text>文凭乐团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SALON_4">
+			<Text>珍藏异域风情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SALON_THEMING_BONUS_HELP">
+			<Text>为了最大化您的奖金，请确保伟大的工作槽全部充满来自同一外国文明和同一时代的艺术。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPAD">
+			<Text>SPAD S.VII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPAD_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPAD_TEXT">
+			<Text>第一次世界大战见证了战争方式的技术和战术迅速变化，包括采用飞机进行侦察和轰炸。这些机器开辟了一个全新的战场。尽管他们做出了这样的承诺，但由于内燃机动力不足，第一架飞机速度缓慢、笨拙且不可靠。 1915 年，这一切都发生了改变，Marc Birgikt 发明了一款新型 V8 发动机，功率为 150 马力，重量仅为 330 磅。法国最高指挥部看到了新型发动机作为飞机发动机的价值，并委托生产了新型战斗机：Société Pour L'Aviation et ses Dérivés，或“SPAD”S.VII。[NEWLINE][NEWLINE]到 1916 年底，SPAD VII 开始投入使用，并在战争余下的时间里被盟军飞行员广泛采用。尽管缺乏老式 Nieuport 战斗机的机动性，SPAD VII 的绝对速度却无与伦比，飞行速度超过 127 英里/小时，俯冲速度超过 249 英里/小时。飞行员创造了全新的战术来利用这种速度，这使得 SPAD 能够安全地避免激烈的战斗。与旧的 Nieuports 相比，潜水时增加的稳定性尤其受到赞赏，因为旧的 Nieuports 有在机动过程中脱落翅膀的坏习惯。[NEWLINE][NEWLINE]空中优势成为与更新更好的德国设计和发动机的持续军备竞赛。到战争结束时，SPAD VII 的单挺 0.303 维克斯机枪被至少携带两挺机枪的德国战斗机所击败。更重、速度更快的 SPAD XIII 最终在 1917 年底取代了 SPAD VII，并见证了法国度过了战争的剩余时间。尽管有其缺点，SPAD 系列仍被认为是第一次世界大战中最快、最强大的战斗机之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPAD_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREWHOUSE">
+			<Text>酿酒厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREWHOUSE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREWHOUSE_TEXT">
+			<Text>德国自始至终都有啤酒文化，其与啤酒的历史和文化联系可以追溯到古代。随着中世纪酿造的专业化和商品化，啤酒从私人家庭手工业进入旅馆和酒馆，在德国以啤酒厂（Bräuhauser）和啤酒馆（Bierhaller）的形式出现。最伟大、最著名的啤酒厂位于巴伐利亚自由州，那里的啤酒馆、啤酒花园和一年一度的慕尼黑啤酒节已成为巴伐利亚文化的代名词。慕尼黑各地都有特别著名的啤酒厂，这些啤酒厂历来都受巴伐利亚啤酒纯度法（Reinheitsegebot）的约束，该法规定，可用于生产啤酒的唯一成分是水、大麦和啤酒花。 Reinheitsegebot 于 1516 年由巴伐利亚州通过，是至今仍然有效的最古老的食品安全立法之一。甚至在德国民族主义兴起之前，《Reinheitsegebot》就已经在附近的王国中激发了类似的监管，其普遍采用是 1871 年巴伐利亚与德国统一的条件。[NEWLINE][NEWLINE]作为一个可以免费获得光线和食物的地方，啤酒厂是德国南部公共生活的基石，也是 18 世纪和 19 世纪席卷德国的众多革命思想和运动的发源地。法国大革命之后，德国自由派在慕尼黑啤酒馆组织起来，要求在 1848 年至 1849 年间的一系列起义中对君主制进行改革。在 1910 年代，弗拉基米尔·列宁经常光顾慕尼黑皇家啤酒屋，在那里他进行了大部分政治鼓动，并最初建立了布尔什维克党，该党后来组建了苏联。然而，最著名的是阿道夫·希特勒 (Adolf Hitler)，他于 1920 年在普拉茨尔宫廷啤酒屋 (Hofbräuhaus am Platzl) 宣布成立国家社会主义（纳粹）党，并于 1923 年在 Bürgerbräukeller 政变失败后因叛国罪被捕。这一事件被称为“啤酒馆政变”，由此产生的审判为希特勒提供了一个传播其政治意识形态的全国平台，导致他的广泛声誉和德国法西斯主义的崛起。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BREWHOUSE_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRUPP_GUN">
+			<Text>克虏伯枪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRUPP_GUN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRUPP_GUN_TEXT">
+			<Text>克虏伯火炮是由位于埃森的克虏伯家族商业钢铁厂制造的火炮系列的任何成员。克虏伯火炮是第一款进入大规模生产并被军队采用的铸钢野战炮，普鲁士皇家陆军于 1856 年首次购买。克虏伯火炮以其质量和处于火炮新发展的前沿而闻名。[NEWLINE][NEWLINE]第一次世界大战爆发时，德国陆军的学说强调机动性和使用榴弹炮，以更高的弧度发射，以更陡的角度打击根深蒂固的敌人。这一学说在施利芬计划的初始阶段就取得了早期成果，较小、较轻的德国火炮在穿越比利时和法国北部时表现出色，并与英国人竞相赶往大海。尽管他们的火炮大部分都是小型火炮，例如 7.7 厘米 FK 96，但德国人也拥有一些战争中最令人印象深刻的重型火炮 Minenwerfers（或“地雷投掷器”），这是一种短程火炮，其性能比当代迫击炮的重量小得多。战争开始后，德国部署了 12 门实验性 45 厘米水雷攻城炮，这是有史以来生产的最大的野战火炮之一。这些攻城炮被德军亲切地称为“大伯莎”，击穿了列日和莫贝日周围的数十座坚固堡垒，使德军在几周内就到达了巴黎的攻击距离。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRUPP_GUN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GYMNASION">
+			<Text>体操</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GYMNASION_HELP">
+			<Text>可能的主题奖励：[NEWLINE][ICON_BULLET] +4 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GW_WRITING]. [NEWLINE][ICON_BULLET] +6 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]外国的[ENDCOLOR] [ICON_GW_WRITING].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GYMNASION_TEXT">
+			<Text>体育馆是希腊成年男子用来社交和练习公共比赛的训练设施。这个名字大致翻译为“裸体训练场所”，因为所有运动员都赤身裸体地练习，而且通常涂满橄榄油。体育馆最初是城市范围外的开放场地，但后来被规划为希腊公共生活中心的封闭空间。虽然公共运动会和节日本身很重要，但体育馆也成为艺术和学习的中心。雅典著名的哲学流派——柏拉图创立的学术学派、亚里士多德创立的逍遥学派、安提斯泰尼创立的犬儒学派——都是以他们相遇的文学院创立并命名的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GYMNASION_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KLEPHT">
+			<Text>克莱夫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KLEPHT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KLEPHT_TEXT">
+			<Text>克莱夫特人是土匪和山民，后来成为反奥斯曼叛乱分子和自由斗士，他们是现代希腊军队组建的基石。克莱夫特人与最初被雇佣来抓捕他们的阿马托洛伊人一起组成了“自由的酵母”，这是奥斯曼帝国统治四个多世纪后希腊独立的第一个希望。[NEWLINE][NEWLINE]正如人们所想象的强盗一样，克莱夫茨毫无纪律、反复无常，他们对派来镇压他们的规模大得多的奥斯曼军队发动了一场有效的游击战。 冲突双方都遭受了屠杀，但欧洲的同情心却大大支持了希腊人。穆斯林奥斯曼帝国肆无忌惮的残暴激怒了欧洲公民，他们筹集物资、食物和志愿者来为希腊独立而战。[NEWLINE][NEWLINE]八年后，奥斯曼军队终于镇压了叛乱，但希腊士兵失败了，诗人和宣传却成功了。法国、英国和俄罗斯政府分别派出一支舰队保卫希腊岛屿，以回应民众的干预要求。面对如此压倒性的武力，奥斯曼人求和并解放了希腊。在马其顿、罗马和奥斯曼征服者的统治下 2000 多年后，希腊家园终于获得了自由——历史上第一次统一为一个民族。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KLEPHT_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_EKI">
+			<Text>站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_EKI_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_EKI_HELP}[NEWLINE][NEWLINE]“Eki”是匈奴人可能用来描述地球的一个术语，特别是对放牧牲畜至关重要的地球。游牧畜牧业是放牧牲畜以寻找新鲜牧场的畜牧业的一种形式。严格来说，真正的游牧民族遵循不规则的迁徙模式，这与季节性牧场固定的游牧活动形成鲜明对比。然而，这种区别常常没有被观察到，游牧一词用于两者——在历史案例中，运动的规律性在任何情况下通常都是未知的。放牧的牲畜包括牛、牦牛、绵羊、山羊、驯鹿、马、驴或骆驼，或多种物种的混合。游牧畜牧业普遍存在于耕地很少的地区，特别是发展中国家。全球估计有 30 至 4000 万游牧民，其中大多数分布在中亚和西非萨赫勒地区。如果不允许土地在一个放牧期和下一个放牧期之间完全恢复，牲畜数量的增加可能会导致该地区过度放牧和荒漠化。土地围栏和围栏的增加减少了可用于这种做法的土地数量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_EKI_HELP">
+			<Text>只能建造在平坦的土地上，无法获得淡水。 +1[ICON_PRODUCTION]生产及[ICON_GOLD]黄金如果[COLOR_POSITIVE_TEXT]相邻两个[ENDCOLOR]其他Eki。可以建造[COLOR_POSITIVE_TEXT]在或邻近[ENDCOLOR]匈奴领地。完成后，如果是内置的，则声明其下方的瓷砖[COLOR_POSITIVE_TEXT]中立领土[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_EKI">
+			<Text>构建一个 [LINK=IMPROVMENT_EKI]Eki[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_EKI_HELP">
+			<Text>+1 [ICON_PRODUCTION]生产及[ICON_GOLD]每 2 个与此 Eki 相邻的 Eki 即可获得金币。只能建造在平坦的土地上，无法获得淡水。可以建造[COLOR_POSITIVE_TEXT]在或邻近[ENDCOLOR]匈奴领地。[NEWLINE][NEWLINE]在中立领土上建造它会立即获得匈奴帝国的领土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_EKI_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_CULTURE]文化。删除图块上的任何特征。[NEWLINE]提供额外的[ICON_PRODUCTION]生产及[ICON_GOLD]黄金如果[COLOR_POSITIVE_TEXT]相邻两个[ENDCOLOR]其他 Eki。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TARKHAN">
+			<Text>塔坎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TARKHAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TARKHAN_TEXT">
+			<Text>塔尔汗是匈奴和匈奴帝国军队中的贵族和高级指挥官。这个词在草原上的语言和民族中传播开来，在突厥、蒙古和伊朗文化中作为一个头衔出现，甚至成为一个常见的男孩名字。类似于现代的指挥官，塔尔汗是匈奴帝国的保护者和征服者，推动他们的文明走向伟大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TARKHAN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ULTICUR">
+			<Text>乌尔蒂库尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ULTICUR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ULTICUR_TEXT">
+			<Text>匈奴人的起源仍然笼罩在神秘之中，但他们的匈奴血统的线索之一是他们由乌尔蒂库尔（Ulticur）或“六角议会”统治。乌尔蒂库尔是一个由贵族组成的小委员会，他们是匈奴帝国除皇帝本人之外最有权势的人。每个人都根据自己在皇帝中的地位而就座，皇帝最喜欢的人坐在他的右边。[NEWLINE][NEWLINE]皇帝的合法性在很大程度上取决于他能够从周围王国获取贡品并分配给他的贵族。据推测，由于中国和其他附庸部落的贡品不足，导致了匈奴在东亚的衰落和消失，只是作为东欧的匈奴人重新出现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ULTICUR_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARAKAQ">
+			<Text>瓦拉克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARAKAQ_TEXT">
+			<Text>印加战士是著名的投石手。他们选择的射弹是圆形的石头。虽然投石器没有弓箭的射程或制动力，但投石器是非常小而轻的武器，步兵战士可以轻松携带它们而不会受到阻碍。正如《旧约》中所写，训练有素的投石手甚至可以用一块石头杀死最大的对手......</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARAKAQ_STRATEGY">
+			<Text>这{TXT_KEY_UNIT_WARAKAQ}是印加独特的单位，取代了{TXT_KEY_UNIT_INCAN_SLINGER}。它具有超强的射程，可以使敌方单位晕眩，从而降低他们的攻击力[ICON_STRENGTH]长时间的战斗力。[NEWLINE][NEWLINE]用它来骚扰你的敌人并快速摧毁野蛮人的营地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARAKAQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TERRACE_FARM_HELP">
+			<Text>+1 [ICON_FOOD]适合每个人的食物{TXT_KEY_IMPROVEMENT_TERRACE_FARM}或与此相邻的山{TXT_KEY_IMPROVEMENT_TERRACE_FARM}. +1 [ICON_FOOD]为邻近农场提供食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TERRACE_FARM_REC">
+			<Text>会增加[ICON_FOOD]食品和[ICON_PRODUCTION]生产。删除图块上的任何特征。[NEWLINE]提供额外的[ICON_FOOD]靠近山脉或其他帕塔帕塔的食物。提供额外的[ICON_FOOD]为邻近农场提供食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QULLQA">
+			<Text>库尔卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QULLQA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QULLQA_TEXT">
+			<Text>Qullqa 是位于塔万廷苏尤河沿岸城市和政治中心附近路边的储存筒仓。庞大的库尔卡斯网络为普通民众和军队储存了食物和补给品。该系统充当了农民的紧急储备，以防止印加领土上不稳定的高海拔社区频繁发生的农作物歉收。这些仓库还使士兵免于觅食，但需要当地民众不断维护。[NEWLINE][NEWLINE]库尔卡系统的维护和储存是当地领主的责任，他们居住在名为坦博斯的站点中，每个站点都位于下一个站点的一天行军范围之内。皇家库尔卡储存了印加贵族的奢侈品和礼仪用品，包括羽毛、宝石和古柯叶。古柯生产被视为帝国垄断而受到严密保护。古柯的种植和分配严格受到贵族和少数受宠阶级的控制。事实上，印加帝国的整个经济都是靠指令经济运作的，对库尔卡系统中存储的货物的访问和控制确保了帝国的福祉和持续扩张。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QULLQA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INTI_MACEMAN">
+			<Text>因蒂·梅斯曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INTI_MACEMAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INTI_MACEMAN_TEXT">
+			<Text>印加的常备军主要由贵族组成，但萨帕印加可以随意从普通民众中征召一支由体格健壮的男子组成的军队。部队行军时军纪严明，虽然专业各异，但训练有素。印加利用庞大帝国的资源，从众多具有自己军事传统的下属部落中招募战士。古代莫切文化的继承者奇穆人曾经是印加人的死敌，但一旦被征服，他们就为印加人提供了一些最强大、最忠诚的军队。奇穆人以在战争中使用狼牙棒和棍棒而闻名。一些战士无所畏惧地大步投入战斗，携带巨大的狼牙棒，需要双手挥舞，消灭路上的任何东西。这些精锐的突击部队对任何对手都构成了致命的威胁，无论是在战场上还是在被围困的防御工事中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INTI_MACEMAN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPAN_RESERVOIR">
+			<Text>哈拉帕水库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPAN_RESERVOIR_TEXT">
+			<Text>南亚西北部（包括巴基斯坦和印度部分地区）的古代哈拉帕文明和印度河流域文明在水利工程方面享有盛誉，并拥有许多同类首创的供水和卫生设施。除其他外，它们还包含世界上已知最早的抽水马桶系统。这些装置存在于许多家庭中，并连接到公共污水管。大多数房屋还有私人水井。城墙起到了抵御洪水的屏障的作用，人们经常沿着城墙修建大型水库来收集洪水以应对干旱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPAN_RESERVOIR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPAN_RESERVOIR_STRATEGY">
+			<Text>独特的印度替代品{TXT_KEY_BUILDING_AQUEDUCT}。除了{TXT_KEY_BUILDING_AQUEDUCT}的奖金，{TXT_KEY_BUILDING_HARAPPAN_RESERVOIR}保留更多[ICON_FOOD]食物上[ICON_CITIZEN]人口增长；促进农场；并增加城市的[ICON_FOOD]食物的产生取决于该城市大多数追随者的数量[ICON_RELIGION]宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DHANURDHARA">
+			<Text>达努陀罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DHANURDHARA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DHANURDHARA_TEXT">
+			<Text>射箭是古印度最受尊敬的武术。吠陀文献中的许多文化英雄和神都描述了拥有无与伦比技能的弓箭手，包括阿朱那、罗摩、迦尔纳，甚至湿婆本人。传统的印度弓被描述为很长，与使用者的身高相匹配，但没有威尔士长弓的巨大力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DHANURDHARA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJONG">
+			<Text>迪昂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJONG_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJONG_TEXT">
+			<Text>在公元 1 世纪创建时，Djong 号毫无疑问是世界上最大、最有能力的海船。这些工程奇迹平均载货量超过 400 吨，能够抵御台风，将爪哇贸易网络从中国北部延伸到加纳。在满者伯夷帝国时期，Djong 装备了最早的后装炮，即黄铜 cetbang，这帮助他们征服了整个印度尼西亚群岛。直到16世纪，Djong仍被广泛使用，Djong船的设计方法传播到整个亚洲，影响了中国标志性垃圾船的创造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJONG_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KAMPONG">
+			<Text>甘榜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KAMPONG_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_KAMPONG_HELP}[NEWLINE][NEWLINE]“萨玛巴瑶族”一词指的是分布在现代菲律宾、印度尼西亚和马来西亚之间的一个民族。萨玛人在沿海浅滩的高跷村或“甘榜”中过着半定居的生活，而巴瑶人则指住在船屋里的游牧群体。萨玛巴瑶人无视国家和种族边界，在公海岛屿之间旅行和捕鱼。萨玛巴瑶人经常被三佛齐王国雇佣为私掠者和掠夺者。巴瑶族拥有独特的能力，使他们能够在水下看得更清楚，并且比任何其他人类群体潜水得更远、更深。[NEWLINE][NEWLINE]近年来，巴瑶族人被各国政府强迫采取久坐的生活方式，并面临异教徒、外来者和占屋者的歧视。过度捕捞和现代化的结合威胁着巴瑶人的游牧传统，因为他们被强行重新安置在陆地上。尽管如此，巴瑶-劳特族的一些社区还是骑着lepa lepa穿越东南亚蓝色的海水，每年只上岸几次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KAMPONG_HELP">
+			<Text>独特的印尼改进。甘榜可以通过以下方式建造[ICON_WORKER]工人在沿海和湖瓦上船，而不是在另一个甘榜旁边。[NEWLINE][NEWLINE]每个甘榜产量[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KAMPONG">
+			<Text>建造一个[LINK=IMPROVMENT_INDONESIA_KAMPONG]甘榜[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KAMPONG_HELP">
+			<Text>建造一个甘榜，增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KAMPONG_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROWLER">
+			<Text>徘徊者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROWLER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROWLER_TEXT">
+			<Text>与许多其他部落不同，易洛魁人可以轻松地在哈德逊河沿岸的荷兰堡垒中获得贸易货物，并交易各种商品和奢侈品。铁斧和火枪等战争武器备受追捧，到了 1640 年代，易洛魁人已经装备精良，可以与他们的传统敌人休伦人和阿尔冈昆人作战。普通步枪是用毛皮和食物换取的，但通常比军用级步枪更轻、口径更小。荷兰人和英国人担心向可能背叛他们的人提供高质量武器，但易洛魁人经常发现较小的武器更适合崎岖的地形。[NEWLINE][NEWLINE]易洛魁人获得火器后，战争策略发生了变化。新武器的杀伤力让易洛魁人这个人口从来不多的群体陷入了危险的境地。随着越来越少的战士在与欧洲军队的冲突中幸存下来，部落吸收难民和战俘的习惯也发生了变化。与杰出酋长和萨满巫师同行的大军被游击战术所取代，游击战术是由指挥官指挥的小股部队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROWLER_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADODAHO">
+			<Text>塔多达霍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADODAHO_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADODAHO_TEXT">
+			<Text>塔多达霍，也称为火卫士，指的是六国大议会的首脑，其中包括卡尤加人、莫霍克人、奥奈达人、奥农达加人、塞内卡人和塔斯卡罗拉人。作为一名精神和政治领袖，这一职位可以追溯到易洛魁联盟最初成立时。海华沙时代奥农达加民族的霍伊纳（hoyenah）和伟大的和平缔造者被命名为塔多达霍（Tadodaho）。军机处的领导地位，及其创始人的尊称，已经传承了几个世纪，而且是终身任命。据说，自豪德诺索尼（也称为易洛魁人）联盟最初成立以来，已有 27 个塔多达霍人。[NEWLINE][NEWLINE]易洛魁联盟的大议会之火仍位于现今纽约的奥农达加保留地内。近代历史上的塔多达霍人继续为回归和保存豪德诺索尼文化、语言和历史而奋斗，并向美国和加拿大政府请愿，捍卫其人民的土地和条约权利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADODAHO_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOJO">
+			<Text>道场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOJO_TEXT">
+			<Text>道场是一个日语术语，字面意思是“道路的地方”。最初，道场是寺庙的附属物。该术语可以指任何日本武术的正式训练场所，但通常被认为是任何日本武术流派（例如空手道、柔道或武士）的学生进行训练、考试和其他相关活动的正式聚集地。道场的概念仅指专门针对亚洲武术的训练场所，这是西方的概念；在日本，任何体能训练设施，包括职业摔跤学校，都可以被称为道场，因为它与武术有着密切的渊源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOJO_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOJO_STRATEGY">
+			<Text>独特的日本替代品{TXT_KEY_BUILDING_ARMORY}。除了{TXT_KEY_BUILDING_ARMORY}的奖金，{TXT_KEY_BUILDING_DOJO}提供更多的训练经验和更多的军事补给；授予{TXT_KEY_PROMOTION_BUSHIDO}对所有近战、火药、骑兵和装甲单位的晋升，为这些单位类型在第一次战斗后提供八种可能的晋升之一，并在单位受到伤害时增加其力量；并产生[ICON_RESEARCH]科学与[ICON_CULTURE]当单位在战斗中获得经验时进行文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KABUKI_THEATER">
+			<Text>歌舞伎剧场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KABUKI_THEATER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KABUKI_THEATER_TEXT">
+			<Text>歌舞伎是一种日本古典舞剧，以其戏剧风格和一些表演者精致的化妆而闻名。这种艺术形式诞生于 1603 年，当时出云大社的巫女出云大国开始在京都干涸的河床上表演一种新风格的舞剧。尽管日本的现代化发生了许多剧变，歌舞伎仍然是日本戏剧中最受欢迎的传统风格，并帮助人们重新燃起了对其他日本传统艺术形式的兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KABUKI_THEATER_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO">
+			<Text>大和</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO_TEXT">
+			<Text>大和级战列舰是二战期间日本帝国海军皇冠上的明珠。它们满载排水量为 73,000 吨，是有史以来建造的最重、武装最强大的战列舰。每艘大和号都携带九门 18.1 英寸火炮，这是军舰上安装的最大的海军火炮，每门火炮能够在 26 英里内发射 3,000 磅的炮弹。该级战列舰“大和号”和“武藏号”两艘已完工，而第三艘“信浓号”在建造过程中被改装为航空母舰。二战期间全部被美军击沉。[NEWLINE][NEWLINE]由于其尺寸、速度和力量，大和级明显体现了日本捍卫其利益、对抗西方列强尤其是美国的决心和准备。这艘军舰在日本文化中具有如此重要意义的原因之一是“大和”一词经常被用作日本本身的诗意名称。因此，大和号战列舰的建造和毁坏成为日本帝国志向兴衰的象征。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEOWON">
+			<Text>书院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEOWON_TEXT">
+			<Text>书院是朝鲜中后期韩国最常见的教育机构。它们是兼​​具儒家祠堂和预科学校功能的私立机构。在教育方面，书院主要负责帮助学生准备国家公务员考试。在大多数情况下，书院只为贵族两班阶层的学生服务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEOWON_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEOWON_STRATEGY">
+			<Text>独特的韩国替代品{TXT_KEY_BUILDING_UNIVERSITY}。除了{TXT_KEY_BUILDING_UNIVERSITY}的奖金，{TXT_KEY_BUILDING_SEOWON}提升[ICON_GREAT_WORK]伟大的作品和伟大的人物瓷砖的改进，并提供了更大的[ICON_RESEARCH]科学推动[ICON_CITIZEN]人口增长。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAEBOL">
+			<Text>财阀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAEBOL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAEBOL_TEXT">
+			<Text>财阀是起源于韩国的强大跨国公司。从家族企业开始，政府的慷慨投资使财阀迅速实现了韩国农业社会的工业化，这就是所谓的汉江奇迹。财阀成为韩国经济的核心，并代表着韩国工业实力的无敌，直到 20 世纪末金融危机，几家重要的财阀宣布破产。[NEWLINE][NEWLINE]财阀继续主导韩国经济和社会结构，三星和现代等财阀已成为全球家喻户晓的名字。如今，财阀占韩国出口额的80%以上，最大的单一财阀占全国GDP的17%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAEBOL_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KUNA">
+			<Text>库纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KUNA_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_KUNA_HELP}[NEWLINE][NEWLINE]“Kuna”是玛雅语，意为寺庙或教堂。玛雅库纳的设计与欧亚大陆的金字形神塔和金字塔相似。尽管库纳人本身基本上是这些古代遗址的全部遗迹，但它们曾经是大城市的焦点。其中最著名的是奇琴伊察（Chichen Itza），其景色如此宏伟，堪称世界奇迹！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KUNA_HELP">
+			<Text>独特的玛雅改进。[NEWLINE][NEWLINE]只能在森林或丛林中建造，并且不能与另一个库纳相邻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KUNA">
+			<Text>建造一个 [LINK=IMPROVMENT_KUNA]Kuna[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KUNA_HELP">
+			<Text>不能与另一个库纳相邻建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KUNA_REC">
+			<Text>会增加[ICON_RESEARCH]科学与[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PITZ_COURT">
+			<Text>皮兹阁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PITZ_COURT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PITZ_COURT_TEXT">
+			<Text>中美洲球类游戏，或称“Pitz”，是玛雅人的一项具有仪式和文化意义的游戏。比赛的目的是通过使用臀部在倾斜的场地内来回击球来尽可能长时间地保持球的运动，尽管有些变化允许使用肘部、肩膀甚至球拍。该游戏最早的考古证据来自一个估计有 3400 年历史的法庭。[NEWLINE][NEWLINE]玛雅遗址内发现了 1300 多个不同的球场，数千年来尺寸或布局变化相对较小。每个球场的形状都像一条狭窄的小巷，两侧都有缓坡的墙壁和封闭的端区。这使得球场大致呈H形布局。后来版本的球场将在中点包括悬挂在墙上的圆环。实际上将球送入篮圈的情况肯定很少见，因为球员无法用手或脚来引导球。而且，环只比球本身稍大一点，而且距离比赛场地很远。[NEWLINE][NEWLINE]对于玛雅人来说，这场比赛不仅仅是一场体育赛事，在城市之间发生争端时可以作为战争的替代品。后来的古典玛雅艺术暗示了球赛和祭祀仪式之间的联系，获胜者被斩首作为对神的祭品。 《Popol Vuh 玛雅双胞胎神话》描述了英雄双胞胎 Hunahpu 和 Xbalanque 与地下世界领主“一死”和“七死”之间的游戏。这场比赛的目的是让英雄双胞胎能够找回胡纳普的头部，该头部被上议院用作球（胡纳普一直在用南瓜挤压他的头部，直到他真正的头部被找到为止）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PITZ_COURT_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLKAN">
+			<Text>霍尔坎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLKAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLKAN_TEXT">
+			<Text>玛雅人经常被西方历史学家理想化为和平文明，但玛雅人对战争并不陌生。然而，与欧洲和亚洲的战争不同，玛雅人进行的是一种高度仪式化的战斗形式，其基础是占星术和宗教问题以及政治问题。围绕土地、影响力和资源的争吵很常见，但对活人牺牲的需要也是导致战争的一个因素。[NEWLINE][NEWLINE]玛雅城市的贵族和祭司垄断了暴力，使得除了最绝望的战争之外的所有战争都严格属于上层阶级的事务。由黑曜石和燧石制成的武器被储存在领主和国王的宫殿里，他们会号召家人来领导袭击。这些探险队的领导者被称为“Holkan”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLKAN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GER">
+			<Text>格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GER_TEXT">
+			<Text>蒙古包被蒙古人称为“蒙古包”，是一种便携式、弯曲的住宅结构，传统上被中亚草原上的游牧民族用作他们的家。该结构包括一个冠轮或压缩轮，通常是蒸汽弯曲的，由屋顶肋支撑，屋顶肋在与格子墙相交的一端向下弯曲（同样是蒸汽弯曲）。通过抵抗屋顶肋骨的力的张力带来防止墙的顶部扩展。该结构通常覆盖有多层织物和羊毛毡，用于隔热和防风雨。蒙古包内的传统装饰主要以图案为主。这些图案一般不符合品味，而是源自具有一定象征意义的神圣装饰品。代表力量的符号是最常见的，包括卡斯（卍）和四种强大的野兽（狮子、老虎、迦楼罗和龙），以及五种元素（火、水、土、金和木）的程式化表示，五种元素被认为是宇宙中基本的、不变的元素。这些图案通常在家里使用，人们相信它们会带来力量并提供保护。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GER_STRATEGY">
+			<Text>独特的蒙古语替代品{TXT_KEY_BUILDING_SMOKEHOUSE}。除了{TXT_KEY_BUILDING_SMOKEHOUSE}的奖金，{TXT_KEY_BUILDING_GER}产生[ICON_PEACE]信仰;增加牧场；提供[ICON_PRODUCTION]边界扩大时生产；并使边界扩张得更快。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ORDO">
+			<Text>鄂尔多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ORDO_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_ORDO_HELP}[NEWLINE][NEWLINE]简单翻译，“ordo”的意思是“宫殿帐篷”。然而，斡尔多不仅仅是一个简单的帐篷——它是游牧蒙古人部落的中心。[NEWLINE][NEWLINE]鄂尔多是可汗及其战士的总部和主要营地。虽然是为旅行而设计的，但从简单的装饰到精心缝制的图案，它都有自己的风格。当可汗和他的战士们出征时，桎梏会随着他们移动，确保他们无论去往何处，总有宾至如归的感觉。[NEWLINE][NEWLINE]你可以在你的领地内的任何地方或紧邻你的领地建造一个奥尔多。建造鄂尔多后，你的军事单位补给上限将增加 1，你的文化边界也会扩大到将鄂尔多四面包围一格。如果新的文化边界声称其他文明已经拥有的格子，您将因此受到外交惩罚。与城堡不同的是，任何在审判庭旁边结束回合的敌方单位都不会受到伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ORDO_HELP">
+			<Text>独特的蒙古伟人瓷砖改良，取代了{TXT_KEY_IMPROVEMENT_CITADEL}。只能由一个构造{TXT_KEY_UNIT_MONGOL_KHAN}.[NEWLINE][NEWLINE]建造 Ordo 会占用相邻的方块。[NEWLINE][NEWLINE]+50% [ICON_STRENGTH]驻扎在该板块中的任何单位的防御强度。移动到鄂尔多的单位拥有所有他们的[ICON_MOVES]运动恢复。包含[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]，允许拥有的单位在攻击后留在该区域并[COLOR_POSITIVE_TEXT]运河[ENDCOLOR]，允许友好[COLOR_POSITIVE_TEXT]海[ENDCOLOR]遍历它的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ORDO">
+			<Text>构建一个 [LINK=IMPROVMENT_ORDO]Ordo[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ORDO_HELP">
+			<Text>只能建在拥有的领土上或靠近你自己的边界的无主板块中，并且不能与其他鄂尔多斯相邻。删除图块上的任何特征。[NEWLINE][NEWLINE]建造鄂尔多将扩大你的文化边界以包围鄂尔多，增加你的文化边界[ICON_WAR]军事单位补给上限提高 1，并将消耗该单位。如果新的文化边界声称其他文明已经拥有的格子，您将因此受到外交惩罚。[NEWLINE][NEWLINE]+50% [ICON_STRENGTH]驻扎在该板块中的任何单位的防御强度。恢复[ICON_MOVES]移动到该图块上的任何单位的移动。包含[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]，允许拥有的单位在攻击后留在该区域并[COLOR_POSITIVE_TEXT]运河[ENDCOLOR]，允许友好[COLOR_POSITIVE_TEXT]海[ENDCOLOR]遍历它的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BLACK_TUG">
+			<Text>黑色拖船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BLACK_TUG_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BLACK_TUG_TEXT">
+			<Text>拖船是一根杆子，杆子的顶部排列着不同颜色的圆形马尾毛——象征着马在蒙古人生活中的重要性。白毛旗是和平时期的象征，黑旗是战时的象征。最初的白旗在历史的早期就消失了，但黑旗却作为成吉思汗灵魂的宝库而幸存下来。蒙古人继续尊重这面旗帜，建造了一座修道院来守卫它，但在 1937 年斯大林主义对蒙古民族主义者、僧侣和知识分子的清洗中，这艘拖船最终消失了。[NEWLINE][NEWLINE]20世纪90年代初实行民主制度后，蒙古的九白旗重新出现，取代了以前的共产主义旗帜。现代蒙古九面白旗保存在乌兰巴托政府宫内；现代蒙古黑旗保存在国防部。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BLACK_TUG_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_YASSA">
+			<Text>收养亚萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_YASSA_HELP">
+			<Text>{TXT_KEY_PRODUCTION_BUILDING_GLOBAL_EFFECTS}[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION]生产用于[COLOR_YELLOW]{TXT_KEY_UNITCOMBAT_ARCHER}单位[ENDCOLOR]在所有城市[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION]生产用于[COLOR_YELLOW]{TXT_KEY_UNITCOMBAT_SIEGE}单位[ENDCOLOR]在所有城市[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION]生产用于[COLOR_YELLOW]{TXT_KEY_UNITCOMBAT_MOUNTED}单位[ENDCOLOR]在所有城市[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION]生产用于[COLOR_YELLOW]{TXT_KEY_UNITCOMBAT_ARMOR}单位[ENDCOLOR]在所有城市[NEWLINE][ICON_BULLET]-40% [ICON_HAPPINESS_3]所有城市中城市数量的帝国规模修正[NEWLINE][ICON_BULLET]征服一座城市时：+10[ICON_GOLD] +10 [ICON_RESEARCH] +10 [ICON_CULTURE]在所有城市，与时代一起扩展[NEWLINE]----------------[NEWLINE]必备技术：[COLOR_CYAN]{TXT_KEY_TECH_PHILOSOPHY_TITLE}[ENDCOLOR][NEWLINE]每个玩家最多 1 个</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_YASSA_TEXT">
+			<Text>Yassa 是成吉思汗制定的秘密成文法典。 Yassa 一词翻译为“命令”或“法令”。这是蒙古帝国事实上的法律，尽管该“法律”从未真正公开过。 Yassa 似乎起源于战时颁布的法令，后来被编纂并扩大到包括文化和生活方式习俗。通过保守亚萨的秘密，法令可以被修改和有选择地使用。据信，亚萨是由成吉思汗本人在蒙古帝国高级法官：他的继兄什希呼塔格的帮助下监督的。成吉思汗任命他的次子察合台（又名察合台汗）监督法律的执行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_YASSA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIAD">
+			<Text>里亚德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIAD_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIAD_TEXT">
+			<Text>Riad 是一种传统的北非房屋，以柱廊形式建造，周围环绕着内部花园或庭院。这些房屋通常外观朴素，但内部装饰华丽，在保留家庭舒适和隐私的同时，体现出谦逊和简朴。[NEWLINE][NEWLINE]尽管多年来建筑风格发生了变化，但现代设计中仍然沿用里亚德的基本形式。在法国占领北非期间，里亚德酒店经历了某种程度的复兴。为了适应欧洲对保护历史遗址的迷恋，摩洛哥各大城市都对古老的里亚德进行了修复工作，通常将古老的里亚德改造成酒店或餐馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIAD_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CORSAIR">
+			<Text>海盗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CORSAIR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CORSAIR_TEXT">
+			<Text>巴巴里海盗是在北非海岸活动的穆斯林海盗和私掠者，他们在整个欧洲声名狼藉。海盗的足迹遍及整个地中海，远至冰岛，他们屠杀牲畜并俘虏基督徒，然后在伊斯兰世界的奴隶市场上出售。这些袭击（或称“Razzia”）的频率和凶猛程度使得意大利和西班牙的大片海岸因担心被绑架而被放弃。据估计，公元 1530 年至 1780 年间，约有 125 万人被巴巴里海盗奴役。[NEWLINE][NEWLINE]17 世纪下叶，随着更强大的欧洲海军开始对巴巴里国家构成真正的威胁，海盗活动的范围开始缩小。然而，直到 19 世纪初，基督教的航运和海岸线仍然受到影响。拿破仑战争和 1814 年维也纳会议之后，欧洲列强一致认为有必要永远镇压巴巴里海盗。巴巴里海盗与美国之间的第二次巴巴里战争后，拉齐亚终于停止了，这推动了美国海军的创建。[NEWLINE][NEWLINE]“我们的《古兰经》中写道，所有不承认先知的国家都是罪人，掠夺和奴役他们是信徒的权利和义务；每一个在这场战争中被杀的穆民（信徒）都一定会进入天堂。”[NEWLINE][TAB]- 西迪·哈吉·阿卜杜拉哈曼 (Sidi Haji Abdrahaman) 致托马斯·杰斐逊 (Thomas Jefferson)，回应他保护美国商船的要求</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CORSAIR_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_POLDER_HELP">
+			<Text>只能建造在沼泽地块或与至少 3 个陆地地块相邻的无特色的湖泊/海岸地块上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_POLDER_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_POLDER_WATER_HELP">
+			<Text>允许陆地单位无需登船即可穿过此图块。只能建造在沼泽地块或与至少 3 个陆地地块相邻的无特色的湖泊/海岸地块上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_POLDER_WATER_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_GOLD]金子。[NEWLINE]允许陆地单位无需登船即可穿过此图块。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOELEN">
+			<Text>多伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOELEN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOELEN_TEXT">
+			<Text>在低地国家的城市中，治安机构的根源在于 schutterij，这是一个自愿的城镇守卫和公民民兵。富有的市民经常成为该镇 schuttersgilde 的会员，作为在该市担任进一步公共职位的垫脚石。 Schutterij 负责在围困或叛乱期间提供军事支援、火力支援以及每天关闭和重新打开城门。由于其次要功能是为富有和雄心勃勃的年轻人提供社交俱乐部，schutterij 对市政政治拥有不当影响力，并且经常承担额外的责任，例如举办公共宴会、宗教活动和慈善工作。军官们定期付费为成员拍摄集体肖像，其中一些肖像至今仍被高度评价为荷兰黄金时代创作的最精美的画作。[NEWLINE][NEWLINE]舒特特的训练场被称为Doelen，意思是“目标靶场”。多伦通常位于城墙附近，由一个室外射击场和毗邻的用于体操锻炼和会议的大厅组成。荷兰各地的许多 Doelen 都被保留下来，尽管经常被改建为学校体育馆、图书馆或社区礼堂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOELEN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOEDENDAG">
+			<Text>戈登塔格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOEDENDAG_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOEDENDAG_TEXT">
+			<Text>Goedendag 是一根四英尺长的棍棒，其尖端带有矛头，在法国-佛兰德斯战争期间被中世纪佛兰德斯的民兵使用。这种武器被法国人命名为“goedendag”，与荷兰人的问候语“美好的一天”同源。这个名字可能参考了 1302 年的布鲁日晨祷大屠杀，当时布鲁日的行会成员通过在街上向人们打招呼并谋杀任何带有法国口音的人来占领这座城市。[NEWLINE][NEWLINE]佛兰德斯行会成员在对抗法国骑士时使用Goedendags发挥了巨大作用，但这种武器的具体使用方式仍存在争议。当代插图显示它被用作棍棒，书面记载描述了它第一次被用作矛来应对冲锋，然后被用作棍棒来阻止敌人。不管他们的工作方式如何，装备了Goedendags的士兵标志着西欧重型骑兵终结的开始，以及“步兵革命”的黎明，农民民兵现在对职业士兵构成了可信的威胁。普通人对外国暴君的惊人胜利成为低地国家浪漫民族主义的源泉。[NEWLINE][NEWLINE]“每个人都举起自己的神箭（原文如此）对抗法国人，就像遇到野猪一样的铁”[NEWLINE][TAB]- Guillaume Guiart，描述考特莱战役的当代记述，公元 1302 年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOEDENDAG_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIEGE_FOUNDRY">
+			<Text>攻城铸造厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIEGE_FOUNDRY_TEXT">
+			<Text>铸造厂是生产金属铸件的工厂。通过将金属熔化成液体，将金属倒入模具中，并在金属冷却凝固后去除模具材料或铸件，将金属铸造成形状。最常见的加工金属是铝和铸铁。然而，其他金属，如青铜、黄铜、钢、镁和锌，也用于在铸造厂生产铸件。在此过程中，可以形成所需形状和尺寸的零件。在战争背景下，铸造厂对于生产大炮和其他重要的攻城装备至关重要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIEGE_FOUNDRY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIEGE_FOUNDRY_STRATEGY">
+			<Text>独特的奥斯曼替代品{TXT_KEY_BUILDING_FORGE}。除了{TXT_KEY_BUILDING_FORGE}的奖金，{TXT_KEY_BUILDING_SIEGE_FOUNDRY}产生[ICON_RESEARCH]科学从生产军事单位，更快地生产攻城单位，并赋予他们[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_VOLLEY}[ENDCOLOR]晋升。[NEWLINE][NEWLINE]使用这些能力建立一支庞大的火炮部队来摧毁敌人的城墙并征服他们的土地！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD">
+			<Text>大轰炸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_TEXT">
+			<Text>Bigger is better, and biggest is best. The super-sized bombards of the late medieval were first used in Western European warfare at the beginning of the 15th century, but it was the Ottomans that would realize the bombard's full potential at the Siege of Constantinople in 1453. Unable to find patronage with the Byzantine emperor, a Hungarian gunfounder named Orban sold his services to Mehmed II of the Ottoman Empire, and began crafting bronze cannons capable of lobbing 1.6 tons of shaped stone more than a mile.[NEWLINE][NEWLINE]运输如此巨大的武器需要多达 60 头牛，并且需要修建整个道路网络才能让大炮攻击坚不可摧的狄奥多西城墙。在炮击开始后的一天之内，巨大的石头将外围的防御工事粉碎成废墟，这座千年来作为基督教世界堡垒的城市也陷落了。君士坦丁堡的洗劫持续了三天，引发了希腊人大规模逃往欧洲本土。拜占庭难民的涌入使西欧重新发现了希腊文化的哲学和知识成就，播下了文艺复兴的种子。[NEWLINE][NEWLINE]到 16 世纪末，石炮已被铁球炮取代，几乎没有完好无损的炮。然而，没有一个轰炸机的后代可以声称单枪匹马地结束了一个时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_1">
+			<Text>大教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_2">
+			<Text>达达尼尔海峡枪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_3">
+			<Text>穆罕默德的大枪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_4">
+			<Text>欧尔班的大炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_BOMBARD_5">
+			<Text>卡勒阿西奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TERSANE">
+			<Text>特萨内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TERSANE_HELP">
+			<Text>独特的奥斯曼伟人瓷砖改进。可以通过扩展来构建[ICON_GREAT_ADMIRAL]伟大的海军上将或登船[ICON_GREAT_GENERAL]大将军毗邻一座城市，但不毗邻另一座特萨纳。[NEWLINE][NEWLINE]提供[ICON_GOLD]金子，[ICON_PRODUCTION]生产，[ICON_RESEARCH]科学，以及[ICON_GREAT_ADMIRAL]伟大的海军上将积分。 +25%[ICON_PRODUCTION]邻近城市建造的海军单位的生产和 +15 经验。不会与同一城市旁边的多个 Tersane 叠加。[NEWLINE][NEWLINE]建造 Tersane 会占用相邻的瓷砖。站在 Tersane 上的单位获得 +50%[ICON_STRENGTH]瓷砖防御。对相邻敌方单位造成 30 点伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TERSANE_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_TERSANE_HELP}土耳其语“Tersane”源自威尼斯语“darsane”，英语单词“arsenal”也源自此。尽管奥斯曼帝国在造船技术上从未处于领先地位，但自 1453 年征服君士坦丁堡以来，他们在地中海享有一个多世纪的海军统治地位。最大的特尔桑号建于君士坦丁堡对面的金角湾，拥有 160 多个码头、干船坞、仓库和补给站，使其成为地中海最大的商业和工业中心之一。[NEWLINE][NEWLINE]奥斯曼海军力量通过其巨大的造船能力和对北非巴巴里海盗的效忠得以维持。这种卓越的地位最​​终在勒班陀战役中结束，西班牙和威尼斯联合舰队对奥斯曼帝国进行了惨败，捕获或摧毁了奥斯曼帝国三分之二以上的海军。作为回应，奥斯曼帝国在六个月内建造了 250 艘新船只。[NEWLINE][NEWLINE]“你来看看我们如何承受我们的不幸。但我想让你知道你的损失和我们的损失之间的区别。在从你手中夺取塞浦路斯的过程中，我们剥夺了你的一只手臂；在击败我们的舰队时，你只是剃掉了我们的胡子。”[NEWLINE][TAB] - 大维齐尔穆罕默德·索库鲁 (Grand Vizier Mehmed Sokullu) 谈勒班陀战役的失败以及同年早些时候奥斯曼帝国夺取塞浦路斯的情况</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TERSANE">
+			<Text>构造一个 [LINK=IMPROVMENT_OTTOMAN_TERSANE]Tersane[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TERSANE_HELP">
+			<Text>只能建在靠近拥有的城市的水中，并且不能与另一个 Tersane 相邻。[NEWLINE][NEWLINE]建造 Tersane 将扩大你的文化边界以包围 Tersane，增加你的[ICON_WAR]军事单位补给上限提高 1，并将消耗该单位。[NEWLINE][NEWLINE]+25% [ICON_PRODUCTION]在邻近城市建造的海军单位的生产和 +10 经验。不会与同一城市旁边的多个 Tersane 叠加。站在 Tersane 上的单位获得 +50%[ICON_STRENGTH]瓷砖防御。包含[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]，允许拥有的单位在攻击后留在该区域。对相邻敌方单位造成 30 点伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHARBAGH">
+			<Text>查巴格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHARBAGH_TEXT">
+			<Text>Charbagh 是一个有围墙的花园，分为四个方形部分，是印度波斯文化的特色。这些花园的根源可以追溯到阿契美尼德帝国的pairidaeza，甚至可以追溯到亚述花园设计。查巴格建筑是一种无价的国家工具，展示了国王为原本荒凉的地区带来生机的能力；棱角分明、秩序井然的建筑与大自然的混乱形成了鲜明的对比。波斯和后来的波斯化文化采用花园建筑作为一种微妙的方式，通过公共空间的创造来展示王中之王对其王国及其自然世界的控制。[NEWLINE][NEWLINE]波斯花园激发了地中海和西方思想家的想象力。 pairidaeza 是希腊语“天堂”的词根，在艺术和诗歌中传达了现代人间伊甸园的概念。[NEWLINE][NEWLINE]Charbagh 可以通过以下方式建造[ICON_WORKER]陆地上的工人可以使用淡水，而不是靠近另一个查巴格。[NEWLINE][NEWLINE]每个 Charbagh 产量[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_CULTURE]文化。期间[ICON_GOLDEN_AGE]黄金时代，查巴格的产量增加+1[ICON_PRODUCTION]生产及[ICON_CULTURE]文化，除了通常的+1[ICON_GOLD]金子。[NEWLINE][NEWLINE]+5% [ICON_GREAT_PEOPLE]每个工作过的查巴格都会获得城市中的伟人积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHARBAGH_HELP">
+			<Text>Charbagh 可以通过以下方式建造[ICON_WORKER]陆地上的工人可以使用淡水，而不是靠近另一个查巴格。[NEWLINE][NEWLINE]每个 Charbagh 产量[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_CULTURE]文化。期间[ICON_GOLDEN_AGE]黄金时代，查巴格的产量增加+1[ICON_PRODUCTION]生产及[ICON_CULTURE]文化，除了通常的+1[ICON_GOLD]金子。[NEWLINE][NEWLINE]+5% [ICON_GREAT_PEOPLE]每个工作过的查巴格都会获得城市中的伟人积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHARBAGH">
+			<Text>构建 [LINK=IMPROVMENT_PERSIA_CHARBAGH]Charbagh[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHARBAGH_HELP">
+			<Text>构造一个 Charbagh，它会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_CULTURE]文化，并提高比率[ICON_GREAT_PEOPLE]伟大的人民一代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHARBAGH_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_GOLD]金子，[ICON_CULTURE]文化，以及[ICON_GREAT_PEOPLE]伟人生成率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH">
+			<Text>奇兹尔巴什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH_TEXT">
+			<Text>Qizilbash（Tr：“红发”）最初是对 Safawiyyah Sufi 教团追随者的贬义。 Qizilbash 因其独特的深红色头饰而得名，它组织成一个什叶派社会，让人想起欧洲的骑士团。尽管主要起源于土库曼人，但事实证明，克齐尔巴什在伊朗萨法维王朝的建立中发挥了重要作用。[NEWLINE][NEWLINE]在为父亲报仇的一场战役中，伊斯梅尔一世率领7000名奇兹尔巴什战士战胜了3万的阿克·乔云鲁军队，建立了萨法维国家。短短十一年之内，伊斯梅尔就将整个伊朗置于自己的控制之下，成为 850 多年来第一位统一伊朗的伊朗族君主。尽管他们使伊斯梅尔成为一位强大的国王，但他还是担心克齐尔巴什对伊朗人民的影响。伊斯梅尔和他的继任者将在接下来的 80 年里减少外国 Qizilbash 构成的威胁，并用来自高加索的奴隶士兵取而代之。尽管如此，无论是在战场上还是在宫廷中，克齐尔巴什人在萨法维帝国内都保持着荣誉地位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BARBICAN">
+			<Text>巴比肯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BARBICAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BARBICAN_TEXT">
+			<Text>瓮城是一座坚固的前哨基地或射箭塔，是城市外围防御的一部分。这些塔楼通常位于通往城门的清晰火线范围内，并通过一条称为“颈部”的有围墙的道路与城墙相连。最著名的瓮城建于 1499 年扬·奥尔布拉赫特 (Jan Olbracht) 统治时期的克拉科夫。它的建造灵感来自于托伦（1429年）和海尔姆（1449年）的另外两个外堡，是为了应对奥斯曼帝国和瓦拉几亚军队入侵所造成的危险而建造的。[NEWLINE][NEWLINE]由于攻城战术和火炮的改进，瓮城在 15 世纪变得过时。华沙瓮城建于 1540 年，早在完工之前就已经不合时宜了。 1656 年，瑞典人在试图阻止波兰夺回这座城市时仅使用过该塔一次。两年前，瑞典人不战而屈人之兵，占领了这座城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BARBICAN_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PANCERNY">
+			<Text>潘塞尔尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PANCERNY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PANCERNY_TEXT">
+			<Text>Towarzysz Pancerny（铠甲同伴）是 10 至 18 世纪波兰骑兵的一个军衔，因其链甲而得名。 Pancerni 被组织成连，每个连由 60 至 200 名骑兵组成。他们的装甲异常精良，使用链甲或板甲、臂甲、头盔和圆盾。最常见的武器是军刀、反光弓，随着火药的出现，还有燧发枪和卡宾枪。[NEWLINE][NEWLINE]重骑兵兴起后，潘切尔尼经常与更新、装备更重的骠骑兵协同作战，增强骑兵冲锋并追击溃退的敌方士兵。到 17 世纪下半叶，他们约占波兰军队所有士兵的 70%，与哥萨克、鞑靼人和瑞典人作战。 Husaria 和 Pancerni 最终合并组成“Kawaleria Narodowa”，即波兰立陶宛国家骑兵队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PANCERNY_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MARAE">
+			<Text>会堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MARAE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MARAE_TEXT">
+			<Text>在大多数波利尼西亚文化中，Marae（或 Malea）是一个公共的、神圣的空间。集会堂通常采用空地的形式，有时以石头或柱子为边界，有时在其后面设有相应的庇护所。在大多数波利尼西亚文化中，集会堂的功能随着基督教的到来而衰落或消失，但它对当今新西兰的毛利人来说仍然保留着其社区和文化意义。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MARAE_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VAKA_NUI">
+			<Text>瓦卡努伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VAKA_NUI_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VAKA_NUI_TEXT">
+			<Text>南岛人开发的独特的双体双体船可能是远洋船只的最早例子。这些异常稳定的船只使波利尼西亚人能够探索和定居太平洋上的岛屿。双体船设计在现代重新兴起，因为它们比单体船设计具有许多优势。双体船的复兴也重新激发了人们对波利尼西亚航海和造船业的兴趣，为文化和研究目的建造了许多传统波利尼西亚工艺的重建项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VAKA_NUI_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CACADOR">
+			<Text>卡卡多尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CACADOR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CACADOR_TEXT">
+			<Text>卡卡多骑兵是 18 世纪和 19 世纪葡萄牙军队的精锐轻步兵。这些师以其枪法和棕色外套而闻名，这是军事伪装的最早尝试之一。在葡萄牙被拿破仑击败并占领后，英国代表他们的盟友进行干预，集结并重组联合战争以夺回该国。英国将军威廉·贝雷斯福德组建了卡卡多师，以扮演类似于德国猎兵师或美国游骑兵师的小规模战斗角色。在这支联合军队的领导下，卡卡多军团帮助葡萄牙恢复了独立，并被誉为葡萄牙军队的“斗鸡”，直到这些部队最终在 1911 年的军事改革中被解散。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CACADOR_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_OF_COIMBRA">
+			<Text>科英布拉大学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_OF_COIMBRA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_OF_COIMBRA_TEXT">
+			<Text>科英布拉大学成立于 1290 年，是世界上最古老的高等教育中心之一。该大学由迪尼斯国王创建，当时名为 Lisbon Estudo Geral，最初设有文学院、法学院、教会法学院和医学院。作为葡萄牙 350 年来第一所也是唯一一所大学，科英布拉大学成为葡萄牙教育、政治和社会影响力的焦点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_OF_COIMBRA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FORNIX">
+			<Text>穹窿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FORNIX_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FORNIX_TEXT">
+			<Text>罗马凯旋门（或称穹窿）是独立式拱门，设计用于横跨道路，是一座可以步行穿过的纪念碑，它是罗马建筑的象征。罗马共和国期间，穹顶是为了纪念带领罗马人取得伟大胜利的将军而建造的。将军将带领游行队伍穿过罗马城，直到到达元老院。通常，庆祝活动会通过一系列游戏和宴会而延长。晚期罗马帝国效仿凯旋门及其拱门的半神话传统，但拱门开始更宽松地用于纪念各个皇帝的去世、新殖民地的建立以及其他基础设施的建设。使用大型拱门作为战争纪念馆一直延续到今天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FORNIX_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VILLA">
+			<Text>别墅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VILLA_HELP">
+			<Text>独特的罗马改进。不能建在资源上或邻近城市或其他别墅。[NEWLINE][NEWLINE]一个[ICON_RES_FIGS]无花果资源出现在与正在施工的别墅相邻的无资源瓷砖上，如果该瓷砖无人拥有，则声称该瓷砖。这[ICON_RES_FIGS]当别墅被移除时，无花果资源也会被移除。[NEWLINE]提供额外的[ICON_CULTURE]瓷砖上的文化，+2[ICON_FOOD]食物在[ICON_CAPITAL]首都。[NEWLINE]+1 [ICON_CULTURE]文化与[ICON_GOLD]邻近种植园的黄金。[NEWLINE]+1 [ICON_FOOD]食品和[ICON_GOLD]黄金到邻近的农场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VILLA_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_VILLA_HELP}[NEWLINE][NEWLINE]别墅是上层罗马公民的乡村住宅。随着罗马领土和财富的不断征服和扩张，别墅从社会精英相对简单的度假胜地发展成为名为 Latifundia 的庞大农业土地的奢华中心，Latifundia 是当今农业综合企业的古老前身。第一个大庄园是在公元前 2 世纪初在大希腊（意大利南部）从被征服民族没收的土地上建立的。随着后来征服西班牙和北非，大庄园体系不断扩张。[NEWLINE][NEWLINE]这些庄园的生产力依赖于强迫劳动，而这些生产力往往是由征服前占领土地的同一批人的奴役来提供的。 Latifundia 将农业生产整合到具有更大规模经济的更大庄园中；业主通过购买邻近的小农场来增加自己的持股量，将利润进行再投资。罗马农民被赶出农场，取而代之的是奴隶劳动，被迫在罗马城市寻找工作，尽管他们经常采取占屋和施舍的方式。[NEWLINE][NEWLINE]大庄园成为后来欧洲国家进行帝国实验的模板。西班牙人尤其值得注意的是，他们模仿了晚期罗马大庄园（Latifundia）的恩科米恩达（Encomienda）制度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_VILLA">
+			<Text>建造一座[LINK=IMPROVMENT_VILLA]别墅[​​\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_VILLA_HELP">
+			<Text>建造一座别墅，产生[ICON_CULTURE]瓷砖上的文化并赋予[ICON_FOOD]食物永久保存在[ICON_CAPITOL]首都。[NEWLINE]完成后，一个[ICON_RES_FIGS]无花果资源出现在随机相邻的无资源图块上，如果该图块无人拥有，则声明该图块。[NEWLINE]相邻种植园获得+1[ICON_CULTURE]文化与[ICON_GOLD]金子。[NEWLINE]邻近农场获得 +1[ICON_FOOD]食品和[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_VILLA_REC">
+			<Text>会增加[ICON_FOOD]食品和[ICON_CULTURE]培养并产生[ICON_RES_FIGS]无花果资源。[NEWLINE]提供额外的[ICON_FOOD]食品和[ICON_GOLD]邻近农场的黄金，以及[ICON_GOLD]黄金和[ICON_CULTURE]文化到邻近的种植园。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POGOST">
+			<Text>波戈斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POGOST_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POGOST_TEXT">
+			<Text>作为俄罗斯农村生活的一个机构，Pogost 存在了近一千年，并在这段时间内经历了多次转变。在许多中世纪的俄罗斯国家，波戈斯特最初是贵族和祭司的旅馆和住所，但后来可能兼作社区中心和贸易中心。然而，到了 10 世纪末，波戈斯特已经发展成为整个斯拉夫国家的行政和立法中心。到 1775 年，波戈斯特领导的最后一个行政区被废除，这些建筑被重新用作东正教教堂的教区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POGOST_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LICORNE">
+			<Text>独角兽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LICORNE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LICORNE_TEXT">
+			<Text>Licorne 是俄罗斯“独角兽”大炮的法语名称，因其枪管上形状独特的手柄而得名。独角兽设计于 1757 年，设计灵活，易于射击和运输，并有多种不同的重量和功率。打火机的设计最令人难忘的是它们作为移动马炮的用途，这是俄罗斯的一项创新，它将改变下个世纪欧洲的联合兵种理论。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LICORNE_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VP_ENCAMPMENT">
+			<Text>营地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VP_ENCAMPMENT_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_VP_ENCAMPMENT_HELP}[NEWLINE][NEWLINE]圆锥形帐篷是一种圆锥形帐篷，传统上由动物皮和木杆制成。北美大平原游牧部落的营地使用帐篷。一般而言，圆锥形帐篷通常与美国原住民联系在一起，但来自大平原以外地区的美洲原住民大多使用不同类型的住宅。圆锥形帐篷经久耐用，冬季温暖舒适，夏季凉爽，大雨时干燥。当部落决定搬迁时，圆锥形帐篷可以快速拆卸和打包，并在新地区定居后快速重建。这种便携性对于平原印第安人的游牧生活方式非常重要。现代圆锥形帐篷的盖子通常由帆布制成。圆锥形帐篷的当代使用者包括历史重演者、回归故土的奉献者以及参加礼拜仪式或营地的美国原住民家庭，他们希望保留和传承部分遗产和传统。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_VP_ENCAMPMENT_HELP">
+			<Text>只能建造在平坦的地块上，并且不能与另一个营地相邻。[NEWLINE][NEWLINE]+15% [ICON_STRENGTH]驻扎在该板块中的任何单位的防御强度。任何在该图块旁边结束回合的敌方单位都会受到 5 点伤害（伤害不会与其他改进叠加）。[NEWLINE][NEWLINE]如果在肖肖尼领土内营地的 2 格内，所有肖肖尼单位获得 +20%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENCAMPMENT">
+			<Text>建造一个[LINK=IMPROVMENT_VP_ENCAMPMENT]营地[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENCAMPMENT_HELP">
+			<Text>+15% [ICON_STRENGTH]驻扎在该板块中的任何单位的防御强度。 +20%[ICON_STRENGTH]2 格半径内任何附近肖松尼单位的战斗力。任何在营地附近结束回合的敌方单位都会受到 5 点伤害。[NEWLINE][NEWLINE]只能建造在平坦的地块上，并且不能与另一个营地相邻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENCAMPMENT_REC">
+			<Text>会增加[ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_CULTURE]文化。删除图块上的任何特征。[NEWLINE]为附近的肖松尼单位提供战斗加值，并为图块上的己方单位提供防御加值，并对邻近的敌方单位造成轻微伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALO_POUND">
+			<Text>水牛磅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALO_POUND_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALO_POUND_TEXT">
+			<Text>水牛栏是许多平原部落为诱捕和杀死水牛而建造的大型建筑。大群的水牛被围起来并集中到围栏中，这是一个由兽皮和木头制成的坚固的圆形环，部落成员可以从安全的围墙内投掷长矛和其他导弹武器。[NEWLINE][NEWLINE]水牛是北美平原的主要食物来源，但如果没有马或坚固的武器，狩猎如此大型的动物是很困难的。随着欧洲人的到来以及马和步枪的引入，美洲原住民部落可以长途跋涉攻击野牛群而不受惩罚。然而，美好的时光并没有持续多久，因为欧洲人逐渐蚕食了这种生活方式。大平原越来越多地被改造成美国自耕农的农场和牧场。由于栖息地丧失、工业规模的狩猎以及为使土著居民挨饿而进行的扑杀，美洲水牛被逼到了灭绝的边缘。[NEWLINE][NEWLINE]如今，美洲水牛已经康复，但它们的活动范围已大大限于少数国家公园。商业性农业和运动狩猎仍在继续，但水牛不太可能恢复到历史水平。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALO_POUND_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YELLOW_BROW">
+			<Text>黄眉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YELLOW_BROW_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YELLOW_BROW_TEXT">
+			<Text>黄眉组织（Sh. Ohamupe）是肖肖尼人内部的两个军事社团之一，在其部落内的狩猎、侦察和治安方面发挥着不可或缺的作用。黄眉勇士将自己的头剃成鸡冠花“莫西干”，并将裸露的头部涂成黄色，这也是他们俗称的英文名字的由来。[NEWLINE][NEWLINE]黄眉军团只由最勇敢、最大胆的年轻人组成，其任务是维持狩猎探险、侦察和当兵的秩序。该协会的会员人数从来没有超过几百人。成员在毕业时选出了他们的替代者。年轻的黄眉被期望以逆向的方式行事和说话，作为会员的标志。 例如，当被问及是否愿意加入黄眉会时，预计年轻人会说“不”以表示愿意加入，如果他想拒绝则说“是”。[NEWLINE][NEWLINE]在战斗中，黄眉军团由一名战争首领领导，他手持一根长手杖，手杖的顶端装有石头或金属匕首。 手杖被用来抓住对手并使其下马，或者作为不撤退的信号。如果敌人占了上风，酋长就会把他的参谋打入地下，而勇士们会保卫他到最后。黄眉毛被禁止离开他们酋长的身边，直到部落的另一名成员到来并释放他们。抛弃酋长会遭到卑鄙的嘲笑，并常常导致被部落驱逐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YELLOW_BROW_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELEPHANT_CAMP">
+			<Text>大象营</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELEPHANT_CAMP_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELEPHANT_CAMP_TEXT">
+			<Text>大象通常首先被认为是礼仪和军事工具，但大象对人类社会的最大贡献也许是作为驮兽。即使在现代，大象也被视为劳动力，因为它们能够搬运仅在缅甸和泰国才能找到的浓密柚木木材。成年大象的力量只能与它的优雅相匹配，它可以在困难和不平坦的地形上驮着重物。大象凭借对森林小径的敏锐控制，还减少了伐木道路对周围森林的潜在损害。[NEWLINE][NEWLINE]过去几十年来，随着伐木机械化的发展，东南亚工作象的工作受到了威胁。大象和象夫被迫在旅游和宗教节日中寻找工作，而这些工作对大象来说压力很大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ELEPHANT_CAMP_STRATEGY">
+			<Text>大象营的主要优势来自于+1[ICON_CULTURE]文化到木材厂。这为这些已经很强大的改进增加了很多价值，因此从游戏一开始，就强烈优先考虑在森林和丛林附近定居，并避免砍伐它们。此外，尝试维持许多能够获得战略资源以从+1中受益的城邦盟友[ICON_PRODUCTION]生产及[ICON_GOLD]每个大象营地都有黄金。由于基础已经很坚固，这座建筑可能永远是建造的优先事项，因此请考虑如何研究技术以尽快解锁它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUEA_MOP">
+			<Text>苏埃拖把</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUEA_MOP_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUEA_MOP_TEXT">
+			<Text>尽管暹罗的外交十分出色，但他们偶尔也会与威胁其独立的西方列强发生冲突。当法国人把目光投向老挝时，暹罗人错误地认为英国人会支持他们对抗法国并准备战争。 Suea Mop（“卧虎”）是当时暹罗兵工厂中技术最先进的大炮；沿海火炮可以摧毁任何愚蠢到进入其港口的法国船只。然而，再多的原始权力也无法解释腐败和组织混乱。法国人设法建立了滩头阵地，而泰国的海岸炮兵仍然没有使用。事实证明，有钱能买到的最好的火炮仍然需要发射。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUEA_MOP_STRATEGY">
+			<Text>Suea Mop 在攻击城市时缺乏战斗力加值，使其与普通远程单位相似。然而，如果它在回合攻击前没有移动，它会对单位造成额外 15 点伤害。这忽略了受到攻击的单位的伤害减免和高战斗强度，因此它有效地使 Suea Mop 在攻击城市时同样有效（额外伤害会对所有驻军造成），并且在与单位战斗时非常有效，特别是当它们比你更先进时。此外，当使用 Suea Mop 作为海岸防御时，海岸炮兵推广非常强大，因此您拥有水源的城市比其他城市更安全。由于它的战斗力较低，为了避免在攻击前移动，你必须小心地部署你的军队。[NEWLINE][NEWLINE]对于促销，后勤与 Suea Mop 的协同作用最强，因为你可以每回合两次施加 15 点伤害，或者攻击后可以移动，不会影响下回合的此加成。或者，范围升级将使您能够更加安全地保持静止，从而在处理额外伤害时更加可靠。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUMEY">
+			<Text>古梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUMEY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUMEY_TEXT">
+			<Text>古梅是河边的转口港，用于沿尼日尔河来回运送货物和士兵，然后将货物装上骆驼，开始穿越开阔沙漠的艰苦旅程。甚至在从马里帝国获得独立之前，桑海人就已经通过跨撒哈拉贸易路线的黄金、盐和奴隶贸易变得异常富有。桑海的权力中心位于广阔的撒哈拉沙漠边缘，是北部塔加赞盐矿、西南部金矿以及遥远的埃及和中东市场之间的中转站。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUMEY_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOFA">
+			<Text>沙发</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOFA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOFA_TEXT">
+			<Text>沙发是曼丁哥语，指在西非各帝国军队服役的奴隶士兵。最初，索法斯是士兵贵族法拉里人的马夫，但他们的角色慢慢转变为自己的散兵和士兵。沙发是从战斗中俘获的“jonow”（奴隶）中招募的，或者是从远方购买的。马里和桑海帝国的奴隶制给予忠诚丰厚的奖励，乔诺可以晋升到文职或军事要职。乔诺成为了他们主人氏族的一员，并且经常在一定年限后被释放。[NEWLINE][NEWLINE]沙发上装有两个箭袋，而且按照欧洲标准，它们的弓很小，因此沙发使用致命的毒药并以弧线发射，以增强箭的强度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOFA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPAIN_INQUISITOR">
+			<Text>宗教裁判所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SPAIN_INQUISITOR">
+			<Text>{TXT_KEY_UNIT_HELP_INQUISITOR}[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]没有人预料到西班牙宗教裁判所！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HACIENDA">
+			<Text>庄园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HACIENDA_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_HACIENDA_HELP}[NEWLINE][NEWLINE]庄园是西班牙人建造的殖民地庄园，用于管理和从其本土臣民那里提取资源。庄园是基于财产和企业的授予，而不是像旧的恩科米恩达制度所描述的那样严格授予土著劳动力。庄园通常是大型庄园，但工作性质各不相同，从种植园到采矿，再到工厂。[NEWLINE][NEWLINE]庄园的主人被称为 Hacendado，但富有的地主很少参观他们的土地，而更喜欢住在附近的城市。庄园的日常运营由受聘经理负责。一些异常庞大且利润丰厚的庄园是罗马天主教堂的财产，加剧了当地劳工和基督教工头之间的紧张关系。[NEWLINE][NEWLINE]西班牙帝国解体后，大多数国家废除了庄园制度，但结果好坏参半。将大片土地分割成自给自足的农民的个人土地的努力导致了一些南美国家的贫困。相比之下，拉丁美洲和菲律宾的庄园大多完好无损，但没有与殖民历史相同的法律地位或许可。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HACIENDA_HELP">
+			<Text>不能建在另一个庄园附近。为每个相邻资源获得额外产量：[NEWLINE]+3 [ICON_FOOD]来自奖励资源的食物[NEWLINE]+3 [ICON_PRODUCTION]战略资源生产[NEWLINE]+3 [ICON_GOLD]来自奢侈品资源的黄金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HACIENDA">
+			<Text>建造一座[LINK=IMPROVMENT_HACIENDA]庄园[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HACIENDA_HELP">
+			<Text>+3 [ICON_Food]每个相邻奖励资源的食物+3[ICON_PRODUCTION]每个相邻战略资源的生产，以及+3[ICON_GOLD]每个相邻的豪华资源都是金币。不能建在另一个庄园附近。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HACIENDA_REC">
+			<Text>会增加[ICON_CULTURE]文化。删除图块上的任何特征。[NEWLINE]提供额外的[ICON_FOOD]食物，[ICON_GOLD]黄金，和[ICON_PRODUCTION]生产分别与奖金、战略和奢侈资源相邻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BULLRING">
+			<Text>斗牛场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BULLRING_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BULLRING_TEXT">
+			<Text>西班牙斗牛是一种极其古老且不可抑制的制度，其根源可以追溯到前罗马时期的异教斗牛崇拜。西班牙斗牛的现代化身可以追溯到斗牛大师在仪式和风格上的创新以及 1700 年代末第一个专用斗牛场的建造。从那里，西班牙的斗牛传统传播到了她所有的前殖民地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BULLRING_STRATEGY">
+			<Text>斗牛场通过提供额外的地形来扩展动物园的地形奖励[ICON_CULTURE]文化与[ICON_TOURISM]牧场、森林和丛林旅游。它还通过生成围绕“我们爱国王日”添加独特的奖励[ICON_GOLD]金子，[ICON_CULTURE]文化，以及[ICON_PEACE]当“我们爱国王日”触发与时代的扩展时的信仰，并且城市在完成公共工程项目时进入“我们爱国王日”。[NEWLINE][NEWLINE]为了利用地形/改进奖励，你应该尝试定居并征服拥有大量牧场资源、森林和丛林的城市，尤其是在解锁斗牛场之后。[NEWLINE][NEWLINE]“我们爱国王日”奖金是斗牛场最重要的部分，一旦建成，城市应尝试触发尽可能多的“我们爱国王日”。建设公共工程项目显然是西班牙实现这一目标的独特方式，但您应该考虑优先考虑在所有城市中触发“我们爱国王日”的选项，例如[ICON_GREAT_MERCHANT]伟大的商人贸易代表团，特别是如果你有大量有斗牛场的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMADA">
+			<Text>舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMADA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMADA_TEXT">
+			<Text>“伟大而最幸运的海军”——西班牙无敌舰队，是一支由 130 艘舰船组成的舰队，为入侵英格兰和推翻残暴的改革派伊丽莎白一世而建造。无敌舰队是欧洲有史以来最大的舰队之一，由腓力二世斥巨资组建，以报复英国脱离天主教会、处决苏格兰女王玛丽、支持荷兰反抗西班牙的起义以及伊丽莎白一世的非法性。[NEWLINE][NEWLINE]西班牙船只的数量不及英国海军，但他们的火力却轻松超过了较小的英国船只。然而，最终，赢得胜利的不是火力，而是速度，英国的小型船只能够骚扰缓慢的西班牙主宰舰，击沉了 10 艘船只。当最终被迫撤回西班牙时，一次导航错误使无敌舰队偏离航线，驶向爱尔兰海岸，在那里，猛烈的风暴使船只触礁。当无敌舰队成功到达西班牙时，原来的 130 艘船只剩下 67 艘，船上满是体弱多病、饥饿且士气低落的水手。[NEWLINE][NEWLINE]西班牙无敌舰队的教训为接下来两个世纪的海军战略提供了参考。大炮和远程攻击现在已经取代登船和撞击成为主要的攻击方法。现在的首要任务是击沉而不是捕获。凭借这场惊人的胜利，英国从西班牙手中夺取了海军统治地位，这一领先地位一直保持到美国在二战中崛起。[NEWLINE][NEWLINE]“我派出无敌舰队来对抗人类，而不是上帝的风浪”。[NEWLINE][TAB]- 腓力二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARMADA_STRATEGY">
+			<Text>无敌舰队的主要奖金明显更高[ICON_STRENGTH]如果单位在完全健康状态下开始回合并产生[ICON_GREAT_ADMIRAL]当它摧毁敌方单位时，伟大的海军上将积分。要利用第一个奖励，请在您的舰队完全健康的情况下对敌人进行压倒性的第一次打击。受到伤害后你会明显变弱。[NEWLINE][NEWLINE]这意味着您要优先考虑任何可以为您的船只带来额外收益的事情[ICON_MOVES]移动并确保良好侦察，这样你就可以智取敌人，在他们使用远程攻击损坏你的船只之前获得决定性的先发打击。[NEWLINE][NEWLINE]第二个奖励鼓励使用无敌舰队来进行致命一击。额外的[ICON_GREAT_ADMIRAL]伟大的海军上将点数应该可以让你生成[ICON_GREAT_ADMIRAL]伟大的海军上将比平常更快、数量更多，然后可以用来提供额外的[ICON_STRENGTH]战斗力量并治愈你的舰队，以在关键时刻保持势头。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTU">
+			<Text>巴斯图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTU_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTU_TEXT">
+			<Text>瑞典的 Bad Stuga（浴室小屋）或 Bastu 是一个小小屋，设计用于沐浴和干热水疗。在顾客进入之前，炉子或火炉会将房间加热到 200°F，他们会躺在那里流汗。巴斯图斯是一个社交场所，是与家人和朋友讨论和放松的场所，但在早期也是食品加工和分娩的场所。[NEWLINE][NEWLINE]我们不知道斯堪的纳维亚汗水浴是在何时何地首次创建的，但它早在斯堪的纳维亚半岛基督教化之前就已存在，这一点可以从它们在整个中世纪欧洲的普遍存在中得到证明。当书面记载首次描述斯堪的纳维亚汗浴时，北欧国家已经在其周围创造了各种不同的文化。[NEWLINE][NEWLINE]热浴对健康的好处是多种多样的。治疗已被证明可以缓解感冒症状并提高疼痛阈值。它们还有助于缓解风湿疼痛和疲劳，甚至可以降低患痴呆症的风险。然而，长时间使用桑拿浴室会降低男性生育能力，因此在酒精作用下切勿享受热水浴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTU_STRATEGY">
+			<Text>Bastu 的主要独特优点是它不需要淡水，可以获得额外的[ICON_RESEARCH]来自工作苔原瓷砖的科学，并产生[ICON_CULTURE]消费时的文化[ICON_GREAT_PEOPLE]伟人与时代一起扩展。[NEWLINE][NEWLINE]前两个奖励主要集中在您定居城市的地方，因为它允许您在定居淡水地点方面拥有较低的优先级，并提高工作苔原瓷砖的产量，这与瑞典的起始偏差一致。[NEWLINE][NEWLINE]第三个奖金是最有影响力的，因为它产生了大量的[ICON_CULTURE]文化随着时代和你建立巴图的城市数量而扩展。这意味着你通常希望专注于生成所有类型的[ICON_GREAT_PEOPLE]伟大的人们尽可能多地触发这一点，这与瑞典的独特能力和诺贝尔委员会很好地协同作用。[NEWLINE][NEWLINE]你还想尝试利用瑞典的军事优势积极扩张，并愿意在其他文明可能不会优先考虑的没有淡水的城市和苔原上定居，以便你可以建造尽可能多的巴斯图。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_COMMITTEE">
+			<Text>诺贝尔委员会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_COMMITTEE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_COMMITTEE_TEXT">
+			<Text>诺贝尔奖是由诺贝尔基金会管理的奖项，按照“为人类最大利益”的原则颁发。该奖项于 1901 年首次颁发，当时正值阿尔弗雷德·诺贝尔逝世五周年。每位获奖者都必须就与其奖项主题相关的主题进行公开演讲。获奖者在获奖时会得到一笔奖金，具体数额取决于诺贝尔基金会每年可以颁发的奖金数额。截至 2023 年，每个奖项类别的奖金为 1100 万瑞典克朗 (SEK)，相当于约 103.5 万美元。瑞典颁奖典礼结束后，斯德哥尔摩市政厅蓝厅举行宴会，瑞典王室成员和约1,300名嘉宾出席。诺贝尔和平奖颁奖典礼结束后，宴会在挪威奥斯陆大酒店举行。诺贝尔奖被广泛认为是各自领域最负盛名的奖项，在学术日历中发挥着重要作用，并在全球范围内得到广泛报道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOBEL_COMMITTEE_STRATEGY">
+			<Text>诺贝尔委员会的主要独特优势是它可以更早地使用两个技术级别，额外的[ICON_RESEARCH]科学对每个人[ICON_GREAT_WORK]伟大的工作，额外[ICON_CULTURE]每个学院的文化，额外[ICON_RESEARCH]科学与[ICON_CULTURE]每所公立学校的文化，以及[ICON_GOLD]使用 Era plus 进行黄金缩放[ICON_INFLUENCE]对你在花费时遇到的所有城邦的影响[ICON_GREAT_PEOPLE]伟人。[NEWLINE][NEWLINE]为了利用所有这些奖金，您首先要专注于在每个城市建设公立学校，并专注于产生尽可能多的公立学校[ICON_GREAT_PEOPLE]尽可能伟大的人。这与瑞典的独特能力和 Bastu 很好地协同作用，因为它们都根据支出提供奖金[ICON_GREAT_PEOPLE]伟大的人民。[NEWLINE][NEWLINE]奖金[ICON_INFLUENCE]如果您正在生成，对您所遇到的所有城邦的影响可能会相当大[ICON_GREAT_PEOPLE]伟大的人经常。这可以让瑞典与许多城邦结盟，要么转向外交胜利，要么开辟额外的战线来对抗敌人，以推动统治胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIAZZA_SAN_MARCO">
+			<Text>圣马可广场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIAZZA_SAN_MARCO_TEXT">
+			<Text>圣马可广场（英语中通常称为圣马可广场）是意大利威尼斯的主要公共广场，通常被称为“广场”（la Piazza）。城市中的所有其他城市空间（Piazzetta 和 Piazzale Roma 除外）都称为“campi”（田野）。 Piazzetta（“小广场”）是广场向东南角泻湖的延伸（见平面图）。这两个空间共同构成了威尼斯的社会、宗教和政治中心，并且通常被一起考虑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIAZZA_SAN_MARCO_STRATEGY">
+			<Text>独特的威尼斯替代品{TXT_KEY_BUILDING_NATIONAL_EPIC}。除了奖金之外{TXT_KEY_BUILDING_NATIONAL_EPIC}, {TXT_KEY_BUILDING_PIAZZA_SAN_MARCO}提供额外的[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_GOLD]金子，[ICON_RESEARCH]科学，[ICON_CITY_SECURITY]城市安全，以及[ICON_WAR]军事供应，以及对城市的额外推动[ICON_GREAT_PEOPLE]伟大的人民一代。该建筑还减少了购买民用单位的冷却时间并消除了购买军事单位的冷却时间。解锁威尼斯一次建造 3 座独特建筑中的 1 座的能力[COLOR_CYAN]行会[ENDCOLOR]被研究。与{TXT_KEY_BUILDING_NATIONAL_EPIC}， 这{TXT_KEY_BUILDING_PIAZZA_SAN_MARCO}随着发现[COLOR_CYAN]{TXT_KEY_TECH_WRITING_TITLE}[ENDCOLOR]，不需要{TXT_KEY_BUILDING_MONUMENT}在城市，但只能建在[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIAZZA_SAN_MARCO_HELP">
+			<Text>解锁访问权限[COLOR_POSITIVE_TEXT]穆拉诺玻璃厂[ENDCOLOR], [COLOR_POSITIVE_TEXT]威尼斯军械库[ENDCOLOR]， 和[COLOR_POSITIVE_TEXT]里亚托区[ENDCOLOR]一次[COLOR_CYAN]行会[ENDCOLOR]被研究。[NEWLINE]可能的主题奖励：[NEWLINE][ICON_BULLET] +8 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GREAT_WORK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIALTO_DISTRICT">
+			<Text>里亚托区</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIALTO_DISTRICT_TEXT">
+			<Text>几个世纪以来，里亚托一直是威尼斯的金融和商业中心。它是意大利威尼斯圣保罗区的一个地区，也以其市场和横跨大运河的里亚托桥而闻名。该地区于九世纪有人定居，当时雷阿廷群岛中部、布西尼亚库斯河两侧的一小片地区被称为 Rivoaltus，即“高岸”。最终，布西尼亚库斯被称为大运河，而该地区被称为里亚托，仅指左岸地区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIALTO_DISTRICT_STRATEGY">
+			<Text>威尼斯建成后可以在其首都建造的三座相互排斥的建筑之一{TXT_KEY_BUILDING_PIAZZA_SAN_MARCO}。这座建筑提供了额外的[ICON_INTERNATIONAL_TRADE]贸易路线槽；提升了价值[ICON_INTERNATIONAL_TRADE]往返城市的贸易路线；产生[ICON_GOLD]黄金基于您的帝国人口；减少了[ICON_GOLD]购买帝国单位和建筑物的黄金成本，并提供额外的[ICON_DIPLOMAT]世界大会代表根据您的[ICON_GOLD]黄金收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RIALTO_DISTRICT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARSENALE_DI_VENEZIA">
+			<Text>威尼斯军械库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARSENALE_DI_VENEZIA_TEXT">
+			<Text>威尼斯兵工厂是一个由前造船厂和军械库组成的建筑群，聚集在意大利北部威尼斯市。军械库归国家所有，在公元第二个千年中期负责威尼斯共和国的大部分海军力量。是历史上最早的大型工业企业之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARSENALE_DI_VENEZIA_STRATEGY">
+			<Text>威尼斯建成后可以在其首都建造的三座相互排斥的建筑之一{TXT_KEY_BUILDING_PIAZZA_SAN_MARCO}。这座建筑提升了[ICON_PRODUCTION]生产及内部[ICON_INTERNATIONAL_TRADE]贸易路线；增加[ICON_STRENGTH]城市实力和[ICON_SILVER_FIST]来自人口的军事供应；并增强了[ICON_STRENGTH]战斗力和[ICON_MOVES]所有海军单位的移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARSENALE_DI_VENEZIA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MURANO_GLASSWORKS">
+			<Text>穆拉诺玻璃厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MURANO_GLASSWORKS_TEXT">
+			<Text>穆拉诺岛作为玻璃制造中心的声誉始于 1291 年，威尼斯共和国担心火灾和城市大部分木制建筑遭到破坏，命令玻璃制造商将铸造厂迁至穆拉诺岛。穆拉诺玻璃至今仍与威尼斯玻璃联系在一起。穆拉诺岛的玻璃制造商很快就跻身岛上最著名的公民之列。到了十四世纪，玻璃制造商被允许佩戴剑，享有免受威尼斯政府起诉的豁免权，并发现他们的女儿嫁给了威尼斯最富裕的家庭。虽然玻璃制造商享有某些法定特权，但他们被禁止离开共和国。然而，他们中的许多人冒着移民的风险，在周边城市和更远的地方，甚至在英格兰和荷兰建立了玻璃熔炉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MURANO_GLASSWORKS_STRATEGY">
+			<Text>威尼斯建成后可以在其首都建造的三座相互排斥的建筑之一{TXT_KEY_BUILDING_PIAZZA_SAN_MARCO}。提高所有城市伟人瓷砖改良和村庄的价值，启用或加强历史事件[ICON_INTERNATIONAL_TRADE]贸易路线完成，并包含 2 个插槽[ICON_GREAT_WORK]伟大的艺术作品或文物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MURANO_GLASSWORKS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MURANO_GLASSWORKS">
+			<Text>穆拉诺杰作系列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MURANO_GLASSWORKS_THEMING_BONUS_HELP">
+			<Text>为了最大限度地提高您的奖金，请确保这两件伟大的作品都是由建筑所有者创作的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CATTARO">
+			<Text>卡塔罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORFU">
+			<Text>科孚岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORON">
+			<Text>科隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CANDIA">
+			<Text>坎迪亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHIOGGIA">
+			<Text>基奥贾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MODON">
+			<Text>莫东</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERACLEA">
+			<Text>埃拉克莱亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AQUILEA">
+			<Text>阿奎莱亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SPALATO">
+			<Text>斯帕拉托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZADAR">
+			<Text>扎达尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FUSTA">
+			<Text>福斯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FUSTA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FUSTA_TEXT">
+			<Text>Fusta，即帆船，是一种小型桨帆船，水手不超过 35 人。威尼斯人最初用它们来维持一支常备海军以对抗海盗，因为它极其轻便和快速，但它很快就成为海盗们最喜欢的船。福斯塔号的浅吃水、机动性和速度使它们成为整个地中海的传奇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FUSTA_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_01">
+			<Text>拉纳夫阿尔梅拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_02">
+			<Text>贝尔纳达教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_03">
+			<Text>拉纳夫乔雷萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_04">
+			<Text>中殿孔塔里娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_05">
+			<Text>拉伯爵夫人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_06">
+			<Text>拉纳夫多纳达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_07">
+			<Text>拉菲加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_08">
+			<Text>拉格拉德尼加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_09">
+			<Text>拉纳夫格里马纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_10">
+			<Text>拉利奥纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_11">
+			<Text>拉纳夫马利皮耶拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_12">
+			<Text>拉马塞拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_13">
+			<Text>拉纳夫马尔泽拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_14">
+			<Text>拉纳夫莫斯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_15">
+			<Text>潘多拉殿堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_16">
+			<Text>拉纳夫万神殿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_17">
+			<Text>拉纳夫帕斯夸里加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_18">
+			<Text>拉佩尔马里纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_19">
+			<Text>拉西米特科拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_20">
+			<Text>拉纳夫索兰萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_21">
+			<Text>拉纳夫文德拉米纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_22">
+			<Text>韦涅拉教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_23">
+			<Text>祖斯蒂尼亚纳教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_24">
+			<Text>拉胶束</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GALLEASS_25">
+			<Text>拉纳维迪塔拉梅玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IZIKO">
+			<Text>伊兹科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IZIKO_HELP">
+			<Text>可能的主题奖励：[NEWLINE][ICON_BULLET] +4 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]外国的[ENDCOLOR] [ICON_GW_WRITING]. [NEWLINE][ICON_BULLET] +4 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GW_WRITING].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IZIKO_TEXT">
+			<Text>Iziko 是一个简单的壁炉，用作祖鲁族社区的聚集地。壁炉被尊崇为食物、温暖、梦想和祖先纽带的源泉。正是通过这些聚会，形成了社区意识和认同感，年轻的祖鲁人可以表演并建立联系。[NEWLINE][NEWLINE]壁炉被用来比喻伊西卡塔米亚舞台表演中的“歌曲烹饪”，这是传统祖鲁音乐的现代分支。梦是与祖先交流的重要组成部分，也是根深蒂固的祖鲁宗教的一部分。一些伊斯卡塔米亚音乐家声称他们的一些歌曲是在精神领域创作的或由他们的祖先赋予他们的。[NEWLINE][NEWLINE]“一个人之所以成为一个人，是因为其他人”[NEWLINE][TAB]- 祖鲁谚语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IZIKO_STRATEGY">
+			<Text>Iziko 的主要独特优势在于，当您的任何单位升级并随着您在帝国中建造的城市数量而扩展时，它会提供文化。这与祖鲁独特能力很好地协同作用，因为每个单位级别所需的经验较少。[NEWLINE][NEWLINE]为了最大化奖金，你应该尝试建造而不是购买军事单位，这样他们就可以拥有完整的经验，并拥有尽可能多的建筑物和其他提供起始单位经验的奖金。你通常还想积极地与祖鲁人一起玩，这样你就可以通过战斗积极获得经验，以升级你现有的单位，并扩张以拥有更多城市来建造 Iziko。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA">
+			<Text>因杜纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_TEXT">
+			<Text>InDuna 可以广泛地指代商业、政治和战争领域的任何男性领袖。因杜纳 (InDuna) 负责指挥每一个由年轻祖鲁人组成的军团，或称为“ibutho”，而他又向控制该军团的高级伊津杜纳 (izinDuna) 负责。这些年长的酋长中的一个或多个可能会伴随一支大部队执行一项重要任务，但没有一个“陆军元帅”指挥所有祖鲁军队。伊津杜纳团的士兵，就像当今军队的士官一样，对于士气和纪律非常重要。这一点在伊桑德瓦纳战役中得到了证明，恩奇瓦约·卡马霍尔领导的军队以智取胜并摧毁了一支英军纵队。 Ntshingwayo kaMahole 和他的战友 izinDuna 将一支 20,000 人的祖鲁军队偷偷地藏在英军后方，将他们隐藏在距英军营地仅 7 英里的山谷中。当侦察兵发现他们静静地坐着时，izinDuna 立即激励他们的士兵采取行动，并以闪电般的速度拉近了剩余的距离。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_STRATEGY">
+			<Text>InDuna 相对于伟大将军的主要独特奖励是，当消耗它时，它可以为与其堆叠的单位提供经验，并创建一个 Isibaya，可以放置一个[ICON_RES_COW]与其相邻的牛资源和相邻牧场获得+1[ICON_CULTURE]文化。[NEWLINE][NEWLINE]伊西巴亚仍应主要用于军事目的，如城堡，但在可能的情况下，应考虑尝试将其建造在城市的工作半径内并毗邻牧场，以便获得经济奖励。[NEWLINE][NEWLINE]在建造 Isibaya 时，您应该始终确保有一个军事单位与 InDuna 堆叠在一起，并且通常最好尝试为更高级别的单位（尤其是远程或攻城单位）提供奖励经验。这是因为与近战单位相比，这些单位类型更容易保持更长的生存时间，并且它们获得经验的速度往往更慢，因此奖励经验更有影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_01">
+			<Text>姆齐利卡齐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_02">
+			<Text>姆博帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_03">
+			<Text>恩钦瓦约·卡马霍尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_04">
+			<Text>纳撒尼尔·艾萨克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_05">
+			<Text>卡松皮斯恩德莱拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_06">
+			<Text>乌姆戈博齐·奥韦拉·恩塔贝尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_07">
+			<Text>农加拉萨·卡农德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_08">
+			<Text>达布拉曼齐·坎潘德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_09">
+			<Text>丹布扎·恩佐博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_10">
+			<Text>恩科博卡·姆蒂亚内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_11">
+			<Text>马布霍德拉·姆布亚齐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_12">
+			<Text>门兹瓦·比耶拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_13">
+			<Text>晚会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_14">
+			<Text>乌明达巴·坎塔蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_15">
+			<Text>马武蒙瓦纳·坎德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_16">
+			<Text>兹布赫布·卡马菲塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUNA_17">
+			<Text>曼约西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ISIBAYA">
+			<Text>伊西巴亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ISIBAYA_TEXT">
+			<Text>{TXT_KEY_IMPROVEMENT_ISIBAYA_HELP}[NEWLINE][NEWLINE]伊西巴亚 (Isibaya) 是祖鲁人的家园和防御建筑。伊西巴亚 (Isibaya) 呈圆形布局，中心是牛圈，周围环绕着小屋、栅栏和泥墙。其布局和功能让人想起欧洲的畜栏，因此南非荷兰语将 Amabaya 称为“畜栏”。[NEWLINE][NEWLINE]牛是祖鲁王国生活和经济的核心。牛是地位、财富和权力的象征，在为祖鲁军队的阿马布托军团提供食物和武装方面发挥着重要作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ISIBAYA_HELP">
+			<Text>独特的祖鲁伟人瓷砖改进，取代了城堡。只能由一个构造{TXT_KEY_UNIT_INDUNA}.[NEWLINE][NEWLINE]提供[ICON_PRODUCTION]生产，[ICON_RESEARCH]科学，以及[ICON_CULTURE]文化。相邻牧场获得+1[ICON_CULTURE]文化。[NEWLINE][NEWLINE]建造一个 Isibaya 会占用相邻的瓷砖并放置一个[ICON_RES_COW]毗邻它的牛资源。[NEWLINE][NEWLINE]站在 Isibaya 上的单位获得 +100%[ICON_STRENGTH]瓷砖防御。对相邻敌方单位造成 30 点伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ISIBAYA">
+			<Text>构建一个 [LINK=IMPROVMENT_ISIBAYA]Isibaya[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ISIBAYA_HELP">
+			<Text>只能建在拥有的领土上或靠近你自己的边界的无主瓷砖中，并且不能与其他伊西巴亚相邻。删除图块上的任何特征。[NEWLINE][NEWLINE]建造伊西巴亚将扩大你的文化边界以包围伊西巴亚，增加你的文化边界[ICON_WAR]军事单位补给上限增加 1，放置一个[ICON_RES_COW]相邻图块上的牛资源，并将消耗该单位。如果新的文化边界声称其他文明已经拥有的格子，您将因此受到外交惩罚。[NEWLINE][NEWLINE]+100% [ICON_STRENGTH]驻扎在该板块中的任何单位的防御强度。对相邻敌方单位造成 30 点伤害。提供+1[ICON_CULTURE]文化到邻近的牧场。包含[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]，允许拥有的单位在攻击后留在该区域并[COLOR_POSITIVE_TEXT]运河[ENDCOLOR]，允许友好[COLOR_POSITIVE_TEXT]海[ENDCOLOR]遍历它的单位。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

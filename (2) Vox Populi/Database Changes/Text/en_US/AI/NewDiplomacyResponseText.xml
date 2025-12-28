@@ -177,4 +177,168 @@
 			<Text>Your great power knows no bounds. Our weakness makes us a tempting target. Your protection is humbly requested.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GENERIC_MAPS_OFFER">
+			<Text>我们想向您购买世界地图。你会接受吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_TECH_OFFER">
+			<Text>我们想向您购买一项技术。这是可以接受的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_VASSAL_HOSTILE_1">
+			<Text>你对我的人民的奴役让我们所有人都感到尴尬。你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_VASSAL_HOSTILE_2">
+			<Text>哦，暴君又露脸了。你想如何进一步剥削我们？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_VASSAL_HOSTILE_3">
+			<Text>哦？是什么让暴君来到我家门口？你是来进一步唾弃我们和我们的骄傲的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_VASSALX_1">
+			<Text>欢迎，主人，来到我的土地。我可以如何提供服务？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_VASSALX_2">
+			<Text>问候！我希望您很高兴知道我们的工作人员正在努力生产资源供您使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_VASSALX_3">
+			<Text>啊，欢迎大师！您向我们寻求什么帮助？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_VASSALAGE_MASTER_1">
+			<Text>哦，快看，我的小宠物来看我了。你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_VASSALAGE_MASTER_2">
+			<Text>你的手下最好努力创造资源来取悦我。你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_HOSTILE_VASSALAGE_MASTER_3">
+			<Text>你站在你的上级面前。跪在我面前，否则。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_MASTER_1">
+			<Text>这是什么？我的封臣来访？这是你提供的贡品吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_MASTER_2">
+			<Text>啊，我众多仆人之一？你有什么可以提供的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_VASSALAGE_MASTER_3">
+			<Text>我保证我的士兵将保护你和你的土地。你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKE_VASSALAGE_HOSTILE_1">
+			<Text>我们厌倦了你们对我们的可悲统治，并准备为重新获得独立而战斗至死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKE_VASSALAGE_HOSTILE_2">
+			<Text>放弃对我们帝国的控制，否则后果自负。哪个听起来是更明智的计划？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKE_VASSALAGE_HOSTILE_3">
+			<Text>我的人民想要独立，你无法阻止我们。现在，我们可以通过简单的方法或困难的方法来做到这一点。选择权在你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKE_VASSALAGEX_1">
+			<Text>现在是我的人民在这个世界上寻找自己道路的时候了。我们渴望一个独立的国家。你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKE_VASSALAGEX_2">
+			<Text>我的臣民不再容忍你们对我们帝国的占领，我发出正式请求，要求你们允许我的人民作为一个独立的主权国家生活。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKE_VASSALAGEX_3">
+			<Text>我们相信终止我们附庸协议的时候到了。我们的人民渴望独立统治。你会接受这个吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_HUMAN_PEACEFUL_1">
+			<Text>我的人民感谢您决定给予我们独立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_HUMAN_PEACEFUL_2">
+			<Text>你们释放我的人民真是太慷慨了。你有我的感激之情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_HUMAN_PEACEFUL_3">
+			<Text>恢复我们的独立对你来说非常仁慈。愿未来的几个世纪都记住这一天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_HUMAN_WAR_1">
+			<Text>很好。我们的人民将为确保我们的独立而战斗到底。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_HUMAN_WAR_2">
+			<Text>你选择毫无意义地让你的部下为此流血。我们的人民不会回避独立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_HUMAN_WAR_3">
+			<Text>那么很好。我们将誓死捍卫我们的自由。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_PEACEFUL_1">
+			<Text>很好。我们给予你们独立并承认你们的人民是一个独立国家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_PEACEFUL_2">
+			<Text>我接受。你摆脱了我帝国的控制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_PEACEFUL_3">
+			<Text>明白了。我们接受您的独立权利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_FORCEFUL_1">
+			<Text>你认为你在跟谁说话？我的傀儡不会轻易离开我。现在我要镇压你们的叛乱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_FORCEFUL_2">
+			<Text>你真以为我会那么轻易放你走吗？哈!不……现在准备死吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_REVOKED_FORCEFUL_3">
+			<Text>你疯了，对吧？你真的以为我会那么可悲吗？我很乐意将你们的军队打成碎片。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_ATTACKED_VASSAL_1">
+			<Text>我相信你会保护我们，但你却攻击我们。真丢脸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_ATTACKED_VASSAL_2">
+			<Text>你真是太野蛮了！你答应保护我们的人民，结果却攻击我们！别搞错了，我会杀了你，而当我这样做时，你会受苦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_VASSALAGE_ATTACKED_VASSAL_3">
+			<Text>你是我们的保护者。据说你会消灭我们的攻击者，而不是加入他们！为我们双方带来繁荣，而不是让我们陷入黑暗！你迷失了，现在，全世界都会知道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_VASSALAGE_TRADE_REVOKE_1">
+			<Text>你们的附属国家迫切需要独立。你能听到吗？来吧，要花多少钱才能让你听？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_VASSALAGE_TRADE_REVOKE_2">
+			<Text>我求求你了，释放你的臣民吧。这个优惠够诱人吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_VASSALAGE_TRADE_REVOKE_3">
+			<Text>独立是一项自然权利。来吧，让我们为了你们的封臣达成协议，恢复平衡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSALAGE_LIBERATED_HUMAN_1">
+			<Text>这种善意的举动不会很快被忘记。你为我的人民提供了自由。我永远欠你的债。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSALAGE_LIBERATED_HUMAN_2">
+			<Text>需要一位明智而勇敢的领导人才能以正派和自由的名义撤销他们的主张。我的人民将在未来的几个世纪里庆祝我们的独立日。你有我的感激之情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSALAGE_LIBERATED_HUMAN_3">
+			<Text>我们感谢您承认我们的人民是一个独立国家。愿我们的人民共同生活，成为盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_LIBERATE_VASSAL_1">
+			<Text>我们决定撤销对你们土地的所有权。你可以作为一个自由人继续生活。你不再是我们的附庸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_LIBERATE_VASSAL_2">
+			<Text>我相信我们作为你主人的时代已经结束了。我授予你独立性。愿我们未来仍然是伟大的盟友。你不再是我们的附庸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_LIBERATE_VASSAL_3">
+			<Text>经过深思熟虑，我们决定终止我们的协议并给予您自由。愿我们的帝国在未来的时代蓬勃发展。你不再是我们的附庸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_RAISED_HUMAN_MASTER_1">
+			<Text>我对你们选择提高我们的税收感到失望。这笔钱属于我的人民。请放心，我们的关系已经受到伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_RAISED_HUMAN_MASTER_2">
+			<Text>求求你们，怜悯我们的商人吧。你们的税收扰乱了我们的经济。我对你选择走这条路感到失望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_RAISED_HUMAN_MASTER_3">
+			<Text>你们增加我们的税收是不可接受的。掌控我们的政治事务还不足以满足你们的贪欲吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_LOWERED_HUMAN_MASTER_1">
+			<Text>我们很高兴听到您降低了我们的税收。我们只能希望这是美好事物即将到来的迹象。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_LOWERED_HUMAN_MASTER_2">
+			<Text>我感谢你们对我们的税收减免。我们承诺，从长远来看，我们经济的增长将帮助我们两国摆脱困境。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_LOWERED_HUMAN_MASTER_3">
+			<Text>我们发现您降低税收的决定将拉近我们人民之间的距离。我们谢谢你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_RAISED_AI_MASTER_1">
+			<Text>统治另一个国家会给我们带来巨大的成本。我们决定提高你们的税收。我希望你能理解。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSAL_TAXES_LOWERED_AI_MASTER_1">
+			<Text>我很高兴地宣布，我已经降低了你们的税收。没有你的帮助，我们的帝国也能蓬勃发展，我认为没有必要让我们的关系变得不必要的紧张。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSALAGE_BECOME_VASSAL_1">
+			<Text>我的弱点是全世界都看得见的。请接受我的效忠。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESPONSE_VASSALAGE_BECOME_VASSAL_2">
+			<Text>你的伟大力量是无止境的。我们的弱点使我们成为诱人的目标。恳请您的保护。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

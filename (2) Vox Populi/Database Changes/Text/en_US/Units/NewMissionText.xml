@@ -11,4 +11,15 @@
 			<Text>Unit must be in owned territory to use this ability.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MISSION_FREE_LUXURY">
+			<Text>发现之旅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_FREE_LUXURY_HELP">
+			<Text>如果该单位位于拥有的领土内，此命令将消耗该单位，为您提供两个[COLOR_POSITIVE_TEXT]自由的[ENDCOLOR]随机豪华资源的副本，优先考虑该地图上不可用且当前未拥有的资源。[NEWLINE][NEWLINE]这些资源不会出现在地图上，如果地图上不存在，则不计入垄断，但可以与其他文明进行交易。还增加你的[ICON_WAR]军事供应1。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_FREE_LUXURY_HELP_DISABLED">
+			<Text>单位必须位于所属领土内才能使用此能力。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

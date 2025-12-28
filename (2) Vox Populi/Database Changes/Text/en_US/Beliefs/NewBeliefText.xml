@@ -121,4 +121,120 @@
 			<Text>+2 [ICON_PEACE] Faith[NEWLINE]+1 [ICON_WAR] Military Supply[NEWLINE][NEWLINE]+5 [ICON_PEACE] Faith when an owned Unit defeats a Military Unit.[NEWLINE][NEWLINE]+15 XP for Military Units trained in the City.[NEWLINE][NEWLINE]+25% Religious Pressure towards other Cities if this Religion is the Majority Religion of the City.[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3] Unhappiness from [ICON_FOOD] and [ICON_PRODUCTION] Distress.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_BELIEF_MORRIGAN">
+			<Text>获得[ICON_GOLD]金子，[ICON_CULTURE]文化，以及[ICON_GOLDEN_AGE]杀死敌方单位所获得的黄金时代积分等于其 200%[ICON_STRENGTH]力量增益20[ICON_GOLD]金子，[ICON_CULTURE]文化，以及[ICON_GOLDEN_AGE]当你掠夺进步并随着时代扩展时获得黄金时代点。 +2[ICON_GREAT_GENERAL]同乐会大厅的重要要点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MORRIGAN_SHORT">
+			<Text>莫瑞甘，先驱者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EPONA">
+			<Text>+3 [ICON_CULTURE_LOCAL]边境增长。增益+8[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_RESEARCH]科学，以及[ICON_CULTURE]每当城市自然地扩展其边界时，文化就会随着时代的发展而扩展。 +5[ICON_CULTURE_LOCAL]同乐会大厅的边界增长。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EPONA_SHORT">
+			<Text>艾波娜，伟大的母马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NUADA">
+			<Text>+15% [ICON_GOLD]黄金和[ICON_RESEARCH]“我们爱国王的日子”期间的科学。 +3[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_GOLDEN_AGE]您的黄金时代积分[ICON_CAPITAL]拥有或进口的每一种独特的奢华资源的首都/圣城。 +3[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_GOLDEN_AGE]每条进出城市的活跃贸易路线均可获得黄金时代积分。 +5[ICON_GOLD]来自同乐会大厅的黄金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NUADA_SHORT">
+			<Text>白银之手努阿达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CERNUNNOS">
+			<Text>+1 [ICON_FOOD]食品和[ICON_GOLD]来自森林的黄金。 +1[ICON_FOOD]食品和[ICON_PRODUCTION]丛林生产。 +1[ICON_RESEARCH]科学与[ICON_CULTURE]来自营地和种植园的文化。 +2[ICON_CULTURE]来自同乐会大厅的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CERNUNNOS_SHORT">
+			<Text>塞尔努诺斯（Cernunnos），长角雄鹿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_LUGH">
+			<Text>+2 [ICON_FOOD]食物，[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_CULTURE]文化，如果城市有专家。 +10%[ICON_PRODUCTION]生产目标[ICON_WONDER]奇迹。 +2[ICON_CULTURE]文化与[ICON_TOURISM]旅游从[ICON_WONDER]世界奇观。 +3[ICON_PRODUCTION]由同乐会大厅制作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_LUGH_SHORT">
+			<Text>卢格，技术精湛的人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RHIANNON">
+			<Text>+2 [ICON_CULTURE]文化。 +1[ICON_PRODUCTION]生产及[ICON_GOLD]黄金来自[COLOR_POSITIVE_TEXT]改进的[ENDCOLOR]资源。 +5[ICON_GOLDEN_AGE]同乐会大厅的黄金时代积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RHIANNON_SHORT">
+			<Text>雷安农，君主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MANANNAN">
+			<Text>+3 [ICON_FOOD]食物，[ICON_PRODUCTION]生产，以及[ICON_GOLD]如果城市是黄金[COLOR_POSITIVE]沿海[ENDCOLOR]. +1 [ICON_PRODUCTION]水砖生产和+1[ICON_GOLD]渔船上的黄金。 +2[ICON_GREAT_ADMIRAL]同乐会大厅的伟大海军上将观点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MANANNAN_SHORT">
+			<Text>玛南南，海之子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_OGMA">
+			<Text>+1 [ICON_RESEARCH]每4人的科学[ICON_CITIZEN]城市中的公民。 +1[ICON_RESEARCH]科学与[ICON_CULTURE]文化来自[ICON_GREAT_WORK]伟大的作品。 +3[ICON_RESEARCH]科学与[ICON_CULTURE]宫廷文化。 +3[ICON_GREAT_SCIENTIST]伟大的科学家点和[ICON_GREAT_ARTIST]您的伟大艺术家积分[ICON_CAPITAL]首都/圣城。 +5[ICON_RESEARCH]来自同乐会大厅的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_OGMA_SHORT">
+			<Text>奥格玛，博学者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DAGDA">
+			<Text>+25% [ICON_FOOD]成长和+1[ICON_HAPPINESS_1]幸福。 +12[ICON_PRODUCTION]生产，[ICON_GOLD]黄金，和[ICON_CULTURE]文化当[ICON_CITIZEN]Citizen 诞生，与 Era 一起扩展。 +5[ICON_FOOD]同乐会大厅的食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DAGDA_SHORT">
+			<Text>达格达，万神之父</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_BRAN">
+			<Text>+1 [ICON_PRODUCTION]生产，[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_CULTURE]宫廷文化。 +1[ICON_PRODUCTION]生产，[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_CULTURE]你的文化[ICON_CAPITAL]拥有城市中每 4 个万神殿追随者的首都/圣城。 +25% 城市[ICON_RANGE_STRENGTH]远程战斗力。单位在所属领土内每回合恢复 +10 生命值。 +2[ICON_HAPPINESS_1]来自同乐会大厅的幸福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_BRAN_SHORT">
+			<Text>布兰，沉睡的守护者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CAILLEACH">
+			<Text>+1 [ICON_FOOD]食品和[ICON_PRODUCTION]城市每生产 2 个苔原地块的产量。 +1[ICON_FOOD]食物，[ICON_PRODUCTION]生产，[ICON_RESEARCH]科学，以及[ICON_CULTURE]雪瓦文化与资源。 +1[ICON_GOLD]黄金和[ICON_CULTURE]采石场和矿山的资源文化。 +5[ICON_TOURISM]来自同乐会大厅的旅游。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CAILLEACH_SHORT">
+			<Text>卡耶奇，冬季女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURDWARA">
+			<Text>使用[ICON_PEACE]购买谒师所的信心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURDWARA_SHORT">
+			<Text>谒师所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TEOCALLI">
+			<Text>使用[ICON_PEACE]购买 Teocallis 的信心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TEOCALLI_SHORT">
+			<Text>特奥卡利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_COMMUNALISM">
+			<Text>[ICON_FOOD]食品和[ICON_PRODUCTION]生产内部贸易路线产生+3的各自产量，并随时代扩展。 +2[ICON_PRODUCTION]如果城市有专家，则进行生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_COMMUNALISM_SHORT">
+			<Text>合作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_TOOLTIP">
+			<Text>+2 [ICON_PEACE]信仰[NEWLINE]+2 [ICON_GOLD]金子[NEWLINE][NEWLINE]+1 [ICON_GOLD]黄金运往城市经营的农场、牧场和采石场。[NEWLINE][NEWLINE]+10 [ICON_GOLD]当城市自然扩张并随时代扩展时为黄金。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+25%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_GOLD]贫困。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHURCH_TOOLTIP">
+			<Text>+4 [ICON_PEACE]信仰[NEWLINE]+2 [ICON_CULTURE]文化[NEWLINE][NEWLINE]+1 [ICON_PEACE]对所有人的信仰[ICON_GREAT_WORK]城市里的伟大作品。[NEWLINE][NEWLINE]开始 15 圈[ICON_HAPPINESS_1]“我们爱国王日”建成时。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+40%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_CULTURE]无聊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GURDWARA_TOOLTIP">
+			<Text>+2 [ICON_PEACE]信仰[NEWLINE]+3 [ICON_FOOD]食物[NEWLINE]+10% [ICON_FOOD]食物[NEWLINE][NEWLINE]+10% [ICON_STRENGTH]城市力量源自建筑。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+25%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_FOOD]和[ICON_PRODUCTION]苦恼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR_TOOLTIP">
+			<Text>+3 [ICON_PEACE]信仰[NEWLINE]+2 [ICON_FOOD]食物[NEWLINE][NEWLINE]当出现以下情况时，所有产量+5[ICON_CITIZEN]公民诞生于这座城市，与时代一起成长。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+15%，而信奉其他宗教或积极传播其他宗教的城市对该城市的宗教压力为-10%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_GOLD]贫困。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOSQUE_TOOLTIP">
+			<Text>+3 [ICON_PEACE]信仰[NEWLINE]+2 [ICON_RESEARCH]科学[NEWLINE][NEWLINE]+15% [ICON_CULTURE]期间的文化[ICON_GOLDEN_AGE]黄金时代。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+25%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_RESEARCH]文盲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORDER_TOOLTIP">
+			<Text>+2 [ICON_PEACE]信仰[NEWLINE]+3 [ICON_GOLD]金子[NEWLINE][NEWLINE]获得[ICON_PEACE]信仰等于10%[ICON_PRODUCTION]完成军事单位生产时的生产成本。[NEWLINE][NEWLINE]+10% [ICON_RANGE_STRENGTH]城市打击力量。[NEWLINE][NEWLINE]所有现有和未来在本市接受培训的合格单位都将获得[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_MORALE}[ENDCOLOR]晋升。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+25%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_FOOD]和[ICON_PRODUCTION]苦恼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAGODA_TOOLTIP">
+			<Text>+2 [ICON_PEACE]信仰[NEWLINE][NEWLINE]每项的所有收益+1[ICON_RELIGION]城市中至少有一名追随者的宗教。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_CULTURE]无聊和-2[ICON_HAPPINESS_3]不快乐来自[ICON_RELIGION]宗教动乱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STUPA_TOOLTIP">
+			<Text>+3 [ICON_PEACE]信仰[NEWLINE]+3 [ICON_GOLDEN_AGE]黄金时代积分[NEWLINE]+5 [ICON_TOURISM]旅游[NEWLINE]+1 [ICON_HAPPINESS_1]幸福[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+25%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_RESEARCH]文盲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_TOOLTIP">
+			<Text>+2 [ICON_PEACE]信仰[NEWLINE]+3 [ICON_PRODUCTION]生产[NEWLINE][NEWLINE]+10% [ICON_RESEARCH]期间的科学[ICON_HAPPINESS_1]“我们爱国王日”。[NEWLINE][NEWLINE]-15% 来自信奉其他宗教或积极传播其他宗教的城市对该城市的宗教压力。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_FOOD]和[ICON_PRODUCTION]苦恼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_TOOLTIP">
+			<Text>+2 [ICON_PEACE]信仰[NEWLINE]+1 [ICON_WAR]军用补给[NEWLINE][NEWLINE]+5 [ICON_PEACE]当拥有的单位击败军事单位时的信仰。[NEWLINE][NEWLINE]在城市受训的军事单位+15 XP。[NEWLINE][NEWLINE]如果该宗教是该城市的多数宗教，则对其他城市的宗教压力+25%。[NEWLINE][NEWLINE]-1 [ICON_HAPPINESS_3]不快乐来自[ICON_FOOD]和[ICON_PRODUCTION]苦恼。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

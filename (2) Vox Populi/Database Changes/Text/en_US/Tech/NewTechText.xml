@@ -14,4 +14,18 @@
 			<Text>[NEWLINE][TAB][TAB]"I don't build in order to have clients. I have clients in order to build."[NEWLINE][TAB][TAB]  - Howard Roark[NEWLINE][TAB]</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TECH_CORPORATIONS_TITLE">
+			<Text>企业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CORPORATIONS_DESC">
+			<Text>“corporation”一词源自拉丁文corpus，意为“身体”或“一群人”。到查士丁尼时代（527-565 年在位），罗马法承认了一系列名为 universitas、corpus 或 collegium 的公司实体。其中包括国家本身（罗马人）、市政当局以及宗教崇拜的赞助者、丧葬俱乐部、政治团体以及工匠或贸易商行会等私人协会。这些机构通常有权拥有财产和签订合同、接受礼物和遗产、起诉和被起诉以及一般情况下通过代表履行法律行为。私人协会被皇帝授予指定的特权和自由。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CORPORATIONS_HELP">
+			<Text>可以让你找到[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]，它们是强大的游戏后期机构，如果您对其扩张进行投资，它们将极大地增强您的贸易路线和全球实力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CORPORATION_QUOTE_SPLASH">
+			<Text>[NEWLINE][TAB][TAB]“我建造不是为了拥有客户。我拥有客户是为了建造。”[NEWLINE][TAB][TAB] - 霍华德·洛克[NEWLINE][制表符]</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

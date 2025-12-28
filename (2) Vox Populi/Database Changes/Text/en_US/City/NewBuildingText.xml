@@ -1131,4 +1131,1008 @@
 			<Text>To maximize your bonus, make sure both Great Works were created by you.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_BUILDING_COALING_STATION">
+			<Text>加煤站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COALING_STATION_STRATEGY">
+			<Text>极大地促进了城市生产和黄金，特别是在基本收益率较高的城市。促进内部食品贸易路线，因此最好在已经可以发送最强大的内部贸易路线的城市中建立。[NEWLINE][NEWLINE]需要工业城市连接（有关更多详细信息，请参阅概念）。[NEWLINE][NEWLINE]另外还需要煤炭，如果你的所有城市都没有足够的煤炭，那么就需要与工厂进行权衡。虽然加煤站通常更强大，但帝国内每建造一个工厂，单个工厂的产量就会增加 2 个。因此，你拥有的城市越多，工厂就越强大，超过特定数量的加煤站，通常在 6 到 12 个之间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COALING_STATION_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COALING_STATION_TEXT">
+			<Text>在蒸汽时代，人们利用化石燃料来运输货物和人员，其数量是早期方法不可能实现的。如此多的商业活动需要建立燃料库来储存蒸汽动力船舶和火车的煤炭。这些加煤站战略性地分布在主要海运和铁路枢纽沿线，确保世界各地的高效运输。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATH">
+			<Text>洗澡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATH_STRATEGY">
+			<Text>巴斯产生文化，并提高城市中寺庙、花园和露天剧场的黄金和文化产量。在黄金时代也会产生额外的文化。浴场只能建在靠近淡水的城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATH_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BATH_TEXT">
+			<Text>纵观历史，社会设计了将水输送到人口中心的系统。古希腊利用小浴缸、洗脸盆和足浴来清洁个人。最早发现的浴缸可以追溯到公元前二千年中期，在克里特岛克诺索斯的宫殿建筑群中，以及在圣托里尼岛阿克罗蒂里出土的豪华雪花石膏浴缸。希腊人在体育馆内建立了公共浴室和淋浴，以供放松和个人卫生。事实上，gymnasium一词源自希腊语gymnos，意思是裸体。古罗马开发了一个渡槽网络，为所有大城市和人口中心供水，并拥有室内管道系统，管道终止于家庭、公共水井和喷泉。罗马公共浴场被称为“Thermae”。随着罗马帝国的衰落，渡槽网络年久失修，大部分不再使用。在中世纪，洗澡通常在公共浴室进行。然而，公共场合裸体受到当时礼拜仪式派别的反对。公共浴池也是卖淫的天堂，这引起了人们对公共浴池的反对。有钱人在家洗澡，最有可能在卧室里，因为“浴室”并不常见。洗澡是在大木桶里进行的，里面铺有亚麻布，以保护沐浴者免受碎片的伤害。此外，在文艺复兴和新教改革期间，服装的质量和状况（而不是身体本身的实际清洁度）被认为反映了个人的灵魂。衣着干净也体现了一个人的社会地位；衣服造就了男人或女人。此外，从中世纪晚期到18世纪末，礼仪和医学手册建议人们只清洗公众可见的身体部位；例如，耳朵、手、脚、脸和脖子。这就取消了公共浴室，把自己的清洁工作留给了自己家里的隐私。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL">
+			<Text>理事会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL_STRATEGY">
+			<Text>每当城市发展时，委员会就会产生科学，并且很早就可以使用。如果您希望比竞争对手拥有技术优势，请建造这座建筑，尽管这种优势的价值会随着城市变得更大而减弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL_TEXT">
+			<Text>理事会是有组织的社区中的管理机构。这在生存文化中最为常见，理事会成员资格是成为社区政治领袖的条件或品质。随着时间的推移，随着社区的发展，理事会的重要性逐渐减弱，取而代之的是更大的治理机构。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMOKEHOUSE">
+			<Text>熏制室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMOKEHOUSE_STRATEGY">
+			<Text>熏制室可以提高营地和营地资源的产量，并在您的城市索取新瓷砖时为其提供食物。在你的帝国各地建造熏制房，以提高营地的当地产量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMOKEHOUSE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SMOKEHOUSE_TEXT">
+			<Text>烟熏房是用烟熏肉或鱼的建筑物。成品可能会存放在建筑物中，有时长达一年或更长时间。即使不使用烟雾，这种建筑物（通常是附属建筑物）有时也被称为“烟房”。将肉悬挂起来，以免害虫接触到。传统上，熏制室是一个小型封闭式附属建筑，通常有通风口、单一入口、没有窗户，并且通常有山墙式或金字塔式屋顶。使用来自非常缓慢的硬木火的稍微温暖的干燥空气可确保肉类的适当干燥。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALLERY">
+			<Text>画廊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALLERY_STRATEGY">
+			<Text>画廊促进了伟大艺术家的创作，增强了您的艺术家协会和伟大作品。在您的公会城市中建造画廊，以促进艺术家和伟大作品的生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALLERY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALLERY_TEXT">
+			<Text>美术馆是专门展示绘画或雕塑等视觉艺术的空间。原来的画廊是私人宫殿和教堂里长长的有顶走廊，里面摆满了私人艺术收藏品，以显示身份。如今，许多美术馆都是公有的，向公众展示艺术的历史、教育和审美价值。画廊继续成为当地艺术家、艺术收藏家和美术界时尚引领者交流和推广的场所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERBALIST">
+			<Text>草药师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERBALIST_STRATEGY">
+			<Text>草药师可以促进城市的发展，并提高附近丛林、森林、沼泽地块以及种植园的产量。尽早构建它们以最大化奖励，并利用具有大量特征的区域。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERBALIST_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERBALIST_TEXT">
+			<Text>草药学是将植物用于药用目的，以及对这种用途的研究。在人类历史的大部分时间里，植物一直是医学治疗的基础，这种传统医学至今仍被广泛应用。现代医学将草药学视为替代医学的一种形式，因为草药学的实践并不严格基于使用科学方法收集的证据。然而，现代医学确实利用许多植物源化合物作为经过证据测试的药物的基础，而植物疗法致力于将现代有效性测试标准应用于源自天然来源的草药和药物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WELL">
+			<Text>出色地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WELL_STRATEGY">
+			<Text>该井只能建在城市中，不能建在河上。该井根据城市人口增加城市的产量，但效率低于水磨坊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WELL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WELL_TEXT">
+			<Text>木衬井源于新石器时代早期的线性陶器文化，例如公元前 5090 年的库克霍芬（埃尔克伦茨的外围中心）和奥地利施莱茨（扎亚河畔阿斯帕恩的外围中心）的埃斯拉，公元前 5200 年。澳大利亚原住民依靠水井在严酷的澳大利亚沙漠中生存。他们会向下挖掘，挖出沙子和泥土以获得干净的水，然后用三齿稃覆盖水源以防止腐败。非原住民将这些称为“原生井”、“浸泡池”或“浸泡池”。阶梯井在印度西部很常见。在这些井中，可以通过下降一组台阶到达水。它们可能被覆盖并且通常具有建筑意义。许多阶梯井也用于休闲，缓解白天的炎热。坎儿井是一种古老的集水系统，由一系列井和相连的地下水道组成，通常从远处的水源收集流动的水，储存起来，然后利用重力将水带到地表。伊朗以及亚洲和北非其他干旱国家的大部分人口历来依赖坎儿井的水。人口地区与可能存在坎儿井的地区密切相关。在埃及，使用 shadoofs 和 sakiehs。然而，相比之下，Sakkieh 的效率要高得多，因为它可以从 10 米深的地方提水（而 Shadoof 的水深为 3 米）。 Sakieh 是 Noria 的埃及版本。从铁器时代开始，井就成为常见的考古特征，既有木井，也有柳条制成的井衬。世界上已知最古老的水井位于塞浦路斯，其历史可追溯至公元前 7500 年。以色列发现了两口新石器时代（公元前 6500 年左右）的井。一个是在以色列北部海岸的阿特利特，另一个是耶斯列谷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIND_PLANT">
+			<Text>风力发电厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIND_PLANT_STRATEGY">
+			<Text>风力发电厂增加了城市附近所有可加工瓷砖的生产、文化和科学产出，并提高了工作流程的效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIND_PLANT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIND_PLANT_TEXT">
+			<Text>风力发电是将风能转化为有用的能源形式，例如使用风力涡轮机产生电力、风车产生机械动力、风泵用于抽水或排水、或风帆来推进船舶。大型风电场由数百台连接到电力传输网络的单独风力涡轮机组成。对于新建建筑来说，陆上风电是一种廉价的电力来源，可以与化石燃料发电厂竞争，或者在许多地方比化石燃料发电厂更便宜。小型陆上风电场为偏远地区提供电力。公用事业公司越来越多地购买小型家用风力涡轮机产生的剩余电力。海上风力比陆地风力更稳定、更强，海上风电场的视觉影响较小，但建设和维护成本要高得多。风电作为化石燃料的替代品，具有资源丰富、可再生、分布广泛、清洁、运行过程中不产生温室气体排放、占用土地少等优点。与其他电源相比，对环境的影响通常较小。截至2011年，丹麦超过四分之一的电力来自风能，全球有83个国家正在使用风能为电网供电。 2010年，风能产量占全球总用电量的2.5%以上，并以每年25%以上的速度快速增长。风电每年都非常稳定，但在较短的时间范围内变化很大。随着一个地区风电比例的增加，可能需要升级电网，并且替代传统发电的能力可能会降低。电力管理技术，例如拥有过剩容量的存储、地理上分布的涡轮机、可调度的后备电源、抽水蓄能水力发电等存储、向邻近地区输出和输入电力或在风力发电较低时减少需求，可以大大缓解这些问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIDAL_PLANT">
+			<Text>潮汐发电厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIDAL_PLANT_STRATEGY">
+			<Text>潮汐能是一座原子时代的建筑，只能在沿海城市建造。潮汐发电厂增加了[ICON_PRODUCTION]生产，[ICON_RESEARCH]科学，[ICON_FOOD]食物，以及[ICON_GOLD]城市工作的每块海洋瓷砖的黄金产量都提高了工作流程的效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIDAL_PLANT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIDAL_PLANT_TEXT">
+			<Text>潮汐发电厂是可再生能源，利用潮汐能产生可用的电能。潮汐能可以采取多种形式，包括类似于海底风力涡轮机的固定式或系留式涡轮机，或模仿传统水力发电站的潮汐坝。与风能和太阳能相比，潮汐能解决方案因其一致性和可预测性而特别有吸引力。[NEWLINE][NEWLINE]在各种可用的可再生能源解决方案中，潮汐能是最年轻的，但仍然是最有问题的。腐蚀和磨损是潮汐能广泛部署的代价高昂的障碍，而且高流速的潜在地点数量有限。如今，潮汐发电仅占全球发电总量的不到 1%，发电设施分布在法国、英国、韩国和加拿大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GROCER_STRATEGY">
+			<Text>杂货店是一座文艺复兴时期的建筑，只有在城市中建造了渡槽后才能建造。杂货商可以帮助您的城市更快地发展，消除贫困，并提高香蕉的产量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GROCER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GROCER_TEXT">
+			<Text>早在 14 世纪，杂货商（或“供应商”）就是销售香料、辣椒、糖以及（后来的）可可、茶和咖啡等干货食品的经销商。这些商品是批量购买的，因此“groscer”一词源自法语“grossier”，意思是批发商，该术语源自中世纪拉丁语“grossarius”，我们也从中衍生出“grossarius”一词（意思是数量为十二打，或 144）。随着越来越多的主食出现在罐头和其他不易腐烂的包装中，贸易范围扩大了。如今，杂货店经营各种主食，包括肉类、农产品和乳制品等易腐烂食品。因此，此类商品是杂货。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGRIBUSINESS">
+			<Text>农业综合企业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGRIBUSINESS_STRATEGY">
+			<Text>农业综合企业是一座工业时代的建筑，只有当您已经在城市中建造了一家杂货店时才能建造。农业综合企业可以极大地提高您城市的农场和牧场的产量，如果您的城市粮食产量较高，则可以显着提高 GPT。然而，在骑兵仍然相当强大的时代，使用马匹是一个危险的权衡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGRIBUSINESS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGRIBUSINESS_TEXT">
+			<Text>农业综合企业是农业生产的企业。该术语由 Goldberg 和 Davis 于 1957 年创造。它包括农用化学品、育种、作物生产（农业和订单农业）、分销、农业机械、加工和种子供应，以及营销和零售。食品和纤维价值链的所有参与者以及影响该价值链的机构都是农业综合企业系统的一部分。在农业产业中，“农业综合企业”仅用作农业和商业的混合词，指现代食品生产所涵盖的活动和学科的范围。世界各地的农业企业、农业企业贸易协会、农业企业出版物等都设有学位和部门。农业综合企业的例子包括种子和农用化学品生产商，如陶氏益农、杜邦、孟山都和先正达； AB Agri（英国联合食品公司旗下）动物饲料、生物燃料和微量成分、ADM、谷物运输和加工；约翰迪尔，农业机械生产商； Ocean Spray，农民合作社；和普瑞纳农场（Purina Farms），农业旅游农场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_REFINERY">
+			<Text>炼油厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_REFINERY_STRATEGY">
+			<Text>炼油厂是一座现代建筑，只能在 5 个城市建造。精炼厂可以帮助您的生产，并分别生产 1 种铁、煤和石油资源，但维护成本很高。仅当您发现自己没有这些重要的游戏后期战略资源时才进行构建。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_REFINERY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_REFINERY_TEXT">
+			<Text>精煤是应用煤炭提质技术的产物，该技术去除次烟煤和褐煤（褐煤）等低阶煤中的水分和某些污染物并提高其热值。煤炭精炼或提质技术通常是燃烧前处理和/或在燃烧之前改变煤炭特性的过程。燃烧前煤炭提质技术的目标是提高煤炭燃烧时的效率并减少排放。根据具体情况，可以采用燃烧前技术代替燃烧后技术或作为燃烧后技术的补充来控制燃煤锅炉的排放。精炼煤的主要好处是能够减少目前发电机排放的碳净排放量，并减少建议通过新兴碳封存方法管理的排放量。精炼煤技术主要是在美国开发的，澳大利亚维多利亚州也研究、开发和测试了几种类似的技术，其中包括致密煤技术（冷干工艺），该技术开发用于改变褐煤的化学键，以创造出更清洁、稳定（不易自燃）、可出口且具有足够高热值的产品，可与黑煤等价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTION_FORT">
+			<Text>堡垒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTION_FORT_STRATEGY">
+			<Text>堡垒是一座文艺复兴时期的军事建筑，可提高防御强度并将所有传入伤害减少 2 点，使城市更难以占领。它允许城市间接进行远程打击，忽略视线。驻守单位在这座城市中治疗时可获得额外 5 点生命值。使该城市人口提供的军事单位增加 10%。还有助于管理该城市的帝国规模修改器。在建造堡垒之前，城市必须拥有一座城堡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTION_FORT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASTION_FORT_TEXT">
+			<Text>随着大炮开始主宰战场，军事工程师面临着设计静态防御工事的压力，这些防御工事必须能够抵御可能撕裂早期石头城堡外墙的武器。新的重点放在了土方工程和倾斜或有角度的墙壁上，这些墙壁可以吸收或偏转炮弹的撞击。新型防御工事采用多边形形状，带有许多堡垒和角墙，三角形的露头总是向敌人呈现有角度的表面。这些堡垒使攻击者无法直接击中平坦的幕墙，而大炮可以造成最大的伤害。与此同时，这些舷墙沿着附近城墙的长度提供了重叠的火场，形成了“死区”，攻击者会暴露在多堵墙的枪林弹雨之下。[NEWLINE][NEWLINE]这些新的堡垒是为了应对 1500 年代初法国多次入侵意大利而建造的。正是米开朗基罗本人设计了最早的堡垒之一，以保卫他的家乡佛罗伦萨免受法国人的侵害，而设计从意大利传播到欧洲，乃至全球其他地区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MINEFIELD">
+			<Text>雷区</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MINEFIELD_STRATEGY">
+			<Text>雷区是一座现代建筑，只有在拥有足够的铁并且已经在城市中建造了港口的情况下才能建造。雷区就位后，敌方船只在进入城市领土后会立即被阻止，并且不再安全地坐在范围之外的当地海洋板块上以免受来自陆地的报复。由于其资源需求，雷区最好限制在特别容易受到海军围攻的地点。使用雷区来削弱海军入侵，然后用自己的海军智取其胜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MINEFIELD_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MINEFIELD_TEXT">
+			<Text>水雷是一种放置在水中的独立爆炸装置，用于损坏或摧毁水面舰艇或潜艇。与深水炸弹不同的是，水雷会被埋置并等待，直到敌方船只接近或接触而触发。水雷可以用于进攻——阻碍敌方航运活动或将船只锁入港口；或防御性 - 保护友方船只并创建“安全”区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERPRETIVE_CENTER">
+			<Text>解说中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERPRETIVE_CENTER_STRATEGY">
+			<Text>解说中心大大增强了地标改造的力量，将文化从瓷砖转化为旅游，极大地助力了文化胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERPRETIVE_CENTER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERPRETIVE_CENTER_TEXT">
+			<Text>解说中心是一个提供有关附近文化、历史或自然景点的公共教育的机构。与博物馆不同，解说中心很少包含文物或收藏品，但主要是为游客提供背景信息，以了解景观中某些事物的历史或相关性。由于保存和保护不是解说中心工作的一部分，因此与传统博物馆相比，解说中心通常可以更具互动性并更好地利用现代媒体。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOSPITAL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUSEUM_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MARKET_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WALLS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOSSEUM_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHANCERY">
+			<Text>办公厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHANCERY_STRATEGY">
+			<Text>提高外交单位的生产速度并增加在城市中建造的外交单位所受到的影响力。这栋大楼的公务员专家提供了一些[ICON_CULTURE]文化，[ICON_RESEARCH]科学与[ICON_GOLD]黄金，换取[ICON_FOOD]食物。城邦盟友的额外收益增加了游戏中期积极城邦关系的价值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHANCERY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHANCERY_TEXT">
+			<Text>中世纪早期，大臣官邸作为许多王室的一个分支在欧洲出现。大臣们的任务是发布法庭文件、管理王室法令、主持司法和评估君主的收入，他们涉足包括外交在内的治国方略的各个方面。在近代早期，随着王国和国家的规模和范围不断扩大，大法官的权力不断扩大，直到 17 世纪和 18 世纪，大多数西方国家在法律上将大法官分为多个更具体的机构。由此可见，大法官是现代公务员制度的鼻祖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIRE_SERVICE">
+			<Text>有线服务</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIRE_SERVICE_STRATEGY">
+			<Text>提高外交单位的生产速度并增加在城市中建造的外交单位所受到的影响力。这栋大楼的公务员专家提供了一些[ICON_CULTURE]文化，[ICON_RESEARCH]科学与[ICON_GOLD]黄金，换取[ICON_FOOD]食物。来自城邦朋友和盟友的额外收益增加了游戏后期积极城邦关系的价值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIRE_SERVICE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIRE_SERVICE_TEXT">
+			<Text>尽管今天被认为是理所当然的，但地区、国家乃至国际新闻机构（或通讯社）的建立对世界经济、政治和文化的互联互通来说是一个重大的福音。通过在全球范围内标准化通信的速度、质量和稳定性，现代新闻机构不仅有助于传播大众知识和知识，而且还有助于加速政府之间的对话。最终，大多数国家将建立专注于外交事务和外交的国家通讯服务。其中许多组织都受到国家外交部的控制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCRIVENERS_OFFICE">
+			<Text>书记员办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCRIVENERS_OFFICE_STRATEGY">
+			<Text>这个国家奇观在首都建造外交单位时可以小幅提高产量，并且一个[ICON_RES_PAPER]纸张资源。如果你想在游戏的前几个时代获得一两个城邦盟友，就建造这座建筑。来自城邦朋友和盟友的额外收益增加了早期积极的城邦关系的价值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCRIVENERS_OFFICE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCRIVENERS_OFFICE_TEXT">
+			<Text>皇家书士的职位及其办公室是公务员队伍中最古老和最重要的职位之一。尽管现代国家有数百名公务员负责撰写、编辑和发布政府文件，但在古代世界，这些任务通常交给一个人，即书记员。抄写员拥有巨大的权力，因为他们控制着国家法律的措辞、翻译和解释。由于这种巨大的力量，一个优秀、忠诚的代书人是一种无价的资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRINTING_PRESS">
+			<Text>印刷机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRINTING_PRESS_STRATEGY">
+			<Text>除非城市有大法官办公室，否则无法建造这个国家奇迹。建造它可以提高其建造城市中外交单位的生产速度，增加所有外交单位的移动和影响力，并能够让你的外交单位忽略地形惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRINTING_PRESS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRINTING_PRESS_TEXT">
+			<Text>到 15 世纪末，印刷业从德国美因茨的一家印刷店扩展到中欧、西欧和东欧至少 270 个城市。早在 1480 年，人们就认为“印刷书籍在欧洲已得到普遍使用”。到 1500 年，整个西欧运转的印刷机已经印刷了超过 2000 万份。欧洲约有 1,600 台印刷机，每个工作日可印刷 3,600 印张。相比之下，远东的活字印刷没有印刷机，仅靠手工将纸张背面摩擦到页面上来完成，每天的产量不超过四十页。印刷文本生产的迅速发展以及单位成本的急剧下降导致了第一批报纸的发行，为向公众传达最新信息开辟了一个全新的领域。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOREIGN_BUREAU">
+			<Text>外交部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOREIGN_BUREAU_STRATEGY">
+			<Text>除非城市有通讯社，否则无法建造这个国家奇迹。建造它可以提高其建造城市中外交单位的生产速度，增加所有外交单位的移动和影响力，并且能够在没有任何限制的情况下派遣你的外交单位穿过竞争对手的领土。[COLOR_POSITIVE_TEXT]开放边界[ENDCOLOR]协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOREIGN_BUREAU_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOREIGN_BUREAU_TEXT">
+			<Text>外交部位于现代帝国的中心。外交部的大厅里挤满了源源不断的公务员、外交官和助理，所有重要的和平凡的新闻都会通过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_FINANCE_CENTER">
+			<Text>国际金融中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_FINANCE_CENTER_STRATEGY">
+			<Text>除非该城市有证券交易所，否则无法建造这个国家奇迹。建造这个国家奇迹，根据您当前与其他玩家的友谊宣言数量，在世界大会上获得更多代表。您还将获得其所在城市的粮食和黄金产量的大幅提升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_FINANCE_CENTER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_FINANCE_CENTER_TEXT">
+			<Text>金融中心是一座全球城市，拥有众多国际知名银行、企业和证券交易所。国际金融中心，有时缩写为 IFC，是一个非特定术语，通常用于描述国际金融市场交易的重要参与者，通常拥有至少一个主要股票市场。在 20 世纪的大部分时间里，美国及其金融首都纽约市一直处于领先地位。但自 20 世纪 90 年代以来，随着新的地区大国和全球资本主义的多极世界的崛起，众多金融中心挑战了华尔街的主导地位，特别是来自亚洲的金融中心，一些分析师认为亚洲将成为全球新增长的焦点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_CULTURE_SCIENCE">
+			<Text>文化科学宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_CULTURE_SCIENCE_STRATEGY">
+			<Text>除非该城市有一所公立学校，否则无法建造这个国家奇迹。建造这个国家奇迹，根据您当前拥有的防御条约和附庸的数量，在世界大会上接收更多代表。您还将获得其所在城市的文化和科学产出的巨大提升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_CULTURE_SCIENCE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_CULTURE_SCIENCE_TEXT">
+			<Text>华沙文化科学宫是波兰最高的建筑，也是欧盟第八高的建筑。该建筑最初被称为约瑟夫·斯大林文化科学宫，但在去斯大林化之后，对斯大林的奉献被撤销；斯大林的名字从内部大厅和大楼的一尊雕塑中被删除。目前它是世界第 187 高楼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HALL_OF_HONOR">
+			<Text>荣誉殿堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HALL_OF_HONOR_STRATEGY">
+			<Text>除非这座城市有军事学院，否则无法建造这个国家奇迹。建造这个国家奇迹，根据你征服的敌方首都的数量，在世界大会上获得更多的代表。您还将获得其所在城市的旅游和生产产出的大幅提升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HALL_OF_HONOR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HALL_OF_HONOR_TEXT">
+			<Text>“Ehrenhalle”（荣誉厅）是纽伦堡市根据德国建筑师弗里茨·迈耶的计划建造的。它于 1930 年落成，希特勒时代之前的魏玛共和国。这是一个拱廊大厅，毗邻一个鹅卵石露台，露台上有两排火盆基座。所有 14 座塔实际上都完好无损，自 1938 年 9 月纳粹党最后一次集会以来就没有被点燃过。最初，该大厅是为了纪念在第一次世界大战中阵亡的 9,855 名纽伦堡士兵。在 1929 年党代表大会期间，当时尚未完工的“荣誉大厅”首次被国家社会主义者用来举行对死者的崇拜。第三帝国时期，纳粹主要利用该遗址纪念第一次世界大战阵亡士兵，以及纪念 1923 年 11 月 9 日慕尼黑“希特勒政变”（即所谓的“国民服役运动烈士”）（啤酒馆政变）中的 16 名阵亡者。希特勒在党卫军领导人海因里希·希姆莱和冲锋队领导人维克多·卢策的陪同下，大步穿过竞技场，从主看台到埃伦大厅的露台，长达240米长的花岗岩小道，并在那里行纳粹礼。仪式是庆典活动的高潮。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STONEHENGE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NALANDA">
+			<Text>那烂陀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NALANDA_HELP">
+			<Text>可能的主题奖励：[NEWLINE][ICON_BULLET] +6 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]国内的[ENDCOLOR] [ICON_GW_WRITING].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NALANDA_TEXT">
+			<Text>那烂陀大寺是一座由寺庙、图书馆、天文台和露天剧场组成的建筑群，占地 30 英亩，位于现代印度东部的比哈尔邦。那烂陀是最早可以被视为大学的机构之一，其课程包括哲学、认识论、神学、医学、数学、占星术和炼金术。除了其教育作用外，那烂陀在七个多世纪里接待了佛教界一些最有影响力的思想家和讲师，并吸引了来自亚洲各地的访问学者。这所大学在六世纪笈多帝国的衰落中幸存下来，并随着帕拉帝国的崛起而获得了强大的赞助人，但随着穆斯林入侵印度而结束。考古证据表明，伊斯兰入侵者曾3次洗劫那烂陀，僧侣和学者要么被杀，要么被迫逃离。印度中央政府已承诺在旧院落的废墟附近建立一所新的那烂陀大学，作为一所现代化大学。恢复后的那烂陀大学于2020年迎来了第一届学生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_NALANDA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“雨可以变成金，但你的干渴仍然无法消除。欲望是无法抑制的，否则就会以泪水结束。”[NEWLINE][TAB][TAB] - 乔达摩悉达多[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOTRE_DAME_HELP">
+			<Text>可能的主题奖励：[NEWLINE][ICON_BULLET] +8 [ICON_CULTURE]和[ICON_TOURISM]两个人[COLOR_POSITIVE_TEXT]外国的[ENDCOLOR] [ICON_GW_MUSIC]从[COLOR_POSITIVE_TEXT]不同的文明[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROMAN_FORUM">
+			<Text>罗马广场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROMAN_FORUM_STRATEGY">
+			<Text>建设这个世界奇迹，通过训练有素的外交单位永久促进您与城邦的关系。提供一名免费的伟大外交官，可派往附近的城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROMAN_FORUM_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROMAN_FORUM_TEXT">
+			<Text>罗马广场（拉丁语：Forum Romanum）是一个长方形的论坛（广场），周围环绕着罗马市中心几座重要的古代政府建筑的废墟。几个世纪以来，它一直是罗马公共生活的中心：凯旋游行和选举的场所，公开演讲、刑事审判、角斗比赛和商业事务的场所。它是古罗马熙熙攘攘的中心，被称为世界上乃至历史上最著名的聚会场所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_ROMAN_FORUM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我发现罗马是一座砖砌之城，却留下了一座大理石之城。”[NEWLINE][TAB][TAB] - 奥古斯都·凯撒[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMMER_PALACE">
+			<Text>颐和园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMMER_PALACE_STRATEGY">
+			<Text>为您的外交单位创造这一奇迹，使其能够比其他人早几个世纪进入对手的领土，而无需签署开放边界协议。增强你的帝国中所有机遇的效力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMMER_PALACE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMMER_PALACE_TEXT">
+			<Text>颐和园是在中世纪晚期和近代早期分阶段修建的，是清朝早期权力和威力的一座宏伟的宏伟建筑，与北京的皇帝主宫相对应。颐和园以其精美的园林景观、郁郁葱葱的花园和壮丽的景色而闻名，至今仍然是近代中国实力的重要象征和受欢迎的旅游目的地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SUMMER_PALACE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“君主制是所有形式的政府中最昂贵的……依靠自己的权力进行统治的人必须通过贿赂那些他无法恐吓的积极进取的人来加强这种权力。”[NEWLINE][TAB][TAB] - 詹姆斯·库珀[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KARLSTEJN">
+			<Text>卡尔施泰因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KARLSTEJN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KARLSTEJN_TEXT">
+			<Text>卡尔施泰因城堡是一座风景如画的波西米亚防御工事，距离现代捷克共和国布拉格郊外不远。这座城堡于 1365 年竣工，收藏有波西米亚帝国的王权和皇冠珠宝以及众多其他文物和宝藏。胡斯战争期间，这座城堡被胡斯派围攻，这是欧洲第一次主要的新教运动，比马丁·路德和新教宗教改革早一个多世纪开始。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_KARLSTEJN_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“寻求真理、聆听真理、学习真理、热爱真理、说出真理、坚持真理、誓死捍卫真理。”[NEWLINE][TAB][TAB] - 扬·胡斯[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOHO_FOUNDRY">
+			<Text>苏豪铸造厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOHO_FOUNDRY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SOHO_FOUNDRY_TEXT">
+			<Text>Soho Foundry 由詹姆斯·瓦特 (James Watt) 和马修·博尔顿 (Matthew Boulton) 于 1795 年成立，用于生产瓦特的最新发明：蒸汽机。詹姆斯·瓦特是一位聪明的修补匠，对旧的纽科门设计进行了多项改进，创造了一种新的蒸汽机，它产生旋转运动，磨损更少，并且使用四分之一的煤炭。瓦特为他的新机器申请了专利，并与商人和发明家马修·博尔顿 (Matthew Boulton) 合作，在英国斯梅斯威克 (Smethwick) 建立了一家新工厂。 Soho 铸造厂在当时是史无前例的，它使用新技术生产标准化和可互换的零件，例如将较大的任务分解为较小的专业工作。 Soho 的管理层也走在时代的前面，为员工提供病假福利以及职业发展和福利计划。苏荷铸造厂生产的管理理论、大规模生产技术和蒸汽机对英国的工业化至关重要，并产生了持久的全球影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SOHO_FOUNDRY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“先生，我在这里出售全世界都渴望拥有的东西：力量。”[NEWLINE][TAB][TAB] - 马修·博尔顿[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMPIRE_STATE_BUILDING">
+			<Text>帝国大厦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMPIRE_STATE_BUILDING_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EMPIRE_STATE_BUILDING_TEXT">
+			<Text>帝国大厦是一座103层的摩天大楼，位于纽约市曼哈顿中城第五大道和西34街的交叉口。它的屋顶高度为 1,250 英尺 (380 m)，加上天线尖塔，总高 1,454 英尺 (443 m)。 [6]它的名字来源于纽约的昵称“帝国州”。从 1931 年初竣工，到 1970 年底原世贸中心北塔的封顶，它作为世界最高建筑的地位已有近 40 年。2001 年 9 月 11 日袭击事件之后，帝国大厦再次成为纽约最高的建筑（尽管它不再是美国或世界最高的建筑），直到 2012 年 4 月 30 日世贸中心一号达到更高的高度。帝国大厦目前是美国第四高的已竣工摩天大楼（仅次于芝加哥的世贸中心一号大楼、威利斯大厦和特朗普国际酒店大厦），也是世界第 25 高的摩天大楼（目前最高的是位于迪拜的哈利法塔）。它也是美洲第五高的独立式建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EMPIRE_STATE_BUILDING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“资金流动的重要性在于它是连接现在和未来的纽带。”[NEWLINE][TAB][TAB] - 约翰·梅纳德·凯恩斯[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHERLAND_CALLS">
+			<Text>祖国在召唤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHERLAND_CALLS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOTHERLAND_CALLS_TEXT">
+			<Text>祖国母亲在召唤，又称祖国母亲、祖国母亲在召唤，简称祖国，或马马耶夫纪念碑，是俄罗斯伏尔加格勒马马耶夫岗的一座雕像，纪念斯大林格勒战役。它由雕塑家叶夫根尼·武切季奇 (Yevgeny Vuchetich) 和结构工程师尼古拉·尼基丁 (Nikolai Nikitin) 设计，于 1967 年被宣布为世界上最大的雕像。与后来的更高的雕像相比，《祖国在召唤》从工程角度来看明显更加复杂，因为其独特的姿势是右手高举剑，左手伸出做出召唤的姿势。雕像背后的技术基于预应力混凝土与钢丝绳结构的结合，这种解决方案也可以在尼基丁的另一件作品——莫斯科超高的奥斯坦金诺塔中找到。这是世界上最高的女性雕像。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOTHERLAND_CALLS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“一个伟大国家的标志之一就是能够在跌倒后重新站起来。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLETCHLEY_PARK">
+			<Text>布莱切利公园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLETCHLEY_PARK_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLETCHLEY_PARK_TEXT">
+			<Text>位于白金汉郡米尔顿凯恩斯的布莱奇利公园是英国政府密码和密码学校的中心所在地，该学校在第二次世界大战期间定期渗透轴心国的秘密通信，其中最重要的是德国恩尼格玛密码和洛伦兹密码。英国情报局的二战官方历史学家写道，布莱奇利产生的“超级”情报将战争缩短了两到四年，如果没有它，战争的结果将是不确定的。该遗址现在是一个纪念和庆祝这些成就的教育和历史景点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLETCHLEY_PARK_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“布莱切利公园：下金蛋却从不咯咯叫的鹅。”[NEWLINE][TAB][TAB] - 温斯顿·丘吉尔[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CERN">
+			<Text>欧洲核子研究中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CERN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CERN_TEXT">
+			<Text>欧洲核研究组织（简称 CERN）是一个欧洲研究组织，其宗旨是运营世界上最大的粒子物理实验室。该组织成立于1954年，总部位于法瑞边境的日内瓦西北郊，拥有21个欧洲成员国。以色列是第一个（也是目前唯一一个）获得正式成员资格的非欧洲国家。 CERN 一词也用来指该实验室，2013 年该实验室拥有 2513 名工作人员，接待了来自 113 个国家/地区的 608 所大学和研究机构的约 12,313 名研究员、助理、学徒以及访问科学家和工程师。 CERN 的主要职能是提供高能物理研究所需的粒子加速器和其他基础设施，因此，在国际合作后，CERN 建造了大量实验。它也是万维网的诞生地。梅林的主基地拥有一个大型计算机中心，其中包含强大的数据处理设施，主要用于实验数据分析；由于需要向其他地方的研究人员提供这些设施，它历来是一个主要的广域网络中心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CERN_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“当你在量子场论中观察真空时，你会发现它并不是什么都没有。”[NEWLINE][TAB][TAB] - 彼得·希格斯博士[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_CANAL">
+			<Text>大运河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_CANAL_STRATEGY">
+			<Text>建造这个奇迹，通过以下方式增强海军的力量和耐用性：[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_TREASURE_FLEET}[ENDCOLOR]晋升，并获得额外的贸易路线。只能通过世界大会合作建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_CANAL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_CANAL_TEXT">
+			<Text>大运河是意大利威尼斯最大的运河，至今仍然是该市最重要的贸易和交通走廊之一。作为一座由小岛屿组成的城市，威尼斯在中世纪通过疏浚土壤使沼泽地面高于潮汐而得到增强，其结果是一系列被淹没的渠道。这些渠道或运河促进了航海文化的繁荣，事实证明，从中世纪一直到当今，航海文化一直是这座城市经济的核心。如今，这些运河仍然提供城市内货物和人员的运输方式。蜿蜒穿过城市的迷宫般的运河需要使用 400 多座桥梁才能保证人流畅通。 2011年，该市开通了横跨大运河的第四座桥梁Ponte della Costituzione，连接罗马广场巴士总站区和Stazione Ferroviaria（火车站），其他桥梁包括原来的Ponte di Rialto桥、Ponte dell'Accademia桥和Ponte degli Scalzi桥。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GRAND_CANAL_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“在不可能建造城市的地方建造一座城市本身就是疯狂，但在那里建造最优雅、最宏伟的城市之一则是天才的疯狂。”[NEWLINE][TAB][TAB] - 亚历山大·赫尔岑[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CRYSTAL_PALACE">
+			<Text>水晶宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CRYSTAL_PALACE_STRATEGY">
+			<Text>与现实世界中的对手一样，水晶宫也涉足各种各样的奖金。拥有大量城市和工厂的玩家将从水晶宫中受益最多，但额外的文化和伟大作品槽位对任何文明都有用。只能通过世界大会合作建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CRYSTAL_PALACE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CRYSTAL_PALACE_TEXT">
+			<Text>水晶宫是一座铸铁和平板玻璃建筑，最初建于英国伦敦海德公园，用于举办 1851 年伟大的博览会。来自世界各地的 14,000 多名参展商聚集在水晶宫 990,000 平方英尺的展览空间中，展示工业革命中开发的最新技术的实例。由 Joseph Paxton 爵士设计的大展览馆长 1,851 英尺，内部高度为 128 英尺。由于最近在 1848 年发明了铸板玻璃方法，可以使用大片廉价但坚固的玻璃，它是当时建筑中玻璃用量最大的建筑，其透明的墙壁和天花板不需要室内灯光，令游客惊叹不已，因此被称为“水晶宫”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CRYSTAL_PALACE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我梦想着这次展览……就像它应该的那样，一座水晶般的宫殿，天空透过每一片屋顶俯视着它下面的所有国家。”[NEWLINE][TAB][TAB] - 道格拉斯·杰罗德[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MENIN_GATE">
+			<Text>门宁门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MENIN_GATE_STRATEGY">
+			<Text>防守奇迹。提高堡垒、城堡和地标的产量。门宁门还为每个在战斗中倒下的单位提供少量奖励。只能通过世界大会合作建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MENIN_GATE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MENIN_GATE_TEXT">
+			<Text>梅宁门失踪者纪念碑是比利时伊普尔的一座战争纪念碑，专门纪念第一次世界大战中在伊普尔突出部阵亡的英国和英联邦士兵。这条高高的桶形拱形通道刻有 54,395 名在突出部阵亡的英联邦士兵的名字，但他们的尸体从未被发现。纪念碑矗立在该镇的东出口，标志着前线的起点，冲突双方有超过 450,000 人被杀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MENIN_GATE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“谁会记得，穿过这扇门，[NEWLINE][TAB][TAB]那些为枪喂食的非英雄死者？[NEWLINE][TAB][TAB]谁能赦免他们的不幸命运，[NEWLINE][TAB][TAB]那些注定要被征召入伍、不胜的人？”[NEWLINE][TAB][TAB] - 齐格弗里德·沙逊[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OLYMPIC_VILLAGE">
+			<Text>奥运村</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OLYMPIC_VILLAGE_STRATEGY">
+			<Text>奥运村将酒店、体育场和冬宫的优势集于一身，成为赛后文化的发源地。只能通过世界大会合作建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OLYMPIC_VILLAGE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OLYMPIC_VILLAGE_TEXT">
+			<Text>奥运村是为奥运会而建的住宿中心，通常位于奥林匹克公园内或主办城市的其他地方。奥运村是为了容纳所有参赛运动员以及官员和体育教练而建造的。奥运村的想法来自皮埃尔·德·顾拜旦。 1924 年夏季奥运会之前，各国奥委会一直在主办城市周围租用场地来安置参赛者，费用昂贵。 1924 年夏季奥运会的组织者在科伦布奥林匹克体育场附近建造了小木屋，以便运动员轻松进入奥运会场馆。 1932年夏季奥运会的奥运村是当今奥运村的典范；它由一组带有运动员住宿房间的建筑和带有其他住宿设施的建筑组成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_OLYMPIC_VILLAGE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“奥运会最重要的不是获胜而是参与；人生最重要的不是征服而是好好奋斗。”[NEWLINE][TAB][TAB] - 皮埃尔·德·顾拜旦[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNITED_NATIONS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSULATE">
+			<Text>领事馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSULATE_STRATEGY">
+			<Text>领事馆为世界上每 8 个城邦额外授予一名代表，从而使其所有者在世界大会上获得轻微优势。只能通过世界大会合作建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSULATE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSULATE_TEXT">
+			<Text>领事的办公室被称为领事馆，通常隶属于该国在该外国的主要代表机构，通常是位于东道国首都的大使馆或英联邦国家之间的高级专员公署。与大使馆一词一样，领事馆一词不仅可以指领事的办公室，还可以指领事及其工作人员占用的建筑物。领事馆可以与大使馆共用办公场所。在现代，许多领事馆隶属于联合国和/或其他国际组织。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CORP_TEXT">
+			<Text>公司是被授权作为单一实体（合法的个人）行事并在法律上得到承认的公司或团体。早期的法人实体是通过宪章建立的（即通过君主授予或议会或立法机关通过的临时法案）。大多数司法管辖区现在允许通过注册创建新公司。公司有许多不同的类型，但通常根据其注册地司法管辖区的法律分为两类：根据是否可以发行股票，或者根据是否以营利为目的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HQ">
+			<Text>交易者席德总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HQ_STRATEGY">
+			<Text>在你的一个城市建造这座建筑来成立商人希德公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TRADER_SIDS_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“推销，推销，电影真正赚钱的地方。”[NEWLINE][TAB][TAB] - 酸奶[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS">
+			<Text>交易员席德办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，商人希德的特许经营权在外国城市建立。[NEWLINE][NEWLINE]商人 Sid 不能被玩家出售或销毁，并且会增加[ICON_GOLD]所有 Trader Sid 办公室的黄金产量+4。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_FRANCHISE">
+			<Text>商人席德的特许经营权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_FRANCHISE_STRATEGY">
+			<Text>如果您是 Trader Sid's 的创始人，则只能在外国城市建造此建筑。要在外国城市建造这座建筑，请从拥有商人希德办公室的城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADER_SIDS_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TRADER_SIDS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HQ">
+			<Text>半人马座提取器总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HQ_STRATEGY">
+			<Text>在你的一个城市建造这座建筑来成立半人马提取公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CENTAURUS_EXTRACTORS_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“第一课：不要低估对方的贪婪。”[NEWLINE][TAB][TAB] - 弗兰克·洛佩兹[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS">
+			<Text>半人马座提取办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，半人马座提取商特许经营店在外国城市建立。[NEWLINE][NEWLINE]半人马座提取器不能被玩家出售或销毁，并且会增加[ICON_PRODUCTION]所有 Centaurus 提取办公室的产量增加 +3。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE">
+			<Text>Centaurus 提取机特许经营权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE_STRATEGY">
+			<Text>如果您是半人马座提取者的创始人，则只能在外国城市建造此建筑。要在外国城市建造这座建筑，请从拥有半人马座提取办公室的拥有城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CENTAURUS_EXTRACTORS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HQ">
+			<Text>海克森炼油厂总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HQ_STRATEGY">
+			<Text>在您的城市之一建造这座建筑以成立海克森炼油厂公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HEXXON_REFINERY_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我只想对你说一个词。只有一个词：塑料。”[NEWLINE][TAB][TAB] - 麦奎尔先生[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY">
+			<Text>海克森炼油厂办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，海克森炼油厂特许经营权在外国城市建立。[NEWLINE][NEWLINE]玩家无法出售或摧毁海克森精炼厂，并获得 +1[ICON_RES_OIL]石油和+1[ICON_RES_COAL]每个人都需要煤炭[COLOR_POSITIVE_TEXT]三[ENDCOLOR]海克森炼油厂特许经营权。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_FRANCHISE">
+			<Text>海克森炼油厂特许经营权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_FRANCHISE_STRATEGY">
+			<Text>如果您是海克森炼油厂的创始人，该建筑只能在外国城市建造。要在外国城市建造这座建筑，请从拥有海克森炼油厂办事处的拥有城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEXXON_REFINERY_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_HEXXON_REFINERY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HQ">
+			<Text>乔治阿迈尔总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HQ_STRATEGY">
+			<Text>在您的城市之一建造这座建筑以成立乔治阿梅尔公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GIORGIO_ARMEIER_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“时尚就是梦想并让别人梦想。”[NEWLINE][TAB][TAB] - 多纳泰拉·范思哲[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER">
+			<Text>乔治阿梅尔办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，乔治阿梅尔特许经营权在外国城市建立。[NEWLINE][NEWLINE]乔治·阿尔迈尔 (Giorgio Armeier) 不能被玩家出售或销毁，并且会增加[ICON_CULTURE]所有 Giorgio Armeier 办公室的文化产出增加+2。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_FRANCHISE">
+			<Text>乔治阿迈尔特许经营权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_FRANCHISE_STRATEGY">
+			<Text>如果您是 Giorgio Armeier 的创始人，则只能在外国城市建造此建筑。要在外国城市建造这座建筑，请从拥有乔治·阿梅尔办公室的拥有城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GIORGIO_ARMEIER_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_GIORGIO_ARMEIER}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HQ">
+			<Text>Firaxite 材料总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HQ_STRATEGY">
+			<Text>在您的城市之一建造这座建筑以成立 Firaxite 材料公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_FIRAXITE_MATERIALS_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“无论我们创造什么美好的事物，最终都会造就我们自己。”[NEWLINE][TAB][TAB] - 吉姆·罗恩[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS">
+			<Text>氟拉西特材料办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，在外国城市建造了菲拉克斯材料专营权。[NEWLINE][NEWLINE]辉拉石材料不能被玩家出售或销毁，并且会增加[ICON_RESEARCH]所有 Firaxite 材料办公室的科学产出+2。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_FRANCHISE">
+			<Text>Firaxite 材料专营权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_FRANCHISE_STRATEGY">
+			<Text>如果您是 Firaxite Materials 的创始人，该建筑只能在外国城市建造。要在外国城市建造这座建筑，请从拥有菲拉克斯材料办公室的拥有城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FIRAXITE_MATERIALS_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_FIRAXITE_MATERIALS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HQ">
+			<Text>TwoKay 食品总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HQ_STRATEGY">
+			<Text>在你的一个城市建造这座建筑来成立 TwoKay 食品公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TWOKAY_FOODS_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“没有一种爱比对食物的爱更真诚。”[NEWLINE][TAB][TAB] - 萧伯纳[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS">
+			<Text>TwoKay 食品办公室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，在外国城市建立了 TwoKay Foods 特许经营店。[NEWLINE][NEWLINE]TwoKay Foods 不能被玩家出售或销毁，并且会增加[ICON_FOOD]所有 TwoKay Foods 办事处的粮食产量增加 3。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_FRANCHISE">
+			<Text>TwoKay 食品特许经营权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_FRANCHISE_STRATEGY">
+			<Text>如果您是 TwoKay Foods 的创始人，则只能在外国城市建造此建筑物。要在外国城市建造这座建筑，请从拥有 TwoKay Foods 办公室的拥有城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TWOKAY_FOODS_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_TWOKAY_FOODS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HQ">
+			<Text>文明珠宝商总部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HQ_STRATEGY">
+			<Text>在你的一个城市建造这座建筑来成立文明珠宝商公司。请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科部分了解更多信息。[NEWLINE][NEWLINE]请记住，每个文明可能只发现[COLOR_POSITIVE_TEXT]一[ENDCOLOR]公司，所以请确保这些好处适用于您的胜利策略！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HQ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CIVILIZED_JEWELERS_HQ_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“坐在便宜座位上的人会为你鼓掌吗？还有你们其他人，如果你只是让你的珠宝发出嘎嘎声。”[NEWLINE][TAB][TAB] - 约翰·列侬[NEWLINE][制表符]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS">
+			<Text>文明珠宝商办事处</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_STRATEGY">
+			<Text>当一个[ICON_INTERNATIONAL_TRADE]外国城市与本城市之间的贸易路线完成，文明珠宝商特许经营店在外国城市建立。[NEWLINE][NEWLINE]文明珠宝商不能被玩家出售或摧毁，并且会增加[ICON_GREAT_PEOPLE]所有文明珠宝商办公室的伟人率+5%。[NEWLINE][NEWLINE]您拥有的特许经营权不能超过您的特许经营权限制（有关更多信息，请参阅公司和垄断概述）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_FRANCHISE">
+			<Text>文明珠宝商特许经营</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_FRANCHISE_STRATEGY">
+			<Text>如果您是文明珠宝商的创始人，则只能在外国城市建造此建筑。要在外国城市建造这座建筑，请从拥有文明珠宝商办公室的拥有城市发送一条贸易路线到外国城市。当贸易路线完成后，建筑物将自动建造。每回合还有 5% 的几率特许经营权会单独出现在随机的外国城市中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CIVILIZED_JEWELERS_FRANCHISE_HELP">
+			<Text>{TXT_KEY_CORPORATION_TRADE_ROUTE_BONUS_CIVILIZED_JEWELERS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STUPA">
+			<Text>佛塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STUPA_STRATEGY">
+			<Text>只能建在信仰佛塔的城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。建造佛塔以获得信仰、黄金时代积分和城市旅游。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STUPA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STUPA_TEXT">
+			<Text>佛塔是一个土堆状或半球形的结构，里面装有佛教文物，通常是佛教僧侣的骨灰，被佛教徒用作冥想的场所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHURCH">
+			<Text>教会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHURCH_STRATEGY">
+			<Text>只能建在遵循教会信仰的宗教的城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。建立教会以获得信仰并有效增强被动宗教压力。城市里还开始了“我们爱国王日”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHURCH_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHURCH_TEXT">
+			<Text>教堂建筑通常简称为教堂，是用于宗教活动，特别是礼拜仪式的建筑。该术语在建筑意义上最常被基督徒用来指代他们的宗教建筑，但也可以被其他宗教使用。在传统的基督教建筑中，教堂常常被布置成基督教十字架的形状。从平面图上看，十字架最长的部分是过道，十字架的交界处位于祭坛区域。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR">
+			<Text>曼迪尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR_STRATEGY">
+			<Text>只能建在信仰曼迪尔信仰的城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。建造寺庙以获得信仰和食物。每当城市发展时提供少量的所有产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MANDIR_TEXT">
+			<Text>印度教寺庙是神的殿堂。它是一个旨在将人类和神灵聚集在一起的空间和结构，注入象征意义来表达印度教的思想和信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE">
+			<Text>犹太教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_STRATEGY">
+			<Text>只能建在信仰犹太教堂的城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。建造犹太教堂以获得信仰、生产。在“我们爱国王日”期间，这座城市产生了更多科学知识。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_TEXT">
+			<Text>犹太教堂，也拼写为 synagog，是犹太人祈祷的场所。犹太教堂有一个大的祈祷大厅（主要圣所），也可能有较小的学习室，有时还有社交厅和办公室。有些人有一个单独的房间供托拉学习，称为贝斯米德拉什。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORDER">
+			<Text>命令</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORDER_STRATEGY">
+			<Text>只能建在信奉教团信仰的宗教城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。建立骑士团，为在城市中训练的所有军事单位赢得信仰、黄金和士气提升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORDER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORDER_TEXT">
+			<Text>军事骑士团是从中世纪开始成立的各种基督教骑士团体中的任何一个，其目的是为了十字军东征——传播或捍卫信仰（最初是天主教，宗教改革后有时是新教），要么在圣地，要么在欧洲反对伊斯兰教（例如，收复失地运动期间）或异教徒（主要在波罗的海地区）。自十字军东征和奥斯曼帝国入侵结束以来，许多骑士团已经世俗化，并且在现代通常以罗马天主教仪式、传教士和慈善组织为代表。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEOCALLI">
+			<Text>特奥卡利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_STRATEGY">
+			<Text>只能建在信仰泰奥卡利斯信仰的城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。 Teocalli 为军事训练和信仰培养提供奖金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEOCALLI_TEXT">
+			<Text>Teocalli 是阿兹特克人的神庙。特奥卡利人遵循许多中美洲民族的典型结构，在巨大的阶梯金字塔顶部有一个有点小的封闭空间，一侧有楼梯。其中最大的金字塔的总体积超过了吉萨的埃及金字塔，尽管它们没有那么高。与美索不达米亚宗教类似，阿兹特克人认为他们的特奥卡利是他们神的真正住所，只允许牧师在仪式和特殊场合攀登。这些仪式中最臭名昭著的是每月举行一次的活人祭祀，以安抚阿兹特克众神，战俘的心脏被从胸腔中取出，然后被斩首。祭品的头骨已准备好并展示在附近一个称为“tzompantli”的头骨架上，而内脏和肉则被献给众神。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GURDWARA">
+			<Text>谒师所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GURDWARA_STRATEGY">
+			<Text>只能建在信仰谒师所信仰的城市中。通过购买来建造这座建筑[ICON_PEACE]信仰。谒师所提供成长和防御奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GURDWARA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GURDWARA_TEXT">
+			<Text>谒师所（Gurdwara）——意思是“通往古鲁的大门”——是锡克教徒的礼拜场所。所有谒师所都装有锡克教经典《Guru Granth Sahib》，放置在高架平台上。拉吉斯（Raagis）在这个平台上为会众背诵、歌唱和解释经文。所有谒师所的另一个普遍特征是称为 Langar 的社区厨房。锡克教徒非常重视提供免费素食餐，允许所有社区成员，无论种族、种姓、地位或宗教信仰，都可以免费用餐和免费做志愿者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOSQUE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAGODA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM">
+			<Text>陵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_STRATEGY">
+			<Text>建造陵墓以获得[ICON_PEACE]来自战争伤亡和改善所有圣地的信仰。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAUSOLEUM_TEXT">
+			<Text>陵墓是一种外部独立式建筑，作为纪念碑建造，包围着死者的安葬空间或墓室。没有安葬的纪念碑是纪念碑。陵墓可以被认为是坟墓的一种，或者坟墓可以被认为是在陵墓内。基督教陵墓有时包括一个小教堂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CELESTIAL_THRONE">
+			<Text>天界王座</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CELESTIAL_THRONE_STRATEGY">
+			<Text>建造天国王座，大幅提升圣城的基础产量并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CELESTIAL_THRONE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CELESTIAL_THRONE_TEXT">
+			<Text>王座是君主或显贵的国家座位，尤其是君主在国家场合所占据的座位；或教皇或主教在仪式场合所占据的座位。抽象意义上的“王位”也可以指君主政体或王室本身，这是转喻的一个例子，并且也用于许多表达方式，例如“王位背后的权力”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_ALTAR">
+			<Text>大祭坛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_ALTAR_STRATEGY">
+			<Text>建造大祭坛以促进军事单位生产并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_ALTAR_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_ALTAR_TEXT">
+			<Text>祭坛是出于宗教目的而在其上献祭（例如牺牲）的任何结构。祭坛通常位于神社，也可能位于寺庙、教堂和其他礼拜场所。如今，它们特别用于基督教、佛教、印度教、神道教、道教以及新异教和仪式魔法。犹太教一直使用这种结构，直到第二圣殿被毁为止。许多历史信仰也使用它们，包括希腊和挪威宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHARTARIUM">
+			<Text>海图馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHARTARIUM_STRATEGY">
+			<Text>建造查塔瑞姆以获得[ICON_GOLDEN_AGE]黄金时代积分，[ICON_TOURISM]旅游和[ICON_CULTURE]研究技术和改善所有圣地的文化。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHARTARIUM_HELP">
+			<Text>可能的主题奖励：[NEWLINE][ICON_BULLET] +8 [ICON_CULTURE]和[ICON_TOURISM]三个人[ICON_GW_WRITING]从[COLOR_POSITIVE_TEXT]同一个文明[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHARTARIUM_TEXT">
+			<Text>《宪章》是教皇办公室私人保存的信件和会议记录的集合。这些藏品构成了梵蒂冈秘密档案馆的前身。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DIVINE_COURT">
+			<Text>神庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DIVINE_COURT_STRATEGY">
+			<Text>建造神庭以提高黄金产量并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DIVINE_COURT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DIVINE_COURT_TEXT">
+			<Text>beth din（“审判之家”或神圣法庭）是犹太教的拉比法庭。在古代，它是圣经之地以色列法律体系的基石。如今，它在以色列和散居海外的犹太社区的许多宗教事务（din Torah，“诉讼事项”，复数 dinei Torah）上被赋予了法律权力，在与犹太宗教生活具体相关的事务上，它的判决拥有不同程度的权威（取决于司法管辖区和主题）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SACRED_GARDEN">
+			<Text>圣园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SACRED_GARDEN_STRATEGY">
+			<Text>建造神圣花园以促进文化输出并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SACRED_GARDEN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SACRED_GARDEN_TEXT">
+			<Text>宗教对园林设计产生了重要影响。神庙花园建于美索不达米亚和古埃及。古印度、希腊、罗马、中国和日本都建造了神圣的树林。圣树在凯尔特和日耳曼欧洲很重要，在印度仍然很重要。许多小树林或森林在古印度是神圣的，并且在现代印度教崇拜中仍然如此。佛教对园林设计产生了重大影响，中国和日本的禅宗园林就是著名的例子。在基督教，特别是天主教和英国国教中，玛丽花园在教堂和机构中很常见。俄罗斯作家弗拉基米尔·梅格雷 (Vladimir Megre) 的《响铃雪松》系列书籍重新赋予了创造神圣花园的实践活力，并适应了现代的需要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOLY_COUNCIL">
+			<Text>神圣议会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOLY_COUNCIL_STRATEGY">
+			<Text>建立神圣议会以提高粮食产量并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOLY_COUNCIL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOLY_COUNCIL_TEXT">
+			<Text>普世大公会议（或圣公会）是由教会贵宾和神学专家组成的会议，旨在讨论和解决教会教义和实践问题，会议中召集来自全世界（oikoumene）有权投票的人，并确保整个教会的认可。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE">
+			<Text>使徒宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE_STRATEGY">
+			<Text>建造使徒宫殿以加快黄金时代的发展并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE_TEXT">
+			<Text>拉丁语单词 basilica 在现代英语中有三种不同的用法。该词最初用于描述开放的罗马公共法院建筑，通常位于罗马城镇广场附近。通过扩展，它被应用于相同形式的基督教建筑，并继续在建筑意义上用于描述那些具有中央中殿和过道的建筑。后来，这个词专指一座大型而重要的教堂，即教皇宫，它被教皇赋予了特殊的仪式权利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_OSSUARY">
+			<Text>大藏骨堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_OSSUARY_STRATEGY">
+			<Text>建造藏骨堂以获得大量信仰并改善所有圣地。建造这个国家奇迹还可以让你选择宗教改革信仰。只能在圣城建造，并且只有至少 15% 的全球人口信仰你的宗教（按地图大小缩放）。减少[ICON_HAPPINESS_3]宗教动乱，并允许您选择宗教改革信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_OSSUARY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_OSSUARY_TEXT">
+			<Text>骨库是一个箱子、盒子、建筑物、井或场地，用作人类骨骼遗骸的最终安息之地。它们经常在埋葬空间稀缺的地方使用。尸体首先被埋在临时坟墓中，几年后，骨骼遗骸被移走并放入骨库中。骨库占用的空间大大减少，这意味着与保留原始棺材相比，在一个坟墓中可以存放更多人的遗骸。在波斯，琐罗亚斯德教徒从最早的时代（大约 3000 年前）起就使用深井来实现这一功能，并将其称为 astudan（字面意思是“骨头所在的地方”）。琐罗亚斯德教信仰中有许多关于阿斯图丹的仪式和规定。在中亚地区的 7 世纪前粟特人中，骨库的名称是 tanbar。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY">
+			<Text>修道院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THRONE_ROOM">
+			<Text>王座室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THRONE_ROOM_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THRONE_ROOM_TEXT">
+			<Text>王座室是王室官邸中的一个房间，通常是一个大厅，可以是宫殿或坚固的城堡，高级人物（通常是君主）的王座在那里布置得非常华丽——通常是高高的，通常有台阶，并且在天篷下，这两者都是希腊词 thronos 的原始概念的一部分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATE_TREASURY">
+			<Text>国库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATE_TREASURY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATE_TREASURY_TEXT">
+			<Text>“国库”一词最早出现在古典时期，用来描述为存放献给众神的礼物而建造的供奉建筑，例如德尔菲的西弗尼安国库，或者古代奥运会期间各城邦为了给其他人留下深刻印象而在希腊奥林匹亚建造的许多类似建筑。在古希腊，国库几乎总是被物理地纳入寺庙等宗教建筑内，从而使国家资金变得神圣不可侵犯，并为那些能够获得这些资金的人增加了道德约束。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_GUARDHOUSE">
+			<Text>皇家警卫室</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_GUARDHOUSE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_GUARDHOUSE_TEXT">
+			<Text>皇家卫队是指负责保护皇室成员（例如皇帝/皇后、国王/王后或王子/公主）的任何军事保镖、士兵或武装扈从团体。他们通常是正规武装部队的精锐部队，或被指定为精锐部队，并可能保留特殊权利或特权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_GARDEN">
+			<Text>皇宫花园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_GARDEN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_GARDEN_TEXT">
+			<Text>花园是一个规划好的空间，通常在室外，用于展示、种植和享受植物和其他形式的自然。花园可以采用天然和人造材料。当今最常见的形式被称为住宅花园，但“花园”一词传统上是一个更笼统的概念。动物园在模拟自然栖息地展示野生动物，以前称为动物园。[1][2]西方花园几乎普遍以植物为基础，花园通常指植物园的缩写形式。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COURT_CHAPEL">
+			<Text>宫廷礼拜堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COURT_CHAPEL_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COURT_CHAPEL_TEXT">
+			<Text>教堂是一个进行团契、祈祷和礼拜的宗教场所，附属于一个较大的、通常是非宗教机构，或者被认为是主要宗教机构的延伸。它可能是位于军用或商船上的较大结构或综合体的一部分，例如大学、医院、宫殿、监狱、殡仪馆、教堂、犹太教堂或清真寺，也可能是完全独立的建筑，有时有自己的场地。许多军事设施都有供军事人员使用的教堂，通常由军事牧师领导。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_ASTROLOGER">
+			<Text>皇家占星家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_ASTROLOGER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_ASTROLOGER_TEXT">
+			<Text>占星学，从最广泛的意义上来说，是寻找天空的意义。人类有意识地尝试根据天文周期来测量、记录和预测季节变化的早期证据，表现为骨头和洞穴墙壁上的标记，这表明早在 25,000 年前就已经注意到月球周期。这是记录月球对潮汐和河流影响以及组织公共日历的第一步。农民通过增加对不同季节出现的星座的了解来满足农业需求，并利用特定星群的崛起来预示每年的洪水或季节性活动。到公元前第三个千年，文明对天体周期有了复杂的认识，并且可能将寺庙的方向与恒星的日升对齐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_AMPHITHEATER_NATIONAL">
+			<Text>民族史诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_AMPHITHEATER_GLOBAL">
+			<Text>全球史诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AMPHITHEATER_THEMING_BONUS_HELP">
+			<Text>为了最大化你的奖金，请确保伟大的工作槽都充满了来自你自己的文明或来自你自己以外的文明的著作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BROADCAST_TOWER_NATIONAL">
+			<Text>KCIV 101.5FM - 经典即兴演奏排名第一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BROADCAST_TOWER_CLASSICS">
+			<Text>KSID 107.7FM - 今天的热门歌曲，昨天的最爱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BROADCAST_TOWER_ALL">
+			<Text>KGAZ 89.5FM - 不拘一格的广播混音</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BROADCAST_TOWER_THEMING_BONUS_HELP">
+			<Text>为了最大化您的奖金，请确保两件伟大的作品都满足以下标准之一：[NEWLINE]1.) 两者来自同一时代[NEWLINE]2.) 两者都来自不同的时代。[NEWLINE]3.) 两者都来自连续的时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_RELIGIOUS_LIBRARY">
+			<Text>秘密库{2_CivAdjective}信件往来</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHARTARIUM_THEMING_BONUS_HELP">
+			<Text>为了最大化您的奖金，请确保所有插槽都填满了来自同一文明的写作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BUILDING_NOTRE_DAME">
+			<Text>圣所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NOTRE_DAME_THEMING_BONUS_HELP">
+			<Text>为了最大化你的奖金，请确保伟大的作品是由不同的外国文明创造的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BUILDING_NALANDA">
+			<Text>法甘扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NALANDA_THEMING_BONUS_HELP">
+			<Text>为了最大化您的奖金，请确保这两件伟大的作品都是您创作的。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

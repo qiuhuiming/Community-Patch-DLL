@@ -66,4 +66,63 @@
 			<Text>Atomic Bomb</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_A">
+			<Text>铁拳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_A_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]铁拳[ENDCOLOR]：封臣不能再被其他文明或世界议会解放，投降的封臣也不能再叛乱。城邦的产量增加 25%，附庸国额外贡献 25% 的产量，[ICON_HAPPINESS_1]超额幸福感，以及 +50% 员工进步率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_TEXT_A">
+			<Text>铁腕统治通常意味着在管理他人时（通常是在工作场所）要求绝对控制。这句话也可以指诸如抚养孩子或政府风格等情况。这个习语经常用来形容经理、父母或领导者的行为和做法，他们几乎不给下属选择或参与决策的自由。铁腕统治的原因往往取决于个人情况，例如缺乏经验的工人或不守规矩的孩子。使用全面控制的有效性也可能会有所不同，具体取决于管理风格的范围和具体情况。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_F">
+			<Text>全民医疗保健</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_F_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]全民医疗保健[ENDCOLOR]：在每个城市都有一家免费医院。 +50[ICON_CULTURE]当一个[ICON_CITIZEN]公民出生在任何城市，随着时代的发展而变化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_O">
+			<Text>和平、土地、面包</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_O_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]和平、土地、面包[ENDCOLOR]: -2 [ICON_HAPPINESS_3]不快乐来自[ICON_GOLD]贫困和[ICON_FOOD]所有城市的增长率均提高了 20%。建筑维护减少 20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_TEXT_O">
+			<Text>列宁和其他人在苏联革命初期流行的“和平、土地、面包”这句话凸显了他们关注贫困的俄罗斯农民的需求的愿望。布尔什维克一宣布十月革命取得成功（1917 年 10 月 26 日），就宣布了 1910-20 年代布尔什维克的初始法令。这些法令符合布尔什维克流行的口号“和平、面包和土地”，该口号在工人和军队起义的“七月日”（1917 年 7 月）期间被群众所接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NATIONALIZATION">
+			<Text>国有化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NATIONALIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]国有化[ENDCOLOR]： 每个[ICON_OFFICE]公司办公室算作特许经营。外国特许经营权不再使您的公司受益，您无法再建造[ICON_FRANCHISE]外国城市（附庸除外）的特许经营权和外国公司不能再在您的城市（大师除外）设立特许经营权。 +2[ICON_RESEARCH]来自公司所有办公室的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NATIONALIZATION_TEXT">
+			<Text>国有化是国家政府或国家将私营工业或私人资产纳入公有制的过程。国有化通常指私人资产，但也可能意味着下级政府（例如市政当局）拥有的资产被转移到国家手中。国有化的反面通常是私有化或非国有化，但也可能是市政化。通常需要国有化的行业包括运输、通讯、能源、银行和自然资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GLOBALIZATION">
+			<Text>跨国主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GLOBALIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]跨国主义[ENDCOLOR]：每回合增加一次机会[ICON_FRANCHISE]企业特许经营将出现在外国城市15%（通常为5%）。全球特许经营权上限增加 25%，您建造的每个拥有的城镇都算作特许经营权。 +2[ICON_CULTURE]来自各方的文化[ICON_OFFICE]公司办事处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GLOBALIZATION_TEXT">
+			<Text>跨国主义作为一种经济过程，涉及生产过程的全球重组，其中任何产品生产的各个阶段都可以在不同的国家进行，通常是为了最大限度地降低成本。 20世纪下半叶，互联网和无线通信的发展，以及集装箱化带来的全球运输成本的降低，推动了经济跨国主义，即俗称的全球化。跨国公司可以被视为跨国主义的一种形式，因为它们通过尽可能最有效的方式组织其业务，无论政治边界如何，都力求最大限度地降低成本，从而实现利润最大化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_INFILTRATION">
+			<Text>工团主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_INFILTRATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]工团主义[ENDCOLOR]: [ICON_FRANCHISE]企业特许经营权在您至少所在的文明城市中具有双重意义[COLOR_MAGENTA]受欢迎的[ENDCOLOR]并且此额外特许经营权不计入您的全球特许经营权上限。可以另外设立5个[ICON_FRANCHISE]在国外城市的特许经营权。 +2[ICON_PRODUCTION]全部生产[ICON_OFFICE]公司办事处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_INFILTRATION_TEXT">
+			<Text>国家工团主义是工团主义的一种适应形式，以适应整体民族主义的社会议程。国家工团主义表明，人民必须通过将工团主义部分发展为大规模的经济工人运动来保卫自己。这些应该立即采取行动剥夺资本家。这些还应该采取直接行动，让工人领导生产并组建人民公社。国家工团主义寻求直接经济行动的原则性理由，并谴责代表的议会行动。目标不是让资本主义变得可以忍受，而是实现自由的民族主义和社会主义国家。国家工团主义旨在将注意力从政治领域转移到经济领域。它希望从基础上实现社会化：在生产和消费统计的基础上，与全国联合会协商，建立地方单位的分配制度。以及由国家工业联合会组织生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FIRST_ON_MOON">
+			<Text>首次登上月球</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MANHATTAN_PROJECT">
+			<Text>原子弹</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

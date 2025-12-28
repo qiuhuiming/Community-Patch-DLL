@@ -11,4 +11,15 @@
 			<Text>No valid targets for diplomacy at this time.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_DIPLOMAT">
+			<Text>外交使团（自动）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_DIPLOMAT_HELP">
+			<Text>全部自动化[COLOR_UNIT_TEXT]外交单位[ENDCOLOR]行动。该装置将保持自动化，直到您取消其自动化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_DIPLOMAT_DISABLED_HELP">
+			<Text>目前没有有效的外交目标。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

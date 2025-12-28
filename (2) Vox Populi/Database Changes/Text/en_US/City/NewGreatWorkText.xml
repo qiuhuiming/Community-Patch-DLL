@@ -22,4 +22,24 @@
 			<Text>"We are the authors of our own destiny;[NEWLINE]and being the authors, we are ultimately, perhaps frighteningly,[NEWLINE]free."[NEWLINE]-Shantideva</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GREAT_WORK_FLOOD_TABLET">
+			<Text>洪水石碑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FLOOD_TABLET">
+			<Text>“大海平静了，旋风和洪水也停止了。[NEWLINE]乌特纳皮什蒂姆打开窗户，感到新鲜的空气扑面而来。[NEWLINE]他在地平线上寻找海岸线，看到了一片陆地。[NEWLINE]船牢牢地卡在尼穆什山上，尼穆什山将船固定了好几天，没有晃动。[NEWLINE]他放出了一只能吃能抓的乌鸦，但没有绕回船上。[NEWLINE]然后他把他的牲畜送到各个方向。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CROWN_JEWELS">
+			<Text>皇冠上的宝石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CROWN_JEWELS_QUOTE">
+			<Text>“恰恰相反。每一块野牛币都值得[NEWLINE]五英镑。因为这就是汇率[NEWLINE]英格兰银行将在之后实施[NEWLINE]我绑架了他们的女王。”[NEWLINE]-M。野牛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BODHISATTVA">
+			<Text>菩萨道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BODHISATTVA_QUOTE">
+			<Text>“我们是自己命运的创造者；[NEWLINE]作为作者，我们最终，也许是令人恐惧的，[NEWLINE]自由的。”[NEWLINE]-寂天菩萨</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

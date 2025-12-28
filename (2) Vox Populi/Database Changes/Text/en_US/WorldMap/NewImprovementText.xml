@@ -45,4 +45,42 @@
 			<Text>Mountain City</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_BUILD_FARM_HELP">
+			<Text>+1 [ICON_FOOD]该农场附近每 2 个农场的食物和/或来自淡水。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FARM_REC">
+			<Text>它将提升你的[ICON_FOOD]该图块上的食物输出。与另外两个农场和/或淡水相邻的农场获得 +1[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TRADING_POST_HELP">
+			<Text>+1 [ICON_PRODUCTION]生产及[ICON_GOLD]如果在连接两个城市的道路上建造金币，如果在铁路上建造则金币翻倍。 +1[ICON_PRODUCTION]生产及[ICON_GOLD]如果贸易路线经过这个村庄，黄金在后工业时代会翻倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LUMBERMILL_HELP">
+			<Text>+1 [ICON_PRODUCTION]生产及[ICON_GOLD]与该木材厂相邻的每 2 个木材厂可获得黄金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_CUSTOMS_HOUSE">
+			<Text>单位将被消耗。 +2[ICON_PRODUCTION]生产及[ICON_GOLD]如果在连接两个城市的道路上建造金币，如果在铁路上建造则金币翻倍。 +2[ICON_PRODUCTION]生产及[ICON_GOLD]如果贸易路线经过这个村庄，黄金在后工业时代会翻倍。[NEWLINE][NEWLINE]伟大的图块改进将把这个图块上的战略资源连接到贸易网络。城镇将改善大商外交使命黄金一代和 WLTKD 转变[COLOR_POSITIVE_TEXT]25%[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_MANUFACTORY">
+			<Text>单位将被消耗。[NEWLINE][NEWLINE]伟大的图块改进将把这个图块上的战略资源连接到贸易网络。制造商将通过以下方式提高伟大工程师的快速生产能力[COLOR_POSITIVE_TEXT]10%[ENDCOLOR]，并算作每种类型的改进[COLOR_POSITIVE_TEXT]邻接奖金[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_ACADEMY">
+			<Text>单位将被消耗。[NEWLINE][NEWLINE]伟大的图块改进将把这个图块上的战略资源连接到贸易网络。学院将通过以下方式提高伟大科学家发现技术的能力[COLOR_POSITIVE_TEXT]10%[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_EMBASSY">
+			<Text>大使馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_EMBASSY_TEXT">
+			<Text>大使馆只能由伟大的外交官在城邦领土上建造。[NEWLINE][NEWLINE]第一个（也是唯一的第一个！）在城邦土地上建造大使馆的玩家[COLOR_POSITIVE_TEXT]在世界大会上获得额外选票[ENDCOLOR]。除了位于城邦领土内的第一个大使馆之外，任何玩家都不会获得额外的选票。[NEWLINE][NEWLINE]大使馆不能被掠夺——一旦建成，就永远不能被拆除，而且他们总是将额外的世界大会投票权授予最初的建造者。然而，如果最初的建造者被征服，征服者将获得他们的大使馆和选票的所有权！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_EMBASSY">
+			<Text>建造[LINK=IMPROVMENT_EMBASSY]大使馆[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CONSUMED_HELP_EMBASSY">
+			<Text>单位将被消耗。[NEWLINE][NEWLINE]补助金[COLOR_POSITIVE_TEXT]1 次世界大会投票[ENDCOLOR]建造时。增益+1[ICON_RES_PAPER]纸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MOUNTAIN_CITY">
+			<Text>山城</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

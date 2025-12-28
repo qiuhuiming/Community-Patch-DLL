@@ -187,4 +187,189 @@
 			<Text>[COLOR_POSITIVE_TEXT]Strategic Monopoly Bonus:[ENDCOLOR] Units gain +10% [ICON_STRENGTH] Strength when attacking.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_RESOURCE_MAIZE">
+			<Text>玉米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MAIZE_TEXT">
+			<Text>玉米，在许多英语国家被称为玉米，是史前时期中美洲土著人民驯化的谷物。玉米是美洲种植最广泛的粮食作物，仅美国每年就种植 3.32 亿吨玉米。大约 40% 的作物（1.3 亿吨）用于生产玉米乙醇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RICE">
+			<Text>米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RICE_TEXT">
+			<Text>水稻是单子叶植物 Oryza sativa（亚洲水稻）或 Oryza glaberrima（非洲水稻）的种子。作为一种谷物，它是世界上大部分人口消费最广泛的主食，特别是在亚洲和西印度群岛。根据 2010 年的数据，它是全球产量第二高的谷物，仅次于玉米。[NEWLINE][NEWLINE]由于大部分玉米作物的种植目的并非人类消费，因此大米是人类营养和热量摄入最重要的谷物，提供了全球人类消耗热量的五分之一以上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COFFEE">
+			<Text>咖啡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COFFEE_TEXT">
+			<Text>咖啡是一种由咖啡属常绿灌木的烘焙种子制成的冲泡饮料。关于咖啡饮用或咖啡树知识的最早可靠证据出现在 15 世纪中叶的阿拉伯修道院中。正是在这里，咖啡种子首次被烘焙和冲泡，其制作方式与今天的制作方式类似。最终，通过贸易，咖啡传播到意大利的威尼斯港口，并从那里传入欧洲其他地区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TEA">
+			<Text>茶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TEA_TEXT">
+			<Text>茶是一种芳香饮料，通常通过将热水倒在腌制的茶树叶子上来制备。饮茶可能始于中国商代，当时茶最初用于药用并与其他草药结合使用。它于16世纪首次传入中国的葡萄牙牧师和商人，后来于17世纪在英国流行，最终导致英国与中国竞争对其的垄断。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TOBACCO">
+			<Text>烟草</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TOBACCO_TEXT">
+			<Text>烟草是由烟草属植物的干燥叶子加工而成的产品。它可用于雪茄和香烟、鼻烟、斗烟、咀嚼烟草和调味水烟中。许多美洲原住民部落传统上种植和使用烟草，墨西哥的一些种植地点可以追溯到公元前 1400-1000 年。北美东部部落携带大量装在袋子里的烟草作为一种容易接受的贸易物品，并且经常用和平烟斗吸食，无论是在规定的神圣仪式上还是为了达成协议。随着欧洲人的到来，烟草作为一种贸易项目变得越来越受欢迎，并发展成为自己的产业。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AMBER">
+			<Text>琥珀色</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_AMBER_TEXT">
+			<Text>琥珀是树脂化石，自新石器时代以来就因其色彩和自然之美而受到人们的赞赏。琥珀从古至今都作为宝石而备受重视，被制成各种装饰品。琥珀被用作香水的成分、民间医学的治疗剂以及珠宝。由于琥珀源自柔软、粘性的树脂，因此有时含有动物和植物材料作为内含物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JADE">
+			<Text>玉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JADE_TEXT">
+			<Text>玉是一种观赏石，是两种变质岩（软玉和硬玉）的名称。从史前遗址出土的已知最早的玉器包括珠子、纽扣和管状形状的简单装饰品。此外，玉还用于制作锛头、刀具和其他武器，形状精美。随着金属加工技术的出现，玉石的美丽使其成为装饰品和装饰物品的价值。在中国历史上，玉被视为“皇家宝石”，其地位价值超过金银。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OLIVE">
+			<Text>橄榄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OLIVE_TEXT">
+			<Text>橄榄是木犀科的一种小树，原产于地中海盆地东部沿海地区以及伊拉克北部和里海以南的伊朗北部。它的果实也称为橄榄，作为橄榄油的来源，在地中海地区具有重要的农业重要性。橄榄一直是和平、智慧、荣耀、生育力、力量和纯洁的象征。橄榄油长期以来一直被认为是神圣的，即使在今天，它仍然在许多宗教仪式中使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PERFUME">
+			<Text>香水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PERFUME_TEXT">
+			<Text>据了解，香水存在于一些最早的人类文明中。香水或香水制作艺术起源于古代美索不达米亚和埃及，并由罗马人和波斯人进一步完善。玫瑰香水的生产技术起源于波斯，然后传播到阿拉伯和印度，最近又传播到东欧。玫瑰油是从各种玫瑰花瓣中提取的精油。由于生产过程劳动密集型以及玫瑰花中的油含量低，玫瑰油的价格非常高。即便如此，它仍然可能是香水中使用最广泛的精油。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CORAL">
+			<Text>珊瑚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORAL_TEXT">
+			<Text>珊瑚是一种由称为息肉的小型海洋动物建造的分支骨架状结构。红珊瑚，也称为珍贵珊瑚，是最古老的宝石之一，自古以来就被收获用于装饰用途。它属于一小类有机宝石，它们根本不是真正的石头，包括珍珠、琥珀、象牙和黑玉等材料。从历史上看，珍贵的珊瑚不仅是一种备受推崇的装饰形式，而且还是一种被认为具有神秘神圣属性的物质。除了被用作护身符外，它还具有许多药用价值。如今，法律和组织正在帮助保护珊瑚礁，因为珊瑚礁种群受到过度捕捞、过度捕捞和气候变化的威胁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LAPIS">
+			<Text>青金石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LAPIS_TEXT">
+			<Text>青金石是一种深蓝色半宝石，自古以来就因其浓郁的色彩而备受推崇。它在阿富汗的开采已有 6,000 多年的历史，是古埃及和美索不达米亚文明以及后来的希腊和罗马文明的青金石来源。除了阿富汗矿床外，世界其他地区也能找到青金石，例如俄罗斯、智利、加拿大、印度、意大利和美国。青金石具有极佳的抛光效果，因其可制作珠宝、雕刻品、花瓶和其他装饰品而受到重视。尤其是在古埃及。它还经过研磨和加工，制成最受欢迎的颜料——群青，其价值比黄金还高。在文艺复兴时期，这种珍贵的颜料被很少使用，并且经常保留用于为玛丽和其他重要宗教人物的长袍着色。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GLASS">
+			<Text>玻璃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GLASS_HELP">
+			<Text>玻璃只能通过商业城邦获得。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_GLASS_TEXT">
+			<Text>几个世纪以来，玻璃一直用于窗户和饮水器皿。考古证据表明，第一批人造玻璃出现于公元前 3500 年左右的美索不达米亚东部和埃及，而第一批玻璃器皿则于公元前 1500 年左右在那里制造。叙利亚工匠在公元前一世纪发明了吹管，这使得玻璃生产变得更容易、更快、更便宜。玻璃生产在罗马帝国时期蓬勃发展，并从意大利传播到其统治下的所有国家。威尼斯以其华丽的玻璃制品而闻名，被称为威尼斯玻璃，是西方世界的玻璃制造中心。 13世纪末，威尼斯玻璃工业的中心转移到穆拉诺岛。当今世界上一些最重要的玻璃品牌仍然在穆拉诺历史悠久的玻璃工厂生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BRAZILWOOD">
+			<Text>巴西木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BRAZILWOOD_HELP">
+			<Text>巴西独有的奢侈品资源。只能通过创建巴西木营地来获得。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +2 [ICON_CULTURE]来自资源块的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BRAZILWOOD_TEXT">
+			<Text>巴西木是一种致密、致密的染料，取自各种热带树木，其提取物可产生明亮的深红色和深紫色。巴西木还用于细木工和乐器制作。在古代和中世纪，从中东进口到欧洲的巴西木是Caesalpinia braziliensis和Caesalpinia的其他种类。 Caesalpinia echinata（葡萄牙语称为 pau-brasil）是巴西海岸的本土植物，在该国的命名中发挥了重要作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FIGS">
+			<Text>无花果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FIGS_HELP">
+			<Text>罗马独有的奖励资源。只能通过创建 Villae 来获得。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FIGS_TEXT">
+			<Text>无花果原产于中东和西亚，自古以来就被栽培，是人类栽培的最古老的植物之一。无花果在古希腊很常见，并传播到罗马，成为下层阶级的主食水果。无花果易于保存，且含糖量高，非常适合制作调味品。也许正是这种与普通民众的朴素和贫困的联系导致了无花果在后来的流行中逐渐消失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PAPER">
+			<Text>纸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PAPER_HELP">
+			<Text>需要制作[ICON_INFLUENCE]外交单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PAPER_TEXT">
+			<Text>纸张是一种薄材料，通过将潮湿的纤维（通常是源自木材、碎布或草的纤维素纸浆）压在一起，然后将其干燥成柔性纸张而制成。纸张是一种用途广泛的多功能材料。虽然最常见的是用于书写和印刷，但它也广泛用作包装材料、许多清洁产品、许多工业和建筑过程，甚至用作食品成分，特别是在亚洲文化中。据说纸和纸浆造纸工艺是在公元 2 世纪初，可能早在公元 105 年[1]由汉族宫廷太监蔡伦在中国开发出来的，尽管最早的纸考古碎片来自于公元前 2 世纪的中国。[NEWLINE][NEWLINE]在《文明V》中，“纸张”用于外交目的。因此，它是治理、政治文件和法律权威的隐喻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_HAPPINESS">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR]+6 全帝国[ICON_HAPPINESS_1]幸福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_GA_LENGTH">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +25% [ICON_GOLDEN_AGE]黄金时代长度，+2[ICON_GOLDEN_AGE]来自资源图块的黄金时代点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_GA_LENGTH_ONLY">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +30% [ICON_GOLDEN_AGE]黄金时代的长度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_PRODUCTION">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +2 [ICON_PRODUCTION]由资源块生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_GOLD">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +3 [ICON_GOLD]来自资源板块的黄金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_FOOD">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +3 [ICON_FOOD]来自资源板块的食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_CULTURE">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +2 [ICON_CULTURE]来自资源块的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_FAITH">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +2 [ICON_PEACE]来自资源板块的信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_SCIENCE">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +2 [ICON_RESEARCH]来自资源图块的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_PRODUCTION">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +10% [ICON_PRODUCTION]在所有拥有的城市进行生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_GOLD">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +10% [ICON_GOLD]所有拥有的城市都有黄金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_FOOD">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +10% [ICON_FOOD]所有拥有城市的食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_CULTURE">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +10% [ICON_CULTURE]所有拥有城市的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_SCIENCE">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +10% [ICON_RESEARCH]所有拥有城市的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_FAITH">
+			<Text>[COLOR_POSITIVE_TEXT]垄断奖金：[ENDCOLOR] +20% [ICON_PEACE]对所有拥有的城市的信心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_PRODUCTION_ALUMINUM">
+			<Text>由强大的游戏后期单位和建筑物使用。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略垄断红利（25%）：[ENDCOLOR]单位在治疗时获得 +5 生命值。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]全球垄断奖金（50%）：[ENDCOLOR] +2 [ICON_PRODUCTION]由资源块生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_GOLD_COAL">
+			<Text>由强大的游戏中期单位和建筑物使用。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略垄断红利（25%）：[ENDCOLOR]海军单位增益 +1[ICON_MOVES]移动。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]全球垄断奖金（50%）：[ENDCOLOR] +3 [ICON_GOLD]来自资源板块的黄金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_SCIENCE_OIL">
+			<Text>由强大的游戏后期单位和建筑物使用。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略垄断红利（25%）：[ENDCOLOR]战斗后单位获得 +2 XP。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]全球垄断奖金（50%）：[ENDCOLOR] +2 [ICON_RESEARCH]来自资源图块的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_SCIENCE_HORSE">
+			<Text>由强大的单位使用。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略垄断红利（25%）：[ENDCOLOR]单位增益 +10%[ICON_STRENGTH]攻击时的力量。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]全球垄断奖金（50%）：[ENDCOLOR] +2 [ICON_RESEARCH]来自资源图块的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_YIELD_PRODUCTION_IRON">
+			<Text>在整个游戏中由强大的单位使用。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略垄断红利（25%）：[ENDCOLOR]单位增益 +10%[ICON_STRENGTH]防守时的力量。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]全球垄断奖金（50%）：[ENDCOLOR] +2 [ICON_PRODUCTION]由资源块生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_MOD_SCIENCE_URANIUM">
+			<Text>用于制造可怕的大规模杀伤性武器。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略垄断红利（25%）：[ENDCOLOR]单位增益 +10%[ICON_STRENGTH]攻击时的力量。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]全球垄断奖金（50%）：[ENDCOLOR] +10% [ICON_RESEARCH]所有拥有城市的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_STRAT_HORSE">
+			<Text>[COLOR_POSITIVE_TEXT]战略垄断红利：[ENDCOLOR]单位增益 +10%[ICON_STRENGTH]攻击时的力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_STRAT_IRON">
+			<Text>[COLOR_POSITIVE_TEXT]战略垄断红利：[ENDCOLOR]单位增益 +10%[ICON_STRENGTH]防守时的力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_STRAT_COAL">
+			<Text>[COLOR_POSITIVE_TEXT]战略垄断红利：[ENDCOLOR]海军单位增益 +1[ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_STRAT_ALUMINUM">
+			<Text>[COLOR_POSITIVE_TEXT]战略垄断红利：[ENDCOLOR]单位在治疗时获得 +5 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_STRAT_OIL">
+			<Text>[COLOR_POSITIVE_TEXT]战略垄断红利：[ENDCOLOR]战斗后单位获得 +2 XP。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MONOPOLY_STRAT_URANIUM">
+			<Text>[COLOR_POSITIVE_TEXT]战略垄断红利：[ENDCOLOR]单位增益 +10%[ICON_STRENGTH]攻击时的力量。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

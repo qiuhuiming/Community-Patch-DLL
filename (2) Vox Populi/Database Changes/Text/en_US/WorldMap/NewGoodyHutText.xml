@@ -23,4 +23,27 @@
 			<Text>Ancient artifacts for [ICON_RESEARCH] Science.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GOODY_PRODUCTION">
+			<Text>你会发现一堆补给品可以提升[ICON_PRODUCTION]生产离您最近的城市！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_GOLDEN_AGE">
+			<Text>你会发现古代遗迹，加速你的文明的进步[ICON_GOLDEN_AGE]黄金时代！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_TILES">
+			<Text>您发现一个游牧部落希望加入您的文明，并在最近的城市周围授予您额外的土地！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_PRODUCTION">
+			<Text>供应品[ICON_PRODUCTION]在您最近的城市进行生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_GOLDEN_AGE">
+			<Text>遗物[ICON_GOLDEN_AGE]黄金时代积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_FREE_TILES">
+			<Text>一个部落，为您提供最近城市周围的土地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_SCIENCE">
+			<Text>古代文物用于[ICON_RESEARCH]科学。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

@@ -396,4 +396,336 @@
 			<Text>How do I spread my Corporation?</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA_TOPIC">
+			<Text>[COLOR_GREEN]产量随时代的变化而变化[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA_SUMMARY">
+			<Text>许多产出，尤其是来自政策、信仰和建筑的产出，表明它们[COLOR_POSITIVE_TEXT]''与时代同步扩展''[ENDCOLOR]。这意味着，随着游戏的进展，指示的产量值会根据当前时代以线性方式增加：[NEWLINE]古代和古典时代的 1x。[NEWLINE]中世纪时期的 2 倍。[NEWLINE]文艺复兴时期的 3 倍。[NEWLINE]工业时代的 4 倍。[NEWLINE]现代时代的 5 倍。[NEWLINE]原子时代的 6 倍。[NEWLINE]信息时代的 7 倍。[NEWLINE][NEWLINE]在像韩国这样的特殊情况下，他们可能会使用奇数时代进行缩放，或者在缩放之前跳过一个时代并遵循基于当前时代的格式，例如：[NEWLINE]古代/古典时代的 1x。[NEWLINE]中世纪/文艺复兴时期的 2 倍。[NEWLINE]工业/现代时代的 3 倍。[NEWLINE]原子/信息时代的 4 倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA_ADVISOR_QUESTION">
+			<Text>什么是收益率随时代的变化？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_EMBASSIES_TOPIC">
+			<Text>[COLOR_GREEN]城邦大使馆[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_EMBASSIES_SUMMARY">
+			<Text>城邦大使馆是 Vox Populi 中获得世界大会代表的另一种方法。要在城邦建立大使馆，请将一位伟大外交官移动到城邦的一块土地上，然后选择“建立大使馆”。大使馆在世界大会上额外授予 1 名代表。在每个城邦中，一个文明只能设立一个大使馆，所以要快。当一个文明被征服时，其所有城邦大使馆都会转移到征服的文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_EMBASSIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_EMBASSIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_EMBASSIES_QUESTION">
+			<Text>什么是城邦大使馆？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORIC_EVENT">
+			<Text>[COLOR_GREEN]历史事件[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORIC_EVENT_BODY">
+			<Text>历史事件代表游戏中可能发生的巨大成就。这些事件需要规划或用户交互，因此是获得对其他文明的文化影响力的动态部分。当下列历史事件之一完成时，获得[ICON_TOURISM]根据您最近的情况，所有已知文明都会促进旅游业的发展[ICON_CULTURE]文化与[ICON_TOURISM]旅游产出：[NEWLINE][NEWLINE][ICON_BULLET]赚取[ICON_GREAT_PEOPLE]伟人[NEWLINE][ICON_BULLET]建立一个[ICON_WONDER]世界奇迹[NEWLINE][ICON_BULLET]赢得一个[ICON_WAR]战争（战争分数 25+）[NEWLINE][ICON_BULLET]输入一个新的[ICON_RESEARCH]时代[NEWLINE][ICON_BULLET]输入一个[ICON_GOLDEN_AGE]黄金时代（艺术）[NEWLINE][ICON_BULLET]完成一个[ICON_RES_ARTIFACTS] / [ICON_RES_HIDDEN_ARTIFACTS]考古挖掘（艺术）[NEWLINE][ICON_BULLET] [ICON_CARAVAN]与主要文明（商队等）进行贸易[NEWLINE][ICON_BULLET] [ICON_CARGO_SHIP]与主要文明（港口等）进行贸易[NEWLINE][ICON_BULLET] [ICON_CARAVAN]/[ICON_CARGO_SHIP]与一个进行交易[ICON_CITY_STATE]城邦（仅限政策）[NEWLINE][NEWLINE]这些活动收到的旅游量取决于您过去几轮的文化和每轮的旅游量。这个值也会根据你帝国的城市数量和目标文明的旅游修正值进行调整。最后，你收到的旅游业的数量也会受到一些社会政策和意识形态信条，以及领导者特征、建筑和帝国中城市数量的影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORIC_EVENT_QUEST">
+			<Text>什么是历史事件？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RESISTANCE">
+			<Text>[COLOR_GREEN]反抗[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RESISTANCE_BODY">
+			<Text>抵抗是一种机制，通过这种机制，征服了一个或多个首都的文明将发现占领更多首都变得越来越困难。在战斗中，您可能会看到修改器[COLOR_POSITIVE_TEXT]抵抗（统治）[ENDCOLOR]为你出现（奖励）或为敌人出现（惩罚）。此修正值仅在您或您的对手占领敌方首都后出现。修正值根据拥有的外国（非城邦）资本数量和外国资本总数而变化。一名玩家占领的首都越多，惩罚就越高！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RESISTANCE_QUEST">
+			<Text>什么是阻力？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_PARTISANS">
+			<Text>[COLOR_GREEN]游击队[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_PARTISANS_BODY">
+			<Text>如果你选择夷平一座城市，那么该城市每回合都有机会产生忠于你征服这座城市的文明的游击队。仅当您仍与文明交战时，这些单位才会生成。如果不再处于战争状态，任何产生的游击队都将被视为野蛮人。小心地积极夷平敌方城市，因为游击队的突然出现可能会扭转局势，对你不利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_PARTISANS_QUEST">
+			<Text>什么是游击队？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_WAR_WEARINESS_HEADING3_TITLE">
+			<Text>[COLOR_GREEN]厌战情绪[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_WAR_WEARINESS_HEADING3_BODY">
+			<Text>战争，战争永远不会改变。嗯，事实上，确实如此。随着战争的进展，帝国的公民将越来越意识到长期冲突的危险，并开始发展[COLOR_NEGATIVE_TEXT]厌战情绪[ENDCOLOR]。每个玩家的厌战感是根据三个因素计算的：你与他们交战的回合数、你从他们那里受到的伤害量以及你对他们造成的一半伤害。然后将该值与您的单位和城市的当前“力量”进行比较，以计算百分比（上限为 100%），并且任何玩家的最高百分比惩罚将应用于您的帝国。从玩家手中夺取一座城市后，你对该玩家的厌战情绪将暂停，直到两个回合过去，因为你的人民希望战争有一个有利的结局。如果人工智能领导者能够但不愿意与人类玩家和平相处，那么该领导者也会被忽略。[NEWLINE][NEWLINE]此外，与另一个文明讲和将使你对他们的厌战感立即减半，解放一座城市将使你对所有文明的厌战感降低25%。[NEWLINE][NEWLINE]厌战情绪具有三个主要影响：[NEWLINE][ICON_BULLET]厌战带来的不满[NEWLINE][ICON_BULLET]军事单位的生产和黄金成本增加[NEWLINE][ICON_BULLET]减少最大军事单位供应上限[NEWLINE]小心在一次冲突中不要过度扩张！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_WAR_WEARINESS_ADV_QUEST">
+			<Text>什么是厌战症？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MILITARY_SUPPLY_HEADING3_TITLE">
+			<Text>[COLOR_GREEN]军用补给[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MILITARY_SUPPLY_HEADING3_BODY">
+			<Text>您在任一时间可以部署的军事单位的最大数量称为您的军事单位补给上限。该数字显示在顶部面板旁边的[ICON_WAR]符号，根据两个因素增加：所有城市的总人口，以及增加军事单位供应上限的建筑物或政策的数量。某些建筑物（例如兵营）会增加固定数量的补给上限。其他的，比如墙壁，可以将你的供应上限增加城市人口的一定比例。[NEWLINE][NEWLINE]军事单位供应上限从静态元素（如兵营）中增加，并且根据帝国的技术水平，随着时间的推移，人口减少会带来百分比奖励。你将需要越来越多的百分比奖金来克服这个问题并派出大军！[NEWLINE][NEWLINE]如果出于任何原因，您超过了军事单位供应上限，您将在所有城市中受到 5% 的生产和粮食处罚（超过上限的每个单位）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MILITARY_SUPPLY_ADV_QUEST">
+			<Text>什么是军需品？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CANALS_TITLE">
+			<Text>[COLOR_GREEN]运河[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CANALS_BODY">
+			<Text>建在水瓦旁边的自有堡垒和城堡算作运河，您的军舰可以进入。您可以建造运河将湖泊（以及湖泊旁边的城市）与海洋连接起来。不可能有两个相邻的要塞或两个相邻的城堡，但一座堡垒和一座城堡可以彼此相邻建造。通过运河与海洋相连的湖边城市可以建造军舰（但不能建造沿海建筑），并且运河也可以供自有和外国货船使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CANALS_ADV_QUEST">
+			<Text>什么是运河？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_SPY_POINTS_TITLE">
+			<Text>[COLOR_GREEN]间谍点[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_SPY_POINTS_BODY">
+			<Text>每当间谍数量达到一定数量时，您就会获得一名新间谍[ICON_SPY_POINT]间谍点数超过阈值（最小值：100）。阈值根据游戏开始时存在的文明和城邦的数量而降低。当第一个文明达到文艺复兴时，或者当你达到任何后来的时代时，你获得 100[ICON_SPY_POINT]间谍点。一些建筑物和政策还提供[ICON_SPY_POINT]间谍点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_SPY_POINTS_ADV_QUEST">
+			<Text>什么是间谍点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_LOCAL_HAPPINESS_HEADING3_TITLE">
+			<Text>[COLOR_GREEN]城市当地幸福感[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_LOCAL_HAPPINESS_HEADING3_BODY">
+			<Text>城市的局部幸福度由以下公式确定：[NEWLINE][NEWLINE]一些幸福是由城市在当地产生的。这可以通过建筑物、政策、世界奇观或已建成的地标来实现。[NEWLINE][NEWLINE]来自帝国范围内来源（如豪华资源或同盟城邦）的幸福总量以扑克牌形式分布在所有城市中。这是自动完成的，优先考虑当地幸福度低于人口的城市。当所有城市的本地幸福度等于其人口数后，剩余的部分将按照人口从高到低的顺序按照扑克牌的方式进行分配。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_LOCAL_HAPPINESS_ADV_QUEST">
+			<Text>当地城市幸福感如何确定？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_NEED_THRESHOLDS_TITLE">
+			<Text>[COLOR_GREEN]需求阈值的计算[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_NEED_THRESHOLDS_BODY">
+			<Text>需求带来的不幸福感的计算是通过将城市的人均产出与某些参考值（需求阈值）进行比较来完成的。这些值基于全球人均产出中位数（即全球 50% 的城市超过了人均产出值）。在计算中位数时，仅考虑人口至少为 3 的城市，从而减轻游戏早期的不幸福感。每个城市的需求阈值由许多需求修改者修改。正的需求修正会使达到阈值变得更加困难，因此可能会增加局部的不快乐，而负的需求修正可能会减少它。始终应用以下修饰符：[NEWLINE] [COLOR_NEGATIVE_TEXT]资本状况[ENDCOLOR]：资本需求门槛提高25%。[NEWLINE] [COLOR_NEGATIVE_TEXT]帝国规模[ENDCOLOR]：帝国内的每个城市（不包括首都和傀儡城市）将每个城市的需求阈值提高5%。此外，你的帝国中每八个公民（不包括傀儡城市的公民）都会增加 1%。[NEWLINE] [COLOR_POSITIVE_TEXT]难度等级[ENDCOLOR]：在定居者和酋长困难上，人类玩家的需求阈值降低了。在 Chieftain 以上的难度级别上，不应用任何修改器。[NEWLINE][NEWLINE]巴西的嘉年华能力还将所有城市的需求阈值降低了 50%。此外，将生产转化为其他产量的过程会降低相应的需求阈值，其等于转化率（可以使用发电厂来增加），例如农业将 25% 的产量转化为粮食，并将困境需求阈值降低 25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_NEED_THRESHOLDS_ADV_QUEST">
+			<Text>需求阈值是如何计算的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_PUPPET_CITIES_TITLE">
+			<Text>[COLOR_GREEN]傀儡城市中的不幸[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_PUPPET_CITIES_BODY">
+			<Text>在傀儡城市中，幸福和不幸有特殊的规则。傀儡城市中每 4 个公民就会产生 1 点不快乐。傀儡城市中唯一可能的不幸福来源是城市化，其计算方式与其他城市相同。在傀儡城市中，你无法控制专家的分配，因此无法抵消城市化，除非你吞并该城市。傀儡城市不会产生任何本地幸福，它们遵循自己的增长规则，独立于幸福系统。因此，傀儡城市所产生的不满只会在帝国层面产生影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_PUPPET_CITIES_ADV_QUEST">
+			<Text>是什么导致了傀儡城市的不幸福？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_OCCUPIED_CITIES_TITLE">
+			<Text>[COLOR_GREEN]被占领和抵抗的城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_OCCUPIED_CITIES_BODY">
+			<Text>处于抵抗或被夷为平地的城市不会产生任何当地的幸福感。相反，他们产生的幸福感与城市人口的幸福感相当。这会大大降低你的帝国的支持率。[NEWLINE][NEWLINE]被占领的城市也不会产生任何幸福。他们产生的不幸福感等于城市人口的不幸福感，再加上城市化带来的常规不幸福感。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_OCCUPIEDCITIES_ADV_QUEST">
+			<Text>是什么导致了被占领和抵抗城市的不满？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_GOLDEN_AGE_HEADING4_TITLE">
+			<Text>[COLOR_GREEN]黄金时代积分[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_GOLDEN_AGE_HEADING4_BODY">
+			<Text>废墟中包含可以提供黄金时代积分的遗物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_GOLDEN_AGE_ADV_QUEST">
+			<Text>黄金时代积分？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_PRODUCTION_HEADING4_TITLE">
+			<Text>[COLOR_GREEN]生产[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_PRODUCTION_HEADING4_BODY">
+			<Text>废墟中包含可以为您最近的城市提供生产的补给品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_PRODUCTION_ADV_QUEST">
+			<Text>生产？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_TILES_HEADING4_TITLE">
+			<Text>[COLOR_GREEN]瓷砖[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_TILES_HEADING4_BODY">
+			<Text>废墟中有定居者，他们可以向您最近的城市提供免费的瓷砖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BARBARIAN_TILES_ADV_QUEST">
+			<Text>瓷砖？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_SHORTCUT_INTRODUCTION">
+			<Text>输入快捷键</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHORTCUT_INTRODUCTION_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_SHORTCUT_INTRODUCTION}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHORTCUT_INTRODUCTION_BODY">
+			<Text>Vox Populi 中提供了许多鼠标和键盘快捷键，可以简化许多任务！看[COLOR_GREEN]{TXT_KEY_TOPIC_SHORTCUT_WORLD_VIEW}[ENDCOLOR]有关主地图视图中单位控制的快捷方式。看[COLOR_GREEN]{TXT_KEY_TOPIC_SHORTCUT_CITY_VIEW}[ENDCOLOR]与建筑施工和城市管理相关的捷径。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_SHORTCUT_CITY_VIEW">
+			<Text>城市景观快捷方式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHORTCUT_CITY_VIEW_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_SHORTCUT_CITY_VIEW}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHORTCUT_CITY_VIEW_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]建筑施工修改器：[ENDCOLOR]虽然左键单击建筑物会将其放置在当前城市建设队列的底部，但可以使用修改键来完成其他操作。[NEWLINE] [ICON_BULLET][COLOR_CYAN]插入顶部[ENDCOLOR]: [COLOR_YELLOW]CTRL+L 单击[ENDCOLOR]将其添加到当前城市建设队列顶部的项目。[NEWLINE] [ICON_BULLET][COLOR_CYAN]代替[ENDCOLOR]: [COLOR_YELLOW]SHIFT+L 单击[ENDCOLOR]用该项目替换当前城市建设队列的项目。[NEWLINE] [ICON_BULLET][COLOR_CYAN]重复[ENDCOLOR]: [COLOR_YELLOW]ALT+L 单击[ENDCOLOR]重复生产该项目的项目。[NEWLINE] [ICON_BULLET][COLOR_CYAN]插入底部全部[ENDCOLOR]: [COLOR_YELLOW]SHIFT+ALT+L 单击[ENDCOLOR]将其添加到每个符合条件的城市建设队列底部的项目。[NEWLINE] [ICON_BULLET][COLOR_CYAN]插入顶部全部[ENDCOLOR]: [COLOR_YELLOW]SHIFT+CTRL+L 单击[ENDCOLOR]将其添加到每个符合条件的拥有城市建设队列顶部的项目。[NEWLINE] [ICON_BULLET][COLOR_CYAN]全部投资[ENDCOLOR]: [COLOR_YELLOW]SHIFT+L 单击[ENDCOLOR]建筑物投资按钮可投资任何城市活跃建设队列中该建筑物的每个副本。[NEWLINE] [NEWLINE][COLOR_POSITIVE_TEXT]公民管理修改器：[ENDCOLOR][NEWLINE] [ICON_BULLET][COLOR_CYAN]设置产量焦点全部[ENDCOLOR]: [COLOR_YELLOW]SHIFT+L 单击[ENDCOLOR]一种焦点类型，让所有城市都强调该产量类型的生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_SHORTCUT_WORLD_VIEW">
+			<Text>世界观快捷方式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHORTCUT_WORLD_VIEW_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_SHORTCUT_WORLD_VIEW}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHORTCUT_WORLD_VIEW_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]特别运动行动：[ENDCOLOR]大多数特殊的运动动作，例如变基，可以通过选择单位和执行[COLOR_YELLOW]右键单击[ENDCOLOR]在有效的目的地图块上。[NEWLINE] [ICON_BULLET][COLOR_CYAN]空运[ENDCOLOR]：选择符合空运条件的土地单位后，右键单击符合空运条件的目的地图块即可进行空运。[NEWLINE] [ICON_BULLET][COLOR_CYAN]更改居住城市[ENDCOLOR]：选择贸易单位后，右键单击城市可更改家乡城市。[NEWLINE] [ICON_BULLET][COLOR_CYAN]更改端口[ENDCOLOR]：选择某个城市的大将军后，右键单击沿海城市即可更改港口。[NEWLINE] [ICON_BULLET][COLOR_CYAN]变基[ENDCOLOR]：选择空中单位后，右键单击符合条件的空运目的地图块即可执行空运操作。[NEWLINE] [NEWLINE][COLOR_POSITIVE_TEXT]移动和行动命令：[ENDCOLOR] [COLOR_YELLOW]CTRL+R 单击[ENDCOLOR]发出“移动并行动”命令，指示单位移动到目标图块然后执行其行动。[NEWLINE] [ICON_BULLET][COLOR_CYAN]考古学家[ENDCOLOR]: 考古发掘。[NEWLINE] [ICON_BULLET][COLOR_CYAN]作战单位[ENDCOLOR]：警报/强化模式。[NEWLINE] [ICON_BULLET][COLOR_CYAN]外交单位[ENDCOLOR]：执行外交任务。[NEWLINE] [ICON_BULLET][COLOR_CYAN]伟大的人民[ENDCOLOR]：构造瓷砖改进。[NEWLINE] [ICON_BULLET][COLOR_CYAN]审判官[ENDCOLOR]：消除异端。[NEWLINE] [ICON_BULLET][COLOR_CYAN]传教士[ENDCOLOR]: 传播宗教。[NEWLINE] [ICON_BULLET][COLOR_CYAN]工人/工作船[ENDCOLOR]：修复/改善资源。[NEWLINE] [NEWLINE][COLOR_POSITIVE_TEXT]排队运动：[ENDCOLOR]发出搬迁指令[COLOR_YELLOW]SHIFT+R 单击[ENDCOLOR]创建航路点。[NEWLINE] [NEWLINE][COLOR_POSITIVE_TEXT]飞机群指令：[ENDCOLOR]选择飞机单位后，可以使用修饰键向同一空军基地中的所有相同类型的飞机发出命令。[NEWLINE] [ICON_BULLET][COLOR_CYAN]集中前向变基[ENDCOLOR]: [COLOR_YELLOW]SHIFT+R 单击[ENDCOLOR]位于空军基地会将所有飞机移至该空军基地，直到没有更多空位或所有飞机都已重新基地。生命值较高的飞机优先，并按单位等级打破平局。[NEWLINE] [ICON_BULLET][COLOR_CYAN]大规模后备变基[ENDCOLOR]: [COLOR_YELLOW]ALT+R 单击[ENDCOLOR]在空军基地上将把所有受损的飞机转移到目标空军基地，直到没有更多空位或所有飞机都重新基地。低马力飞机优先。[NEWLINE] [ICON_BULLET][COLOR_CYAN]集中打击模式[ENDCOLOR]: [COLOR_YELLOW]SHIFT+R 单击[ENDCOLOR]对敌人进行空袭，直到所有飞机都攻击或目标死亡。攻击顺序优先考虑生命值较高的飞机，并根据单位等级打破平局。可以攻击两次的飞机将在下一架飞机开始攻击之前进行攻击。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_GREAT_DIPLOMAT_TOPIC">
+			<Text>[COLOR_GREEN]伟大的外交家[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_GREAT_DIPLOMAT_SUMMARY">
+			<Text>[COLOR_CYAN]特殊能力：建立大使馆[ENDCOLOR][NEWLINE]您可以将一名伟大的外交官移至城邦并在一块土地上建造大使馆。只有在城邦尚未设立其他大使馆的情况下，这才有可能。每个大使馆在世界大会上额外提供 1 票。建立大使馆需要消耗伟大的外交官。[NEWLINE][NEWLINE][COLOR_CYAN]特殊能力：执行外交任务[ENDCOLOR][NEWLINE]您可以在城邦境内使用伟大外交官来执行外交任务。你将获得大量的城邦影响力，而所有其他文明的影响力都会减少相同的量。此外，您将永久获得 1 篇论文。这一行动消耗了伟大外交家的精力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_GREAT_DIPLOMAT_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_GREAT_DIPLOMAT_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_GREAT_DIPLOMAT_QUEST">
+			<Text>什么是伟大的外交官？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CIVIL_SERVANT_HEADING3_TITLE">
+			<Text>[COLOR_GREEN]公务员[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CIVIL_SERVANT_HEADING3_BODY">
+			<Text>公务员会产生各种收益以及伟大外交官的积分。如果您想赢得外交胜利，或者想赢得更多城邦联盟，这些单位是必不可少的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CIVIL_SERVANT_ADV_QUEST">
+			<Text>公务员做什么的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_MAP_TRADING_TOPIC">
+			<Text>[COLOR_GREEN]地图交易[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_MAP_TRADING_SUMMARY">
+			<Text>文明的世界地图详细描述了文明的探险家发现并绘制的每一个岛屿、海洋、自然奇观和文明。军事科学的发现可以让文明的世界地图进行交易，它将揭示文明探索过的每一块瓷砖。世界地图不提供与外国文明的联系，但它会标出他们的位置并让您遇见他们！世界地图的价值取决于文明可以向您展示多少未被发现的土地：自然奇观和资源的价值远远超过广阔无垠的海洋。世界地图可能会变得昂贵，所以一定要探索世界并从发现收入中获利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_MAP_TRADING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_DIPLOMACY_MAP_TRADING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_MAP_TRADING_ADVISOR_QUESTION">
+			<Text>什么是地图交易？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_TECH_TRADING_TOPIC">
+			<Text>[COLOR_GREEN]科技交易[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_TECH_TRADING_SUMMARY">
+			<Text>一旦你获得了可更换零件技术，你就可以向另一个文明出售你的技术发现，只要你在他们的首都设有大使馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_TECH_TRADING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_DIPLOMACY_TECH_TRADING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_TECH_TRADING_ADVISOR_QUESTION">
+			<Text>什么是科技交易？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OVERVIEW_TOPIC">
+			<Text>[COLOR_GREEN]附庸[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OVERVIEW_SUMMARY">
+			<Text>附庸协议是两个文明之间的协议，其中一个文明宣誓效忠另一个文明，成为其附庸。为了换取对其他文明的保护，封臣放弃了他们的政治权力，包括他们成为世界大会和联合国领导人的权利以及宣战的能力（他们跟随他们的主人参战）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OVERVIEW_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_VASSALAGE_OVERVIEW_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OVERVIEW_ADV_QUEST">
+			<Text>什么是附庸？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OBTAINING_VASSALS_TOPIC">
+			<Text>[COLOR_GREEN]获得封臣[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OBTAINING_VASSALS_SUMMARY">
+			<Text>封臣只有在进入中世纪时代并且某个文明同意成为你的封臣后才能获得。该协议发生在外交贸易屏幕中。附庸有两种类型：自愿附庸和投降。[NEWLINE][NEWLINE]自愿附庸是主人在平时购买的。弱小的文明更有可能投降为附庸，只要它们的新主人足够强大并且足够接近来保护它们。自愿附庸只是一种选择协议，附庸可以选择在仅仅 10 个回合后离开主人的服务。[NEWLINE][NEWLINE]投降，也被称为“强力附庸”，是在一个文明在战争中被击败之后发生的。作为允许他们生存的交换条件，封臣同意向俘虏他们的人投降。投降为主人提供了许多更多的好处。投降的文明同意宽恕与主人的大多数负面外交关系，并被迫继续担任他们的附庸，直到满足一些条件。您可以在附庸概述中查看这些条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OBTAINING_VASSALS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_VASSALAGE_OBTAINING_VASSALS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_OBTAINING_VASSALS_ADVISOR_QUESTION">
+			<Text>如何获得封臣？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_ENDING_VASSALS_TOPIC">
+			<Text>[COLOR_GREEN]结束附庸[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_ENDING_VASSALS_SUMMARY">
+			<Text>两个文明之间的附庸关系可以通过多种方式结束。主人可以选择向他们的封臣宣战，立即结束他们之间的封臣关系。主人可能会选择解放他们的封臣，立即结束封臣协议（但也为他们提供了一个非常大的外交修正）！[NEWLINE][NEWLINE]封臣也可以请求独立于主人（在满足某些条件后）。主人总是可以选择接受或拒绝他们的独立请求。在这两种情况下，附庸协议都会立即终止，但如果主人拒绝独立请求，两个文明之间就会立即宣战。[NEWLINE][NEWLINE]解放封臣和请求脱离主人独立是通过封臣概述提供的选项。请参阅此概述以了解资格要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_ENDING_VASSALS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_VASSALAGE_ENDING_VASSALS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_ENDING_VASSALS_ADVISOR_QUESTION">
+			<Text>我该如何结束附庸？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_BENEFITS_TOPIC">
+			<Text>[COLOR_GREEN]附庸的好处[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_BENEFITS_SUMMARY">
+			<Text>封臣为主人带来了多种好处。主人与附庸获得免费的开放边界，并获得免费的[ICON_DIPLOMAT]附庸国的外交官[ICON_CAPITAL]资本，占封臣资本的百分比[ICON_RESEARCH]科学，[ICON_CULTURE]文化，[ICON_PEACE]信仰。大师的[ICON_RELIGION]宗教和[ICON_TOURISM]旅游业在其附庸国领土上传播得更快。封臣在每个新时代贡献少量单位，封臣被迫采用主人的意识形态，并且封臣没有资格主办世界大会或联合国（除非封臣创立了它，在这种情况下，他们将成为世界大会的东道主，直到选择新的东道主）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_BENEFITS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_VASSALAGE_VASSAL_BENEFITS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_BENEFITS_ADVISOR_QUESTION">
+			<Text>我为什么要获得封臣？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_TAXES_TOPIC">
+			<Text>[COLOR_GREEN]向封臣征税[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_TAXES_SUMMARY">
+			<Text>团队中的每个附庸玩家都可以按个人税率纳税。该税通过附庸概览适用，并在附庸协议签订后立即可用。所有税费均在回合开始时适用。税收从封臣身上扣除[ICON_GOLD]每回合的总金币在大师团队中的文明之间平均分配（如果有超过一名玩家）。封臣税可以以 5% 为间隔设置，从 0% 开始，到 25% 结束。税收只能在设定的时间间隔后设置（当附庸税收准备就绪时会发出通知，并且附庸概述图标将显示有待处理税收更改的文明数量）。[NEWLINE][NEWLINE]对一个文明征收重税将使他们在能够结束附庸时更有可能仇恨你并反抗你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_TAXES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_VASSALAGE_VASSAL_TAXES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_VASSALAGE_VASSAL_TAXES_ADVISOR_QUESTION">
+			<Text>我为什么要获得封臣？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_CORPORATION">
+			<Text>企业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_CORPORATION}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]是 Vox Populi 中添加的新游戏元素之一。它们可以对帝国的经济发展产生巨大影响，尤其是在游戏的后期。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]创始公司[ENDCOLOR]：游戏中有七个不同的公司，一旦您研究了现代的公司技术，每个公司都将可用。每个公司都有一组它所依赖的特定资源垄断——如果您没有至少一个这些资源垄断，您将无法找到该公司。一旦满足这两个要求，您就需要在您的城市之一建造公司的“总部”。这些建筑都是世界奇迹，因此世界上只有一名玩家可以找到每个公司！此外，一旦您创建了一家公司，您就无法再创建另一家公司，因此请确保您喜欢您选择的一家！[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]建设公司办公室[ENDCOLOR]：一旦您成立了公司，您就可以开始在每个城市建立公司办事处。这些建筑物具有与您的公司总部类似的特殊奖励，因此值得自行建造。大多数公司的奖金都会随着您拥有的城市数量而增加，因此较大的帝国可以从建立公司和建造尽可能多的办事处中受益匪浅！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_QUESTION">
+			<Text>什么是公司？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_MONOPOLY">
+			<Text>垄断</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONOPOLY_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_MONOPOLY}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONOPOLY_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]垄断[ENDCOLOR]是 Vox Populi 中添加的新游戏元素之一。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]奢侈品全球垄断[ENDCOLOR]：大富翁系统的本质是扩张：随着你的帝国在整个游戏中扩张（通过战斗或结算），请留意你已经拥有副本的豪华资源。当您收集越来越多的相同豪华资源副本时，您控制的全球资源的百分比就会上升。如果该值超过 50%（即您控制了世界上任何资源供应的 50% 以上），您就获得了该资源的全球垄断权。每个全球垄断都有独特的奖励 - 有些会给你的图块带来额外的收益，而另一些则以设定的百分比提高城市收益（有关详细信息，请参阅文明百科的资源部分）。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]战略性全球垄断[ENDCOLOR]：在垄断方面，战略资源的运作方式与奢侈品资源相同，但有一个重大例外。由于这些资源极其丰富，真正的 50% 垄断可能相当困难。因此，战略资源有两个层次：“战略”垄断和“真正”垄断。战略垄断发生率为 25%，并产生特殊的战斗奖励（例如增加生命恢复或增加防御）。真正的垄断发生率为 50%，并且与豪华垄断一样，它们会为城市和/或瓷砖产量带来奖金。[NEWLINE][NEWLINE]资源垄断也需要建立[COLOR_POSITIVE_TEXT]公司[ENDCOLOR]。每个公司都有一组它所依赖的特定资源垄断——如果您没有至少一个这些资源垄断，您将无法找到该公司。对于每种奢侈品和战略资源，您可以在“公司和垄断”屏幕中查看您控制的全球资源的百分比。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONOPOLY_QUESTION">
+			<Text>什么是资源垄断？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_CORPORATION_TYPES">
+			<Text>公司类型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_TYPES_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_CORPORATION_TYPES}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_CORPORATION_TYPES_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]公司类型[ENDCOLOR]：Vox Populi 中有 7 个公司。每一个都只能建造一次（每个玩家只能建造一个），所以请明智地选择！有关这方面的更多信息，请参阅[COLOR_POSITIVE_TEXT]企业[ENDCOLOR]文明百科的选项卡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_TYPES_QUESTION">
+			<Text>我如何传播我的公司？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOPIC_CORPORATION_SPREADING">
+			<Text>传播公司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_SPREADING_TITLE">
+			<Text>[COLOR_GREEN]{TXT_KEY_TOPIC_CORPORATION_SPREADING}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_SPREADING_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]传播您的公司[ENDCOLOR]到外国城市是从您的公司获得最大利益的重要因素。[NEWLINE][NEWLINE]主动传播：公司通过拥有的贸易路线积极传播其影响力，但前提是起源城市（您的城市）在其中设有公司办事处。如果您的城市有一个公司办事处，并且您从该城市发送一条贸易路线到外国城市，则当贸易路线完成时，将在该外国城市建立企业“特许经营权”。如果您当前正在与该文明进行交易，则每轮都有随机机会（~5%）在附近的外国城市创建特许经营权。你只能将你的公司扩展到每个外国城市一次，并且你拥有的特许经营权不能超过你可以支持的贸易路线的最大数量。[NEWLINE][NEWLINE]被动传播：公司通过对外贸易路线被动传播其影响力，但前提是目的地城市（您的城市）在其中设有公司办事处。如果您的城市有一个公司办公室，并且另一个玩家从他们的一个城市向该城市发送一条贸易路线，那么当他们的贸易路线完成时，将在外国城市建立一个公司“特许经营权”。你的公司只能扩展到每个外国城市一次。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]扩展公司的好处[ENDCOLOR]：正如每个公司的详细信息所列出的那样，您的公司在国外城市的分布对您公司办事处的生产力有直接的影响。对于您的公司在外国城市的每一个“特许经营权”，您的公司办事处都会获得独特的奖励，无论是额外的城市收益、免费资源还是提高的贸易路线收益。此外，如果您将贸易路线发送到已经有您的公司的外国城市，许多公司会获得额外的奖金。一旦你成立了你的公司，一定要研究它的细节，这样你才能最大化你的利益！[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]管理您的公司[ENDCOLOR]：随着您的公司不断发展，可能很难跟上您拥有特许经营权和办事处的情况。永远不要害怕！在经济概览面板中，您可以在左下角找到有关您公司的详细信息。在那里，您可以看到您当前控制的办事处和公司总数，以及所有公司办事处和特许经营权位置的下拉列表，以及外国公司的规模。除了这些元素之外，您还可以在选择贸易路线的目的地时找到有关您的公司的信息。每个拥有特许经营权的城市都有明确的指示。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORPORATION_SPREADING_QUESTION">
+			<Text>我如何传播我的公司？</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

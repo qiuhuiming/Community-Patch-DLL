@@ -16,4 +16,18 @@
 			<Text>Great Diplomat Points:</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT">
+			<Text>公务员|公务员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT_STRATEGY">
+			<Text>公务员生产 1[ICON_RESEARCH]科学, 1[ICON_CULTURE]文化，2[ICON_GOLD]黄金，并加速伟大外交官的创造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT_SLOTS">
+			<Text>公务员职位：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CIVIL_SERVANT_TITLE">
+			<Text>伟大外交官要点：</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

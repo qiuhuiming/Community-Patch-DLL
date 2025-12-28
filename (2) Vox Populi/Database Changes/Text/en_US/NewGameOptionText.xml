@@ -36,4 +36,36 @@
 			<Text>Disables Advanced Spy Missions. Spies only provide their passive benefits while stationed in a City. NOTE: This option does nothing if 'No Espionage' is enabled.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_TRADING">
+			<Text>无科技交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_TRADING_HELP">
+			<Text>阻碍文明之间的技术贸易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_RESEARCH_AGREEMENTS">
+			<Text>启用研究协议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_RESEARCH_AGREEMENTS_HELP">
+			<Text>如果启用，您可以与其他文明签署研究协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_BROKERING">
+			<Text>无技术经纪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_TECH_BROKERING_HELP">
+			<Text>如果启用，您将无法将技术出售给另一个文明，除非您自己研究了该技术。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_VASSALAGE">
+			<Text>没有附庸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_VASSALAGE_HELP">
+			<Text>禁用附庸系统。无法创建封臣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_PASSIVE_ESPIONAGE">
+			<Text>被动间谍活动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_PASSIVE_ESPIONAGE_HELP">
+			<Text>禁用高级间谍任务。间谍仅在驻扎在城市时提供被动利益。注意：如果启用“无间谍活动”，此选项不会执行任何操作。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

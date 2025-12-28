@@ -14,4 +14,18 @@
 			<Text>Construct this Project in cities that are suffering from chronic [ICON_HAPPINESS_3] Unhappiness caused by Needs, and you have run out options to deal with it. Watch out, however, as this project becomes more expensive to build every time you construct it in this City, and it costs Gold to upkeep. Use this as a last resort, not as a first solution, when dealing with Unhappiness from Needs.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PROJECT_PUBLIC_WORKS">
+			<Text>公共工程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_PUBLIC_WORKS_HELP">
+			<Text>增加[ICON_HAPPINESS_1]城市幸福度提高 1，减少城市的[ICON_CITY_STATE]帝国规模修正值提高 10%，并减少[ICON_HAPPINESS_3]城市中所有需要 1 带来的不满。也提升了城市的[ICON_CITY_SECURITY]城市治安5.[NEWLINE][NEWLINE]是一个可重复的项目，但是[ICON_PRODUCTION]生产成本扩大 +100[ICON_PRODUCTION]每个时代的产量，+100[ICON_PRODUCTION]每次在这个城市建设这个项目时的生产。[NEWLINE][NEWLINE]增加了城市的[ICON_GOLD]每次建造时金币维护量增加 2。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_PUBLIC_WORKS_PEDIA">
+			<Text>公共工程是一类广泛的基础设施项目，由政府资助和建设，用于更大社区的娱乐、就业、健康和安全用途。它们包括公共建筑（市政建筑、学校、医院）、交通基础设施（道路、铁路、桥梁、管道、运河、港口、机场）、公共空间（公共广场、公园、海滩）、公共服务（供水和处理、污水处理、电网、水坝）以及其他通常是长期的实物资产和设施。尽管公共工程经常与公共基础设施和公共资本互换，但它不一定包含经济成分，因此是一个更广泛的术语。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_PUBLIC_WORKS_STRATEGY">
+			<Text>在患有慢性病的城市建设该项目[ICON_HAPPINESS_3]不快乐是由需求引起的，而你已经没有选择来应对它。但要小心，因为每次你在这个城市建造这个项目时，建造它都会变得更加昂贵，并且需要金币来维护。在处理因需求而导致的不快乐时，将此作为最后的手段，而不是第一个解决方案。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

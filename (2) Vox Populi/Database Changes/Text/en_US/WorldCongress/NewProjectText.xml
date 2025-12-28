@@ -85,4 +85,78 @@
 			<Text>United Nations wonder appears in [ICON_CAPITAL] Capital. (Receive 1 [COLOR_POSITIVE_TEXT]Additional[ENDCOLOR] [ICON_DIPLOMAT] Delegate in the World Congress for every 8 [ICON_CITY_STATE] City-States originally in the World. Also, when you expend a [ICON_GREAT_PEOPLE] Great Person, earn 25 [ICON_INFLUENCE] Influence with all [ICON_CITY_STATE] City-States you have met. Triggers a [ICON_GOLDEN_AGE] Golden Age, as well as the [COLOR_POSITIVE_TEXT]United Nations[ENDCOLOR] Special Session of the World Congress if the world has reached the Atomic Era.)</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_TREASURE_FLEET">
+			<Text>宝藏舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_TREASURE_FLEET_SPLASH">
+			<Text>来自世界各地的海军上将、航海家、水手和造船商正在收集资源来创建一支宝藏舰队，这是有史以来规模最大、最负盛名的舰队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1">
+			<Text>造船奖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1_HELP">
+			<Text>接收一艘护卫舰。下一步还有 300 分[ICON_GOLDEN_AGE]黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2">
+			<Text>熟练的导航员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2_HELP">
+			<Text>获得一名免费的海军上将，您的 3 个军事单位将免维护。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3">
+			<Text>舰队司令</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3_HELP">
+			<Text>大运河奇迹出现在[ICON_CAPITAL]首都。 （接收 1[COLOR_POSITIVE_TEXT]额外的[ENDCOLOR] [ICON_INTERNATIONAL_TRADE]贸易路线。授予除潜艇和航母之外的所有海军部队[COLOR_POSITIVE_TEXT]宝藏舰队[ENDCOLOR]促销，奖励 +10%[ICON_STRENGTH]攻击时战斗力+1[ICON_VISION]视力和治愈能力[COLOR_POSITIVE_TEXT]友好领土之外[ENDCOLOR].)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WARGAMES">
+			<Text>全球兵棋推演</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WARGAMES_SPLASH">
+			<Text>世界各大帝国的军队和军官齐聚一堂，展示他们的战斗能力，宣示全球领先地位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1">
+			<Text>上校</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1_HELP">
+			<Text>接收 1 个步兵后，您的 3 个军事单位将无需维护。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2">
+			<Text>少将</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2_HELP">
+			<Text>在接下来的 30 回合内，所有军事单位获得 +25% 的攻击加值，并且你的 4 个军事单位将免维护。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3">
+			<Text>陆军元帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3_HELP">
+			<Text>门宁门奇迹出现在[ICON_CAPITAL]首都。 （收到+2[ICON_HAPPINESS_1]幸福在它所在的城市。接收2[ICON_CULTURE]文化与[ICON_GOLDEN_AGE]每当拥有的单位被杀死时就会获得黄金时代积分，并随着时代的变化而增加。堡垒、城堡和地标提供+2[ICON_CULTURE]文化与[ICON_GOLDEN_AGE]工作时获得黄金时代积分。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_UNITED_NATIONS">
+			<Text>联合国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_UNITED_NATIONS_SPLASH">
+			<Text>全球外交和国际关系新时代已经到来。来自世界各地的代表、官员和政要齐聚一堂，庆祝联合国的成立，以及人类的未来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1">
+			<Text>高级专员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1_HELP">
+			<Text>获得免费的伟大外交官。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2">
+			<Text>常任理事国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2_HELP">
+			<Text>立即获得 25 的提升[ICON_INFLUENCE]对所有城邦的影响。领事馆国家奇迹出现在[ICON_CAPITAL]首都。 （接收 1[COLOR_POSITIVE_TEXT]额外的[ENDCOLOR] [ICON_DIPLOMAT]每8届世界大会代表[ICON_CITY_STATE]最初存在于世界上的城邦。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3">
+			<Text>秘书长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3_HELP">
+			<Text>联合国奇迹出现在[ICON_CAPITAL]首都。 （接收 1[COLOR_POSITIVE_TEXT]额外的[ENDCOLOR] [ICON_DIPLOMAT]每8届世界大会代表[ICON_CITY_STATE]城邦原本是世界上的城邦。另外，当您花费[ICON_GREAT_PEOPLE]伟人，赚25[ICON_INFLUENCE]对所有人的影响[ICON_CITY_STATE]你见过的城邦。触发一个[ICON_GOLDEN_AGE]黄金时代，以及[COLOR_POSITIVE_TEXT]联合国[ENDCOLOR]如果世界已经进入原子时代，则召开世界大会特别会议。）</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

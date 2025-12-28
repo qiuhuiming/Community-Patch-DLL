@@ -64,4 +64,60 @@
 			<Text>[ICON_BULLET]+20% [ICON_TOURISM] Tourism and improved diplomatic relations with the other player[NEWLINE][ICON_BULLET]Can buy 35% of the other player's World Congress votes[NEWLINE][ICON_BULLET]Receive intrigue[NEWLINE][ICON_BULLET]Can view Tech Tree and Policy Screen of the other player[NEWLINE][ICON_BULLET]Can view types and count of the other player's military units[NEWLINE][ICON_BULLET]Trade Routes to the other player generate +20% [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Can view all active trade deals of the other player[NEWLINE][ICON_BULLET]When asked what they think about a civilization, the other player will always reveal their true approach</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_1">
+			<Text>监视一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_1_HELP">
+			<Text>[ICON_BULLET]可以查看城市屏幕[NEWLINE][ICON_BULLET]获得城市中心地块的可见度[NEWLINE][ICON_BULLET]每回合，城市的 3%[ICON_RESEARCH]科学输出会添加到您的每回合科学中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_2">
+			<Text>监视二</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_2_HELP">
+			<Text>[ICON_BULLET]可以查看城市屏幕[NEWLINE][ICON_BULLET]获得中心图块旁边的城市图块的可见性[NEWLINE][ICON_BULLET]每回合，城市的 5%[ICON_RESEARCH]科学输出会添加到您的每回合科学中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_3">
+			<Text>监视三</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_3_HELP">
+			<Text>[ICON_BULLET]可以查看城市屏幕[NEWLINE][ICON_BULLET]获得距中心最多 2 格的城市图块的可见性[NEWLINE][ICON_BULLET]每回合，城市的 7%[ICON_RESEARCH]科学输出会添加到您的每回合科学中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_4">
+			<Text>监视四</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_4_HELP">
+			<Text>[ICON_BULLET]可以查看城市屏幕[NEWLINE][ICON_BULLET]获得距中心最多 3 格的城市图块的可见性[NEWLINE][ICON_BULLET]每回合，城市的 10%[ICON_RESEARCH]科学输出会添加到您的每回合科学中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_5">
+			<Text>监控五</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_PASSIVE_5_HELP">
+			<Text>[ICON_BULLET]可以查看城市屏幕[NEWLINE][ICON_BULLET]获得所有城市瓷砖的可见性[NEWLINE][ICON_BULLET]每回合，城市的 10%[ICON_RESEARCH]科学输出会添加到您的每回合科学中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_1">
+			<Text>闲聊我</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_1_HELP">
+			<Text>[ICON_BULLET]+20% [ICON_TOURISM]旅游业和改善与对方的外交关系[NEWLINE][ICON_BULLET]可以购买其他玩家20%的世界大会选票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_2">
+			<Text>闲聊II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_2_HELP">
+			<Text>[ICON_BULLET]+20% [ICON_TOURISM]旅游业和改善与对方的外交关系[NEWLINE][ICON_BULLET]可以购买其他玩家25%的世界大会选票[NEWLINE][ICON_BULLET]收到阴谋[NEWLINE][ICON_BULLET]可以查看其他玩家的科技树和政策屏幕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_3">
+			<Text>闲聊III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_3_HELP">
+			<Text>[ICON_BULLET]+20% [ICON_TOURISM]旅游业和改善与对方的外交关系[NEWLINE][ICON_BULLET]可以购买其他玩家30%的世界大会选票[NEWLINE][ICON_BULLET]收到阴谋[NEWLINE][ICON_BULLET]可以查看其他玩家的科技树和政策屏幕[NEWLINE][ICON_BULLET]可以查看其他玩家的军事单位类型和数量[NEWLINE][ICON_BULLET]与其他玩家的贸易路线产生 +20%[ICON_GOLD]金子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_4">
+			<Text>闲聊III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PASSIVE_4_HELP">
+			<Text>[ICON_BULLET]+20% [ICON_TOURISM]旅游业和改善与对方的外交关系[NEWLINE][ICON_BULLET]可以购买其他玩家35%的世界大会选票[NEWLINE][ICON_BULLET]收到阴谋[NEWLINE][ICON_BULLET]可以查看其他玩家的科技树和政策屏幕[NEWLINE][ICON_BULLET]可以查看其他玩家的军事单位类型和数量[NEWLINE][ICON_BULLET]与其他玩家的贸易路线产生 +20%[ICON_GOLD]金子[NEWLINE][ICON_BULLET]可以查看其他玩家的所有活跃贸易交易[NEWLINE][ICON_BULLET]当被问及他们对文明的看法时，另一位玩家总是会透露他们的真实做法</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

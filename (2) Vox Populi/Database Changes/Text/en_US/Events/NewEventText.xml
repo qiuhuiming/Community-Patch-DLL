@@ -1431,4 +1431,1368 @@
 			<Text>Strenghen Defense</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_NO_CHOICE">
+			<Text>我对此不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_NO_CHOICE_HELP">
+			<Text>结束事件但没有效果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_DESCRIPTION">
+			<Text>看见彗星了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_HELP">
+			<Text>一颗彗星出现在我们的夜空中。有些人认为这是一个奇迹，另一些人则认为这是一个不祥的预兆。您的顾问不确定，并寻求您的指导。这意味着什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_1">
+			<Text>这是一个好兆头。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_1_HELP">
+			<Text>{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_2">
+			<Text>我们的神眷顾我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_2_HELP">
+			<Text>+1 [ICON_HAPPINESS_1]幸福遍及所有城市{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_3">
+			<Text>我们的牧师会进行占卜，看看这是否是一个积极的信号。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_3_HELP">
+			<Text>50%机会获得{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_CHOICE_3_SUCCESSFUL_S">
+			<Text>占卜成功！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_COMET_CHOICE_3_SUCCESSFUL">
+			<Text>你们的祭司相信占卜成功了，你们的[ICON_PEACE]信心因此大大增强。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_4">
+			<Text>我们的天文台将从中学到很多东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMET_CHOICE_4_HELP">
+			<Text>+500 [ICON_RESEARCH]科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_DESCRIPTION">
+			<Text>流星</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_HELP">
+			<Text>昨晚，当流星雨造访我们的星球时，一系列明亮的闪光充满了天空。大型陨石降落在世界各地。你们的官员已经收集了一份这样的标本，并将其带到首都进行研究。他们应该用它做什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1">
+			<Text>将其分解并送往熔炉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1_HELP">
+			<Text>50% 几率获得 2[ICON_RES_IRON]铁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1_SUCCESSFUL_S">
+			<Text>[ICON_RES_IRON]从陨石中提取铁！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_1_SUCCESSFUL">
+			<Text>你们的铁匠能够从流星中打碎大块的铁，并可以用这种材料锻造精美的剑和矛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_2">
+			<Text>来自天上的恩赐应该被分割并送给我们的祭司。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_2_HELP">
+			<Text>+1 [ICON_PEACE]对所有神社的信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_3">
+			<Text>雕刻成装饰品，放置在我的王座室里。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_3_HELP">
+			<Text>+2 [ICON_CULTURE]宫廷文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_4">
+			<Text>捐赠给大学进行研究。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_4_HELP">
+			<Text>+1 [ICON_RESEARCH]来自所有大学的科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_5">
+			<Text>它属于博物馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_METEOR_CHOICE_5_HELP">
+			<Text>+1 [ICON_CULTURE]来自所有博物馆的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_DESCRIPTION">
+			<Text>蚀！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_HELP">
+			<Text>我们的人民今天惊讶地目睹了日食。这对我们的帝国意味着什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1">
+			<Text>我不确定这意味着什么。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1_HELP">
+			<Text>获得{1_YieldCost}。 25% 的几率出现​​此效果：{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1_SUCCESSFUL_S">
+			<Text>不祥之兆！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_1_SUCCESSFUL">
+			<Text>这是一个不好的预兆。{4_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_2">
+			<Text>快点，做出牺牲吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_2_HELP">
+			<Text>花费{1_YieldCost}在[ICON_CAPITAL]首都。获得{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_3">
+			<Text>科学可以解释这一点！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_3_HELP">
+			<Text>{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_4">
+			<Text>快点拍照吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ECLIPSE_CHOICE_4_HELP">
+			<Text>{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_DESCRIPTION">
+			<Text>热浪！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_HELP">
+			<Text>每年的夏天似乎都比去年更热，我们的湖泊和河流正在干涸。很快，干旱可能就会降临。我们应该做什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_1">
+			<Text>补贴农场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_1_HELP">
+			<Text>{1_YieldCost}。您有信心能够避免干旱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_2">
+			<Text>预留一些应急资金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_2_HELP">
+			<Text>{1_YieldCost}。您希望能够避免干旱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_3">
+			<Text>向当地官员寄钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_3_HELP">
+			<Text>{1_YieldCost}。您不确定是否可以避免干旱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_4">
+			<Text>笑笑并忍受它。我们无能为力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_HEAT_WAVE_CHOICE_4_HELP">
+			<Text>您担心潜在的干旱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_DESCRIPTION">
+			<Text>冰期！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_HELP">
+			<Text>平均气温突然下降只能意味着一件事：小冰河时代！我们应该如何准备？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_1">
+			<Text>人们应该呆在室内，即使这意味着商业活动会减少。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_1_HELP">
+			<Text>-2 [ICON_GOLD]所有城市的金牌{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_2">
+			<Text>从我们的工业中获取燃料并将其分发给穷人和有需要的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_2_HELP">
+			<Text>-2 [ICON_PRODUCTION]各城市生产{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_3">
+			<Text>火车和蒸汽动力使我们免受寒冷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_3_HELP">
+			<Text>无负面影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_4">
+			<Text>让我们在问题出现时进行处理。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ICE_AGE_CHOICE_4_HELP">
+			<Text>预计寒冷会给我们的城市带来问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_DESCRIPTION">
+			<Text>革命！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_HELP">
+			<Text>拿起武器！来自我们帝国各地的持不同政见的平民已经起来反抗你的统治！你会怎么做？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_1">
+			<Text>让他们吃蛋糕。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_1_HELP">
+			<Text>2 个野蛮人在所有拥有的城市附近生成。 5圈[ICON_RESISTANCE]所有城市都出现骚乱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_2">
+			<Text>利用我们的城邦关系寻找共同点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_2_HELP">
+			<Text>3回合[ICON_RESISTANCE]所有城市都出现骚乱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_3">
+			<Text>我们都是进步的兄弟姐妹，不是吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_3_HELP">
+			<Text>1 个野蛮人在每个拥有的城市附近生成，2 回合[ICON_RESISTANCE]所有城市都出现骚乱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_4">
+			<Text>找到领导并贿赂他。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_REVOLUTION_CHOICE_4_HELP">
+			<Text>{1_YieldCost}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_DESCRIPTION">
+			<Text>战争热潮！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_HELP">
+			<Text>你们的人民大声疾呼战争！我们的军事精神很高，你的军事顾问想知道你想如何引导这种能量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_1">
+			<Text>凝聚我国人民的尚武精神。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_1_HELP">
+			<Text>所有有效单位都获得临时版本[COLOR_POSITIVE_TEXT]士气[ENDCOLOR]晋升。 +5[ICON_HAPPINESS_1]幸福为{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_2">
+			<Text>将能量引入我们的行业。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_2_HELP">
+			<Text>+{3_CityYield}在所有城市{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_3">
+			<Text>新世界秩序现在开始！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_3_HELP">
+			<Text>10 回合（随游戏速度调整）[COLOR_POSITIVE_TEXT]我们爱国王日[ENDCOLOR]在所有城市。军事院校产出+5[ICON_RESEARCH]科学为{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_4">
+			<Text>为了祖国！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_4_HELP">
+			<Text>工厂给予城市+10%[ICON_PRODUCTION]生产用于{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_5">
+			<Text>购买胜利债券！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_FERVOR_CHOICE_5_HELP">
+			<Text>银行授予城市+20%[ICON_GOLD]黄金为{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_DESCRIPTION">
+			<Text>厌战！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_HELP">
+			<Text>战争造成的伤亡对我们的人民来说是沉重的。他们在面对毁灭和失败时寻求安慰，并向你寻求指导。你会如何回应？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1">
+			<Text>在我们的宫殿发表演讲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_HELP">
+			<Text>所有城市都有 75% 的机会产生 -1[ICON_HAPPINESS_1]未来的幸福{4_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_SUCCESSFUL_S">
+			<Text>演讲不成功！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_1_SUCCESSFUL">
+			<Text>演讲并没有打动你们的民众，他们因此更加不高兴。 -1[ICON_HAPPINESS_1]幸福遍及所有城市。{4_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_2">
+			<Text>让我们的宗教领袖为伤者和死者祈祷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_2_HELP">
+			<Text>{1_YieldCost}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3">
+			<Text>向全国广播电台。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_HELP">
+			<Text>所有城市产生 -2 的几率为 25%[ICON_HAPPINESS_1]幸福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_SUCCESSFUL_S">
+			<Text>电台广播失败！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_3_SUCCESSFUL">
+			<Text>无线电广播并没有打动你们的民众，他们因此更加不高兴。 -2[ICON_HAPPINESS_1]幸福遍及所有城市。{4_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4">
+			<Text>我们必须赢。开始征兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_HELP">
+			<Text>所有城市有 50% 的几率产生军事单位并开始 2 回合[ICON_RESISTANCE]反抗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_SUCCESSFUL_S">
+			<Text>征兵！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WAR_WEARINESS_CHOICE_4_SUCCESSFUL">
+			<Text>征兵很成功，但你的人民比以往任何时候都更加愤怒。所有城市经历2轮[ICON_RESISTANCE]抵抗并产生1个军事单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT">
+			<Text>拥挤的市场，外语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_HELP">
+			<Text>人群聚集在你的市场上，来自不同国家的声音在达成交易和讨价还价时响起。有些人对此感到愤怒，并认为外国人会破坏我们的贸易。然而，其他人则鼓励外国企业，希望学习他们的文化。[NEWLINE][NEWLINE]您对此有何感想？从以下选项中进行选择：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_1">
+			<Text>让外国人继续贸易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_1_HELP">
+			<Text>所有城市的市场：+1[ICON_CULTURE]文化，-1[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_2">
+			<Text>对进口商品实行重税。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MARKET_DEVELOPMENT_CHOICE_2_HELP">
+			<Text>所有城市的市场：+1[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT">
+			<Text>我们过去的偶像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_HELP">
+			<Text>纪念碑代表了您的文化最重要的象征。你的人民试图通过将你的纪念碑奉献给他们的祖先或他们的神来庆祝这一点。[NEWLINE][NEWLINE]您对此有何感想？从以下选项中进行选择：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_1">
+			<Text>为我们的生育能力奉献纪念碑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_1_HELP">
+			<Text>所有城市的纪念碑：+1[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_2">
+			<Text>现在最重要的是诸神。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_2_HELP">
+			<Text>所有城市的纪念碑：+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_3">
+			<Text>两者都不够。纪念碑应该产生收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_MONUMENT_DEVELOPMENT_CHOICE_3_HELP">
+			<Text>所有城市的纪念碑：+1[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_DESCRIPTION">
+			<Text>城堡主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_HELP">
+			<Text>人们聚集在你的城堡门口，以确保战争期间的安全。你的城堡不够大，无法容纳整个城市，所以你必须决定：战争期间谁应该被允许进入城堡？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_1">
+			<Text>当然是贵族。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_1_HELP">
+			<Text>所有城堡产生+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_2">
+			<Text>我们最优秀的商人和工匠，根据功绩。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_2_HELP">
+			<Text>所有城堡产生+2[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_3">
+			<Text>城堡不适合公民！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_3_HELP">
+			<Text>所有城堡产生+2[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_4">
+			<Text>神职人员，如上帝所愿。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CASTLE_DOCTRINE_CHOICE_4_HELP">
+			<Text>所有城堡产生+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_DESCRIPTION">
+			<Text>大学课程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_HELP">
+			<Text>您所在州立大学的教员和行政部门致力于为您帝国中所有当前和未来的大学创建统一的课程。作为国家元首，他们期待你做出最终决定。您更喜欢哪一个？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_1">
+			<Text>专注于硬科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_1_HELP">
+			<Text>所有大学获得+2[ICON_RESEARCH]科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_2">
+			<Text>文科教育最为重要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_2_HELP">
+			<Text>所有大学获得+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_3">
+			<Text>神学教育将使我们受益最大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_3_HELP">
+			<Text>所有大学获得+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_4">
+			<Text>军事教育似乎是最谨慎的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_UNIVERSITY_POLICY_CHOICE_4_HELP">
+			<Text>所有大学获得+2[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP">
+			<Text>工厂合作伙伴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_HELP">
+			<Text>商人联系你们的政府，请求允许与你们的工厂建立合资企业。有五个合作伙伴竞标，您的政府需要指导。您更喜欢哪一个？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_1">
+			<Text>让我们生产豪华纺织品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_1_HELP">
+			<Text>所有城市的工厂：+2[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_2">
+			<Text>廉价纺织品听起来利润丰厚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_2_HELP">
+			<Text>所有城市的工厂：+3[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_3">
+			<Text>化学品是宝贵的资产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_3_HELP">
+			<Text>所有城市的工厂：+2[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_4">
+			<Text>药品将使我们当地的科学家受益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_4_HELP">
+			<Text>所有城市的工厂：+2[ICON_RESEARCH]科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_5">
+			<Text>罐头食品将支持我们不断发展的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_FACTORY_PARTNERSHIP_CHOICE_5_HELP">
+			<Text>所有城市的工厂：+2[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_DESCRIPTION">
+			<Text>新的银行系统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_HELP">
+			<Text>我们的银行系统的复杂性正在增加，经济顾问建议您建立一个覆盖整个帝国的银行监管体系。目前，我们帝国的所有资金都由行会管理，但有些人认为这是一种过时的管理方法。有些人认为集中化是最好的选择，但你的顾问在这个问题上存在分歧。在以下选项中，您更喜欢哪一个？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_1">
+			<Text>分散它。我们的人民完全有能力管理自己的资金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_1_HELP">
+			<Text>所有劳工和商人生产+1[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_2">
+			<Text>行会应该继续管理我们的资金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_2_HELP">
+			<Text>所有银行产出+5%[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_3">
+			<Text>将其集中化。金钱太重要了，不能留给私人公民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BANK_DECISION_CHOICE_3_HELP">
+			<Text>所有银行产生+3[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION">
+			<Text>学校董事会成立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_HELP">
+			<Text>你们的城市最近成立了学校董事会，他们寻求改革你们的公立学校系统。他们向你寻求指导：你愿意为所有学生提供免费学费，还是愿意将机构私有化？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_1">
+			<Text>教育应该对所有人免费。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_1_HELP">
+			<Text>所有城市的公立学校：+10%[ICON_CULTURE]城市文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_2">
+			<Text>教育应该提供给有能力的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PUBLIC_SCHOOL_DECISION_CHOICE_2_HELP">
+			<Text>所有城市的公立学校：+10%[ICON_GOLD]黄金在城。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_DESCRIPTION">
+			<Text>老化的风车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_HELP">
+			<Text>我们国家的风车曾经是工业设计的顶峰，现在却显得相当过时了。一些实业家就这个话题与您联系，希望获得帝国对我们风车现代化的支持。这些工程师向您提供以下建议。你更喜欢哪一个？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_1">
+			<Text>立即开始对我们的风车进行彻底改造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_1_HELP">
+			<Text>{1_YieldCost}。所有风车获得 +10%[ICON_PRODUCTION]生产提振。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_2">
+			<Text>与我们的制造商协调并将其整合到我们的现代工业流程中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_2_HELP">
+			<Text>{1_YieldCost}和 4[ICON_RES_IRON]铁。所有风车获得 +15%[ICON_PRODUCTION]生产提振。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_3">
+			<Text>尽可能地改造它们，否则它们就没有问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_WINDMILLS_MODERNIZE_CHOICE_3_HELP">
+			<Text>{1_YieldCost}。所有风车获得+3[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1">
+			<Text>世界体育赛事！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_HELP">
+			<Text>世界体育组织已选择您的帝国来主办 WSO 国际赛事！对于接下来的{4_Turns}，有体育场的城市将举办比赛，促进[ICON_TOURISM]该市旅游产出！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_SUCCESSFUL_S">
+			<Text>{3_PlayerName}举办世界体育组织锦标赛！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_SUCCESSFUL">
+			<Text>WSO选择了{3_PlayerName}举办他们的国际锦标赛。他们的体育场将产生大量[ICON_GOLD]黄金和[ICON_TOURISM]旅游！{4_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CORRUPTION_SCIENCE_FAILURE_CHOICE_1">
+			<Text>研究挫折</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_CORRUPTION_SCIENCE_FAILURE_CHOICE_1_HELP">
+			<Text>您的研究人员遗憾地通知您，最近的研究存在缺陷，必须被放弃。{1_YieldCost}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BABY_BOOM_CHOICE_1">
+			<Text>婴儿潮！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BABY_BOOM_CHOICE_1_HELP">
+			<Text>由于最近出生率大幅上升，你们的人口正在呈指数级增长。所有城市获得+1[ICON_CITIZEN]人口和经验5回合（随游戏速度缩放）[COLOR_POSITIVE_TEXT]我们爱国王日[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PLAGUE_CHOICE_1">
+			<Text>瘟疫迫在眉睫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_PLAGUE_CHOICE_1_HELP">
+			<Text>你的顾问告诉你一种遥远的、致命的疾病正在摧毁其他帝国。希望这种疾病远离我们的城市......</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE">
+			<Text>特别会议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_HELP">
+			<Text>已召开外交峰会来评估世界大会的预算。我们所有的敌对国家都会在那里，目的是挫败我们。如果我们想离开时比进来时更富有，我们就必须精明。[NEWLINE][NEWLINE]鉴于我们只能努力实现众多相互竞争的目标之一，您将任命谁担任我们代表团的团长？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_1">
+			<Text>国际贸易和友谊是这个世界上最终的向善力量。任命我们的外国顾问为代表团团长。拆除关税、关闭边境和所有其他障碍，以实现更密切的合作和理解！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_1_HELP">
+			<Text>所有海关生产+2[ICON_TOURISM]旅游。 10 回合（随游戏速度调整）[COLOR_POSITIVE_TEXT]我们爱国王日[ENDCOLOR]在所有城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2">
+			<Text>只有齐心协力，我们才能解开宇宙的秘密！让我们的科学顾问负责。我们必须在世界上最伟大的科学组织中发出领先的声音。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2_HELP">
+			<Text>获得{1_YieldCost}。 16.66% 的机会获得免费技术。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2_SUCCESSFUL_S">
+			<Text>研究补助金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_2_SUCCESSFUL">
+			<Text>您的科学顾问指出，我们对国际研究委员会的影响力已成功解锁了一项新技术。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_3">
+			<Text>像这样的峰会为我们制定跨境货币政策提供了前所未有的机会。如果我们的经济顾问处理得当，我们应该能够释放大量资本。现在，以及未来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_3_HELP">
+			<Text>获得注射{2_InstantYield}。银行永久增加[ICON_CAPITAL]资本的[ICON_GOLD]黄金产量增加5%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_4">
+			<Text>建立国际维和组织的想法得到了世界各地的支持。我们不能允许这种力量在没有其领导者的情况下存在。派我们的军事顾问作为我们的首席代表。强烈支持这支军队，以及我们作为军队领导人的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_ADVISOR_DEBATE_CHOICE_4_HELP">
+			<Text>世界各国尊重你的决心，赢得你{2_InstantYield}。一支新军队出现在附近[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT">
+			<Text>商人之死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_HELP">
+			<Text>你们帝国的一位富商去世了，他留下了一份模糊的遗嘱。他的两个儿子，一个是水手，另一个是银行家，每个人都拥有继承权的合法权利，并已向州政府请求解决。你会做出什么决定？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_1">
+			<Text>我不在乎，但我确实打算对遗产征税。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_1_HELP">
+			<Text>+{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_2">
+			<Text>这位银行家的情况更为合理，因为他的投资与其父亲的投资相匹配。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_2_HELP">
+			<Text>在您的首都获得一辆免费大篷车。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_3">
+			<Text>这位水手的想法将使我们所有沿海城市受益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DEATH_MERCHANT_CHOICE_3_HELP">
+			<Text>+{3_CityYieldGlobal}在所有沿海城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION">
+			<Text>卫生问题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_HELP">
+			<Text>随着沐浴的普及率不断上升，需求也在不断增加。你们帝国的公民要求额外的浴室，但精英和贵族对此表示抗议，称浴室是一种奢侈品。您的顾问需要您对此的意见。你感觉如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_1">
+			<Text>未洗过的群众应该保持未洗过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_1_HELP">
+			<Text>获得您选择的免费伟人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_2">
+			<Text>不惜一切代价——人民要干净！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_2_HELP">
+			<Text>+1 [ICON_HAPPINESS_1]幸福遍及所有城市。所有浴室均需额外收费 3[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_3">
+			<Text>鼓励人们寻找更多...创造性的清洁方法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_BATHS_DECISION_CHOICE_3_HELP">
+			<Text>所有城市的渡槽：+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DO_NOTHING">
+			<Text>我对此不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DO_NOTHING_HELP">
+			<Text>什么也没发生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY">
+			<Text>丰富的静脉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_HELP">
+			<Text>在城市附近的采石场发现了丰富的蓝色大理石矿脉。你的矿工和石匠来找你，问你想用它做什么。[NEWLINE][NEWLINE]从以下选项中选择...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_1">
+			<Text>以此为荣，商家就会来向我们购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_1_HELP">
+			<Text>+{2_InstantYield}，以及 10 回合（随游戏速度缩放）[COLOR_POSITIVE_TEXT]我们爱国王日[ENDCOLOR]在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_2">
+			<Text>捐给寺庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_2_HELP">
+			<Text>{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_3">
+			<Text>用它雕刻遗物和神像。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_3_HELP">
+			<Text>{2_InstantYield}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_4">
+			<Text>把它送给我们最优秀的艺术家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STONE_WORKS_DISCOVERY_CHOICE_4_HELP">
+			<Text>+2 [ICON_CULTURE]城市文化{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION">
+			<Text>老人与海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_HELP">
+			<Text>一群当地渔民呼吁市政府为季节性捕鱼探险提供资金。[NEWLINE][NEWLINE]从以下选项中选择...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_1">
+			<Text>让我们关注一些简单的事情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_1_HELP">
+			<Text>花费{1_Scaled}。获得{2_InstantYield}城市里的美食。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_2">
+			<Text>大量的投资将会带来红利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_2_HELP">
+			<Text>花费{1_Scaled}。城市附近的渔船将获得+5[ICON_FOOD]食品{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3">
+			<Text>我宁愿投资于更有利可图的东西......</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3_HELP">
+			<Text>投资{1_Scaled}。城市中有 50% 的机会建造港口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3_SUCCESSFUL_S">
+			<Text>港口建成！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FISHING_EXPEDITION_CHOICE_3_SUCCESSFUL">
+			<Text>投资于{2_City}成功并支付了建设费用！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA">
+			<Text>戏剧杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_HELP">
+			<Text>来自伦敦金融城的作家写了一部新作品，评论家称其为“杰作”。这个消息已经传到了你的耳朵里，你的顾问正在等待你的回应。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1">
+			<Text>向世界其他文明发送新闻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1_HELP">
+			<Text>{1_YieldCost}。获得{2_InstantYield}与所有已知文明一起旅游。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1_SUCCESSFUL_S">
+			<Text>作家来自{2_CityName}创造杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_1_SUCCESSFUL">
+			<Text>作家来自{2_City}创作了一部新的戏剧作品，吸引了来自世界各地的游客。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_2">
+			<Text>让我们庆祝一下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_2_HELP">
+			<Text>获得{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_3">
+			<Text>确保作家因此受到赞扬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_3_HELP">
+			<Text>获得{4_GPChange}城市中的点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_4">
+			<Text>相反，他们应该祈祷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AMPHITHEATER_NEW_DRAMA_CHOICE_4_HELP">
+			<Text>获得{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS">
+			<Text>圣殿的麻烦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_HELP">
+			<Text>来自城市的牧师要求你参与宗教辩论。随着城市的发展，越来越多不同信仰的人要求使用圣殿。大多数信仰的人对此感到不满，并威胁说，如果你允许非信徒进入圣殿，就会使用暴力。然而，非信徒威胁说，如果你不让他们进来，他们就会离开。你会怎么做？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_1">
+			<Text>好摆脱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_1_HELP">
+			<Text>-1 [ICON_CITIZEN]城市人口和 2 轮[ICON_RESISTANCE]反抗。获得{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_2">
+			<Text>让他们进来，但要让他们付出代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_2_HELP">
+			<Text>圣殿增益 +2[ICON_GOLD]金币和+1[ICON_PEACE]信仰。 -1[ICON_HAPPINESS_1]城市里的幸福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3">
+			<Text>拒绝不信者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_HELP">
+			<Text>圣殿有 50% 的几率被摧毁。如果是这样，该城市获得+1[ICON_PEACE]信仰和+1[ICON_HAPPINESS_1]幸福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_SUCCESSFUL_S">
+			<Text>寺庙在{2_City}毁了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_3_SUCCESSFUL">
+			<Text>不信者在{2_City}袭击圣殿，将其烧毁以示抗议。然而，你们的人民并没有动摇。城市获得+1[ICON_HAPPINESS_1]幸福，以及：{5_Help}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_4">
+			<Text>我们应该想得更大一些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_TEMPLE_CONCERNS_CHOICE_4_HELP">
+			<Text>{1_YieldCost}。寺庙被毁，并在原地建造了一座大寺庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE">
+			<Text>希望的灯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_HELP">
+			<Text>城里的渔民担心城里灯塔的命运。近年来年久失修，亟待重建。我们应该如何处理这个问题？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_1">
+			<Text>让私人公民来管理它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_1_HELP">
+			<Text>灯塔增益+2[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_2">
+			<Text>城市应该管理它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_2_HELP">
+			<Text>失去{1_YieldCost}。灯塔获得 +1[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_3">
+			<Text>卖掉土地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_LIGHTHOUSE_CHOICE_3_HELP">
+			<Text>获得{2_InstantYield}。灯塔被毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING">
+			<Text>医院人满为患</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_HELP">
+			<Text>每天都有前线的士兵涌入这座城市，病房里现在挤满了病人。当地医生不知道如何处理溢出的情况，并已向贵国政府请求支持。你会怎么做？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_1">
+			<Text>发送紧急资金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_1_HELP">
+			<Text>对于接下来的{5_Turns}，城市生产-5[ICON_GOLD]黄金，但收益+1[ICON_HAPPINESS_1]幸福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_2">
+			<Text>分诊是唯一的选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_2_HELP">
+			<Text>实施分流系统，尽可能拯救那些人。城市输掉1场[ICON_CITIZEN]人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_3">
+			<Text>这不是我们的问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_3_HELP">
+			<Text>城市生产-1[ICON_HAPPINESS_1]幸福永久。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_4">
+			<Text>为医院设立永久津贴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_4_HELP">
+			<Text>城市生产-5[ICON_GOLD]黄金，但收益+2[ICON_HAPPINESS_1]幸福永久。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5">
+			<Text>将所有死者送往我们的研究实验室。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_HELP">
+			<Text>城市有 50% 的机会经历 3 轮[ICON_RESISTANCE]反抗。如果是这样，医院获得+4[ICON_RESEARCH]科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_SUCCESSFUL_S">
+			<Text>医院科学实验发现！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOSPITAL_OVERCROWDING_CHOICE_5_SUCCESSFUL">
+			<Text>尸体被送到我们的研究实验室，但公众对我们的冷酷无情感到愤怒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_WORLD_EVENT_CHOICE_1">
+			<Text>球场售空！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_WORLD_EVENT_CHOICE_1_HELP">
+			<Text>作为 WSO 国际比赛的一部分，在您的体育场举行了一场比赛！你获得 500[ICON_TOURISM]与所有已知文明和 500 个文明一起旅游[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT">
+			<Text>比赛日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_HELP">
+			<Text>城市体育场正在为比赛日做准备！不幸的是，经理似乎忘记了他的日程安排，他不记得发生了什么样的事件！这里又发生什么事了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_1">
+			<Text>显然是滑雪比赛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_1_HELP">
+			<Text>增益 100[ICON_GOLD]金和75[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_2">
+			<Text>显然是水上运动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_2_HELP">
+			<Text>增益 100[ICON_GOLD]金和75[ICON_RESEARCH]科学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_3">
+			<Text>很确定那是足球。不，是美国的那种。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_3_HELP">
+			<Text>增益200[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_4">
+			<Text>很确定那是足球。是的，真正的那种。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_4_HELP">
+			<Text>增益200[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_5">
+			<Text>体育赛事？不，这是一个仪式。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_STADIUM_LOCAL_EVENT_CHOICE_5_HELP">
+			<Text>增益400[ICON_GOLDEN_AGE]黄金时代积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NUCLEAR_MELTDOWN_CHOICE_1">
+			<Text>核熔毁！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NUCLEAR_MELTDOWN_CHOICE_1_HELP">
+			<Text>最糟糕的情况已经发生了。该市的核电站发生熔毁，导致该市大部分地区无法居住。该建筑被毁，城市中的所有其他建筑都处于危险之中。城市输掉5场[ICON_CITIZEN]人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DROUGHT_CHOICE_1_DESCRIPTION">
+			<Text>干旱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DROUGHT_CHOICE_1_HELP">
+			<Text>干旱袭击了这座城市，使其瘫痪[ICON_FOOD]粮食产量。对于接下来的{5_Turns}, 农产品-1[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_SEVERE_DROUGHT_CHOICE_1_DESCRIPTION">
+			<Text>严重干旱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_SEVERE_DROUGHT_CHOICE_1_HELP">
+			<Text>严重干旱袭击了这座城市，造成了严重的经济损失[ICON_FOOD]粮食产量。对于接下来的{5_Turns}, 农产品-1[ICON_FOOD]食物和附近的一个农场被掠夺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CRITICAL_DROUGHT_CHOICE_1_DESCRIPTION">
+			<Text>严重干旱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CRITICAL_DROUGHT_CHOICE_1_HELP">
+			<Text>严重的干旱袭击了这座城市，使其陷入瘫痪[ICON_FOOD]粮食产量。对于接下来的{5_Turns}, 农产品-2[ICON_FOOD]食物和附近的 2 个农场被掠夺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_EXPOSURE_CHOICE_1_DESCRIPTION">
+			<Text>接触</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_EXPOSURE_CHOICE_1_HELP">
+			<Text>零度以下的气温使该市的许多人面临暴露的风险。 -1[ICON_CITIZEN]城市人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_NO_FUEL_CHOICE_1_DESCRIPTION">
+			<Text>燃料短缺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_NO_FUEL_CHOICE_1_HELP">
+			<Text>由于极度寒冷，该市目前正面临燃料短缺。为了补偿，更多的供应已从我们的行业转移。{1_YieldCost}针对我市当前的任务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_FROZEN_WATER_CHOICE_1_DESCRIPTION">
+			<Text>冰冻水域</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_FROZEN_WATER_CHOICE_1_HELP">
+			<Text>该市的河流结冰，严重阻碍了商业活动。 -3[ICON_GOLD]城市黄金{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_BITTER_WINDS_CHOICE_1_DESCRIPTION">
+			<Text>寒风</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_ICE_AGE_BITTER_WINDS_CHOICE_1_HELP">
+			<Text>刺骨的寒风严重阻碍了城市周边土地的生产。为了{5_Turns}，所有采石场、牧场、农场和木材厂生产 -1[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE">
+			<Text>矿难</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_HELP">
+			<Text>城市附近的一个矿井碰到了某种液体储存库，并开始充满液体。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_1">
+			<Text>拆除隧道以保护我们能保护的东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_1_HELP">
+			<Text>埋葬矿井受损的分支。它进入掠夺状态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_2">
+			<Text>从市政府重新指派工程师来堵住缺口，尽量减少隧道通道的损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_2_HELP">
+			<Text>将城市当前的建设项目推迟{1_YieldCost}但要拯救矿井。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_3">
+			<Text>该液体似乎富含石油。使用我们的探地雷达查明保护区并开始撤离！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MINE_COLLAPSE_CHOICE_3_HELP">
+			<Text>花费{1_YieldCost}接收 1[ICON_RES_OIL]油。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE">
+			<Text>承受硝烟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_HELP">
+			<Text>附近森林的灌木丛起火，迫使工人离开森林，直到火势减弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_1">
+			<Text>我们无能为力，只能等待。这些人的生命比我们的伐木作业更重要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_1_HELP">
+			<Text>城市附近多达两家木材厂遭到掠夺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_2">
+			<Text>派遣消防员携带水和斧头，不惜一切代价保护我们的基础设施！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_2_HELP">
+			<Text>{1_YieldCost}值得的人屈服于火焰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_3">
+			<Text>呼叫我们的备用飞机对火进行水弹轰炸并从空中撒播阻燃肥料。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FOREST_FIRE_CHOICE_3_HELP">
+			<Text>花费{1_YieldCost}。曾经肆虐大火的地方长出了茂盛的芽，附近的森林产量+1[ICON_PRODUCTION]生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AVALANCHE_CHOICE_1">
+			<Text>雪崩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_AVALANCHE_CHOICE_1_HELP">
+			<Text>附近一座山的积雪融化崩塌，引发了大规模雪崩。城市附近多达两个村庄和两个农场被掠夺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION">
+			<Text>地方腐败</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_HELP">
+			<Text>该市的管理人员目前面临腐败指控。人民愤怒了，要求伸张正义。需要一个替罪羊。你会责怪谁？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_1">
+			<Text>农业部长难辞其咎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_1_HELP">
+			<Text>{3_CityYield}在城市为{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_2">
+			<Text>我知道工程兵团不怀好意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_2_HELP">
+			<Text>{3_CityYield}在城市为{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_3">
+			<Text>是不是有人偷了国库的钱？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_3_HELP">
+			<Text>{3_CityYield}在城市为{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_4">
+			<Text>我想我会承担责任。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_CHOICE_4_HELP">
+			<Text>-2 [ICON_HAPPINESS_1]城市里的幸福{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_FOOD_SPOILED_CHOICE_1">
+			<Text>变质的食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_FOOD_SPOILED_CHOICE_1_HELP">
+			<Text>粮仓里的大部分食物都变质了，这无疑是由于管理不善造成的。{1_YieldCost}在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_BANDITS_CHOICE_1">
+			<Text>土匪！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_CORRUPTION_BANDITS_CHOICE_1_HELP">
+			<Text>强盗袭击了你的收税员，抢走了钱！{1_YieldCost}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_GOOD_HARVEST_CHOICE_1">
+			<Text>大丰收</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_GOOD_HARVEST_CHOICE_1_HELP">
+			<Text>该市的农民报告说，本季收成很好。 +{2_InstantYield}在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MARKET_DAY_CHOICE_1">
+			<Text>集市日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_MARKET_DAY_CHOICE_1_HELP">
+			<Text>集市日开始了，城市的集市上挤满了顾客。对于接下来的{5_Turns}，城市市场生产+2[ICON_GOLD]金子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_VOLCANO_CHOICE_1">
+			<Text>爆发！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_VOLCANO_CHOICE_1_HELP">
+			<Text>哦不！城市附近一座曾经休眠的山突然爆发，岩浆倾泻到城市和周围的乡村！效果：-3[ICON_CITIZEN]城市人口众多，多项改良设施被掠夺，许多城市建筑遭到破坏！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_VOLCANO_SPECIAL_CHOICE_1">
+			<Text>喀拉喀托火山爆发！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_VOLCANO_SPECIAL_CHOICE_1_HELP">
+			<Text>喀拉喀托火山爆发了！大量的火山灰、烟雾和熔岩笼罩了附近的城市及其乡村。效果：-3[ICON_CITIZEN]人口、改良设施被掠夺，许多建筑物被损坏！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOTEL_ESTABLISHED_CHOICE_1">
+			<Text>自然奇观附近的度假村</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HOTEL_ESTABLISHED_CHOICE_1_HELP">
+			<Text>由于附近自然奇观带来的旅游业，一个商业财团决定在这座城市建造一家酒店。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE">
+			<Text>瘟疫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_HELP">
+			<Text>农作物被发现在地里腐烂。目前尚不清楚感染传播了多远，但很大一部分收获已受到影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_CHOICE_1">
+			<Text>烧毁枯萎的田野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_CHOICE_1_HELP">
+			<Text>城市附近的农业社区遭到破坏。城市附近最多有两个农场进入掠夺状态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_CHOICE_2">
+			<Text>尝试在冬季之前重新种植。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_CHOICE_2_HELP">
+			<Text>拿{1_YieldCost}从城市的粮仓中取出一些种子，以便播种另一批作物，并使该地区的农业能够正常进行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_CHOICE_3">
+			<Text>设计一种定制的杀菌剂来根除这种疾病。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PESTILENCE_CHOICE_3_HELP">
+			<Text>分配{1_YieldCost}研究人员将附近农场的产量永久提高+1[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING">
+			<Text>洪水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_HELP">
+			<Text>该市的河流水位已经上升到危险的高度，威胁着该市和周围的乡村。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_CHOICE_1">
+			<Text>忍受洪水。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_CHOICE_1_HELP">
+			<Text>最多 3 个农场被掠夺，一些建筑物也可能被摧毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_CHOICE_2">
+			<Text>派出劳工修建防洪堤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_CHOICE_2_HELP">
+			<Text>重新分配{1_YieldCost}尽管一些建筑物可能仍会被摧毁，但市政府为拯救农田而进行的建筑项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_CHOICE_3">
+			<Text>设计水电厂的控制系统来调节河流的水位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_FLOODING_CHOICE_3_HELP">
+			<Text>分配{1_YieldCost}的研究人员永久解决该地区的洪水问题。获得提升{4_GPChange}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE">
+			<Text>飓风逼近</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_HELP">
+			<Text>一场飓风在地平线上若隐若现，直奔城市而来。它可能会也可能不会袭击城市。如果发生这种情况，预计会造成重大生命和财产损失。市议会不确定如何回应，并寻求您的指导。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_1">
+			<Text>撤离城市并用沙袋装好所有东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_1_HELP">
+			<Text>失去{1_YieldCost}。该市已为飓风做好充分准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_SUCCESSFUL_S">
+			<Text>飓风袭来{2_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_1_SUCCESSFUL">
+			<Text>一场非常强大的飓风袭来{2_City}。值得庆幸的是，这座城市做好了充分的准备，并且受到的损害很小。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_2">
+			<Text>放下心来，期待最好的结果。我们无能为力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_2_HELP">
+			<Text>没有准备。祝你好运！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_2_SUCCESSFUL">
+			<Text>一场非常强大的飓风袭来{2_City}。这座城市没有做好充分准备，遭到严重破坏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_3">
+			<Text>派出军队保护财产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_3_HELP">
+			<Text>失去{1_YieldCost}。如果飓风来袭，预计会造成大量人员伤亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_3_SUCCESSFUL">
+			<Text>一场非常强大的飓风袭来{2_City}。城市本身受到了很好的保护，但居民却遭受了苦难。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_4">
+			<Text>派出军队来保护民众。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_4_HELP">
+			<Text>失去{1_YieldCost}。如果飓风袭来，预计会造成重大财产损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_4_SUCCESSFUL">
+			<Text>一场非常强大的飓风袭来{2_City}。城市的人口受到了很好的保护，但城市本身却遭到了毁灭性的打击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_5">
+			<Text>我们河流的堤坝将保护我们免受汹涌的洪水的侵袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_5_HELP">
+			<Text>失去{1_YieldCost}并依托河流的堤坝。如果飓风袭来，预计会造成重大财产损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_HURRICANE_CHOICE_5_SUCCESSFUL">
+			<Text>一场非常强大的飓风袭来{2_City}。城市的堤坝无法坚守，城市被毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PLAGUE_CHOICE_1">
+			<Text>瘟疫！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PLAGUE_CHOICE_1_HELP">
+			<Text>我们最担心的事情已经成为现实。瘟疫已经蔓延到这座城市了！人们死在街上，每天还有数百人死亡。效果：-15[ICON_FOOD]城市里的美食{5_Turns}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER">
+			<Text>神秘的流浪者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_HELP">
+			<Text>一个披着斗篷的身影在城墙外徘徊。当被问到为什么来到这座城市时，他递给警卫一封破烂的信：[NEWLINE][NEWLINE]“我多才多艺，却无家可归。我自出生就沉默寡言，无声教学、无言训练。我可以为你提供四种才艺之一，以换取盛情款待和一个家。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_1">
+			<Text>“艺术家的礼物。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_1_HELP">
+			<Text>获得{4_GPChange}在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_2">
+			<Text>“工匠的礼物。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_2_HELP">
+			<Text>获得{4_GPChange}在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_3">
+			<Text>“占卜者的礼物。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_3_HELP">
+			<Text>获得{4_GPChange}在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_4">
+			<Text>“商人的礼物。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_WANDERER_CHOICE_4_HELP">
+			<Text>获得{4_GPChange}在城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS">
+			<Text>游牧入侵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_HELP">
+			<Text>一群游牧民族出现在你们的边境，并请求在你们的领土上定居的权利。他们看起来很友好，愿意通过谈判来获得他们想要的东西。你如何回应？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_1">
+			<Text>给他们土地，但前提是他们适应我们的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_1_HELP">
+			<Text>获得{2_Instant}朝向该城市的边境增长（仅影响边境增长）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_2">
+			<Text>把他们赶出去，偷走我们能拿走的一切。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_2_HELP">
+			<Text>收到{1_Cost}。 50% 的几率在城市附近生成两个野蛮人单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_2_SUCCESSFUL_S">
+			<Text>游牧民族的报复{2_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_2_SUCCESSFUL">
+			<Text>你的厚颜无耻的行为激怒了游牧民族，他们向你宣战了！两个野蛮人单位在附近生成{2_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_3">
+			<Text>邀请他们定居，但前提是他们最优秀的士兵加入我们的军队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_3_HELP">
+			<Text>一个免费的军事单位会在你的城市附近生成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_4">
+			<Text>邀请他们融入城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_NOMADS_CHOICE_4_HELP">
+			<Text>城市增益 1[ICON_CITIZEN]公民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS">
+			<Text>拉抵抗组织</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_HELP">
+			<Text>这座城市中针对您统治的威胁持续增长，您的顾问担心这可能会演变为暴力。你需要在这种阻力变得太强大之前将其根除。但是，您的选择是有限的：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_1">
+			<Text>他们永远不会想到审讯！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_1_HELP">
+			<Text>曼城输了3场[ICON_CITIZEN]人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_2">
+			<Text>引诱叛军——我们将用我们的军事力量镇压他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_2_HELP">
+			<Text>三个叛军单位在城市附近产卵，城市进入[ICON_RESISTANCE]电阻 1 圈。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_3">
+			<Text>隔离叛乱分子。他们可能会占据城市的一部分，但这是不可避免的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_OCCUPIED_REBELS_CHOICE_3_HELP">
+			<Text>城市中的每座建筑物都有 10% 的几率被摧毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PLANTATION_RARE_CROP_CHOICE_1">
+			<Text>稀有标本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_PLANTATION_RARE_CROP_CHOICE_1_HELP">
+			<Text>你的农民在城市附近的种植园里发现了一种以前从未见过的稀有植物。您的研究人员对研究它感到很兴奋！增益+{2_InstantYield}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_GW">
+			<Text>[ICON_GREAT_WORK]窃取伟大的作品</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_GW_HELP">
+			<Text>窃取随机选择的[ICON_GREAT_WORK]来自目标城市的伟大工作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_GW_EFFECT">
+			<Text>这[ICON_GREAT_WORK]伟大的工作”{2_GWName}”已被盗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SABOTAGE_PRODUCTION">
+			<Text>[ICON_PRODUCTION]破坏城市制作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SABOTAGE_PRODUCTION_HELP">
+			<Text>城市无法建造或投资建筑物、奇观和项目{8_Num}轮流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SABOTAGE_PRODUCTION_EFFECT">
+			<Text>该市无法建造或投资建筑物、奇观和项目{8_Num}转弯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FAITH">
+			<Text>[ICON_PEACE]盗窃宗教文物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FAITH_HELP">
+			<Text>偷窃 100%[ICON_PEACE]目标城市每回合的信仰。 -100% 目标城市散发的宗教压力。持续时间{5_Duration}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FAITH_EFFECT">
+			<Text>每回合，城市 100%[ICON_PEACE]信仰输出被盗。城市散发-100%的宗教压力。{5_DurationText}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SCIENTIFIC_GREATPEOPLE">
+			<Text>[ICON_GREAT_PEOPLE]城里的绑架专家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SCIENTIFIC_GREATPEOPLE_HELP">
+			<Text>专家生产-1[ICON_GREAT_PEOPLE]目标城市每回合的 GPP。{6_PlayerEventEffect}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_SCIENTIFIC_GREATPEOPLE_EFFECT">
+			<Text>专家生产-1[ICON_GREAT_PEOPLE]每回合 GPP。{5_Duration}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS">
+			<Text>遣返专家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS_HELP">
+			<Text>您的首都专家产生+1[ICON_GREAT_PEOPLE]每回合 GPP。持续时间{4_Duration}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS_PARENT">
+			<Text>遣返专家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_REPATRIATED_SPECIALISTS_PARENT_HELP">
+			<Text>您的首都专家产生+1[ICON_GREAT_PEOPLE]每回合 GPP。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FROM_TREASURY">
+			<Text>[ICON_GOLD]从国家财政部窃取</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FROM_TREASURY_HELP">
+			<Text>偷{8_Num}％ 的[ICON_GOLD]来自目标帝国国库的黄金。{7_AmountToSteal}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_FROM_TREASURY_EFFECT">
+			<Text>{3_Num} [ICON_GOLD]你的金库中的黄金被盗了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_STEAL_TREASURY_AMOUNT">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]盗窃金额：[ENDCOLOR] {1_Num} [ICON_GOLD]金子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_TECH">
+			<Text>[ICON_RESEARCH]窃取技术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_TECH_HELP">
+			<Text>窃取随机选择的技术。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_STEAL_TECH_EFFECT">
+			<Text>该技术“{1_TechName}”已被盗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_ECONOMIC_TILES">
+			<Text>[ICON_CITIZEN]使农村公民激进化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_ECONOMIC_TILES_HELP">
+			<Text>城市拥有的所有改良资源块都会被掠夺。每条公路或铁路都有 50% 的几率被掠夺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_ECONOMIC_TILES_EFFECT">
+			<Text>所有改进的资源瓷砖和城市周围的一些道路/铁路都已被掠夺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_URBAN_UNREST">
+			<Text>[ICON_RESISTANCE]武装当地民众</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_URBAN_UNREST_HELP">
+			<Text>城市进入[ICON_RESISTANCE]抵抗 2 回合，叛军单位出现在该区域。城市不产生任何[ICON_TOURISM]旅游为{8_Num}轮流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_URBAN_UNREST_EFFECT">
+			<Text>城市已进入[ICON_RESISTANCE]该地区已出现抵抗 2 回合和叛军单位。城市不产生任何[ICON_TOURISM]旅游为{8_Num}轮流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_CITY_DEFENSES">
+			<Text>[ICON_STRENGTH]目标城市防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_CITY_DEFENSES_HELP">
+			<Text>该城市拥有的所有防御工事都被掠夺。城市被封锁，无法进行远程打击{8_Num}轮流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_CITY_DEFENSES_EFFECT">
+			<Text>城市周围的防御工事已被掠夺。城市被封锁，无法进行远程打击{8_Num}轮流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_FOCUS">
+			<Text>反情报</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_FOCUS_HELP">
+			<Text>你的间谍已经建立了新的反情报行动。您希望他们关注什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK">
+			<Text>[ICON_CITY_SECURITY]建立反间谍网络。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK_HELP">
+			<Text>外国的[ICON_SPY]间谍每回合生成 -20 网络点。[NEWLINE][NEWLINE]增益 50[ICON_RESEARCH]科学与[ICON_CULTURE]当你识别外国人时的文化[ICON_SPY]间谍，150[ICON_RESEARCH]科学与[ICON_CULTURE]当你杀死外国间谍时的文化，与时代一起扩展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK_EFFECT">
+			<Text>外国的[ICON_SPY]间谍生成[ICON_NEGATIVE_TEXT]-20 个网络点[ENDCOLOR]每回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_NETWORK_MISSION">
+			<Text>建立网络</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE">
+			<Text>[ICON_STRENGTH]加强城防。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE_HELP">
+			<Text>城市[ICON_RANGE_STRENGTH]远程攻击强 30%。外国间谍无法执行“目标城市防御”任务。[NEWLINE][NEWLINE]增益 50[ICON_RESEARCH]科学与[ICON_CULTURE]当你识别外国人时的文化[ICON_SPY]间谍，150[ICON_RESEARCH]科学与[ICON_CULTURE]当你杀死外国间谍时的文化，与时代一起扩展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE_EFFECTS">
+			<Text>城市[ICON_RANGE_STRENGTH]远程攻击强 30%。外国间谍无法执行“目标城市防御”任务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ESPIONAGE_EVENT_CHOICE_COUNTERSPY_DEFENSE_MISSION">
+			<Text>加强防御</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

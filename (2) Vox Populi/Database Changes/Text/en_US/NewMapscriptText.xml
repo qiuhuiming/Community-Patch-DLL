@@ -205,4 +205,207 @@
 			<Text>Extra map-specific optimizations when turned on. Turn off for standard VP performance.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MAP_AMAZON_XP_VP">
+			<Text>亚马逊+副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ARBOREA_VP">
+			<Text>Arborea 副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_BOREAL_VP">
+			<Text>北方石油公司担任副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_EUROPE_VP">
+			<Text>欧洲副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_FOUR_CORNERS_VP">
+			<Text>VP 的四个角球</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_FRONTIER_VP">
+			<Text>副总裁的前沿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_GREAT_PLAINS_XP_VP">
+			<Text>大平原附加副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_HIGHLANDS_VP">
+			<Text>高地副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_INLAND_SEA_VP">
+			<Text>内海副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LAKES_VP">
+			<Text>湖区副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LARGE_ISLANDS_VP">
+			<Text>副总统的大岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NORTH_VS_SOUTH_VP">
+			<Text>北方与南方争夺副总统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_RAINFOREST_VP">
+			<Text>雨林副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_RING_VP">
+			<Text>副总裁戒指</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_VP">
+			<Text>中国区副总裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_SKIRMISH_VP">
+			<Text>副总裁的小冲突</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_TERRA_VP">
+			<Text>副总裁的土地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_WEST_VS_EAST_VP">
+			<Text>西方 vs 东方 VP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_PLAYERS_START_IN">
+			<Text>玩家开始于</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_TERRA_LARGEST_CONTINENT">
+			<Text>Terra - 最大的大陆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_CONTINENTS_EVERYWHERE">
+			<Text>大陆 - 无处不在</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_OCEAN_SHAPES">
+			<Text>海洋形状</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_OCEAN_SHAPES_DESCRIPTION">
+			<Text>分隔大陆的垂直海洋裂谷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_2_ATLANTIC">
+			<Text>2 大西洋号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_PACIFIC_AND_ATLANTIC">
+			<Text>太平洋和大西洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_2_PACIFIC">
+			<Text>2 太平洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_2_RANDOM">
+			<Text>2 随机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_1_RANDOM">
+			<Text>1 随机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NONE">
+			<Text>没有任何</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_RANDOM">
+			<Text>随机的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_RIFT_WIDTH">
+			<Text>裂谷宽度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_RIFT_WIDTH_DESCRIPTION">
+			<Text>无法通行的海洋宽度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NARROW">
+			<Text>狭窄的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NORMAL">
+			<Text>普通的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_WIDE">
+			<Text>宽的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_CIRCUMNAVIGATION">
+			<Text>环球航行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_CIRCUMNAVIGATION_DESCRIPTION">
+			<Text>保证世界范围内的水平水路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ON">
+			<Text>在</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_OFF">
+			<Text>离开</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_FORCE_COASTAL_START">
+			<Text>强制沿海启动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_FORCE_COASTAL_START_DESCRIPTION">
+			<Text>每个主要文明都始于海岸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_YES">
+			<Text>是的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NO">
+			<Text>不</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LAND_SHAPES">
+			<Text>土地形状</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LAND_SHAPES_DESCRIPTION">
+			<Text>控制大陆和岛屿的形状</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_BLOCKY">
+			<Text>块状</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STRINGY">
+			<Text>拉丝的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_EXTREMELY_STRINGY">
+			<Text>极其拉丝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STARTING_RESOURCES">
+			<Text>起始资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STARTING_RESOURCES_DESCRIPTION">
+			<Text>将战略和/或额外资源添加到起始位置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ADD_BOTH">
+			<Text>两者都添加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ADD_SOME_STRATEGICS">
+			<Text>添加一些策略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ADD_SOME_EXTRA_BONUS">
+			<Text>添加一些额外的奖金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STRATEGIC_DEPOSIT_SIZE">
+			<Text>战略存款规模</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STRATEGIC_DEPOSIT_SIZE_DESCRIPTION">
+			<Text>控制每个战略资源储备的规模</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_SMALL">
+			<Text>小的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LARGE">
+			<Text>大的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_BONUS_RESOURCE_DENSITY">
+			<Text>奖励资源密度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_BONUS_RESOURCE_DENSITY_DESCRIPTION">
+			<Text>控制地图上奖励资源的数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_SPARSE">
+			<Text>疏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ABUNDANT">
+			<Text>丰富</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STRATEGIC_RESOURCE_DENSITY">
+			<Text>战略资源密度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_STRATEGIC_RESOURCE_DENSITY_DESCRIPTION">
+			<Text>控制地图上出现的战略资源矿藏的数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LUXURY_RESOURCE_DENSITY">
+			<Text>奢侈品资源密度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_LUXURY_RESOURCE_DENSITY_DESCRIPTION">
+			<Text>控制地图上奢侈品资源的数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_OVERRIDE_ASSIGN_STARTING_PLOTS">
+			<Text>覆盖分配起始图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_OVERRIDE_ASSIGN_STARTING_PLOTS_DESCRIPTION">
+			<Text>开启时进行额外的特定于地图的优化。关闭以获得标准 VP 性能。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

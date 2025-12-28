@@ -1491,4 +1491,1275 @@
 			<Text>+25 Hit Points.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_REPAIR_HELP">
+			<Text>单位将[COLOR_POSITIVE_TEXT]每回合治愈[ENDCOLOR]，即使它执行了一个动作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_LOGISTICS">
+			<Text>航空物流</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_LOGISTICS_HELP">
+			<Text>+1 [ICON_WAR]攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HELI_AMBUSH_1_HELP">
+			<Text>+50% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]装甲部队[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HELI_AMBUSH_2_HELP">
+			<Text>+50% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]装甲部队[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVASION_I_HELP">
+			<Text>+33% 几率[COLOR_POSITIVE_TEXT]躲避空中拦截[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVASION_II_HELP">
+			<Text>+33% 几率[COLOR_POSITIVE_TEXT]躲避空中拦截[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_I_HELP">
+			<Text>+15% 几率[COLOR_POSITIVE_TEXT]截距[ENDCOLOR]敌方空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_II_HELP">
+			<Text>+15% 几率[COLOR_POSITIVE_TEXT]截距[ENDCOLOR]敌方空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_III_HELP">
+			<Text>+15% 几率[COLOR_POSITIVE_TEXT]截距[ENDCOLOR]敌方空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_IV_HELP">
+			<Text>+15% 几率[COLOR_POSITIVE_TEXT]截距[ENDCOLOR]敌方空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR_HELP">
+			<Text>+100% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]空气单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR_II_HELP">
+			<Text>+100% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]空气单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER_HELP">
+			<Text>+33% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]战斗机单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SEE_INVISIBLE_SUBMARINE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]揭示隐形潜艇[ENDCOLOR]之内[ICON_VISION]视野范围。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK_HELP">
+			<Text>+50% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]装甲部队[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MUST_SET_UP_HELP">
+			<Text>一半[ICON_MOVES]运动于[COLOR_NEGATIVE_TEXT]敌方领土[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARADROP_HELP">
+			<Text>能[COLOR_POSITIVE_TEXT]帕拉德罗普[ENDCOLOR]最多 9 个格子之外[COLOR_POSITIVE_TEXT]友好领土内[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I_HELP">
+			<Text>+33% [ICON_STRENGTH]攻击时战斗力+25%[ICON_STRENGTH]防守VS时的战斗力[COLOR_POSITIVE_TEXT]潜艇部队[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II_HELP">
+			<Text>+66% [ICON_STRENGTH]攻击时战斗力+50%[ICON_STRENGTH]防守VS时的战斗力[COLOR_POSITIVE_TEXT]潜艇部队[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_I_HELP">
+			<Text>+1 货位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_II_HELP">
+			<Text>+2 货舱位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_III_HELP">
+			<Text>+3 货舱位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_IV_HELP">
+			<Text>+4 货舱位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SILENT_HUNTER_HELP">
+			<Text>+50% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]海军[ENDCOLOR]和[COLOR_POSITIVE_TEXT]土地单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BIG_CITY_PENALTY">
+			<Text>主要城市攻击惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BIG_CITY_PENALTY_HELP">
+			<Text>-75% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_HELICOPTER_HELP">
+			<Text>+150% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]武装直升机[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OPEN_TERRAIN_HELP">
+			<Text>+30% [ICON_STRENGTH]攻击或防御时的战斗力[COLOR_POSITIVE_TEXT]开放地形[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY_HELP">
+			<Text>击败敌方单位后恢复 25 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASTER_HEAL_HELP">
+			<Text>+10 HP 当[COLOR_POSITIVE_TEXT]康复[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_1">
+			<Text>围攻一号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_1_HELP">
+			<Text>+10% [ICON_RANGE_STRENGTH]攻击时的远程战斗力。[NEWLINE]+15% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_2">
+			<Text>围攻II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_2_HELP">
+			<Text>+10% [ICON_RANGE_STRENGTH]攻击时的远程战斗力。[NEWLINE]+15% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_3">
+			<Text>围攻III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_3_HELP">
+			<Text>+10% [ICON_RANGE_STRENGTH]攻击时的远程战斗力。[NEWLINE]+15% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_1">
+			<Text>领域一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_1_HELP">
+			<Text>+10% [ICON_RANGE_STRENGTH]攻击时的远程战斗力。[NEWLINE]+10% [ICON_RANGE_STRENGTH]攻击单位时的远程战斗力[COLOR_POSITIVE_TEXT]开放地形[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_2">
+			<Text>领域二</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_2_HELP">
+			<Text>+10% [ICON_RANGE_STRENGTH]攻击时的远程战斗力。[NEWLINE]+10% [ICON_RANGE_STRENGTH]攻击单位时的远程战斗力[COLOR_POSITIVE_TEXT]开放地形[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_3">
+			<Text>领域三</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_3_HELP">
+			<Text>+10% [ICON_RANGE_STRENGTH]攻击时的远程战斗力。[NEWLINE]+10% [ICON_RANGE_STRENGTH]攻击单位时的远程战斗力[COLOR_POSITIVE_TEXT]开放地形[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAILBLAZER_1">
+			<Text>开拓者一号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAILBLAZER_1_HELP">
+			<Text>+1 [ICON_VISION]视线和登船视线。[NEWLINE]忽略地形成本[COLOR_POSITIVE_TEXT]森林[ENDCOLOR], [COLOR_POSITIVE_TEXT]丛林[ENDCOLOR]， 和[COLOR_POSITIVE_TEXT]爬坡道[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAILBLAZER_2">
+			<Text>开拓者二号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAILBLAZER_2_HELP">
+			<Text>+1 [ICON_MOVES]运动和开始运动。[NEWLINE]忽略地形成本[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR], [COLOR_POSITIVE_TEXT]雪[ENDCOLOR]， 和[COLOR_POSITIVE_TEXT]沼泽[ENDCOLOR].[NEWLINE]消除越过河流攻击的战斗惩罚。[NEWLINE]过河仅需1[ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAILBLAZER_3">
+			<Text>开拓者III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAILBLAZER_3_HELP">
+			<Text>+20% [ICON_STRENGTH]战斗力[COLOR_POSITIVE_TEXT]友好领土之外[ENDCOLOR].[NEWLINE]可以登船、穿越山脉以及使用敌人的道路/铁路。[NEWLINE]忽略[COLOR_POSITIVE_TEXT]控制区[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_ARTILLERY">
+			<Text>海岸炮兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_ARTILLERY_HELP">
+			<Text>+50% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]海军近战[ENDCOLOR], [COLOR_POSITIVE_TEXT]海军远程[ENDCOLOR]， 和[COLOR_POSITIVE_TEXT]载体[ENDCOLOR]单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPLASH_1">
+			<Text>飞溅我</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPLASH_1_HELP">
+			<Text>交易[COLOR_POSITIVE_TEXT]5 伤害[ENDCOLOR]致所有敌方单位[COLOR_POSITIVE_TEXT]毗邻[ENDCOLOR]目标单位（内[ICON_RANGE_STRENGTH]范围）攻击时。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPLASH_2">
+			<Text>飞溅II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPLASH_2_HELP">
+			<Text>交易[COLOR_POSITIVE_TEXT]5 伤害[ENDCOLOR]致所有敌方单位[COLOR_POSITIVE_TEXT]毗邻[ENDCOLOR]目标单位（内[ICON_RANGE_STRENGTH]范围）攻击时。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVIGATOR_1">
+			<Text>导航员一号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVIGATOR_1_HELP">
+			<Text>+1 [ICON_MOVES]移动。[NEWLINE]+1 [ICON_VISION]视线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVIGATOR_2">
+			<Text>导航者二号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVIGATOR_2_HELP">
+			<Text>+1 [ICON_MOVES]移动。[NEWLINE]+1 [ICON_VISION]视线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_DEFENSE_1">
+			<Text>防空一号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_DEFENSE_1_HELP">
+			<Text>+10% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+15 伤害[COLOR_POSITIVE_TEXT]空气单位[ENDCOLOR]防御空袭时。[NEWLINE][NEWLINE]研究完成后即可使用[COLOR_CYAN]{TXT_KEY_TECH_FLIGHT_TITLE}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_DEFENSE_2">
+			<Text>防空II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_DEFENSE_2_HELP">
+			<Text>+10% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+20 伤害[COLOR_POSITIVE_TEXT]空气单位[ENDCOLOR]防御空袭时。[NEWLINE][NEWLINE]研究完成后即可使用[COLOR_CYAN]{TXT_KEY_TECH_FLIGHT_TITLE}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_DEFENSE_3">
+			<Text>防空III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_DEFENSE_3_HELP">
+			<Text>+10% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+25 伤害[COLOR_POSITIVE_TEXT]空气单位[ENDCOLOR]防御空袭时。[NEWLINE][NEWLINE]研究完成后即可使用[COLOR_CYAN]{TXT_KEY_TECH_FLIGHT_TITLE}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHARGE_2">
+			<Text>冲锋二</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHARGE_2_HELP">
+			<Text>+10% [ICON_STRENGTH]攻击单位时的战斗力[COLOR_POSITIVE_TEXT]开放地形[ENDCOLOR].[NEWLINE]+20% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]受伤单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_3">
+			<Text>空中瞄准 III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_3_HELP">
+			<Text>+25% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]海军[ENDCOLOR]和[COLOR_POSITIVE_TEXT]土地单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OVERRUN">
+			<Text>超限</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OVERRUN_HELP">
+			<Text>+25% [COLOR_POSITIVE_TEXT]侧翼奖金[ENDCOLOR].[NEWLINE]交易[COLOR_POSITIVE_TEXT]10 伤害[ENDCOLOR]击败敌方单位后前进时向所有新相邻的敌方单位发送信息。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STALWART">
+			<Text>坚定</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STALWART_HELP">
+			<Text>+35% [ICON_STRENGTH]防御时的战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIRING_DOCTRINE">
+			<Text>解雇原则</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIRING_DOCTRINE_HELP">
+			<Text>+25% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]生命值超过 50% 的单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INFILTRATORS">
+			<Text>渗透者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INFILTRATORS_HELP">
+			<Text>+15% [ICON_STRENGTH]战斗力[COLOR_POSITIVE_TEXT]友好领土之外[ENDCOLOR].[NEWLINE]+15% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]受伤单位[ENDCOLOR].[NEWLINE]+10% [ICON_STRENGTH]战斗力如果不邻近任何[COLOR_NEGATIVE_TEXT]所属单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INDOMITABLE">
+			<Text>不屈不挠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INDOMITABLE_HELP">
+			<Text>+25% [ICON_STRENGTH]防御时的战斗力。[NEWLINE]免疫[COLOR_POSITIVE_TEXT]登机[ENDCOLOR]地位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BROADSIDE">
+			<Text>宽边</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BROADSIDE_HELP">
+			<Text>+40% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLOCKADE">
+			<Text>封锁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLOCKADE_HELP">
+			<Text>+25% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]如果该单位后面有空位，则退出近战攻击，每回合一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PINCER">
+			<Text>钳子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PINCER_HELP">
+			<Text>+10% [COLOR_POSITIVE_TEXT]侧翼奖金[ENDCOLOR].[NEWLINE]忽略[COLOR_POSITIVE_TEXT]控制区[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DAUNTLESS">
+			<Text>无畏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DAUNTLESS_HELP">
+			<Text>-5 所有来源的伤害。[NEWLINE]+10 HP 当[COLOR_POSITIVE_TEXT]康复[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMMERCE_RAIDER">
+			<Text>商业攻略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMMERCE_RAIDER_HELP">
+			<Text>[ICON_RAZING]掠夺成本 无[ICON_MOVES]运动和[COLOR_POSITIVE_TEXT]完全痊愈[ENDCOLOR]这个单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PIRACY">
+			<Text>海盗行为</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PIRACY_HELP">
+			<Text>获得 100% 的[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_GOLD]金子。[NEWLINE]偷[ICON_GOLD]金币等于攻击时造成伤害的 100%[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]，上限为 10 倍[ICON_STRENGTH]城市实力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTHIAN_TACTICS">
+			<Text>安息战术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTHIAN_TACTICS_HELP">
+			<Text>+1 [ICON_MOVES]移动。[NEWLINE]忽略[COLOR_POSITIVE_TEXT]控制区[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUP_DE_GRACE">
+			<Text>致命一击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUP_DE_GRACE_HELP">
+			<Text>+30% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]HP 等于或低于 50% 的单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHRAPNEL_ROUNDS">
+			<Text>弹片弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHRAPNEL_ROUNDS_HELP">
+			<Text>+50% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]土地单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VANGUARD">
+			<Text>先锋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VANGUARD_HELP">
+			<Text>+125% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].[NEWLINE]-50% 来自城市的伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_SIEGE">
+			<Text>海军围攻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_SIEGE_HELP">
+			<Text>+75% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].[NEWLINE]可以治愈[COLOR_POSITIVE_TEXT]友好领土之外[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BREACHER">
+			<Text>破坏者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BREACHER_HELP">
+			<Text>+10% [ICON_STRENGTH]战斗力每[COLOR_POSITIVE_TEXT]相邻所属海军单位[ENDCOLOR]防守时。[NEWLINE]交易[COLOR_POSITIVE_TEXT]15 伤害[ENDCOLOR]击败敌方单位后前进时向所有新相邻的敌方单位发送信息。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENCIRCLEMENT">
+			<Text>包围圈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENCIRCLEMENT_HELP">
+			<Text>+10% [ICON_STRENGTH]战斗力每[COLOR_POSITIVE_TEXT]相邻所属海军单位[ENDCOLOR]攻击时。[NEWLINE]之后回复 10 HP[COLOR_POSITIVE_TEXT]击败一个敌方单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MINELAYER">
+			<Text>布雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MINELAYER_HELP">
+			<Text>-10% [ICON_STRENGTH]防御时的战斗力[COLOR_NEGATIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]-2 [ICON_MOVES]敌方海军单位在该单位附近开始移动。[NEWLINE]忽略控制区的单位免疫此效果。[NEWLINE][NEWLINE]研究完成后即可使用[COLOR_CYAN]{TXT_KEY_TECH_COMBUSTION_TITLE}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AERIAL_TORPEDO">
+			<Text>空中鱼雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AERIAL_TORPEDO_HELP">
+			<Text>+33% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMB_RACK">
+			<Text>炸弹架</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMB_RACK_HELP">
+			<Text>+33% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]土地单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FROGMAN">
+			<Text>蛙人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FROGMAN_HELP">
+			<Text>从海上攻击没有战斗惩罚。[NEWLINE]上船和下船仅需 1[ICON_MOVES]移动。[NEWLINE]+50% [ICON_STRENGTH]登船时的防御。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCREENING">
+			<Text>筛选</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCREENING_HELP">
+			<Text>+10% [COLOR_POSITIVE_TEXT]侧翼奖金[ENDCOLOR].[NEWLINE]在不涉及该单位的战斗中，侧翼攻击算作 2 个单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENVELOPMENT">
+			<Text>包围</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENVELOPMENT_HELP">
+			<Text>+10% [COLOR_POSITIVE_TEXT]侧翼奖金[ENDCOLOR].[NEWLINE]受益于[COLOR_POSITIVE_TEXT]侧翼[ENDCOLOR]当远程攻击单位时（不考虑相邻敌方单位）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HUNTER_KILLER">
+			<Text>猎人杀手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HUNTER_KILLER_HELP">
+			<Text>+50% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]潜艇部队[ENDCOLOR].[NEWLINE][COLOR_POSITIVE_TEXT]揭示隐形潜艇[ENDCOLOR]之内[ICON_VISION]视野范围。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VP_WOLFPACK">
+			<Text>狼群</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VP_WOLFPACK_HELP">
+			<Text>+30% [ICON_STRENGTH]战斗力每[COLOR_POSITIVE_TEXT]相邻所属潜艇部队[ENDCOLOR]攻击时。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PREDATOR">
+			<Text>掠夺者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PREDATOR_HELP">
+			<Text>之后回复 15 HP[COLOR_POSITIVE_TEXT]击败一个敌方单位[ENDCOLOR].[NEWLINE]忽略[COLOR_POSITIVE_TEXT]控制区[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PERISCOPE_DEPTH">
+			<Text>潜望镜深度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PERISCOPE_DEPTH_HELP">
+			<Text>+40% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]如果该单位后面有空位，则退出近战攻击，每回合一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MONGOL_TERROR">
+			<Text>草原游牧民族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MONGOL_TERROR_HELP">
+			<Text>+1 [ICON_WAR]攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_BONUS_SWEDEN">
+			<Text>加帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_BONUS_SWEDEN_HELP">
+			<Text>+20% [ICON_STRENGTH]攻击时的战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COERCION">
+			<Text>桑之诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COERCION_HELP">
+			<Text>征召被击败的敌方单位被一半或更多相邻可穿越瓷砖包围。[NEWLINE]俘获单位[COLOR_POSITIVE_TEXT]不花费供应[ENDCOLOR];从最大 HP 的 25% 和 0 XP 开始；并且可以立即移动（但不能攻击）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIKING">
+			<Text>维京人（陆地）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIKING_HELP">
+			<Text>[ICON_RAZING]掠夺成本 无[ICON_MOVES]移动和治疗额外[COLOR_POSITIVE_TEXT]10马力[ENDCOLOR].[NEWLINE]交易[COLOR_POSITIVE_TEXT]10 伤害[ENDCOLOR]到所有相邻的敌方单位时[ICON_RAZING]掠夺改进，并获得 30[ICON_GOLD]黄金，与时代一起扩展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LONGBOAT">
+			<Text>维京人（海）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LONGBOAT_HELP">
+			<Text>[ICON_RAZING]掠夺成本 无[ICON_MOVES]运动和[COLOR_POSITIVE_TEXT]完全痊愈[ENDCOLOR]这个单位。[NEWLINE]交易[COLOR_POSITIVE_TEXT]15 伤害[ENDCOLOR]到所有相邻的敌方单位时[ICON_RAZING]掠夺改进，并获得 60[ICON_GOLD]黄金，与时代一起扩展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUN_NEVER_SETS">
+			<Text>太阳永不落</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUN_NEVER_SETS_HELP">
+			<Text>+1 [ICON_MOVES]移动。[NEWLINE]+1% [ICON_STRENGTH]每格的战斗强度[ICON_CAPITAL]资本（最多+30%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASTER_WORKER">
+			<Text>更快的工人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASTER_WORKER_HELP">
+			<Text>+1 [ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENDURANCE">
+			<Text>耐力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENDURANCE_HELP">
+			<Text>之后回复 15 HP[COLOR_POSITIVE_TEXT]击败一个敌方单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CONSCRIPTION">
+			<Text>征兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CONSCRIPTION_HELP">
+			<Text>+10% [ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPERIALISM">
+			<Text>帝国主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPERIALISM_HELP">
+			<Text>+1 [ICON_VISION]视线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASTER_GENERAL">
+			<Text>更快的将军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASTER_GENERAL_HELP">
+			<Text>+1 [ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REGIMENTAL_TRADITIONS">
+			<Text>军团传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REGIMENTAL_TRADITIONS_HELP">
+			<Text>[ICON_GREAT_GENERAL]/[ICON_GREAT_ADMIRAL]领导光环提供+10%以上[ICON_STRENGTH]战斗力量并获得 +1 半径。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BANZAI">
+			<Text>万岁！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BANZAI_HELP">
+			<Text>+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_GUNPOWDER">
+			<Text>闪电战（火药）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_GUNPOWDER_HELP">
+			<Text>+15% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]忽略[COLOR_POSITIVE_TEXT]控制区[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_ARMORED">
+			<Text>闪电战（装甲）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_ARMORED_HELP">
+			<Text>+15% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]+1 [ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MARE_NOSTRUM">
+			<Text>我们的海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MARE_NOSTRUM_HELP">
+			<Text>+25% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].[NEWLINE]治疗时 HP +5[COLOR_POSITIVE_TEXT]友好领土内[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENGINEERING_CORP">
+			<Text>工程公司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENGINEERING_CORP_HELP">
+			<Text>可以进入[ICON_POSITIVE_TEXT]不可逾越[ENDCOLOR]瓷砖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FALLOUT_RESISTANCE">
+			<Text>抗尘埃性</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FALLOUT_RESISTANCE_HELP">
+			<Text>-10 伤害来自[COLOR_POSITIVE_TEXT]掉出来[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FALLOUT_IMMUNITY">
+			<Text>辐射免疫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FALLOUT_IMMUNITY_HELP">
+			<Text>免疫伤害[COLOR_POSITIVE_TEXT]掉出来[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SACRED_STEPS">
+			<Text>神圣的台阶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SACRED_STEPS_HELP">
+			<Text>+2 [ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVERLASTING_YOUTH">
+			<Text>青春永驻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVERLASTING_YOUTH_HELP">
+			<Text>+5 HP 当[COLOR_POSITIVE_TEXT]康复[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ROYAL_SIGNET">
+			<Text>皇家图章</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ROYAL_SIGNET_HELP">
+			<Text>+10 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WIRE_SERVICE">
+			<Text>有线服务</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WIRE_SERVICE_HELP">
+			<Text>+10 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].[NEWLINE]+1 [ICON_MOVES]运动和开始运动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LITERACY">
+			<Text>识字能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LITERACY_HELP">
+			<Text>+10 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].[NEWLINE]+1 [ICON_MOVES]运动和开始运动。[NEWLINE]忽略[COLOR_POSITIVE_TEXT]地形成本[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIPLOMATIC_IMMUNITY">
+			<Text>外交豁免权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIPLOMATIC_IMMUNITY_HELP">
+			<Text>+10 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].[NEWLINE]可以在没有开放边界的情况下进入竞争对手的领土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPERIAL_SEAL">
+			<Text>玺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMPERIAL_SEAL_HELP">
+			<Text>+10 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].[NEWLINE]+1 [ICON_MOVES]运动和开始运动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOBILITY">
+			<Text>贵族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOBILITY_HELP">
+			<Text>+15 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].[NEWLINE]可以在没有开放边界的情况下进入竞争对手的领土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JINETE">
+			<Text>吉内特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JINETE_HELP">
+			<Text>+15% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]如果该单位后面有空位，则退出近战攻击，每回合一次。[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IKLWA">
+			<Text>伊克瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IKLWA_HELP">
+			<Text>+10% [ICON_STRENGTH]攻击时的战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUSHIDO">
+			<Text>武士道八德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUSHIDO_HELP">
+			<Text>第一次战斗后随机获得以下促销之一：[NEWLINE][COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_RIGHTEOUSNESS}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_BENEVOLENCE}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_RESPECT}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_SINCERITY}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_HONOR}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_LOYALTY}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_SELF_CONTROL}[ENDCOLOR], [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_COURAGE}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROXENOS">
+			<Text>普罗克塞诺斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROXENOS_HELP">
+			<Text>+2 [ICON_GOLD]金至[COLOR_YIELD_FOOD]{TXT_KEY_BUILDING_PARTHENON}[ENDCOLOR]当该单元完成一个[ICON_INFLUENCE]使馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGE_OF_DISCOVERY">
+			<Text>大航海时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGE_OF_DISCOVERY_HELP">
+			<Text>增益1[ICON_GOLD]当显示一个图块时，金币和 0.1 XP。[NEWLINE]对于自然奇观，该值乘以 12；对于自然奇观，该值乘以 4{TXT_KEY_IMPROVEMENT_GOODY_HUT}，3 代表资源。[NEWLINE]可以索赔[COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_GOODY_HUT}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VENETIAN_CRAFTSMANSHIP">
+			<Text>威尼斯工艺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VENETIAN_CRAFTSMANSHIP_HELP">
+			<Text>+10% [ICON_STRENGTH]战斗力。[NEWLINE]+1 [ICON_MOVES]移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TREASURE_FLEET">
+			<Text>宝藏舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TREASURE_FLEET_HELP">
+			<Text>+10% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]+1 [ICON_VISION]视线。[NEWLINE]可以治愈[COLOR_POSITIVE_TEXT]友好领土之外[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BRUTE_FORCE">
+			<Text>暴力破解</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BRUTE_FORCE_HELP">
+			<Text>+25% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]野蛮人[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_0">
+			<Text>纪律</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_0_HELP">
+			<Text>+10% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+10 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_1">
+			<Text>现场工作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_1_HELP">
+			<Text>+15% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+15 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_2">
+			<Text>工事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_2_HELP">
+			<Text>+20% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+20 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_3">
+			<Text>DFP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIELD_WORKS_3_HELP">
+			<Text>+25% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].[NEWLINE]+25 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TARGET_PENALTY">
+			<Text>海军目标惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TARGET_PENALTY_HELP">
+			<Text>-20% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]海军单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVERING_FIRE_1">
+			<Text>掩护火力 I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVERING_FIRE_1_HELP">
+			<Text>+10% [ICON_STRENGTH]防御时的战斗力。[NEWLINE]-50% [ICON_STRENGTH]战斗力VS[COLOR_NEGATIVE_TEXT]装甲部队[ENDCOLOR].[NEWLINE]-50% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]强化单位[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR].[NEWLINE]-15% [ICON_STRENGTH]敌方单位的战斗力[COLOR_POSITIVE_TEXT]该单位2格范围内[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVERING_FIRE_2">
+			<Text>火力掩护 II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVERING_FIRE_2_HELP">
+			<Text>+10% [ICON_STRENGTH]防御时的战斗力。[NEWLINE]-25% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]强化单位[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR].[NEWLINE]-15% [ICON_STRENGTH]敌方单位的战斗力[COLOR_POSITIVE_TEXT]该单位2格范围内[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TITANIC">
+			<Text>泰坦尼克号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TITANIC_HELP">
+			<Text>+25% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]+100 生命值。[NEWLINE]执行一个[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]50%[ICON_STRENGTH]攻击前的战斗力[COLOR_POSITIVE_TEXT]单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BEAM_AXLE">
+			<Text>梁轴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BEAM_AXLE_HELP">
+			<Text>进入[ICON_NEGATIVE_TEXT]森林[ENDCOLOR], [ICON_NEGATIVE_TEXT]丛林[ENDCOLOR], [ICON_NEGATIVE_TEXT]沼泽[ENDCOLOR]， 和[ICON_NEGATIVE_TEXT]爬坡道[ENDCOLOR]成本+1[ICON_MOVES]移动（不叠加）。[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISHER_DOCTRINE">
+			<Text>散兵主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKIRMISHER_DOCTRINE_HELP">
+			<Text>在不涉及该单位的战斗中，侧翼攻击算作 2 个单位。[NEWLINE]+50% [ICON_STRENGTH]防御时的战斗力[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_INACCURACY">
+			<Text>攻城不准确</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_INACCURACY_HELP">
+			<Text>-33% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]土地单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECONNAISSANCE">
+			<Text>侦察</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECONNAISSANCE_HELP">
+			<Text>显示图块时获得 0.1 XP。[NEWLINE]对于自然奇观，该值乘以 12；对于自然奇观，该值乘以 4{TXT_KEY_IMPROVEMENT_GOODY_HUT}，3 代表资源。[NEWLINE]可以索赔[COLOR_POSITIVE_TEXT]{TXT_KEY_IMPROVEMENT_GOODY_HUT}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_EXPLORER">
+			<Text>海洋探险家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_EXPLORER_HELP">
+			<Text>可以进入[COLOR_POSITIVE_TEXT]海洋[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCAVENGER">
+			<Text>清道夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCAVENGER_HELP">
+			<Text>获得 5 XP，当[ICON_RAZING]掠夺改进。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMMANDO">
+			<Text>突击队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMMANDO_HELP">
+			<Text>如果该单位后面有空位，则退出近战攻击，每回合一次。[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_INACCURACY">
+			<Text>海军失准</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_INACCURACY_HELP">
+			<Text>-25% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]土地单位[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHALLOW_DRAFT">
+			<Text>浅吃水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHALLOW_DRAFT_HELP">
+			<Text>一半[ICON_MOVES]运动于[COLOR_NEGATIVE_TEXT]海洋[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRAFING_RUNS">
+			<Text>扫射跑动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRAFING_RUNS_HELP">
+			<Text>+15% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]海军[ENDCOLOR]和[COLOR_POSITIVE_TEXT]土地单位[ENDCOLOR].[NEWLINE]-25% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON_RANGE_1">
+			<Text>空中侦察靶场 I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON_RANGE_1_HELP">
+			<Text>+1 空中侦察范围</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON_RANGE_2">
+			<Text>空中侦察靶场 II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON_RANGE_2_HELP">
+			<Text>+2 空中侦察范围</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEALTH">
+			<Text>隐身</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEALTH_HELP">
+			<Text>+25% 几率[COLOR_POSITIVE_TEXT]躲避空中拦截[ENDCOLOR].[NEWLINE]-25% 执行某项任务时受到的伤害[COLOR_POSITIVE_TEXT]空袭[ENDCOLOR].[NEWLINE]+50 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMISSARY">
+			<Text>发起</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMISSARY_HELP">
+			<Text>+40 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENVOY">
+			<Text>行家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENVOY_HELP">
+			<Text>+50 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIPLOMAT">
+			<Text>专业的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIPLOMAT_HELP">
+			<Text>+60 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBASSADOR">
+			<Text>全权代表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBASSADOR_HELP">
+			<Text>+70 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MILITARY_TRADITION">
+			<Text>军事传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MILITARY_TRADITION_HELP">
+			<Text>+1 [ICON_WAR]当该部队消耗时，提供军事补给。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_DIPLOMAT">
+			<Text>外交官硕士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_DIPLOMAT_HELP">
+			<Text>+100 [ICON_INFLUENCE]执行时的影响[COLOR_POSITIVE_TEXT]使馆[ENDCOLOR].[NEWLINE]可以在没有开放边界的情况下进入竞争对手的领土。[NEWLINE]+2 [ICON_MOVES]开始运动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHIELDED_SILO">
+			<Text>屏蔽筒仓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHIELDED_SILO_HELP">
+			<Text>免疫伤害[ICON_POSITIVE_TEXT]核武器[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_FLANKING">
+			<Text>重侧翼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_FLANKING_HELP">
+			<Text>+25% [COLOR_POSITIVE_TEXT]侧翼奖金[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GIFT_OF_THE_PHARAOH">
+			<Text>法老王的礼物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GIFT_OF_THE_PHARAOH_HELP">
+			<Text>获得 150%[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_PRODUCTION]在本单位的原产地城市生产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAIDER">
+			<Text>袭击者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAIDER_HELP">
+			<Text>+20% [COLOR_POSITIVE_TEXT]侧翼奖金[ENDCOLOR].[NEWLINE]偷[ICON_GOLD]金币相当于攻击时造成伤害的 50%[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]，上限为 10 倍[ICON_STRENGTH]城市实力。[NEWLINE]可以使用敌人的道路/铁路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLAG_BEARER">
+			<Text>旗手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLAG_BEARER_HELP">
+			<Text>增益2[ICON_GOLD]金子，[ICON_RESEARCH]科学，以及[ICON_CULTURE]揭开瓷砖时最近城市的文化。[NEWLINE]对于自然奇观，该值乘以 12；对于自然奇观，该值乘以 4{TXT_KEY_IMPROVEMENT_GOODY_HUT}，3 代表资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ASSIZE_OF_ARMS">
+			<Text>巡回法庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ASSIZE_OF_ARMS_HELP">
+			<Text>+20% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]已安装[ENDCOLOR]和[COLOR_POSITIVE_TEXT]装甲部队[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKKAA_PAALLE">
+			<Text>客家Päälle！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKKAA_PAALLE_HELP">
+			<Text>+30% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]生命值超过 50% 的单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOCUS_FIRE">
+			<Text>集中火力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOCUS_FIRE_HELP">
+			<Text>+10% [ICON_STRENGTH]本回合中目标每次攻击时的战斗强度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASIMBA">
+			<Text>法辛巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASIMBA_HELP">
+			<Text>+25% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]火药单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WITHERING_FIRE">
+			<Text>枯萎之火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WITHERING_FIRE_HELP">
+			<Text>攻击时+50% 伤害[COLOR_POSITIVE_TEXT]无法撤退的单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GRENADIER">
+			<Text>掷弹兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GRENADIER_HELP">
+			<Text>交易[COLOR_POSITIVE_TEXT]15 伤害[ENDCOLOR]击败敌方单位后前进时向所有新相邻的敌方单位发送信息。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PILUM">
+			<Text>皮卢姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PILUM_HELP">
+			<Text>交易[COLOR_POSITIVE_TEXT]10 伤害[ENDCOLOR]到所有相邻的敌方单位，如果该单位是[COLOR_POSITIVE_TEXT]强化[ENDCOLOR]当开始轮到的时候。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOPPELSOLDNER">
+			<Text>多珀斯德纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOPPELSOLDNER_HELP">
+			<Text>+30% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]完整的健康单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CONCUSSIVE_HIT">
+			<Text>震荡打击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CONCUSSIVE_HIT_HELP">
+			<Text>造成[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_DAZED}[ENDCOLOR]攻击时敌方地面单位的状态，减少其[ICON_STRENGTH]5回合内战斗力提升15%。[NEWLINE]忽略[COLOR_POSITIVE_TEXT]控制区[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_VOLLEY">
+			<Text>攻城齐射</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_VOLLEY_HELP">
+			<Text>+25% [ICON_STRENGTH]位于或邻近的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].[NEWLINE]交易[COLOR_POSITIVE_TEXT]5 伤害[ENDCOLOR]致所有敌方单位[COLOR_POSITIVE_TEXT]毗邻[ENDCOLOR]目标单位（内[ICON_RANGE_STRENGTH]范围）攻击时。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_ASSAULT">
+			<Text>猛烈突击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_ASSAULT_HELP">
+			<Text>+25% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]+25% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRIDE_OF_THE_NATION">
+			<Text>民族的骄傲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRIDE_OF_THE_NATION_HELP">
+			<Text>获得 1000% 的[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_GOLDEN_AGE]黄金时代积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HARDENED">
+			<Text>硬化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HARDENED_HELP">
+			<Text>-3 所有来源的伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HARBOR_DEFENSE">
+			<Text>港口防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HARBOR_DEFENSE_HELP">
+			<Text>+5% [ICON_STRENGTH]城市实力对比同队城市[COLOR_POSITIVE_TEXT]在或邻近[ENDCOLOR]这个单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GARLAND_MINE">
+			<Text>加兰矿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GARLAND_MINE_HELP">
+			<Text>[ICON_RAZING]掠夺成本 无[ICON_MOVES]移动。[NEWLINE]交易[COLOR_POSITIVE_TEXT]15 伤害[ENDCOLOR]到所有相邻的敌方单位时[ICON_RAZING]掠夺改进。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DESERT_RAIDER">
+			<Text>沙漠袭击者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DESERT_RAIDER_HELP">
+			<Text>双倍的[ICON_MOVES]运动于[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR].[NEWLINE]+25% [ICON_STRENGTH]战斗力在[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_CAVALRY">
+			<Text>突击骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_CAVALRY_HELP">
+			<Text>+20% [ICON_STRENGTH]攻击或防御时的战斗力[COLOR_POSITIVE_TEXT]开放地形[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FRONTIERSMAN">
+			<Text>拓荒者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FRONTIERSMAN_HELP">
+			<Text>+40% [ICON_STRENGTH]战斗力开启[COLOR_POSITIVE_TEXT]边界[ENDCOLOR]瓷砖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCHUTZENKONIG">
+			<Text>许愿王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCHUTZENKONIG_HELP">
+			<Text>+2% [ICON_STRENGTH]每个非敌人的战斗力[ICON_RES_MARRIAGE]已婚城邦（最多+30%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BRUTE_STRENGTH">
+			<Text>蛮力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BRUTE_STRENGTH_HELP">
+			<Text>+40% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]野蛮人[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEGACY">
+			<Text>遗产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEGACY_HELP">
+			<Text>+5% [ICON_STRENGTH]每级战斗力超过1。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIACHUELO">
+			<Text>里亚丘埃洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIACHUELO_HELP">
+			<Text>获得 100% 的[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_GOLDEN_AGE]黄金时代积分。[NEWLINE]免疫[COLOR_POSITIVE_TEXT]登机[ENDCOLOR]地位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREEK_FIRE">
+			<Text>希腊火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREEK_FIRE_HELP">
+			<Text>造成[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_ON_FIRE}[ENDCOLOR]敌方单位攻击时状态，增加其受到的战斗伤害20%，持续1回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELISHAS_GUILE">
+			<Text>以利沙的诡计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELISHAS_GUILE_HELP">
+			<Text>可以踏上[COLOR_POSITIVE_TEXT]水砖[ENDCOLOR].[NEWLINE]+1 [ICON_VISION]视线和登船视线。[NEWLINE]如果该单位后面有空位，则退出近战攻击，每回合一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AT_THE_GATES">
+			<Text>就在门口！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AT_THE_GATES_HELP">
+			<Text>+20 生命值。[NEWLINE]可以穿越[COLOR_POSITIVE_TEXT]山脉[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REND">
+			<Text>撕裂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REND_HELP">
+			<Text>移动到图块时对所有相邻敌方单位造成 5 点伤害。[NEWLINE]该伤害忽略伤害减免，但不影响以下单位[COLOR_NEGATIVE_TEXT]城市[ENDCOLOR]和[COLOR_NEGATIVE_TEXT]防御工事[ENDCOLOR].[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARNYX">
+			<Text>卡尼克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARNYX_HELP">
+			<Text>+10% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]近战[ENDCOLOR]和[COLOR_POSITIVE_TEXT]射箭单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KOWTOW">
+			<Text>磕头</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KOWTOW_HELP">
+			<Text>增益1[ICON_INFLUENCE]影响最近的[ICON_CITY_STATE]通过战斗获得的每个 XP 对应的城邦。[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VUR_HA">
+			<Text>哈！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VUR_HA_HELP">
+			<Text>攻击不需要花费[ICON_MOVES]移动。[NEWLINE]+25% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]生命值超过 50% 的单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RULE_BRITANNIA">
+			<Text>统治不列颠尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RULE_BRITANNIA_HELP">
+			<Text>忽略地形成本[COLOR_POSITIVE_TEXT]爬坡道[ENDCOLOR].[NEWLINE]+2 [ICON_VISION]登船视线。[NEWLINE]+100% [ICON_STRENGTH]出发时防御时的战斗力。[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGINCOURT">
+			<Text>阿金库尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AGINCOURT_HELP">
+			<Text>+1 [ICON_RANGE_STRENGTH]如果单位以满HP开始回合，则射程。[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAIM">
+			<Text>梅姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAIM_HELP">
+			<Text>造成[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_MAIMED}[ENDCOLOR]攻击时敌方地面单位的状态，减少其[ICON_MOVES]1 回合移动量 -1。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOOKED_WEAPON">
+			<Text>钩状武器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOOKED_WEAPON_HELP">
+			<Text>+25% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]安装单位[ENDCOLOR].[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ZEMENE_MESAFINT">
+			<Text>泽梅内·梅萨芬特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ZEMENE_MESAFINT_HELP">
+			<Text>+20% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]单位来自[ICON_HAPPINESS_3]不快乐的帝国[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MINENWERFER">
+			<Text>米嫩韦尔弗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MINENWERFER_HELP">
+			<Text>+50% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]强化单位[ENDCOLOR].[NEWLINE]击败一个敌方单位[ICON_RAZING]掠夺任何[COLOR_POSITIVE_TEXT]防御工事[ENDCOLOR]在其瓷砖上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TROMMELFEUER">
+			<Text>特罗梅尔弗尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TROMMELFEUER_HELP">
+			<Text>+3% [ICON_STRENGTH]上回合参与此晋升的单位每进行一次攻击，攻击时的战斗力就会增加（最多+30%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PHILHELLENISM">
+			<Text>亲希腊主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PHILHELLENISM_HELP">
+			<Text>+5% [ICON_STRENGTH]每个人的战斗力[ICON_CITY_STATE]城邦盟友（最多+25%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BELLUM_ALET">
+			<Text>贝鲁姆·阿莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BELLUM_ALET_HELP">
+			<Text>治疗同一队伍中所有相邻单位 15 点生命值[ICON_RAZING]掠夺改进。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTINEL_OF_THE_SUN">
+			<Text>太阳哨兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTINEL_OF_THE_SUN_HELP">
+			<Text>+25% [ICON_STRENGTH]战斗力在[COLOR_POSITIVE_TEXT]爬坡道[ENDCOLOR]和[COLOR_POSITIVE_TEXT]山[ENDCOLOR].[NEWLINE]+15 生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EPIC">
+			<Text>史诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EPIC_HELP">
+			<Text>击败敌方单位时获得 5 XP。[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DHANURVIDYA">
+			<Text>达努尔维迪亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DHANURVIDYA_HELP">
+			<Text>增益0.5[ICON_CULTURE]文化与[ICON_PEACE]通过战斗获得的每个 XP 的信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CETBANG">
+			<Text>杰邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CETBANG_HELP">
+			<Text>对在该单位附近结束回合的敌方单位造成 10 点伤害。[NEWLINE]该伤害忽略伤害减免。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TAIKAN_KYOHO">
+			<Text>大观巨峰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TAIKAN_KYOHO_HELP">
+			<Text>获得400%的[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_GREAT_ADMIRAL]伟大的海军上将积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECK_SPIKES">
+			<Text>甲板钉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECK_SPIKES_HELP">
+			<Text>+25% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]海军近战单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOST_CODEX">
+			<Text>失落的法典</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOST_CODEX_HELP">
+			<Text>增益5[ICON_RESEARCH]科学与[ICON_CULTURE]进入时的文化{TXT_KEY_IMPROVEMENT_GOODY_HUT}.[NEWLINE]+25% 奖励来自{TXT_KEY_IMPROVEMENT_GOODY_HUT}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MINGGHAN">
+			<Text>明甘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MINGGHAN_HELP">
+			<Text>当以下情况时获得 3 XP：[ICON_RAZING]掠夺改进。[NEWLINE]+20% 基础[ICON_STRENGTH]具有掠夺改进的瓷砖的战斗强度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAZZIA">
+			<Text>拉齐亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RAZZIA_HELP">
+			<Text>获得200%的[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_FOOD]食品和[ICON_PRODUCTION]生产在本单位的原产地城市。[NEWLINE]增益 100[ICON_FOOD]食品和[ICON_PRODUCTION]在本单位的原产地城市生产时[ICON_RAZING]掠夺改进。[NEWLINE]增益200[ICON_FOOD]食品和[ICON_PRODUCTION]掠夺时在本单位的原城生产[ICON_INTERNATIONAL_TRADE]贸易路线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BURGHER">
+			<Text>伯格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BURGHER_HELP">
+			<Text>+33% [ICON_STRENGTH]2格以内的战斗力[COLOR_POSITIVE_TEXT]友好城市[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOEDENDAG">
+			<Text>好啦！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOEDENDAG_HELP">
+			<Text>+10% [ICON_STRENGTH]所有人的战斗力[COLOR_POSITIVE_TEXT]相邻的自有土地单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWIELDY">
+			<Text>笨重</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWIELDY_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]无法治愈[ENDCOLOR].[NEWLINE]-50% [ICON_STRENGTH]攻击时的战斗力[COLOR_NEGATIVE_TEXT]土地单位[ENDCOLOR].[NEWLINE][COLOR_POSITIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAFAVI_AGITATOR">
+			<Text>萨法维搅拌器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAFAVI_AGITATOR_HELP">
+			<Text>增益 20[ICON_GOLD]黄金，10[ICON_PEACE]信仰，30[ICON_GOLDEN_AGE]黄金时代点[ICON_RAZING]掠夺改进，与时代一起扩展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIGHTING_COCK">
+			<Text>斗鸡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIGHTING_COCK_HELP">
+			<Text>+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEGATUS_LEGIONIS">
+			<Text>军团军团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEGATUS_LEGIONIS_HELP">
+			<Text>+1 [ICON_MOVES]如果单位开始回合时的移动受到[ICON_GREAT_GENERAL]领导气场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRAEFECTUS_CASTRORUM">
+			<Text>卡斯特鲁姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRAEFECTUS_CASTRORUM_HELP">
+			<Text>+60% [ICON_WORKER]如果单位开始回合时的工作率受到[ICON_GREAT_GENERAL]领导气场。[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GRAPESHOT">
+			<Text>霰弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GRAPESHOT_HELP">
+			<Text>+33% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]近战[ENDCOLOR]和[COLOR_POSITIVE_TEXT]火药单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BIG_HORSE_DANCE">
+			<Text>大马舞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BIG_HORSE_DANCE_HELP">
+			<Text>+20% [ICON_STRENGTH]战斗力时[COLOR_POSITIVE_TEXT]强化[ENDCOLOR].[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROUCHING_TIGER">
+			<Text>卧虎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROUCHING_TIGER_HELP">
+			<Text>如果目标图块上的所有敌方单位本回合未移动，则在攻击时对该单位造成 15 点伤害。[NEWLINE]该伤害忽略伤害减免。[NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FATHER_OF_THE_HORSE">
+			<Text>马之父</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FATHER_OF_THE_HORSE_HELP">
+			<Text>+15% [ICON_STRENGTH]战斗力VS[COLOR_POSITIVE_TEXT]安装单位[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SANTA_MARIA">
+			<Text>圣玛丽亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SANTA_MARIA_HELP">
+			<Text>获得 100% 的[ICON_STRENGTH]被击败的敌方单位的战斗力为[ICON_GREAT_ADMIRAL]伟大的海军上将积分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INVINCIBLE">
+			<Text>无敌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INVINCIBLE_HELP">
+			<Text>+6 碱基[ICON_STRENGTH]如果单位以满生命值开始回合，则战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIGHTEOUSNESS">
+			<Text>义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIGHTEOUSNESS_HELP">
+			<Text>+20% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]HP 等于或低于 50% 的单位[ENDCOLOR].[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COURAGE">
+			<Text>勇气</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COURAGE_HELP">
+			<Text>+15% [ICON_STRENGTH]攻击时的战斗力。[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BENEVOLENCE">
+			<Text>仁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BENEVOLENCE_HELP">
+			<Text>+5 HP 当[COLOR_POSITIVE_TEXT]康复[ENDCOLOR]对于单位[COLOR_POSITIVE_TEXT]与该图块相邻[ENDCOLOR].[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RESPECT">
+			<Text>尊重</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RESPECT_HELP">
+			<Text>+20% [ICON_STRENGTH]攻击时的战斗力[COLOR_POSITIVE_TEXT]生命值超过 50% 的单位[ENDCOLOR].[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SINCERITY">
+			<Text>诚意</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SINCERITY_HELP">
+			<Text>+50% 从战斗中获得的经验。[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HONOR">
+			<Text>荣誉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HONOR_HELP">
+			<Text>+15% [ICON_STRENGTH]战斗力[COLOR_POSITIVE_TEXT]友好领土之外[ENDCOLOR].[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOYALTY">
+			<Text>忠诚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOYALTY_HELP">
+			<Text>+15% [ICON_STRENGTH]战斗力[COLOR_POSITIVE_TEXT]友好领土内[ENDCOLOR].[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SELF_CONTROL">
+			<Text>自我控制</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SELF_CONTROL_HELP">
+			<Text>+15% [ICON_STRENGTH]防御时的战斗力。[NEWLINE]+1% [ICON_STRENGTH]低于最大生命值每 3 点生命值的战斗强度。[NEWLINE]消除攻击或防御近战攻击时的战斗惩罚[ICON_POSITIVE_TEXT]受伤[ENDCOLOR].[NEWLINE]击败敌方单位后恢复 10 点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDED_1">
+			<Text>登上我</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDED_1_HELP">
+			<Text>-2 [ICON_MOVES]移动。[NEWLINE]持续1回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDED_2">
+			<Text>登上II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDED_2_HELP">
+			<Text>-4 [ICON_MOVES]移动。[NEWLINE]持续1回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DAZED">
+			<Text>茫然</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DAZED_HELP">
+			<Text>-15% [ICON_STRENGTH]战斗力。[NEWLINE]持续5回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ON_FIRE">
+			<Text>着火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ON_FIRE_HELP">
+			<Text>+20% 战斗造成的伤害。[NEWLINE]持续1回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAIMED">
+			<Text>致残</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAIMED_HELP">
+			<Text>-1 [ICON_MOVES]移动。[NEWLINE]持续1回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRISONERS_OF_WAR">
+			<Text>战俘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRISONERS_OF_WAR_HELP">
+			<Text>建造或修复改进或路线时的工作率-50%。[NEWLINE]持续50回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FERVOR">
+			<Text>热情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FERVOR_HELP">
+			<Text>+10% [ICON_STRENGTH]战斗力。[NEWLINE]持续30回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MARSH_WALKER">
+			<Text>马什·沃克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MARSH_WALKER_HELP">
+			<Text>忽略地形成本[COLOR_POSITIVE_TEXT]沼泽[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]仅限野蛮人。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WHITE_WALKER">
+			<Text>白行者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WHITE_WALKER_HELP">
+			<Text>忽略地形成本[COLOR_POSITIVE_TEXT]雪[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]仅限野蛮人。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOODS_WALKER">
+			<Text>伍兹·沃克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOODS_WALKER_HELP">
+			<Text>忽略地形成本[COLOR_POSITIVE_TEXT]森林[ENDCOLOR]和[COLOR_POSITIVE_TEXT]丛林[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]仅限野蛮人。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DESERT_WALKER">
+			<Text>沙漠行者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DESERT_WALKER_HELP">
+			<Text>忽略地形成本[COLOR_POSITIVE_TEXT]沙漠[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]仅限野蛮人。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HILL_WALKER">
+			<Text>希尔沃克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HILL_WALKER_HELP">
+			<Text>忽略地形成本[COLOR_POSITIVE_TEXT]爬坡道[ENDCOLOR].[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]仅限野蛮人。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CONSCRIPT">
+			<Text>义务兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CONSCRIPT_HELP">
+			<Text>该单位不消耗[ICON_WAR]单位供应。[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]升级时丢失。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JUGGERNAUT">
+			<Text>主宰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JUGGERNAUT_HELP">
+			<Text>+25 生命值。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

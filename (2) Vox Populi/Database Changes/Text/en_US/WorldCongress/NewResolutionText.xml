@@ -88,4 +88,81 @@
 			<Text>Begins the United Nations project. Once underway, Civilizations can contribute [ICON_PRODUCTION] Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1_HELP}[NEWLINE][NEWLINE]Available once any Civilization discovers Atomic Theory.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_RESOLUTION_SOI">
+			<Text>影响范围</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_SOI_HELP">
+			<Text>要求对城邦拥有势力范围。如果成功，提出提案的玩家将成为城邦的永久盟友（除非该提案被废除）。提议者必须是城邦当前的盟友。[NEWLINE][NEWLINE]一旦任何文明发现蒸汽动力即可使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_OPEN_DOOR">
+			<Text>开门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_OPEN_DOOR_HELP">
+			<Text>为城邦制定门户开放政策。如果成功的话，所有文明将立即拥有自己的[ICON_INFLUENCE]对城邦的影响力设定为40，在该提案被废除之前，任何人都不能成为城邦的盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_CITY_CSD">
+			<Text>选择要影响的决议的城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECOLONIZATION">
+			<Text>非殖民化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECOLONIZATION_HELP">
+			<Text>实施全球非殖民化。如果成功的话，[ICON_INFLUENCE]所有玩家对所有城邦的影响力均降至 50，除非他们是永久盟友。[NEWLINE][NEWLINE]一旦任何文明发现无线电即可使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_WAR">
+			<Text>宣战理由</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_WAR_HELP">
+			<Text>世界认识到需要通过正义的战争来解决外交争端。[NEWLINE][NEWLINE]当该决议生效时，单位维护成本降低 15%[ICON_GOLD]金子。 0.5倍[ICON_VICTORY_DOMINATION]占领城市并宣战的好战者惩罚，以及 2 倍[ICON_VICTORY_DOMINATION]好战者的分数下降。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_TOURISM_PENALTY">
+			<Text>旅行禁令</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_TOURISM_PENALTY_HELP">
+			<Text>限制文明之间的国际旅行。减少了[ICON_TOURISM]所有文明的旅游业修正值提高 35%。[NEWLINE][NEWLINE]一旦任何文明发现飞行就可用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_TOURISM_BONUS">
+			<Text>护照系统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_TOURISM_BONUS_HELP">
+			<Text>增加不同文明之间的国际旅行。增加[ICON_TOURISM]所有文明的旅游业修正值提高 50%。[NEWLINE][NEWLINE]一旦任何文明发现飞行就可用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_COLD_WAR">
+			<Text>冷战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_COLD_WAR_HELP">
+			<Text>意识形态差异使世界陷入冷战，经济和政治派系仅基于意识形态而形成。[NEWLINE][NEWLINE]当此决议有效时，玩家只能做出[ICON_INTERNATIONAL_TRADE]与遵循相同意识形态的文明或与同盟城邦的贸易路线。此外，[ICON_INFLUENCE]与盟国城邦的影响力水平不会下降。[NEWLINE][NEWLINE]一旦任何文明发现原子理论即可使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_SPACESHIP_INSPECTION">
+			<Text>航天法规</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_SPACESHIP_INSPECTION_HELP">
+			<Text>航天法规控制现代弹道技术的扩散，监督国家太空计划，并限制潜在危险技术的进步。[NEWLINE][NEWLINE]只要该决议有效，所有玩家都会遭受全球-25%的损失[ICON_PRODUCTION]生产处罚[ICON_VICTORY_SPACE]宇宙飞船零件和 +25%[ICON_GOLD]黄金购买成本为[ICON_VICTORY_SPACE]宇宙飞船零件。[NEWLINE][NEWLINE]一旦任何文明发现原子理论即可使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_PLAYER_VASSAL_TAX">
+			<Text>全球解放</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_PLAYER_VASSAL_TAX_HELP">
+			<Text>所有主人与附庸的关系都会立即和平地废除。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_TREASURE_FLEET">
+			<Text>宝藏舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_TREASURE_FLEET_HELP">
+			<Text>开始宝藏舰队计划。一旦开始，文明就可以做出贡献[ICON_PRODUCTION]通过在城市生产清单中选择它来完成生产。完成后，文明将根据其贡献程度获得奖励。[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_TREASURE_FLEET_1_HELP}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WARGAMES">
+			<Text>全球兵棋推演</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WARGAMES_HELP">
+			<Text>开始全球兵棋推演项目。一旦开始，文明就可以做出贡献[ICON_PRODUCTION]通过在城市生产清单中选择它来完成生产。完成后，文明将根据其贡献程度获得奖励。[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WARGAMES_1_HELP}[NEWLINE][NEWLINE]一旦任何文明发现可替换部件即可使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_UNITED_NATIONS">
+			<Text>联合国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_UNITED_NATIONS_HELP">
+			<Text>启动联合国项目。一旦开始，文明就可以做出贡献[ICON_PRODUCTION]通过在城市生产清单中选择它来完成生产。完成后，文明将根据其贡献程度获得奖励。[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_UNITED_NATIONS_1_HELP}[NEWLINE][NEWLINE]一旦任何文明发现原子理论即可使用。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

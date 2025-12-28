@@ -5,4 +5,9 @@
 			<Text>All new and existing Workers, Work Boats, Missionaries, Inquisitors, and Settler Units produced by the owner of this Natural Wonder gain the [COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_SACRED_STEPS}[ENDCOLOR] Promotion, granting them +2 [ICON_MOVES] Movement.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_SRI_PADA_HELP">
+			<Text>由这个自然奇观的所有者生产的所有新的和现有的工人、工作船、传教士、审判官和定居者单位都获得[COLOR_POSITIVE_TEXT]{TXT_KEY_PROMOTION_SACRED_STEPS}[ENDCOLOR]晋升，给予他们+2[ICON_MOVES]移动。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>	
