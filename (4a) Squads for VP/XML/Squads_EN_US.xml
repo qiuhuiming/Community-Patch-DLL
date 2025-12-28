@@ -58,5 +58,61 @@
             <Text>Remove all units from this squad. Units can be removed individually from this squad with [COLOR_YELLOW]RCLICK[ENDCOLOR] on the unit list.</Text>
         </Row>
     </Language_en_US>
+    <Language_zh_CN>
+        <Row Tag="TXT_KEY_SQUADS">
+            <Text>小队</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TITLE">
+            <Text>VP 小队</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MANAGE_SQUAD">
+            <Text>管理小队</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVE_SQUAD">
+            <Text>移动小队</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_RESET_SQUAD">
+            <Text>重置小队</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_NAME">
+            <Text>小队名称</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTIONS">
+            <Text>选项</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_HIGHLIGHT">
+            <Text>高亮小队单位</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_FLAGS_NUMBER">
+            <Text>在单位旗帜上显示小队编号</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_ESCORT">
+            <Text>护送非战斗单位</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_OPTION_ESCORT_TT">
+            <Text>在小队移动期间，起始与非战斗单位同一地块的战斗单位会护送它们，绑定移动直到到达目的地或下达另一个移动指令。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE">
+            <Text>小队移动结束行为：</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE_ALERT_ON_ARRIVAL">
+            <Text>抵达时提醒</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE_WAKE_ON_UNIT_ARRIVAL">
+            <Text>每个单位抵达时唤醒</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_MOVEMENT_END_TYPE_WAKE_ON_SQUAD_ARRIVAL">
+            <Text>小队抵达时唤醒</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TT_MANAGE_SQUAD">
+            <Text>进入管理模式，可用 [COLOR_YELLOW]LCLICK[ENDCOLOR] 点击单位或其旗帜来添加或移除。按住 [COLOR_YELLOW]RCLICK[ENDCOLOR] 并拖拽框选可一次性将一组单位加入小队。也可使用组合键 [COLOR_YELLOW]CTRL+NUM[ENDCOLOR] 进入管理模式，其中 NUM 为小队编号键。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TT_MOVE_SQUAD">
+            <Text>进入移动模式，在地块上 [COLOR_YELLOW]RCLICK[ENDCOLOR] 会向该小队所有单位下达移动指令。也可以通过双击对应小队的数字键来进入移动模式。</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SQUADS_TT_RESET_SQUAD">
+            <Text>从该小队中移除所有单位。可在单位列表上用 [COLOR_YELLOW]RCLICK[ENDCOLOR] 单独移除单位。</Text>
+        </Row>
+    </Language_zh_CN>
   
 </GameData>
