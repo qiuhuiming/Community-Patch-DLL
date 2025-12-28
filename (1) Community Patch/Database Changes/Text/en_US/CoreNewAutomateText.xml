@@ -21,4 +21,24 @@
 			<Text>No valid targets for archaeology at this time.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_MISSIONARY">
+			<Text>传播宗教（自动）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_MISSIONARY_HELP">
+			<Text>全部自动化[COLOR_UNIT_TEXT]传教士[ENDCOLOR]行动。该装置将保持自动化，直到您取消其自动化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_MISSIONARY_DISABLED_HELP">
+			<Text>目前没有传播宗教的有效目标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_ARCHAEOLOGIST">
+			<Text>挖掘文物（自动）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_ARCHAEOLOGIST_HELP">
+			<Text>全部自动化[COLOR_UNIT_TEXT]考古学家[ENDCOLOR]行动。该装置将保持自动化，直到您取消其自动化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_ARCHAEOLOGIST_DISABLED_HELP">
+			<Text>目前没有有效的考古目标。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

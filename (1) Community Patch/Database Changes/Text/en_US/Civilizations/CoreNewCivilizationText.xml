@@ -2241,4 +2241,1941 @@
 			<Gender>feminine</Gender>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_10">
+			<Text>斯诺登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_11">
+			<Text>英里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_12">
+			<Text>唐纳德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_13">
+			<Text>阿尔杰农</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_14">
+			<Text>伯恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_15">
+			<Text>莉迪亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_16">
+			<Text>康斯坦斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_17">
+			<Text>朱莉娅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_18">
+			<Text>莎朗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_19">
+			<Text>惠特克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_20">
+			<Text>约翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_21">
+			<Text>罗伯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_22">
+			<Text>琼斯夫人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_23">
+			<Text>理查德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_24">
+			<Text>叔叔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_10">
+			<Text>卡里尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_11">
+			<Text>巴哈莫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_12">
+			<Text>希沙姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_13">
+			<Text>加里卜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_14">
+			<Text>亚斯明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_15">
+			<Text>阿米尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_16">
+			<Text>法迪尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_17">
+			<Text>卡里拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_18">
+			<Text>扎希达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_19">
+			<Text>法希玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_20">
+			<Text>萨利赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_21">
+			<Text>塔赫米德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_22">
+			<Text>哈尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_23">
+			<Text>拉菲克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_24">
+			<Text>奥萨马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_10">
+			<Text>奥林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_11">
+			<Text>羽蛇属</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_12">
+			<Text>希利克斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_13">
+			<Text>霍奇特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_14">
+			<Text>伊泽尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_15">
+			<Text>库卡特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_16">
+			<Text>森特华</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_17">
+			<Text>内库梅特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_18">
+			<Text>纳瓦特尔语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_19">
+			<Text>特拉洛克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_20">
+			<Text>托奇特利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_21">
+			<Text>特拉佐皮利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_22">
+			<Text>伊克斯特利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_23">
+			<Text>伊维卡特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_24">
+			<Text>伊考特利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_10">
+			<Text>羌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_11">
+			<Text>水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_12">
+			<Text>翔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_13">
+			<Text>蜀蜀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_14">
+			<Text>泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_15">
+			<Text>郑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_16">
+			<Text>智</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_17">
+			<Text>蒋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_18">
+			<Text>海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_19">
+			<Text>博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_20">
+			<Text>魏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_21">
+			<Text>文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_22">
+			<Text>秀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_23">
+			<Text>洪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_24">
+			<Text>郭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_10">
+			<Text>阿赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_11">
+			<Text>帕杜巴斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_12">
+			<Text>舍夫伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_13">
+			<Text>梅内斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_14">
+			<Text>布拉希姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_15">
+			<Text>安库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_16">
+			<Text>霍特菲特斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_17">
+			<Text>哈达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_18">
+			<Text>贝内巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_19">
+			<Text>索夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_20">
+			<Text>栖热菌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_21">
+			<Text>贝克特穆特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_22">
+			<Text>雷布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_23">
+			<Text>胡夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_24">
+			<Text>塞贝克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_10">
+			<Text>纽带</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_11">
+			<Text>珀西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_12">
+			<Text>笑脸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_13">
+			<Text>莫尼彭尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_14">
+			<Text>优雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_15">
+			<Text>米利森特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_16">
+			<Text>哈里特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_17">
+			<Text>比阿特丽斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_18">
+			<Text>阿比盖尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_19">
+			<Text>弗莱明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_20">
+			<Text>阿姨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_21">
+			<Text>本尼迪克特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_22">
+			<Text>阿利斯泰尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_23">
+			<Text>梅林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_24">
+			<Text>斯宾塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_10">
+			<Text>阿德里安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_11">
+			<Text>克洛德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_12">
+			<Text>阿兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_13">
+			<Text>热拉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_14">
+			<Text>卡米尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_15">
+			<Text>皮埃尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_16">
+			<Text>其士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_17">
+			<Text>米歇尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_18">
+			<Text>苏珊娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_19">
+			<Text>亨利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_20">
+			<Text>尼内特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_21">
+			<Text>埃冯娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_22">
+			<Text>布莱斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_23">
+			<Text>格雷诺耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_24">
+			<Text>叔叔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_10">
+			<Text>安德烈亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_11">
+			<Text>西奥多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_12">
+			<Text>以马内利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_13">
+			<Text>安雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_14">
+			<Text>埃里希</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_15">
+			<Text>赖纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_16">
+			<Text>格哈德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_17">
+			<Text>马雷克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_18">
+			<Text>汉娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_19">
+			<Text>埃尔克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_20">
+			<Text>凯特琳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_21">
+			<Text>希曼斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_22">
+			<Text>康拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_23">
+			<Text>最大限度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_24">
+			<Text>沃尔夫冈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_10">
+			<Text>阿塞尼奥斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_11">
+			<Text>丽姬娅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_12">
+			<Text>尼坎德罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_13">
+			<Text>苍鹭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_14">
+			<Text>盖亚内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_15">
+			<Text>欧提基亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_16">
+			<Text>龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_17">
+			<Text>克莱恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_18">
+			<Text>菊花</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_19">
+			<Text>提奥菲拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_20">
+			<Text>菲奥贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_21">
+			<Text>费德罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_22">
+			<Text>佐西梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_23">
+			<Text>斯特拉顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_24">
+			<Text>约劳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_10">
+			<Text>钱德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_11">
+			<Text>马欣德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_12">
+			<Text>贾斯文德尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_13">
+			<Text>吉里什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_14">
+			<Text>迪帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_15">
+			<Text>帕布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_16">
+			<Text>拉宾德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_17">
+			<Text>弗里特拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_18">
+			<Text>萨拉拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_19">
+			<Text>卡西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_20">
+			<Text>拉瓦尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_21">
+			<Text>阿姆里塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_22">
+			<Text>乌玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_23">
+			<Text>塔拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_24">
+			<Text>吉塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_10">
+			<Text>德卡纳维达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_11">
+			<Text>谢南多厄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_12">
+			<Text>奥伦达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_13">
+			<Text>特卡维萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_14">
+			<Text>奥赫奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_15">
+			<Text>阿德西拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_16">
+			<Text>卡内阿德亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_17">
+			<Text>萨赫姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_18">
+			<Text>瓦赫塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_19">
+			<Text>秦和子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_20">
+			<Text>希奥加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_21">
+			<Text>希凯拉米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_22">
+			<Text>和萨高瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_23">
+			<Text>加拉孔蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_24">
+			<Text>埃里尔霍南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_10">
+			<Text>阿基拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_11">
+			<Text>武</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_12">
+			<Text>王子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_13">
+			<Text>四郎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_14">
+			<Text>大蛇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_15">
+			<Text>升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_16">
+			<Text>雄一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_17">
+			<Text>道雄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_18">
+			<Text>百合子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_19">
+			<Text>阿兔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_20">
+			<Text>索拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_21">
+			<Text>阿玛亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_22">
+			<Text>遥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_23">
+			<Text>千代子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_24">
+			<Text>夏子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_10">
+			<Text>埃米尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_11">
+			<Text>哈桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_12">
+			<Text>梅利克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_13">
+			<Text>贝基尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_14">
+			<Text>迪尔伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_15">
+			<Text>穆斯塔法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_16">
+			<Text>莎拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_17">
+			<Text>阿夫拉诺斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_18">
+			<Text>哈迪斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_19">
+			<Text>斋戒月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_20">
+			<Text>祖哈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_21">
+			<Text>帖木儿汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_22">
+			<Text>法蒂玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_23">
+			<Text>雅库布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_24">
+			<Text>杰马尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_10">
+			<Text>阿里曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_11">
+			<Text>梅里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_12">
+			<Text>科达达德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_13">
+			<Text>纳维德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_14">
+			<Text>帕帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_15">
+			<Text>索拉博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_16">
+			<Text>谢尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_17">
+			<Text>巴赫拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_18">
+			<Text>莱拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_19">
+			<Text>以斯帖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_20">
+			<Text>闺房</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_21">
+			<Text>肉山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_22">
+			<Text>纳希德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_23">
+			<Text>安娜希塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_24">
+			<Text>帕里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_10">
+			<Text>凯利乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_11">
+			<Text>多米蒂亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_12">
+			<Text>维斯珀鲁斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_13">
+			<Text>瓦莱里娅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_14">
+			<Text>昆图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_15">
+			<Text>奥雷利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_16">
+			<Text>塞普蒂莫斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_17">
+			<Text>风信子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_18">
+			<Text>松鼠属</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_19">
+			<Text>蚓螈属</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_20">
+			<Text>提图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_21">
+			<Text>图利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_22">
+			<Text>法比亚努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_23">
+			<Text>彼得罗尼乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_24">
+			<Text>维特斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_10">
+			<Text>伊戈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_11">
+			<Text>格里戈里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_12">
+			<Text>马格达利娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_13">
+			<Text>卡坚卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_14">
+			<Text>索菲亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_15">
+			<Text>尤利娅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_16">
+			<Text>卓娅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_17">
+			<Text>伊琳娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_18">
+			<Text>埃琳娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_19">
+			<Text>迪亚迪亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_20">
+			<Text>科尔莫戈洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_21">
+			<Text>格言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_22">
+			<Text>瓦列里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_23">
+			<Text>尤里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_24">
+			<Text>费多西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_10">
+			<Text>拉迈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_11">
+			<Text>阿农</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_12">
+			<Text>布萨巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_13">
+			<Text>费林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_14">
+			<Text>沙西通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_15">
+			<Text>乌汶府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_16">
+			<Text>素空</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_17">
+			<Text>克拉汉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_18">
+			<Text>查纳隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_19">
+			<Text>苏南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_20">
+			<Text>丁纳空</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_21">
+			<Text>皮亚布特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_22">
+			<Text>松布恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_23">
+			<Text>普拉塞特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_24">
+			<Text>蒙库特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_10">
+			<Text>埃克内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_11">
+			<Text>楚克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_12">
+			<Text>奥鲁本米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_13">
+			<Text>埃尼奥拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_14">
+			<Text>伊梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_15">
+			<Text>奥拉博德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_16">
+			<Text>耶万德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_17">
+			<Text>阿拉巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_18">
+			<Text>西米索拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_19">
+			<Text>福拉米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_20">
+			<Text>卡约德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_21">
+			<Text>莫尼法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_22">
+			<Text>阿比德米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_23">
+			<Text>巴巴吉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_24">
+			<Text>埃尼坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_10">
+			<Text>卢卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_11">
+			<Text>马克西米利安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_12">
+			<Text>尼克拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_13">
+			<Text>多米尼克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_14">
+			<Text>劳伦兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_15">
+			<Text>克里斯托夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_16">
+			<Text>昂克尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_17">
+			<Text>洛萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_18">
+			<Text>埃尔弗里德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_19">
+			<Text>贾娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_20">
+			<Text>维拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_21">
+			<Text>苏菲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_22">
+			<Text>乐天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_23">
+			<Text>马蒂亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_24">
+			<Text>瓦伦丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_10">
+			<Text>安特米乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_11">
+			<Text>泰奥斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_12">
+			<Text>优西米乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_13">
+			<Text>马克西莫斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_14">
+			<Text>赫拉克洛纳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_15">
+			<Text>佩特罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_16">
+			<Text>斯特凡诺斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_17">
+			<Text>索弗洛尼乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_18">
+			<Text>荇菜属</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_19">
+			<Text>利西尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_20">
+			<Text>尤多西娅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_21">
+			<Text>梅特罗多拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_22">
+			<Text>埃利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_23">
+			<Text>索菲亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_24">
+			<Text>神神论者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_10">
+			<Text>阿斯德鲁巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_11">
+			<Text>埃斯布穆纳扎尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_12">
+			<Text>梅尔巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_13">
+			<Text>漏网虫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_14">
+			<Text>萨拉卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_15">
+			<Text>半斯科拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_16">
+			<Text>耶洗别</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_17">
+			<Text>阿多尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_18">
+			<Text>梅利塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_19">
+			<Text>塔尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_20">
+			<Text>富阿巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_21">
+			<Text>萨利卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_22">
+			<Text>阿格巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_23">
+			<Text>阿比米尔基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_24">
+			<Text>罗丹努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_10">
+			<Text>布伦努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_11">
+			<Text>阿尔宾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_12">
+			<Text>欧根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_13">
+			<Text>尼尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_14">
+			<Text>芬恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_15">
+			<Text>格温妮丝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_16">
+			<Text>罗文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_17">
+			<Text>乌娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_18">
+			<Text>奥莱斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_19">
+			<Text>埃特内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_20">
+			<Text>瑞安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_21">
+			<Text>迪卢姆德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_22">
+			<Text>弗洛因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_23">
+			<Text>里亚甘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_24">
+			<Text>梅多克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_10">
+			<Text>阿卡莱内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_11">
+			<Text>巴赫鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_12">
+			<Text>恩格达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_13">
+			<Text>格德布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_14">
+			<Text>卡贝德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_15">
+			<Text>奥比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_16">
+			<Text>提吉斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_17">
+			<Text>莱耶什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_18">
+			<Text>伊夫拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_19">
+			<Text>博加莱克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_20">
+			<Text>内萨内特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_21">
+			<Text>塞拉纳威特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_22">
+			<Text>费雷·海威特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_23">
+			<Text>任抹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_24">
+			<Text>耶布扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_10">
+			<Text>阿拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_11">
+			<Text>塔比蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_12">
+			<Text>阿尔金帕夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_13">
+			<Text>古尔纳尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_14">
+			<Text>因珠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_15">
+			<Text>莫尔莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_16">
+			<Text>塔里兹敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_17">
+			<Text>冯德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_18">
+			<Text>古拉特纳卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_19">
+			<Text>哈斯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_20">
+			<Text>阿克松古尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_21">
+			<Text>鲁吉拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_22">
+			<Text>帖木儿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_23">
+			<Text>本德古兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_24">
+			<Text>埃尔纳赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_10">
+			<Text>巴勒姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_11">
+			<Text>茨克纳尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_12">
+			<Text>奇查恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_13">
+			<Text>埃克楚阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_14">
+			<Text>霍扎内克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_15">
+			<Text>伊察姆纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_16">
+			<Text>沃坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_17">
+			<Text>沙曼·埃克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_18">
+			<Text>伊克萨洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_19">
+			<Text>科莱尔·卡布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_20">
+			<Text>阿克纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_21">
+			<Text>博隆蒂库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_22">
+			<Text>查克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_23">
+			<Text>奥克斯拉洪提库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_24">
+			<Text>乔文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_10">
+			<Text>多尔特耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_11">
+			<Text>杰拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_12">
+			<Text>卡特里因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_13">
+			<Text>汉内斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_14">
+			<Text>阿尔杰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_15">
+			<Text>卡斯帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_16">
+			<Text>麦艾克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_17">
+			<Text>克拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_18">
+			<Text>利斯贝斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_19">
+			<Text>噢姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_20">
+			<Text>威廉米娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_21">
+			<Text>罗格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_22">
+			<Text>拉斯穆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_23">
+			<Text>利文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_24">
+			<Text>皮特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_10">
+			<Text>安堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_11">
+			<Text>托瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_12">
+			<Text>斯韦亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_13">
+			<Text>古尼拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_14">
+			<Text>井出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_15">
+			<Text>莫娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_16">
+			<Text>卡琳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_17">
+			<Text>安德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_18">
+			<Text>托斯顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_19">
+			<Text>佩勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_20">
+			<Text>奥洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_21">
+			<Text>尼尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_22">
+			<Text>埃斯彭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_23">
+			<Text>比约恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_24">
+			<Text>阿斯蒙德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_10">
+			<Text>阿斯纳帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_11">
+			<Text>努基穆特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_12">
+			<Text>塞鲁亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_13">
+			<Text>比利特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_14">
+			<Text>伊兹杜巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_15">
+			<Text>提亚马特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_16">
+			<Text>哈纳努</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_17">
+			<Text>阿皮亚沙尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_18">
+			<Text>萨马诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_19">
+			<Text>埃里苏姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_20">
+			<Text>纳拉姆辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_21">
+			<Text>拉马什图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_22">
+			<Text>埃迪姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_23">
+			<Text>乌加卢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_24">
+			<Text>库萨里库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_10">
+			<Text>阿洛伊西奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_11">
+			<Text>博尼法西奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_12">
+			<Text>克里斯蒂亚诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_13">
+			<Text>安塞尔莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_14">
+			<Text>福斯蒂诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_15">
+			<Text>古斯塔沃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_16">
+			<Text>纳塔奈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_17">
+			<Text>钛奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_18">
+			<Text>塔西托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_19">
+			<Text>蒂莫泰奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_20">
+			<Text>泽费里诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_21">
+			<Text>马塞利诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_22">
+			<Text>加布里埃拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_23">
+			<Text>克莱门蒂娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_24">
+			<Text>维多利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_10">
+			<Text>苏帕曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_11">
+			<Text>里德万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_12">
+			<Text>桑尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_13">
+			<Text>半道子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_14">
+			<Text>帕曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_15">
+			<Text>因陀罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_16">
+			<Text>苏亨德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_17">
+			<Text>炎帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_18">
+			<Text>维拉瓦蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_19">
+			<Text>法里达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_20">
+			<Text>苏珊蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_21">
+			<Text>维迪亚瓦蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_22">
+			<Text>斯里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_23">
+			<Text>古纳尔迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_24">
+			<Text>特古赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_10">
+			<Text>伊本·拉希德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_11">
+			<Text>伊本·瓦西姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_12">
+			<Text>埃利亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_13">
+			<Text>卡里姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_14">
+			<Text>阿瓦达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_15">
+			<Text>祖拜达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_16">
+			<Text>谢里法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_17">
+			<Text>卡蒂贾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_18">
+			<Text>瓦西拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_19">
+			<Text>苏莱夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_20">
+			<Text>扎赫拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_21">
+			<Text>比拉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_22">
+			<Text>索菲安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_23">
+			<Text>艾哈迈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_24">
+			<Text>贾比里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_10">
+			<Text>娜塔莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_11">
+			<Text>弗里德莱卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_12">
+			<Text>贾斯蒂娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_13">
+			<Text>卡西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_14">
+			<Text>埃迪塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_15">
+			<Text>韦罗尼卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_16">
+			<Text>阿洛伊济</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_17">
+			<Text>克劳迪乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_18">
+			<Text>马雷克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_19">
+			<Text>斯特凡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_20">
+			<Text>维克多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_21">
+			<Text>齐莫维特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_22">
+			<Text>格尔瓦齐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_23">
+			<Text>莱谢克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_24">
+			<Text>乌耶克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_10">
+			<Text>黛博拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_11">
+			<Text>桑托斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_12">
+			<Text>马蒂尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_13">
+			<Text>卡利托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_14">
+			<Text>特雷塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_15">
+			<Text>贝伦加尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_16">
+			<Text>朱迪特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_17">
+			<Text>莎乐美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_18">
+			<Text>费利佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_19">
+			<Text>罗莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_20">
+			<Text>格雷戈里奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_21">
+			<Text>贝内迪塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_22">
+			<Text>伊尼戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_23">
+			<Text>若阿金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_24">
+			<Text>弗雷德里科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_10">
+			<Text>木马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_11">
+			<Text>海威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_12">
+			<Text>惠特苏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_13">
+			<Text>德赫亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_14">
+			<Text>奥凯平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_15">
+			<Text>胡皮亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_16">
+			<Text>努努基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_17">
+			<Text>卡塔赫卡萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_18">
+			<Text>霍科勒斯夸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_19">
+			<Text>拉拉维提卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_20">
+			<Text>坦斯克瓦塔瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_21">
+			<Text>阿塔科库普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_22">
+			<Text>卡瓦卡图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_23">
+			<Text>穆斯科韦泉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_24">
+			<Text>基塞卡查克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_10">
+			<Text>阿莱西奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_11">
+			<Text>毛里齐奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_12">
+			<Text>塞韦罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_13">
+			<Text>尼禄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_14">
+			<Text>齐奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_15">
+			<Text>埃尔科莱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_16">
+			<Text>但丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_17">
+			<Text>卡洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_18">
+			<Text>伊丽莎白</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_19">
+			<Text>德西德里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_20">
+			<Text>雷娜塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_21">
+			<Text>尼科莱塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_22">
+			<Text>格拉齐埃拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_23">
+			<Text>毛拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_24">
+			<Text>马塞拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_10">
+			<Text>阿齐萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_11">
+			<Text>达不拉曼兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_12">
+			<Text>恩加梅利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_13">
+			<Text>赫卢菲兹韦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_14">
+			<Text>夸内勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_15">
+			<Text>兹韦利昆德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_16">
+			<Text>乌马卢梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_17">
+			<Text>费谢亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_18">
+			<Text>恩卡耶齐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_19">
+			<Text>宗德利勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_20">
+			<Text>韦姆万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_21">
+			<Text>乌米纳蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_22">
+			<Text>腾比西勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_23">
+			<Text>勒蒂韦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_24">
+			<Text>戈诺蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_10">
+			<Text>阿希基里姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_11">
+			<Text>哈西斯·阿德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_12">
+			<Text>库里加尔祖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_13">
+			<Text>努斯库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_14">
+			<Text>贝利特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_15">
+			<Text>塔尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_16">
+			<Text>久绫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_17">
+			<Text>安尼特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_18">
+			<Text>达姆基纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_19">
+			<Text>基沙尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_20">
+			<Text>萨比图姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_21">
+			<Text>里哈特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_22">
+			<Text>乌尔哈木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_23">
+			<Text>萨尔贡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_24">
+			<Text>伊斯米达甘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_10">
+			<Text>阿斯比约恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_11">
+			<Text>埃里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_12">
+			<Text>赫罗夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_13">
+			<Text>哈尔杜尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_14">
+			<Text>克努德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_15">
+			<Text>阿德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_16">
+			<Text>吉特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_17">
+			<Text>安格瑞德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_18">
+			<Text>安妮莉丝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_19">
+			<Text>比尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_20">
+			<Text>别的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_21">
+			<Text>英格比约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_22">
+			<Text>法伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_23">
+			<Text>奥鲁夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_24">
+			<Text>斯文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_10">
+			<Text>华曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_11">
+			<Text>科帕卡蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_12">
+			<Text>维卡基拉奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_13">
+			<Text>米凯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_14">
+			<Text>帕查玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_15">
+			<Text>藜麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_16">
+			<Text>尤潘基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_17">
+			<Text>阿卡瓦纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_18">
+			<Text>可可韦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_19">
+			<Text>维塔卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_20">
+			<Text>卡维拉卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_21">
+			<Text>马里坎奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_22">
+			<Text>闰土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_23">
+			<Text>克瓦尔语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_24">
+			<Text>瓜卡玛亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_10">
+			<Text>吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_11">
+			<Text>炫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_12">
+			<Text>哈努尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_13">
+			<Text>郑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_14">
+			<Text>桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_15">
+			<Text>旭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_16">
+			<Text>庆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_17">
+			<Text>明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_18">
+			<Text>石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_19">
+			<Text>斤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_20">
+			<Text>尹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_21">
+			<Text>焕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_22">
+			<Text>董</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_23">
+			<Text>升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_24">
+			<Text>阿杰奥西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_10">
+			<Text>阿夫加·阿赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_11">
+			<Text>内尔吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_12">
+			<Text>纳兰巴托尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_13">
+			<Text>成吉思汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_14">
+			<Text>奥特贡巴亚尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_15">
+			<Text>阿尔泰语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_16">
+			<Text>恩赫贾加尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_17">
+			<Text>纳兰特塞格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_18">
+			<Text>奥采采格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_19">
+			<Text>萨兰杰雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_20">
+			<Text>甘佐里格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_21">
+			<Text>苏赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_22">
+			<Text>奥德瓦尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_23">
+			<Text>图尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_24">
+			<Text>巴塔尔赛赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_10">
+			<Text>通顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_11">
+			<Text>伊凯亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_12">
+			<Text>纳赫勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_13">
+			<Text>克基皮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_14">
+			<Text>佩莱克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_15">
+			<Text>皮利波</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_16">
+			<Text>莫阿娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_17">
+			<Text>克奥基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_18">
+			<Text>卡佩纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_19">
+			<Text>凯马纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_20">
+			<Text>阿拉米亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_21">
+			<Text>乌拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_22">
+			<Text>奥克拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_23">
+			<Text>凯凯帕尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_24">
+			<Text>霍库拉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_10">
+			<Text>特塞罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_11">
+			<Text>圣地亚哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_12">
+			<Text>里卡多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_13">
+			<Text>阿方索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_14">
+			<Text>恩里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_15">
+			<Text>费尔南多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_16">
+			<Text>胡里奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_17">
+			<Text>巴勃罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_18">
+			<Text>卡塔利娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_19">
+			<Text>格拉西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_20">
+			<Text>胡安妮塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_21">
+			<Text>米格拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_22">
+			<Text>巴伦西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_23">
+			<Text>伊内兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_24">
+			<Text>埃斯特雷拉</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

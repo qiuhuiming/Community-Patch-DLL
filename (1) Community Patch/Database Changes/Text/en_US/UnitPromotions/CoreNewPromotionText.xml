@@ -20,4 +20,21 @@
 			<Text>Permits hovering units to embark at the coastal/ocean boundary. Embarked units receive +100% [ICON_STRENGTH] defensive bonus.</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_HELP">
+			<Text>无法结束上交[COLOR_NEGATIVE_TEXT]海洋[ENDCOLOR].[NEWLINE]如果目的地是可见海岸，则可以穿过可见海洋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION">
+			<Text>远洋登船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEEPWATER_EMBARKATION_HELP">
+			<Text>允许悬停单位在沿海/海洋边界起飞。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION">
+			<Text>海洋登陆与防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_DEEPWATER_EMBARKATION_HELP">
+			<Text>允许悬停单位在沿海/海洋边界起飞。上船单位获得+100%[ICON_STRENGTH]防御加值。</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

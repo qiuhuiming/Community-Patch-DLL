@@ -65,4 +65,69 @@
 			<Text>Diplomatic Mission by Proxenos Unit</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_POLICY_BRANCH_ANCIENT">
+			<Text>完成古代政策分支</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_POLICY_BRANCH_MEDIEVAL">
+			<Text>完成中世纪政策分支</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_POLICY_BRANCH_INDUSTRIAL">
+			<Text>完成产业政策分支</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_CHOOSE_IDEOLOGY">
+			<Text>选择意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_PANTHEON">
+			<Text>选择万神殿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_FOUNDER">
+			<Text>选择创始人的信念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_FOLLOWER">
+			<Text>选择追随者的信念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_ENHANCER">
+			<Text>选择增强信念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_BELIEF_REFORMATION">
+			<Text>选择改革信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_GENERAL">
+			<Text>玛雅长计数将军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_ADMIRAL">
+			<Text>玛雅长伯爵海军上将</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_PROPHET">
+			<Text>玛雅长计数先知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_WRITER">
+			<Text>玛雅长计数作家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_ARTIST">
+			<Text>玛雅长计数艺术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_MUSICIAN">
+			<Text>玛雅长数音乐家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_ENGINEER">
+			<Text>玛雅长计数工程师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_MERCHANT">
+			<Text>玛雅长计数商人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_SCIENTIST">
+			<Text>玛雅长计数科学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_LONGCOUNT_DIPLOMAT">
+			<Text>玛雅长计数外交官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_ELIMINATE_PLAYER">
+			<Text>淘汰一名玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCOMPLISHMENT_DIPLOMATIC_MISSION_BOOST">
+			<Text>Proxenos 单位的外交使团</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

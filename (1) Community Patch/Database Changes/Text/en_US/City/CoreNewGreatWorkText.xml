@@ -974,4 +974,972 @@
 			<Text>Sarcophagus of Ptolemy I</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GREAT_WORK_GENESIS">
+			<Text>创世纪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_010">
+			<Text>吉尔伽美什史诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_020">
+			<Text>阿佛洛狄忒颂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_030">
+			<Text>逝去岁月的故事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_040">
+			<Text>迪万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_050">
+			<Text>散文埃达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_060">
+			<Text>凯布拉·纳加斯特（列王之书）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_070">
+			<Text>Al-muqaddima (Prolegomena)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_080">
+			<Text>Rihla（送给那些思考城市奇迹和旅行奇迹的人的礼物）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_090">
+			<Text>蒙古秘史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_100">
+			<Text>Kokin Wakashu（她的诗由此而闻名）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_110">
+			<Text>玛格丽·坎普的书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_120">
+			<Text>五轮之书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_130">
+			<Text>阿拉丁神灯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_140">
+			<Text>女子之城之书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_150">
+			<Text>炽热的世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_160">
+			<Text>Rime di Madonna（圣母颂）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_170">
+			<Text>西游记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_180">
+			<Text>彼得兔的故事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_190">
+			<Text>夜莺颂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_200">
+			<Text>冰雪女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_210">
+			<Text>紫丁香</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_220">
+			<Text>卡勒瓦拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_230">
+			<Text>克苏鲁的呼唤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_240">
+			<Text>霍比特人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_250">
+			<Text>丁丁历险记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_260">
+			<Text>绿山墙的安妮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_270">
+			<Text>欢乐满人间</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_280">
+			<Text>Astérix chez les Bretons（英国的阿斯特里克斯）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_290">
+			<Text>闪电侠戈登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_300">
+			<Text>一间自己的房间</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_310">
+			<Text>马特和杰夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_320">
+			<Text>索拉里斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_330">
+			<Text>夜曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_340">
+			<Text>生命与命运</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_350">
+			<Text>土生子笔记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_360">
+			<Text>普纳姆, 普纳姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_370">
+			<Text>卡普眼中的世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_380">
+			<Text>逃避</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_390">
+			<Text>哈德良回忆录</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_400">
+			<Text>事情分崩离析</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_410">
+			<Text>情人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_420">
+			<Text>蘑菇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_430">
+			<Text>阿童木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_440">
+			<Text>所罗门之歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_450">
+			<Text>维德兹敏（《巫师》）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_460">
+			<Text>哈利·波特与魔法石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_470">
+			<Text>使女的故事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_480">
+			<Text>灵魂之家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_490">
+			<Text>小事之神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_500">
+			<Text>黑人之书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_510">
+			<Text>猴子海滩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_520">
+			<Text>绿草如茵，流水潺潺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_530">
+			<Text>阿尔奎米斯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WW_540">
+			<Text>La vraie gloire est ici（真正的荣耀就在这里）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GENESIS_QUOTE">
+			<Text>起初，上帝创造了天地。那时，大地空虚混沌，黑暗笼罩着深渊，神的灵运行在水面上。上帝说：“要有光”，就有了光。神看光是好的，就把光暗分开了。神称光为“昼”，称黑暗为“夜”。有晚上，有早晨，这是第一日。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_010">
+			<Text>就连众神也对洪水感到恐惧，[NEWLINE]他们离开并前往阿努的天堂，[NEWLINE]像狗一样蜷缩在空旷的地方。[NEWLINE]女神像临产的女人一样哭泣，[NEWLINE]贝莱特伊利哀号着，声音如此甜美：[NEWLINE]‘是我生的，这些人都是我的！[NEWLINE]现在，它们就像鱼一样充满了海洋！”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_020">
+			<Text>阿佛洛狄忒，灵魂微妙且不朽，[NEWLINE]上帝的女儿，诡计编织者，我祈求你[NEWLINE]既不带着忧虑，可怕的女士，也不带着痛苦，[NEWLINE]杀死我的灵魂吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_030">
+			<Text>只要你们之间有爱，上帝就会与你们同在，使你们的敌人屈服，你们就会生活在和平之中。但如果你生活在仇恨、冲突和分裂之中，你就会灭亡；你们将失去你们祖先和祖先历经千辛万苦才获得的土地。因此，以和平与理解的方式生活，互相倾听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_040">
+			<Text>我看到她因悲伤而心烦意乱，为她的兄弟哭泣。[NEWLINE]他失去亲人的那天晚上或第二天。[NEWLINE]他们不会像我的兄弟一样哀悼，[NEWLINE]但我通过他们的悲伤来安慰自己。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_050">
+			<Text>伊默的肉[NEWLINE]地球被造，[NEWLINE]和他的汗水汇成大海；[NEWLINE]他的骨头的岩石，[NEWLINE]他的头发如树，[NEWLINE]还有他头骨的天空；[NEWLINE]但他的眉毛[NEWLINE]快乐的力量[NEWLINE]为人类之子建造米德加德。[NEWLINE]他的大脑[NEWLINE]所有的忧郁[NEWLINE]云朵被创造出来了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_060">
+			<Text>积聚金银者，若无智慧，则无益；但凡积聚智慧的人，无人能从他心中夺走它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_070">
+			<Text>就人类的一切品质而言，走极端是应受谴责的，而中间道路是值得赞扬的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_080">
+			<Text>我确实——赞美上帝——实现了我在这个世界上的愿望，那就是环游地球，在这方面我已经实现了据我所知没有其他人能够实现的目标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_090">
+			<Text>太初有一只青灰色的狼，生来就有天命。他的妻子是一头休耕母鹿。他们渡过腾吉斯河。当他们定居在布尔罕恰勒敦山的奥南河源头后，巴塔赤坎就诞生了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_100">
+			<Text>看月亮[NEWLINE]黎明时分，[NEWLINE]孤独，中天，[NEWLINE]我完全了解自己，[NEWLINE]没有遗漏任何部分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_110">
+			<Text>她多次遇到那个地区的男人，他们对她说：“女人，放弃你过的生活，去纺纱和梳理羊毛，就像其他女人一样，不要遭受那么多羞耻和那么多不幸。”我们不会为了地球上的任何钱而受这么多苦”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_120">
+			<Text>你就会从广义上思考问题，以空为道，你就会看到道是空的。虚空有德，无恶。智慧有，理有，道有，神无。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_130">
+			<Text>在这次合手的动作中，他根本没有想到，碰巧摩擦了非洲魔术师戴在他手指上的戒指，而他对戒指的美德还一无所知。就这样一擦，一个身材最为巨大、面容最为恐怖的精灵，立刻从他面前的大地中升起。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_140">
+			<Text>男人或女人的德行越大，则越高；一个人的贵贱，不在于性别的身体，而在于行为和美德的完善。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_150">
+			<Text>公爵夫人对神灵说，“只要你指示我，哪个世界最容易被征服，女王陛下就会用手段来帮助我，我会相信命运和财富；”因为我宁愿在追求崇高成就的冒险中死去，也不愿生活在默默无闻、缓慢的安全之中。因为有了他，我就可以生活在光荣的名声中；另一个则将我埋葬在遗忘之中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_160">
+			<Text>那是关于造物主的那一天，[NEWLINE]谁能住在他崇高的居所，[NEWLINE]降临以人形显现，[NEWLINE]从圣母的子宫中诞生，[NEWLINE]当我尊贵的主人[NEWLINE]我为谁写下了那么多的爱情挽歌，[NEWLINE]谁能找到一个更高尚的安息之地，[NEWLINE]在我心里筑起了自己的巢穴和避难所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_170">
+			<Text>一个愿望诞生于人心[NEWLINE]闻名于天地。[NEWLINE]如果罪恶或美德缺乏回报，[NEWLINE]宇宙一定是不公平的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_180">
+			<Text>弗洛普西、莫普西和棉尾兔这些乖巧的小兔子沿着小巷去采黑莓，而顽皮的彼得却径直跑到了麦格雷戈先生的花园里，从大门下面挤了进去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_190">
+			<Text>你生来就不是为了死亡，不朽的鸟！[NEWLINE]没有饥饿的世代践踏你；[NEWLINE]我在这逝去的夜晚听到的声音[NEWLINE]在古代，由皇帝和小丑组成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_200">
+			<Text>力量在于她的内心，因为她是一个如此可爱、天真的孩子。如果她自己无法到达冰雪女王并清除小凯身上的那些玻璃碎片，那么我们就无法为她提供任何帮助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_210">
+			<Text>哦，罂粟花的脸颊，是一个熟练的园丁把你吸引来的吗？[NEWLINE]这花坛世界里，有太多平凡的面孔；[NEWLINE]这就是全能守护者吸引你的原因吗？[NEWLINE]花朵从你那里夺走色彩和香气。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_220">
+			<Text>为此我终日哭泣[NEWLINE]在我的一生中悲伤[NEWLINE]我从自己的土地游出[NEWLINE]并且来自熟悉的地方[NEWLINE]走向这些陌生的门[NEWLINE]到这些外国的大门。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_230">
+			<Text>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_240">
+			<Text>地底的一个洞里住着一个霍比特人。不是一个肮脏、肮脏、潮湿、充满了蠕虫末端和臭味的洞，也不是一个干燥、光秃秃的沙洞，里面没有东西可以坐下或吃东西：这是一个霍比特人洞，这意味着舒适。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_250">
+			<Text>- 但不，是起泡的藤壶！一切都好，结局好！…一切都好，结局好！…/毫无疑问…现在就是引用这句谚语的时候了：结局好，一切都好！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_260">
+			<Text>我很高兴我生活在一个有十月的世界。如果我们直接从 9 月跳到 11 月，那就太糟糕了，不是吗？看看这些枫树枝。难道它们没有给你带来刺激吗？好几次刺激？我要用它们来装饰我的房间。 “乱七八糟的东西”，马里拉说，她的审美意识还没有明显发展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_270">
+			<Text>我们是由同一种物质组成的[NEWLINE]头顶的树，脚下的石头，鸟，兽，星星[NEWLINE]我们都是一体的，都朝着同一个目标前进。当你不再记得我时，请记住这一点，我的孩子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_280">
+			<Text>你还不算太坚强。[NEWLINE]——我们需要一个坚强的人，只有谁？[NEWLINE]- 谁能携带一整桶魔法药水。[NEWLINE]- 就像小时候掉进药水里的人一样！[NEWLINE]- 啊？哦，我！[NEWLINE]- 啊哈哈[NEWLINE]- 让我们粉碎罗马人，让我们粉碎罗马人，让我们粉碎罗马人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_290">
+			<Text>- 现在进入火箭！我要把这艘船射向威胁地球的彗星！我的飞船将使彗星偏离其轨道并拯救地球！我们三个将成为科学的烈士！我们现在就开始吧！[NEWLINE]- 老天啊，你疯了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_300">
+			<Text>“如果你愿意的话，可以锁上你的图书馆[NEWLINE]但你无法为我心灵的自由设置任何门、锁或门闩。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_310">
+			<Text>“噢！可怜的小杰夫！我的良心在折磨我。我告诉他这没有危险。我敢打赌他现在已经死了。我要偷偷溜出去看看……[NEWLINE]可怜的小伙伴.../！！！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_320">
+			<Text>那么……你认为那是海洋吗？难道这一切都是海洋造成的吗？但为什么？我不是在问如何，我只是在问为什么？你真的认为它想玩弄我们——一种基本的恶魔狂吗？一个被巨大恶魔统治的星球，为了满足自己的撒旦幽默的要求，他派遣魅魔去困扰科学探险队的成员……？雪诺，你不能相信如此荒唐的事情！”[NEWLINE]他低声嘀咕道。[NEWLINE]“魔鬼才没有那么傻……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_330">
+			<Text>荣誉的辉煌就像撒哈拉沙漠，[NEWLINE]没有沙丘或石质高原的巨大虚空，没有草，没有眼睑的颤动，没有心脏的跳动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_340">
+			<Text>人类历史并不是正义战胜邪恶的战争。这是一场巨大邪恶的战斗，它正在努力粉碎人类善良的一小粒种子。但如果人类的人性至今还没有被摧毁，那么邪恶就永远无法战胜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_350">
+			<Text>我想人们如此顽固地坚持自己的仇恨的原因之一是因为他们感觉到，一旦仇恨消失，他们将被迫应对痛苦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_360">
+			<Text>这个房间是庄园。庄园就是这个房间。如果你想了解家族的成就，这里有所有的体育奖杯、盾牌、很久以前去世的老人的照片、whakapapa 或家谱、雕刻的羽毛盒、面板、人物、羽毛斗篷、piupius——所有这些都在阳光照射的房间里洒满了色彩和阴影。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_370">
+			<Text>你知道，每个人都会死。我的父母去世了。你父亲死了。每个人都会死。我也会死。你也会的。问题是，在我们死之前要拥有一个生命。拥有生命可能是一次真正的冒险。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_380">
+			<Text>机器人三定律：[NEWLINE]1：机器人不得伤害人类，或因不作为而允许人类受到伤害；[NEWLINE]2：机器人必须服从人类发出的命令，除非这些命令与第一定律相冲突；[NEWLINE]3：机器人必须保护自己的存在，只要这种保护不违反第一或第二定律。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_390">
+			<Text>他已经到达了生命中的那个时刻，这对我们每个人来说都是不同的，当一个人将自己交给他的恶魔或他的天才时，遵循一条神秘的法则，这条法则要求他要么摧毁自己，要么超越自己。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_400">
+			<Text>一个人邀请他的亲戚来赴宴并不是为了让他们免于饥饿。他们都在自己家里有食物。当我们聚集在月光下的村庄地面上时，并不是因为月亮。每个人都可以在自己的院子里看到它。我们聚集在一起，因为这样做对亲戚有好处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_410">
+			<Text>在我生命的早期，为时已晚。当我十八岁的时候已经太晚了。十八岁到二十五岁之间，我的脸朝着新的方向发展。我十八岁时就老了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_420">
+			<Text>我们靠水饮食[NEWLINE]在影子的碎片上[NEWLINE]态度温和，询问[NEWLINE]很少或没有[NEWLINE]我们这么多人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_430">
+			<Text>- 是...是...我...可以...看到...你...[NEWLINE]好的 ！成功了！好吧，Tobio...我是你爸爸...试着说“爸爸”...[NEWLINE]- 啪……啪……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_440">
+			<Text>也许这就是所有人际关系都归结为：你愿意救我的命吗？或者你会接受吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_450">
+			<Text>“邪恶就是邪恶，斯特雷戈博尔。”猎魔人站起身来，严肃地说。 ‘小、大、中，都一样。比例是经过协商的，界限是模糊的。我不是一个虔诚的隐士。我一生中所做的不只是善事。但如果我要在一种邪恶和另一种邪恶之间做出选择，那么我宁愿根本不选择。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_460">
+			<Text>你和奇洛教授之间在地牢里发生的事情是一个完全的秘密，所以整个学校自然都知道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_470">
+			<Text>但请记住，宽恕也是一种力量。乞求它是一种力量，保留或给予它也是一种力量，也许是最伟大的力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_480">
+			<Text>就像我们来到这个世界时一样，当我们死去时，我们也会害怕未知的事物。但恐惧是我们内心的某种东西，与现实无关。死亡就像出生一样：只是一种改变。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_490">
+			<Text>当你伤害别人时，他们就会开始少爱你。这就是粗心言语的作用，它们会让人们少爱你一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_500">
+			<Text>凝视另一个人的脸意味着做两件事：认识他们的人性并维护你自己的人性。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_510">
+			<Text>名字有力量。这是魔法无处不在的基本原理。喊出一个超自然生物的名字，你就会立即得到它的全神贯注，就像你迷路的孩子一叫你的名字就会得到你的注意力一样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_520">
+			<Text>没有真相。只有故事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_530">
+			<Text>然而，生命的秘诀就是七次跌倒，八次站起来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WQ_540">
+			<Text>口渴和饥饿，[NEWLINE]有笑有泪，[NEWLINE]甜蜜，受伤，[NEWLINE]愤怒，悔恨，[NEWLINE]我们不会丢弃任何一个，[NEWLINE]我们将把他们全部带走，[NEWLINE]永恒的维提卡，[NEWLINE]为了长途旅行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SUTTON_HOO">
+			<Text>萨顿胡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHINESE_LANDSCAPE">
+			<Text>中国之春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EGYPTIAN_SCULPTURE">
+			<Text>埃及的奈弗特姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JAPANESE_LANDSCAPE">
+			<Text>艺妓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AUGUSTUS">
+			<Text>奥古斯都皇帝的雕像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JUSTINIAN">
+			<Text>查士丁尼一世皇帝的浮雕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KELLS_2">
+			<Text>凯尔斯之书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LASCAUX">
+			<Text>拉斯科洞穴壁画</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MEDIEVAL_DRAGON">
+			<Text>中世纪的龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ASHURBANIPAL">
+			<Text>亚述巴尼拔杀狮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AZTEC">
+			<Text>阿兹特克众神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BAYEUX_TAPESTRY">
+			<Text>贝叶挂毯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GREEK_POTTERY">
+			<Text>希腊陶器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KALAMKARI">
+			<Text>卡拉姆卡里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PERSIAN_SOLDIERS">
+			<Text>波斯士兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_010">
+			<Text>塔米丽丝正在画她的戴安娜女神像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_020">
+			<Text>特奥蒂瓦坎伟大女神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_030">
+			<Text>弗朗西斯科·德·埃斯特的肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_040">
+			<Text>人间欢乐花园（中央面板）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_050">
+			<Text>慈悲菩萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_060">
+			<Text>莫见多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_070">
+			<Text>泽尔夫波特雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_080">
+			<Text>身穿蓝色连衣裙的玛格丽塔·特蕾莎公主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_090">
+			<Text>金刚全岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_100">
+			<Text>狂风中的荷兰船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_110">
+			<Text>桑春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_120">
+			<Text>珍妮·戈宁小姐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_130">
+			<Text>牛弓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_140">
+			<Text>月光下的德累斯顿视图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_150">
+			<Text>打猎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_160">
+			<Text>斯坦奇克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_170">
+			<Text>印第安人用矛捕鱼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_180">
+			<Text>惊喜 près d'un pont au petit jour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_190">
+			<Text>恼人的绅士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_200">
+			<Text>冬季风景</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_210">
+			<Text>骏马玻璃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_220">
+			<Text>十一月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_230">
+			<Text>好卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_240">
+			<Text>独立或死亡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_250">
+			<Text>生病的孩子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_260">
+			<Text>采摘豌豆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_270">
+			<Text>新鲜出自花园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_280">
+			<Text>罂粟花</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_290">
+			<Text>萨蒙·普鲁斯图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_300">
+			<Text>纽约下雪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_310">
+			<Text>鹿特丹太阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_320">
+			<Text>熔炉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_330">
+			<Text>库普卡·帕尔米·维蒂科夫人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_340">
+			<Text>世界末日景观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_350">
+			<Text>俄罗斯骑兵进攻东普鲁士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_360">
+			<Text>罗基特纳的负责</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_370">
+			<Text>哈芬图片之夜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_380">
+			<Text>冬夜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_390">
+			<Text>蓝眼睛的男孩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_400">
+			<Text>红、黄、蓝、黑组成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_410">
+			<Text>蓝色和绿色音乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_420">
+			<Text>波特雷特·马里·诺罗基耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_430">
+			<Text>阿巴波鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_440">
+			<Text>自画像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_450">
+			<Text>静物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_460">
+			<Text>来自东京的农妇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_470">
+			<Text>秋山孤寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_480">
+			<Text>穿紫色外套的女人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_490">
+			<Text>带荆棘项链和蜂鸟的自画像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_500">
+			<Text>地下幻想</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_510">
+			<Text>夜鹰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_520">
+			<Text>东映造的肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_530">
+			<Text>旧时光</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_540">
+			<Text>希望之光</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_550">
+			<Text>扑克之夜（选自《欲望号街车》）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_560">
+			<Text>17号-A</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_570">
+			<Text>白色内饰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_580">
+			<Text>无题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_590">
+			<Text>预期</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_600">
+			<Text>玛丽莲双联画</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_610">
+			<Text>空白支票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_620">
+			<Text>更大的水花</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_630">
+			<Text>织女星200</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_640">
+			<Text>雷鸟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_650">
+			<Text>宇木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_660">
+			<Text>无题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_670">
+			<Text>帕塔咆哮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_680">
+			<Text>有水晶碗的静物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_690">
+			<Text>法比安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_700">
+			<Text>女性气质</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_710">
+			<Text>斯亚尔夫斯明德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_720">
+			<Text>无题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_730">
+			<Text>尘头</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_740">
+			<Text>离开阿尔梅 II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_750">
+			<Text>讲故事的时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_760">
+			<Text>女神异闻录系列第3号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_770">
+			<Text>花</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_780">
+			<Text>红金刚鹦鹉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_790">
+			<Text>暴力和迪奥萨斯布兰卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_800">
+			<Text>斯普林莫德一号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_810">
+			<Text>无题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_820">
+			<Text>黎明时分的艾西拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_830">
+			<Text>喧嚣，一位美丽的女人 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_840">
+			<Text>与女儿的自画像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_850">
+			<Text>让艺术而非战争</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_860">
+			<Text>海滩的早晨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_870">
+			<Text>大学中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_880">
+			<Text>关注时间</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_890">
+			<Text>无题</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AW_900">
+			<Text>安克·舒斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_010">
+			<Text>第一首德尔斐赞美诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_020">
+			<Text>旋律母语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_030">
+			<Text>巴勒斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_040">
+			<Text>亚瑟王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_050">
+			<Text>哀悼先知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_060">
+			<Text>Ey büt-i nev edâ olmuşum müptelâ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_070">
+			<Text>樱桃熟了</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_080">
+			<Text>仲夏夜之梦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_090">
+			<Text>露西娅·迪·拉美莫尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_100">
+			<Text>我已离开雪山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_110">
+			<Text>格温整夜奔跑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_120">
+			<Text>卢尔莱恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_130">
+			<Text>阿拉伯随想曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_140">
+			<Text>安魂曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_150">
+			<Text>蓝天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_160">
+			<Text>齐克拉亚提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_170">
+			<Text>布兰卡米娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_180">
+			<Text>弦乐柔板</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_190">
+			<Text>彼得与狼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_200">
+			<Text>我的小夜曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_210">
+			<Text>我不知道现在是什么时间</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_220">
+			<Text>鲁阿夫扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_230">
+			<Text>玫瑰人生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_240">
+			<Text>第三协奏曲“魁北克”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_250">
+			<Text>艾尔丝女士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_260">
+			<Text>心情好时</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_270">
+			<Text>米斯特里索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_280">
+			<Text>凤凰木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_290">
+			<Text>心碎酒店</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_300">
+			<Text>凡塔兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_310">
+			<Text>站在我身边</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_320">
+			<Text>泰瑞·皮亚里·皮亚里·苏拉特·科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_330">
+			<Text>瓜希拉和坦博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_340">
+			<Text>加罗塔·德·伊帕内玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_350">
+			<Text>改变即将到来</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_360">
+			<Text>像滚石一样</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_370">
+			<Text>波希米亚人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_380">
+			<Text>只有上帝知道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_390">
+			<Text>恩达罗·马哈努巴乌鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_400">
+			<Text>夏令</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_410">
+			<Text>火星上的生命</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_420">
+			<Text>你有一个朋友</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_430">
+			<Text>嫉妒的家伙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_440">
+			<Text>淫雷鬼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_450">
+			<Text>迷信</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_460">
+			<Text>回报</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_470">
+			<Text>水无敌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_480">
+			<Text>波西米亚狂想曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_490">
+			<Text>自由</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_500">
+			<Text>氧气</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_510">
+			<Text>你的爱有多深</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_520">
+			<Text>明镜中的明镜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_530">
+			<Text>Chuck Es 恋爱中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_540">
+			<Text>会很害怕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_550">
+			<Text>泪珠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_560">
+			<Text>宝贝我可以抱你吗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_570">
+			<Text>阴影</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_580">
+			<Text>看起来像青少年精神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_590">
+			<Text>阿根廷别为我哭泣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_600">
+			<Text>大西洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_610">
+			<Text>彩虹之上的某个地方</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_620">
+			<Text>警察之声</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_630">
+			<Text>帕拉迪奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_640">
+			<Text>M12银河系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_650">
+			<Text>阿尔门德拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_660">
+			<Text>钢琴协奏曲“花卉备忘录”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_670">
+			<Text>迷失者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_680">
+			<Text>花样年华</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_690">
+			<Text>埃索拉戈托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_700">
+			<Text>河流在你心中流淌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_710">
+			<Text>十一月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_720">
+			<Text>巴巴耶图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_730">
+			<Text>德鲁姆·尼格里塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_740">
+			<Text>我</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_750">
+			<Text>纳莱松科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_760">
+			<Text>江南Style</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_770">
+			<Text>F小调夜曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_780">
+			<Text>我不知道我的名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_790">
+			<Text>北极挽歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_800">
+			<Text>丛林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_810">
+			<Text>亚莉莉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_820">
+			<Text>德斯帕西托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_830">
+			<Text>朗拉奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_840">
+			<Text>队长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_850">
+			<Text>雨云</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_860">
+			<Text>炫目灯光</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_870">
+			<Text>我想起你</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_880">
+			<Text>来源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_890">
+			<Text>尼娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MW_900">
+			<Text>盛开</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_1">
+			<Text>胡夫石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_2">
+			<Text>尼菲雷弗雷石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_3">
+			<Text>门图霍特普一世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_4">
+			<Text>梅内卡雷石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_5">
+			<Text>森沃斯雷特一世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_6">
+			<Text>哈特谢普苏特石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_7">
+			<Text>图特摩斯二世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_8">
+			<Text>拉美西斯一世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_9">
+			<Text>塞提二世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_10">
+			<Text>阿梅内莫普石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_11">
+			<Text>奥索尔孔一世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_12">
+			<Text>尤普特一世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_13">
+			<Text>尼考巴石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_14">
+			<Text>阿尔塔薛西斯一世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_15">
+			<Text>贝雷尼克二世石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_16">
+			<Text>克利奥帕特拉一世的石棺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SARCOPHAGUS_17">
+			<Text>托勒密一世石棺</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

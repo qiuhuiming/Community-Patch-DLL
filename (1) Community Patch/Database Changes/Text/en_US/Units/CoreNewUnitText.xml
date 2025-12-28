@@ -2215,4 +2215,2211 @@
 			<Text>Bob Auchterlonie</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__010">
+			<Text>辛-勒奇-乌尼尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__020">
+			<Text>萨福</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__030">
+			<Text>编年史家内斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__040">
+			<Text>阿尔坎萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__050">
+			<Text>斯诺里·斯图鲁森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__060">
+			<Text>伊斯哈克·内布拉-Id</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__070">
+			<Text>伊本·赫勒敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__080">
+			<Text>伊本·白图泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__090">
+			<Text>西吉·库图库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__100">
+			<Text>小野小町</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__110">
+			<Text>玛格丽·肯佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__120">
+			<Text>宫本武藏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__130">
+			<Text>汉娜·迪亚布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__140">
+			<Text>克里斯蒂娜·德·皮赞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__150">
+			<Text>玛格丽特·卡文迪什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__160">
+			<Text>加斯帕拉·斯坦帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__170">
+			<Text>吴承恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__180">
+			<Text>碧翠丝·波特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__190">
+			<Text>约翰·济慈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__200">
+			<Text>安徒生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__210">
+			<Text>库尔迪什巴努·纳塔万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__220">
+			<Text>埃利亚斯·伦罗特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__230">
+			<Text>霍华德·菲利普斯·洛夫克拉夫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__240">
+			<Text>J.R.R.托尔金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__250">
+			<Text>乔治·雷米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__260">
+			<Text>露西·莫德·蒙哥马利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__270">
+			<Text>帕梅拉·林登·特拉弗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__280">
+			<Text>雷内·戈西尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__290">
+			<Text>亚历克斯·雷蒙德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__300">
+			<Text>弗吉尼亚·伍尔夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__310">
+			<Text>巴德·费舍尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__320">
+			<Text>斯坦尼斯瓦夫·莱姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__330">
+			<Text>利奥波德·塞达尔·桑戈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__340">
+			<Text>瓦西里·格罗斯曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__350">
+			<Text>詹姆斯·鲍德温</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__360">
+			<Text>维蒂·伊希梅拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__370">
+			<Text>约翰·欧文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__380">
+			<Text>艾萨克·阿西莫夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__390">
+			<Text>玛格丽特·尤瑟纳尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__400">
+			<Text>奇努阿·阿切贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__410">
+			<Text>玛格丽特·杜拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__420">
+			<Text>西尔维娅·普拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__430">
+			<Text>手冢治虫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__440">
+			<Text>托妮·莫里森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__450">
+			<Text>安德烈·萨普科夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__460">
+			<Text>J.K.罗琳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__470">
+			<Text>玛格丽特·阿特伍德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__480">
+			<Text>伊莎贝尔·阿连德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__490">
+			<Text>阿伦达蒂·罗伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__500">
+			<Text>劳伦斯·希尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__510">
+			<Text>伊登·罗宾逊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__520">
+			<Text>托马斯·金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__530">
+			<Text>保罗·科埃略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W__540">
+			<Text>程宝仪 (François Cheng)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUTTON_HOO">
+			<Text>萨顿胡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHAN_ZIQIAN">
+			<Text>詹子谦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MERYMOSE">
+			<Text>森濑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KORYU_MIROKU">
+			<Text>广隆寺弥勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_POLYKLEITOS">
+			<Text>波利克莱托斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHRYSOTOM">
+			<Text>金口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IONA">
+			<Text>爱奥尼亚僧侣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LASCAUX">
+			<Text>拉斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDRINUS">
+			<Text>亚历山大努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALHU">
+			<Text>卡鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIZOC">
+			<Text>蒂佐克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BISHOP_ODO">
+			<Text>奥多主教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ONATAS">
+			<Text>奥纳塔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOLCONDA">
+			<Text>戈尔康达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTAXERXES">
+			<Text>阿尔塔薛西斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__010">
+			<Text>塔米里斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__020">
+			<Text>特潘蒂特拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__030">
+			<Text>罗吉尔·范德韦登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__040">
+			<Text>杰罗尼姆斯·博斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__050">
+			<Text>鹿野元信</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__060">
+			<Text>易安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__070">
+			<Text>朱迪思·莱斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__080">
+			<Text>迭戈·贝拉斯克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__090">
+			<Text>正善</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__100">
+			<Text>约瑟夫·马洛德·威廉·特纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__110">
+			<Text>惠媛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__120">
+			<Text>让-奥古斯特-多米尼克·安格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__130">
+			<Text>托马斯·科尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__140">
+			<Text>约翰·克里斯蒂安·达尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__150">
+			<Text>拉登·萨利赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__160">
+			<Text>简·马泰科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__170">
+			<Text>阿尔伯特·比尔施塔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__180">
+			<Text>爱德华·德泰尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__190">
+			<Text>伯特霍尔德·沃尔茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__200">
+			<Text>伊万·艾瓦佐夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__210">
+			<Text>贝尔特·莫里索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__220">
+			<Text>约翰·阿特金森·格里姆肖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__230">
+			<Text>黑鹰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__240">
+			<Text>佩德罗·阿梅里科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__250">
+			<Text>爱德华·蒙克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__260">
+			<Text>卡米尔·毕沙罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__270">
+			<Text>阿尔伯特·林奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__280">
+			<Text>卡尤拉尼公主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__290">
+			<Text>阿克塞利·加伦·卡莱拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__300">
+			<Text>罗伯特·亨利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__310">
+			<Text>瓦西里·康定斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__320">
+			<Text>弗拉基米尔·巴拉诺夫-罗辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__330">
+			<Text>弗朗齐塞克·库普卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__340">
+			<Text>路德维希·迈德纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__350">
+			<Text>亚历山大·尤里耶维奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__360">
+			<Text>沃伊切赫·科萨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__370">
+			<Text>保罗·克利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__380">
+			<Text>阿尔方斯·穆夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__390">
+			<Text>威廉帕克斯顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__400">
+			<Text>彼特·蒙德里安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__410">
+			<Text>乔治亚·欧姬芙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__420">
+			<Text>斯坦尼斯瓦夫·伊格纳西·维凯维奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__430">
+			<Text>塔西拉·多·阿马拉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__440">
+			<Text>伊芙琳·邓巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__450">
+			<Text>米兰·科乔维奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__460">
+			<Text>阮南山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__470">
+			<Text>高建富</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__480">
+			<Text>亨利·马蒂斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__490">
+			<Text>弗里达·卡罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__500">
+			<Text>马克·罗斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__510">
+			<Text>爱德华·霍珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__520">
+			<Text>威廉·杰拉德·霍夫克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__530">
+			<Text>蒙塔古·道森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__540">
+			<Text>索拉拉姆·拉克什曼·哈尔丹卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__550">
+			<Text>托马斯·哈特·本顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__560">
+			<Text>杰克逊·波洛克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__570">
+			<Text>威廉·吉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__580">
+			<Text>赵无极</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__590">
+			<Text>贝蒂·萨尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__600">
+			<Text>安迪·沃霍尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__610">
+			<Text>雷内·马格里特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__620">
+			<Text>大卫·霍克尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__630">
+			<Text>维克托·瓦萨雷利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__640">
+			<Text>诺瓦尔·莫里索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__650">
+			<Text>卡姆鲁·哈桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__660">
+			<Text>马克布尔·菲达·侯赛因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__670">
+			<Text>尤尼扎尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__680">
+			<Text>罗伊·利希滕斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__690">
+			<Text>蒙图模式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__700">
+			<Text>法雷尔尼萨·扎伊德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__710">
+			<Text>路易莎·马蒂亚斯多蒂尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__720">
+			<Text>基思·哈林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__730">
+			<Text>让-米歇尔·巴斯奎特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__740">
+			<Text>乔治·马蒂厄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__750">
+			<Text>卡西米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__760">
+			<Text>巴巴克·罗沙尼·内贾德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__770">
+			<Text>雪漠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__780">
+			<Text>娜扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__790">
+			<Text>马里奥·穆鲁阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__800">
+			<Text>赛沙朱丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__810">
+			<Text>王彦成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__820">
+			<Text>拉希德·汉巴里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__830">
+			<Text>米卡琳·托马斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__840">
+			<Text>比利·柴迪什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__850">
+			<Text>谢泼德·费尔雷（服从）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__860">
+			<Text>安德烈·科恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__870">
+			<Text>让·安德里亚奈沃·拉维罗纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__880">
+			<Text>罗宾·F·威廉姆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__890">
+			<Text>班克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_A__900">
+			<Text>亚历克斯·帕迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__010">
+			<Text>雅典娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__020">
+			<Text>诺克·巴尔布鲁斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__030">
+			<Text>瓦尔特·冯·德·沃格尔韦德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__040">
+			<Text>亨利·珀塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__050">
+			<Text>曼努埃尔·德苏马亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__060">
+			<Text>哈马米扎德·伊斯梅尔·德德·埃芬迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__070">
+			<Text>罗伯特·赫里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__080">
+			<Text>菲利克斯·门德尔松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__090">
+			<Text>加埃塔诺·多尼采蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__100">
+			<Text>乔治·林利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__110">
+			<Text>斯蒂芬·福斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__120">
+			<Text>威廉·文森特·华莱士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__130">
+			<Text>弗朗西斯科·塔雷加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__140">
+			<Text>加布里埃尔·福雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__150">
+			<Text>约瑟芬·贝克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__160">
+			<Text>穆罕默德·卡萨布吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__170">
+			<Text>卡尔·奥尔夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__180">
+			<Text>塞缪尔·巴伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__190">
+			<Text>谢尔盖·普罗科菲耶夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__200">
+			<Text>姜戈·莱因哈特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__210">
+			<Text>理查德·罗杰斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__220">
+			<Text>马哈茂德·祖福农</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__230">
+			<Text>伊迪丝·琵雅芙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__240">
+			<Text>安德烈·马蒂厄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__250">
+			<Text>路易斯·阿尔贝蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__260">
+			<Text>格伦·米勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__270">
+			<Text>塞隆尼斯·蒙克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__280">
+			<Text>艾哈迈德·贾迈勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__290">
+			<Text>猫王埃尔维斯·普雷斯利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__300">
+			<Text>阿吉姆·克拉伊卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__310">
+			<Text>本·E·金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__320">
+			<Text>穆罕默德·拉菲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__330">
+			<Text>雷·巴雷托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__340">
+			<Text>安东尼奥·卡洛斯·若比姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__350">
+			<Text>萨姆·库克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__360">
+			<Text>鲍勃·迪伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__370">
+			<Text>查尔斯·阿兹纳沃尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__380">
+			<Text>布莱恩·威尔逊（海滩男孩）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__390">
+			<Text>M.Balamuralikrishna 博士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__400">
+			<Text>贾尼斯·乔普林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__410">
+			<Text>大卫·鲍伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__420">
+			<Text>卡罗尔·金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__430">
+			<Text>约翰·列侬（披头士乐队）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__440">
+			<Text>鲍勃·马利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__450">
+			<Text>史蒂夫旺德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__460">
+			<Text>詹姆斯·布朗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__470">
+			<Text>费拉·阿尼库拉波·库蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__480">
+			<Text>弗雷迪·摩克瑞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__490">
+			<Text>弗朗索瓦·卢安博·卢阿·恩乔·马基亚迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__500">
+			<Text>让-米歇尔·雅尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__510">
+			<Text>巴里·吉布（比吉斯）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__520">
+			<Text>阿尔沃·帕特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__530">
+			<Text>瑞奇·李·琼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__540">
+			<Text>霍勒斯·安迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__550">
+			<Text>塞西尔·沃马克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__560">
+			<Text>特蕾西·查普曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__570">
+			<Text>恩斯特·赖塞格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__580">
+			<Text>科特·柯本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__590">
+			<Text>西尼德·奥康纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__600">
+			<Text>比约克·古兹蒙多蒂尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__610">
+			<Text>以色列卡马卡维沃勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__620">
+			<Text>KRS一号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__630">
+			<Text>卡尔·詹金斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__640">
+			<Text>胡安·阿特金斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__650">
+			<Text>鲁本·冈萨雷斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__660">
+			<Text>吉松隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__670">
+			<Text>劳伦·希尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__680">
+			<Text>梅林茂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__690">
+			<Text>泽井光</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__700">
+			<Text>伊鲁玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__710">
+			<Text>马克斯·里克特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__720">
+			<Text>克里斯托弗·丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__730">
+			<Text>罗伯托·丰塞卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__740">
+			<Text>尼尔斯·弗拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__750">
+			<Text>巴拉克·西索科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__760">
+			<Text>朴载尚 (Psy)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__770">
+			<Text>查德·劳森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__780">
+			<Text>格蕾丝·范德瓦尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__790">
+			<Text>卢多维科·埃诺迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__800">
+			<Text>塔什苏丹娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__810">
+			<Text>巴尔蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__820">
+			<Text>路易斯·丰西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__830">
+			<Text>曼纳·努尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__840">
+			<Text>宫城县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__850">
+			<Text>寒冷的冈萨雷斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__860">
+			<Text>周末</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__870">
+			<Text>阿尔玛·多伊彻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__880">
+			<Text>努比亚·加西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__890">
+			<Text>耶干</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M__900">
+			<Text>加布里埃尔·加尔松·蒙塔诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__000">
+			<Text>埃纳西尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__010">
+			<Text>毛茛属</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__020">
+			<Text>雅典的艾琳娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__030">
+			<Text>伊本·法德兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__040">
+			<Text>通卡·马宁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__050">
+			<Text>穆斯坦西尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__060">
+			<Text>苏利耶跋摩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__070">
+			<Text>周大观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__080">
+			<Text>马里的穆萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__090">
+			<Text>伊本·赫勒敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__100">
+			<Text>雅克·库尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__110">
+			<Text>尼亚钦巴-穆托塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__120">
+			<Text>亚美利哥·韦斯普奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__130">
+			<Text>格奥尔格·吉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__140">
+			<Text>康斯坦蒂·科尔尼亚克特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__150">
+			<Text>托马斯·格雷沙姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__160">
+			<Text>沙阿阿巴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__170">
+			<Text>田中章介</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__180">
+			<Text>皮耶罗·德·巴尔迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__190">
+			<Text>基利安·范·伦斯勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__200">
+			<Text>奥古斯丁赫尔曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__210">
+			<Text>小艾萨克·阿勒顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__220">
+			<Text>杰里米亚斯·范·伦斯勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__230">
+			<Text>奥塞图图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__240">
+			<Text>亨利·劳伦斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__250">
+			<Text>玛丽·凯瑟琳·戈达德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__260">
+			<Text>托马斯·米夫林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__270">
+			<Text>佩塔·伊科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__280">
+			<Text>萨瓦·特克利加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__290">
+			<Text>豪夸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__300">
+			<Text>詹姆斯·安德伍德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__310">
+			<Text>内森·罗斯柴尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__320">
+			<Text>阿德里安·范德胡普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__330">
+			<Text>托马斯·斯坦福·莱佛士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__340">
+			<Text>亚历山大·布罗迪·斯帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__350">
+			<Text>古斯塔夫·克里斯蒂安·施瓦贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__360">
+			<Text>海因里希·雀巢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__370">
+			<Text>约翰·林奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__380">
+			<Text>蒂普·蒂普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__390">
+			<Text>威廉·邓恩爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__400">
+			<Text>约翰·福克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__410">
+			<Text>具金辉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__420">
+			<Text>克里斯托弗·威廉·邦廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__430">
+			<Text>贾姆塞特吉·努瑟万吉·塔塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__440">
+			<Text>威廉·安德鲁斯·克拉克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__450">
+			<Text>鲁马利萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__460">
+			<Text>赫尔曼·阿道夫·弗鲁斯海姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__470">
+			<Text>塞西尔·罗兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__480">
+			<Text>西蒙·伊图里·帕蒂诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__490">
+			<Text>约翰·雅各布·阿斯特四世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__500">
+			<Text>C.J.沃克女士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__510">
+			<Text>海伦娜鲁宾斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__520">
+			<Text>托梅·德·巴罗斯·奎罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__530">
+			<Text>梅丽塔·本茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__540">
+			<Text>弗朗索瓦·布莱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__550">
+			<Text>杰西·利弗莫尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__560">
+			<Text>威廉·德尔伯特·江恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__570">
+			<Text>林义顺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__580">
+			<Text>奥斯曼·阿里·汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__590">
+			<Text>威廉·阿尔伯特·鲍彻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__600">
+			<Text>大卫·萨尔诺夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__610">
+			<Text>雷蒙德·鲁比凯姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__620">
+			<Text>宋子文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__630">
+			<Text>代田龙五郎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__640">
+			<Text>雅诗兰黛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__650">
+			<Text>井深大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__660">
+			<Text>大卫·奥格威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__670">
+			<Text>大野耐一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__680">
+			<Text>萨姆·沃尔顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__690">
+			<Text>卡尔·阿尔布莱希特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__700">
+			<Text>英格瓦·坎普拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__710">
+			<Text>李嘉诚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__720">
+			<Text>李兆基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__730">
+			<Text>乔治·索罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__740">
+			<Text>卡尔·伊坎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__750">
+			<Text>卡洛斯·斯利姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__760">
+			<Text>穆罕默德·尤努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__770">
+			<Text>史蒂文·斯普瑞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__780">
+			<Text>李健熙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__790">
+			<Text>吉姆·罗杰斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__800">
+			<Text>巴拉特·沙阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__810">
+			<Text>理查德·丹尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__820">
+			<Text>尼基·奥本海默</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__830">
+			<Text>哈吉博尔基亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__840">
+			<Text>斯克鲁奇·麦克老鸭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__850">
+			<Text>伯纳德·阿尔诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__860">
+			<Text>约翰·彼得·鲁珀特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__870">
+			<Text>迈克·阿德努加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__880">
+			<Text>基兰·马宗达-肖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__890">
+			<Text>保罗·都铎·琼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__900">
+			<Text>钟珊珊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__910">
+			<Text>约翰·保尔森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__920">
+			<Text>史蒂文·科恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__930">
+			<Text>穆克什·安巴尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__940">
+			<Text>阿利科·丹格特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__950">
+			<Text>孙正义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__960">
+			<Text>大卫·泰珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__970">
+			<Text>阿卜杜勒·萨马德·拉比乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__980">
+			<Text>纳塞夫·萨维里斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__990">
+			<Text>帕特里斯·莫特塞佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A00">
+			<Text>米哈伊尔·霍多尔科夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A10">
+			<Text>杰夫·贝佐斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A20">
+			<Text>马云</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A30">
+			<Text>迈克尔·戴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A40">
+			<Text>尼克·利森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A50">
+			<Text>张杰瑞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A60">
+			<Text>穆罕默德·杜吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A70">
+			<Text>郑科林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A80">
+			<Text>马修·兰德尔·伊什比亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__A90">
+			<Text>弗兰克·王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B00">
+			<Text>凯文·斯特罗姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B10">
+			<Text>RJ斯卡林格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B20">
+			<Text>丹尼尔·埃克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B30">
+			<Text>帕维尔·瓦列里耶维奇·杜罗夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B40">
+			<Text>内森·布莱查克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B50">
+			<Text>约翰·科里森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_N__B60">
+			<Text>埃文·斯皮格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__010">
+			<Text>塔普蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__020">
+			<Text>欧帕利诺斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__030">
+			<Text>包西门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__040">
+			<Text>马库斯·维特鲁威·波利奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__050">
+			<Text>大马士革的阿波罗多洛斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__060">
+			<Text>米利都的伊西多尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__070">
+			<Text>特拉勒斯的安提米乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__080">
+			<Text>伊沙法尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__090">
+			<Text>于浩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__100">
+			<Text>马斯拉马·阿姆·马吉里蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__110">
+			<Text>苏松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__120">
+			<Text>贾扎里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__130">
+			<Text>塞内穆特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__140">
+			<Text>米马尔·希南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__150">
+			<Text>古那达摩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__160">
+			<Text>胡安内洛·图里亚诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__170">
+			<Text>塔基丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__180">
+			<Text>科查·卡西姆·阿加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__190">
+			<Text>乔瓦尼·布兰卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__200">
+			<Text>于格斯·科尼尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__210">
+			<Text>约翰·斯米顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__220">
+			<Text>尼古拉斯·约瑟夫·库格诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__230">
+			<Text>约翰·斯皮尔斯伯里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__240">
+			<Text>克里克·巴利安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__250">
+			<Text>理查德·特里维西克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__260">
+			<Text>乔治史蒂芬森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__270">
+			<Text>查尔斯·巴贝奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__280">
+			<Text>萨迪·卡诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__290">
+			<Text>雅克·特里格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__300">
+			<Text>莫里茨·冯·雅可比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__310">
+			<Text>约瑟夫·惠特沃斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__320">
+			<Text>桑福德弗莱明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__330">
+			<Text>斐迪南·冯·齐柏林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__340">
+			<Text>亨利·法约尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__350">
+			<Text>伊利亚·麦考伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__360">
+			<Text>尼古拉·茹科夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__370">
+			<Text>拉乌尔·梅斯尼尔·杜庞萨尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__380">
+			<Text>弗拉基米尔·乔霍夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__390">
+			<Text>安赫尔·萨利尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__400">
+			<Text>鲁道夫·迪塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__410">
+			<Text>维斯韦斯瓦拉亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__420">
+			<Text>米格尔·安赫尔·德克维多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__430">
+			<Text>路易斯·卢米埃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__440">
+			<Text>伊万·布布诺夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__450">
+			<Text>李·德福雷斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__460">
+			<Text>阿尔贝托·桑托斯·杜蒙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__470">
+			<Text>佩德罗·波莱特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__480">
+			<Text>斯蒂芬·铁莫申科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__490">
+			<Text>八津良一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__500">
+			<Text>乔治·康斯坦丁内斯库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__510">
+			<Text>巴恩斯·沃利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__520">
+			<Text>卡尔曼·蒂哈尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__530">
+			<Text>但丁·贾科萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__540">
+			<Text>汤米·弗劳尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__550">
+			<Text>谢尔盖·科罗廖夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__560">
+			<Text>本田宗一郎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__570">
+			<Text>奥列格·安东诺夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__580">
+			<Text>亚历克·伊斯戈尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__590">
+			<Text>尼古拉·尼基廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__600">
+			<Text>马哈茂德·穆罕默德·塔哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__610">
+			<Text>皮埃尔·贝塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__620">
+			<Text>海蒂·拉玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__630">
+			<Text>伊利亚·普里高津</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__640">
+			<Text>吉列尔莫·冈萨雷斯·卡马雷纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__650">
+			<Text>约瑟夫·萨特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__660">
+			<Text>理查德·惠特科姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__670">
+			<Text>穆扎鲁·伊斯兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__680">
+			<Text>杰克·基尔比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__690">
+			<Text>朱利奥·阿尔菲里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__700">
+			<Text>路易斯·米拉蒙特斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__710">
+			<Text>雅采克·卡平斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__720">
+			<Text>法兹鲁尔·汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__730">
+			<Text>詹姆斯·爱德华·马塞奥·韦斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__740">
+			<Text>帕特里夏·巴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__750">
+			<Text>伯特·鲁坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__760">
+			<Text>杨肯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__770">
+			<Text>史蒂夫·沃兹尼亚克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__780">
+			<Text>卡洛斯·帕斯·德·阿劳若</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__790">
+			<Text>卢卡卡德利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__800">
+			<Text>法西·卡菲克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__810">
+			<Text>礼萨·加迪里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__820">
+			<Text>格兰特·今原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__830">
+			<Text>穆拉洛·多约约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__840">
+			<Text>中村修二</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E__850">
+			<Text>安东尼娅·特尔兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__010">
+			<Text>艾哈迈斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__020">
+			<Text>阿那克西曼德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__030">
+			<Text>埃拉托色尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__040">
+			<Text>希帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__050">
+			<Text>亚吉纳瓦尔基亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__060">
+			<Text>克劳迪斯·加莱努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__070">
+			<Text>裴修</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__080">
+			<Text>帕尼尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__090">
+			<Text>约翰·菲洛波努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__100">
+			<Text>婆罗门笈多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__110">
+			<Text>米利都的泰勒斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__120">
+			<Text>阿卜杜拉·马尔瓦齐·哈巴什·哈西卜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__130">
+			<Text>博德哈扬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__140">
+			<Text>阿尔巴塔尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__150">
+			<Text>阿布·卡西姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__160">
+			<Text>伊本·萨尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__170">
+			<Text>海瑟姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__180">
+			<Text>比鲁尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__190">
+			<Text>鲁杰罗·特罗图拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__200">
+			<Text>秦九韶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__210">
+			<Text>库特卜·丁·奇拉齐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__220">
+			<Text>马达瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__230">
+			<Text>兀鲁伯·贝格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__240">
+			<Text>威廉·哈维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__250">
+			<Text>徐霞客</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__260">
+			<Text>罗伯特·胡克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__270">
+			<Text>关贵和</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__280">
+			<Text>丹尼尔·伯努利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__290">
+			<Text>夏特莱夫人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__300">
+			<Text>卡尔·冯·林内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__310">
+			<Text>胡安·伊格纳西奥·莫利纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__320">
+			<Text>亚历山德罗·沃尔塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__330">
+			<Text>乔瓦尼·巴蒂斯塔·文丘里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__340">
+			<Text>王振义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__350">
+			<Text>詹姆斯·克拉克·罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__360">
+			<Text>雅诺斯·博利亚伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__370">
+			<Text>詹姆斯·杨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__380">
+			<Text>艾达·洛夫莱斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__390">
+			<Text>弗洛伦斯·南丁格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__400">
+			<Text>科妮莉亚·克拉普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__410">
+			<Text>索菲亚·瓦西里耶芙娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__420">
+			<Text>亨利·贝克勒尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__430">
+			<Text>圣地亚哥·拉蒙·卡哈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__440">
+			<Text>马克斯·普朗克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__445">
+			<Text>弗里茨·哈伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__450">
+			<Text>卡齐米·冯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__460">
+			<Text>扬·乔克拉斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__470">
+			<Text>拉马努金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__480">
+			<Text>埃尔文·薛定谔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__490">
+			<Text>埃德温·哈勃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__500">
+			<Text>贾纳基·阿马尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__510">
+			<Text>斯特凡·巴纳赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__520">
+			<Text>利奥·西拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__530">
+			<Text>莱纳斯·鲍林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__540">
+			<Text>克洛德·列维-施特劳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__550">
+			<Text>钱德拉塞卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__560">
+			<Text>陈省身</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__570">
+			<Text>吴庆雄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__580">
+			<Text>托尔·海尔达尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__590">
+			<Text>斯蒂芬妮·科沃莱克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__600">
+			<Text>阿齐兹·阿布萨贝尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__610">
+			<Text>佐菲亚·基兰-贾沃罗斯卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__620">
+			<Text>阿卜杜勒·萨拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__630">
+			<Text>詹姆斯·杜威·沃森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__640">
+			<Text>诺姆·乔姆斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__650">
+			<Text>屠呦呦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__660">
+			<Text>卡尔萨根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__670">
+			<Text>珍·古道尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__680">
+			<Text>小川征尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__690">
+			<Text>大卫·巴尔的摩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__700">
+			<Text>史蒂芬·霍金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__710">
+			<Text>艾哈迈德·泽维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__720">
+			<Text>雪莉·杰克逊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__730">
+			<Text>弗朗索瓦丝·巴尔-西努西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__740">
+			<Text>艾伦·古斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__750">
+			<Text>阿兰·阿斯佩克特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__760">
+			<Text>莱因哈德·根泽尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__770">
+			<Text>杰克·索斯塔克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__780">
+			<Text>蒂姆·伯纳斯·李</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__790">
+			<Text>艾修克·森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__800">
+			<Text>尼尔·德格拉斯·泰森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_S__810">
+			<Text>侯琳娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__010">
+			<Text>居鲁士大帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__020">
+			<Text>卡里亚的阿尔泰米西娅一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__030">
+			<Text>杜姆诺里克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__040">
+			<Text>中王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__050">
+			<Text>迦腻色卡一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__060">
+			<Text>崔氏郑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__070">
+			<Text>尤根德拉·辛格·亚达夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__080">
+			<Text>塞诺比亚败血症</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__090">
+			<Text>冉敏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__100">
+			<Text>巴兰伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__110">
+			<Text>萨尔瓦拉约赫赫达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__120">
+			<Text>弗里蒂根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__130">
+			<Text>广开土大帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__140">
+			<Text>纳尔西斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__150">
+			<Text>阿布·巴克尔·阿斯-西迪克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__160">
+			<Text>希拉克略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__170">
+			<Text>玛雅女王卡贝尔夫人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__180">
+			<Text>尼基弗鲁斯二世·福卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__190">
+			<Text>约翰·齐米斯克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__200">
+			<Text>加兹尼的马哈茂德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__210">
+			<Text>罗伯特·吉斯卡德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__220">
+			<Text>阿尔普·阿尔斯兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__230">
+			<Text>格鲁吉亚的大卫四世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__240">
+			<Text>阿方索·恩里克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__250">
+			<Text>萨拉丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__260">
+			<Text>御前巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__270">
+			<Text>松迪亚塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__280">
+			<Text>拜巴尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__290">
+			<Text>陈兴道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__300">
+			<Text>奥兹·贝格·汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__310">
+			<Text>伯特兰·杜盖克兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__320">
+			<Text>徐达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__330">
+			<Text>哈亚姆·乌鲁克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__340">
+			<Text>简·齐兹卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__350">
+			<Text>斯肯登贝格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__360">
+			<Text>亚诺斯·匈雅提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__370">
+			<Text>胡亚纳·卡帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__380">
+			<Text>阿斯纳夫·萨加德一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__390">
+			<Text>阿米纳图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__400">
+			<Text>莱夫特拉鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__410">
+			<Text>德川家康</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__420">
+			<Text>马利克·安巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__430">
+			<Text>女王保姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__440">
+			<Text>沃邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__450">
+			<Text>格莱内·尼·马伊勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__460">
+			<Text>米哈伊·维特阿祖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__470">
+			<Text>努尔哈赤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__480">
+			<Text>扬·卡罗尔·霍德凯维奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__490">
+			<Text>恩津加·姆班德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__500">
+			<Text>斯坦尼斯瓦夫·科涅茨波尔斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__510">
+			<Text>扬·索博斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__520">
+			<Text>希瓦吉·博斯勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__530">
+			<Text>巴吉拉奥一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__540">
+			<Text>艾哈迈德·汗·阿卜达利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__550">
+			<Text>詹姆斯·沃尔夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__560">
+			<Text>亚历山大·苏沃洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__570">
+			<Text>杜桑·卢维杜尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__580">
+			<Text>米哈伊尔·库图佐夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__590">
+			<Text>阮惠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__600">
+			<Text>何塞·杰尔瓦西奥·阿蒂加斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__610">
+			<Text>彼得·伊万诺维奇·巴格拉季昂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__620">
+			<Text>卡齐米日·普拉斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__630">
+			<Text>兰吉特·辛格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__640">
+			<Text>西蒙·玻利瓦尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__650">
+			<Text>伊格纳西·克鲁泽夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__660">
+			<Text>卡希亚斯公爵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__670">
+			<Text>曼努埃尔·路易斯·奥索里奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__680">
+			<Text>科奇斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__690">
+			<Text>世东红贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__700">
+			<Text>拉克什米·巴伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__710">
+			<Text>亚阿桑特瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__720">
+			<Text>疯马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__730">
+			<Text>洛曾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__740">
+			<Text>理查德·赫布登·奥格雷迪·哈利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__750">
+			<Text>中野武子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__760">
+			<Text>库姆·埃塞科·埃隆贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__770">
+			<Text>梅科南·韦尔德·米凯尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__780">
+			<Text>约翰·潘兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__790">
+			<Text>安东尼奥·卢纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__800">
+			<Text>阿瑟·威廉·柯里爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__810">
+			<Text>道格拉斯·麦克阿瑟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__820">
+			<Text>亨利·诺韦斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__830">
+			<Text>爱德华·雷兹-斯米格利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__840">
+			<Text>阿尔文·约克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__850">
+			<Text>汤姆·朗博特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__860">
+			<Text>爱德华·普蒂克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__870">
+			<Text>弗朗西斯·佩加马加博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__880">
+			<Text>川口清武</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__890">
+			<Text>乔西普·布罗兹·蒂托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__900">
+			<Text>马修·邦克·李奇微</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__910">
+			<Text>刘易斯·伯韦尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__920">
+			<Text>西蒙·斯普尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__930">
+			<Text>菲利普·勒克莱尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__940">
+			<Text>胡安·何塞·瓦莱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__950">
+			<Text>西莫·海哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__960">
+			<Text>杰克·丘吉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__970">
+			<Text>武元甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__980">
+			<Text>摩西·达扬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__990">
+			<Text>马塞尔·比格尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A00">
+			<Text>郑日权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A10">
+			<Text>米哈伊尔·卡拉奇尼科夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A20">
+			<Text>哈尔摩尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A30">
+			<Text>奥迪·墨菲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A40">
+			<Text>马里奥·梅内德斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A50">
+			<Text>诺曼·施瓦茨科普夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A60">
+			<Text>利亚米·泽鲁阿尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A70">
+			<Text>贾汉吉尔·卡拉马特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A80">
+			<Text>费尔南多·塔皮亚斯·斯塔赫林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__A90">
+			<Text>阿卜杜勒·法塔赫·尤尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__B00">
+			<Text>大卫·彼得雷乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__B10">
+			<Text>亚萨尔·居勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__B20">
+			<Text>塞萨尔·阿斯图迪略·萨尔塞多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__B30">
+			<Text>弗拉基米尔·查奇拜亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_G__B40">
+			<Text>王茂文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__010">
+			<Text>拉塞代莫尼乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__020">
+			<Text>徐福</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__030">
+			<Text>喜帕洛斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__040">
+			<Text>希梅里奥斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__050">
+			<Text>吴权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__060">
+			<Text>红衣埃里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__070">
+			<Text>安条克的乔治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__080">
+			<Text>兰巴多利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__090">
+			<Text>于格斯·基耶雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__100">
+			<Text>珍妮·德·贝尔维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__110">
+			<Text>王大源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__120">
+			<Text>航海家亨利王子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__130">
+			<Text>哈姆扎·贝伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__140">
+			<Text>巴尔托洛梅乌·迪亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__150">
+			<Text>亚美利哥·韦斯普奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__160">
+			<Text>阿隆索·德·奥赫达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__170">
+			<Text>佩德罗·阿尔瓦雷斯·卡布拉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__180">
+			<Text>文森佐·卡佩罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__190">
+			<Text>胡安·塞巴斯蒂安·埃尔卡诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__200">
+			<Text>胡安·马丁内斯·德雷卡尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__210">
+			<Text>库马拉哈亚蒂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__220">
+			<Text>沃尔特·罗利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__230">
+			<Text>马蒂姆·阿方索·德卡斯特罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__240">
+			<Text>亨利·哈德森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__250">
+			<Text>塞缪尔·德·尚普兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__260">
+			<Text>雅克·埃尔米特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__270">
+			<Text>古斯塔夫·霍恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__280">
+			<Text>让·阿尔芒·德·马耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__290">
+			<Text>塞缪尔·德·尚普兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__300">
+			<Text>科内利斯·特罗普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__310">
+			<Text>扬·范·布拉克尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__320">
+			<Text>让·巴特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__330">
+			<Text>菲奥多·阿普拉辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__340">
+			<Text>乔治·宾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__350">
+			<Text>坎霍吉·安格雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__360">
+			<Text>拉斯卡里娜·布布林纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__370">
+			<Text>罗伯特·苏库夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__380">
+			<Text>施清</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__390">
+			<Text>托马斯·科克伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__400">
+			<Text>斯蒂恩·安德森·比勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__410">
+			<Text>若阿金·马克斯·里斯本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__420">
+			<Text>米格尔·格劳神学院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__430">
+			<Text>汉斯·冯·克斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__440">
+			<Text>奥古斯特·冯·汤姆森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__450">
+			<Text>亚伯拉罕·乔治·埃利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__460">
+			<Text>安东豪斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__470">
+			<Text>伊集院五郎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__480">
+			<Text>保罗·萨翁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__490">
+			<Text>威廉·克拉克森爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__500">
+			<Text>弗兰茨·冯·希佩尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__510">
+			<Text>欧内斯特·克劳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__520">
+			<Text>罗尔德·阿蒙森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__530">
+			<Text>欧内斯特·沙克尔顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__540">
+			<Text>欧内斯特·金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__550">
+			<Text>约瑟夫·安鲁格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__560">
+			<Text>古贺峰一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__570">
+			<Text>弗兰克·杰克·弗莱彻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__580">
+			<Text>康拉德·赫尔弗里奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__590">
+			<Text>汉斯·朗斯多夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__600">
+			<Text>巴云·尤达萨斯特科索尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__610">
+			<Text>格蕾丝·霍珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__620">
+			<Text>弗拉基米尔·卡萨托诺夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__630">
+			<Text>谢尔盖·戈尔什科夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__640">
+			<Text>拉姆·达斯·卡塔里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__650">
+			<Text>海因里希·莱曼-维伦布洛克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__660">
+			<Text>本特·伦德瓦尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__670">
+			<Text>杰日·图马尼斯维利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__680">
+			<Text>布兰科·马穆拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__690">
+			<Text>斯维托·莱蒂卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__700">
+			<Text>西奥多罗斯·德吉安尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__710">
+			<Text>林元成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__720">
+			<Text>帕夫洛斯·昆杜里奥蒂斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__730">
+			<Text>康斯坦丁·马卡洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__740">
+			<Text>简·克伦伯格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__750">
+			<Text>古拉布·莫汉拉尔·希拉南达尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__760">
+			<Text>格拉迪斯·姆布拉赫尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__770">
+			<Text>长野大佐美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__780">
+			<Text>本杰明·巴瑟斯特爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__790">
+			<Text>克兰西·费尔南多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__800">
+			<Text>博伊斯男爵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__810">
+			<Text>莉莲·伊莱恩·菲什伯恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__820">
+			<Text>瓦桑莎·卡兰纳戈达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__830">
+			<Text>爱德华·吉约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__840">
+			<Text>艾哈迈德·哈立德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__850">
+			<Text>李熙明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__860">
+			<Text>阿里雷扎·唐西里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__870">
+			<Text>路易丝·凯瑟琳·德迪钦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_B__880">
+			<Text>鲍勃·奥赫特洛尼</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

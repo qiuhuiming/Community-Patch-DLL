@@ -11,4 +11,15 @@
 			<Text>What are themes?</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CONCEPT_THEMING_BONUSES">
+			<Text>[COLOR_YELLOW]主题和主题奖金[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_THEMING_BONUSES_BODY">
+			<Text>如果一栋建筑有多个伟大工程的位置，则很有可能某些伟大工程的组合可能会“主题化”这座建筑，从而产生强大的收益奖励。主题化要求建筑物中的伟大作品满足一组特定标准，无论是不同的时代、文明，甚至是伟大的作品类型。当您将鼠标悬停在城市屏幕中建筑物的主题奖金收益值上时，会显示此信息。[NEWLINE][NEWLINE]主题提供额外的[ICON_TOURISM]旅游和[ICON_CULTURE]根据城市屏幕中的指示值，为您的文明提供文化。[COLOR_YELLOW]在某些情况下，建筑物可能会提供额外的主题奖金收益 - 该奖金在建筑物的帮助工具提示中显示。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_THEMING_BONUSES_QUEST">
+			<Text>什么是主题？</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

@@ -5,4 +5,9 @@
 			<Text>You discover ancient artifacts that inspire your Civilization to make progress towards a new Technology!</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GOODY_SCIENCE">
+			<Text>你会发现古老的文物，这些文物会激励你的文明在新技术方面取得进步！</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>

@@ -8,4 +8,12 @@
 			<Text>Golden Age Points [ICON_GOLDEN_AGE] Per Turn</Text>
 		</Row>
 	</Language_en_US>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOURISMPERTURN">
+			<Text>旅游[ICON_TOURISM]每回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GAPPERTURN">
+			<Text>黄金时代积分[ICON_GOLDEN_AGE]每回合</Text>
+		</Row>
+	</Language_zh_CN>
 </GameData>
