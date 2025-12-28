@@ -76,6 +76,8 @@ def _parse_sql_inserts(sql_text: str) -> dict[str, str]:
 
 
 def _build_reference_dictionary(reference_root: Path) -> dict[str, str]:
+    # Reference packs are for terminology/style reference only.
+    # Do not reuse translations by Tag.
     dictionary: dict[str, str] = {}
 
     xml_tag_text = re.compile(
@@ -122,7 +124,7 @@ _en_update = re.compile(
 )
 
 
-def _apply_sql(sql_path: Path, dictionary: dict[str, str]) -> bool:
+def _apply_sql(sql_path: Path, dictionary: dict[str, str], *, overwrite_existing: bool) -> bool:
     raw = _strip_bom(sql_path.read_text(encoding="utf-8", errors="replace"))
     original_raw = raw
 
@@ -137,15 +139,13 @@ def _apply_sql(sql_path: Path, dictionary: dict[str, str]) -> bool:
         tag = match.group("tag")
         en_text = _unescape_sql_string(match.group("text"))
         if tag in existing_zh:
-            if existing_zh[tag] == en_text and tag in dictionary and dictionary[tag] != en_text:
-                # Replace placeholder text in-place
-                target = dictionary[tag]
+            if overwrite_existing:
                 pattern = re.compile(
                     rf"(UPDATE\s+Language_zh_CN\s+SET\s+Text\s*=\s*)'((?:''|[^'])*)'(\s*WHERE\s+Tag\s*=\s*'{re.escape(tag)}'\s*;)",
                     re.IGNORECASE | re.DOTALL,
                 )
                 raw_new, n = pattern.subn(
-                    lambda m: m.group(1) + f"'{_escape_sql_string(target)}'" + m.group(3),
+                    lambda m: m.group(1) + f"'{_escape_sql_string(en_text)}'" + m.group(3),
                     raw,
                     count=1,
                 )
@@ -153,7 +153,7 @@ def _apply_sql(sql_path: Path, dictionary: dict[str, str]) -> bool:
                     raw = raw_new
             continue
 
-        zh_text = dictionary.get(tag, en_text)
+        zh_text = en_text
         block = (
             "\n\nUPDATE Language_zh_CN\n"
             f"SET Text = '{_escape_sql_string(zh_text)}'\n"
@@ -180,7 +180,11 @@ def _apply_sql(sql_path: Path, dictionary: dict[str, str]) -> bool:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--reference", required=True, help="参考中文包根目录（用于按 Tag 复用译文）")
+    parser.add_argument(
+        "--reference",
+        required=False,
+        help="参考中文包根目录（仅供术语/风格参考；本脚本不会按 Tag 复用译文）",
+    )
     parser.add_argument(
         "--in",
         dest="inputs",
@@ -188,16 +192,20 @@ def main() -> int:
         required=True,
         help="输入 SQL 文件或目录路径（可重复传入；目录将递归处理其中所有 *.sql）",
     )
+    parser.add_argument(
+        "--overwrite-existing",
+        action="store_true",
+        help="覆盖已有的 Language_zh_CN 文本为英文原文（用于重做/清理，避免按 Tag 复用导致的偏差）",
+    )
     args = parser.parse_args()
 
-    reference_root = Path(args.reference).expanduser().resolve()
-    if not reference_root.exists():
-        print(f"reference path not found: {reference_root}", file=sys.stderr)
-        return 2
-
-    dictionary = _build_reference_dictionary(reference_root)
-    if not dictionary:
-        print("warning: reference dictionary is empty", file=sys.stderr)
+    dictionary: dict[str, str] = {}
+    if args.reference:
+        reference_root = Path(args.reference).expanduser().resolve()
+        if not reference_root.exists():
+            print(f"reference path not found: {reference_root}", file=sys.stderr)
+            return 2
+        dictionary = _build_reference_dictionary(reference_root)
 
     updated_count = 0
     unchanged_count = 0
@@ -216,7 +224,7 @@ def main() -> int:
                 print(f"skip (not a sql file): {sql_path}", file=sys.stderr)
                 skipped_count += 1
                 continue
-            if _apply_sql(sql_path, dictionary):
+            if _apply_sql(sql_path, dictionary, overwrite_existing=args.overwrite_existing):
                 print(f"updated: {sql_path}")
                 updated_count += 1
             else:

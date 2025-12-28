@@ -1,6 +1,6 @@
 ---
 name: zh-cn-civ5-vp-localization
-description: When translating Civ5 Vox Populi/Community Patch localization, convert `Language_en_US` entries in XML/SQL into `Language_zh_CN` in-place (add `Language_zh_CN` blocks/SQL updates in the same files, no new zh_CN files), keeping the same structure (Tags, placeholders, formatting) and reusing existing Chinese translations from a reference VP Chinese localization folder when possible.
+description: When translating Civ5 Vox Populi/Community Patch localization, convert `Language_en_US` entries in XML/SQL into `Language_zh_CN` in-place (add `Language_zh_CN` blocks/SQL updates in the same files, no new zh_CN files), keeping the same structure (Tags, placeholders, formatting). A reference Chinese pack is for terminology/style reference only; do not reuse translations by Tag.
 metadata:
   short-description: Translate Civ5 VP `en_US` -> `zh_CN`
 ---
@@ -9,14 +9,14 @@ metadata:
 
 适用场景：
 - 需要把本仓库的 `*.xml` / `*.sql` 里 `Language_en_US` 的文本翻译为中文，并以同样格式写入 `Language_zh_CN`。
-- 需要参考现成中文包（如 `VP 3.10.14 (Chinese ver.)`）的用词与格式，并尽量复用已有译文（按 `Tag` 匹配）。
+- 需要参考现成中文包（如 `VP 3.10.14 (Chinese ver.)`）的用词与格式（专有名词/句式风格），但**不按 `Tag` 直接复用译文**。
 
 ## 约定与风格（务必保持）
 
 - **只改文本，不改 Tag**：`Tag="TXT_KEY_..."`、`WHERE Tag = 'TXT_KEY_...'` 必须原样保留。
 - **保留格式控制符**：如 `[NEWLINE]`、`[ICON_*]`、`[COLOR_*]... [ENDCOLOR]`、`{1_Num}`、`{TXT_KEY_...}` 等占位符/引用不得删改。
 - **保持结构一致**：XML 中 `<Row>` / `<Replace>` 的元素名尽量与原文件一致；SQL 中保持同样的 `UPDATE ... SET Text = ... WHERE Tag = ...;` 结构。
-- **优先复用参考译文**：若参考中文包中已存在同 `Tag` 的中文文本，优先直接采用（必要时仅做轻微对齐）。
+- **参考仅供风格**：参考中文包只用于统一术语与风格；同名 `Tag` 的译文不得直接复制粘贴作为结果，必须以本仓库英文原文为准进行翻译。
 
 ## 常用专有名词对照（参考 VP 3.10.14 中文包）
 
@@ -92,19 +92,16 @@ metadata:
 
 ```bash
 python3 .codex/skills/zh-cn-civ5-vp-localization/scripts/add_zhcn_from_enus.py \
-  --reference "../VP 3.10.14 (Chinese ver.)/(4b) (3.10.14) Chinese Localization for VP" \
   --in "VPUI Text/VPUI_tips_en_us.xml"
 ```
 
 - 也可以直接传目录（会递归处理其中所有 `*.xml`）：
 ```bash
 python3 .codex/skills/zh-cn-civ5-vp-localization/scripts/add_zhcn_from_enus.py \
-  --reference "../VP 3.10.14 (Chinese ver.)/(4b) (3.10.14) Chinese Localization for VP" \
   --in "(1) Community Patch/Database Changes/Text/en_US/WorldMap/"
 ```
 
-- 命中参考译文：直接写入中文。
-- 未命中：默认复制英文到 `Language_zh_CN` 作为占位，后续再人工翻译替换（避免漏 Tag）。
+- 默认策略：先把英文复制到 `Language_zh_CN` 作为占位（避免漏 Tag），后续再按英文原文逐条翻译为中文（参考中文包仅用来统一术语/风格）。
 
 ## 批量处理建议
 

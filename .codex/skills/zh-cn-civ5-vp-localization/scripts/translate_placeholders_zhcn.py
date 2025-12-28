@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 TOKEN_RE = re.compile(
-    r"(\[NEWLINE\]|\[ICON_[^\]]+\]|\[COLOR_[^\]]+\]|\[ENDCOLOR\]|\{[^}]+\}|TXT_KEY_[A-Z0-9_]+)",
+    r"(\[NEWLINE\]|\[ICON_[^\]]+\]|\[COLOR_[^\]]+\]|\[/?COLOR(?::[^\]]+)?\]|\[ENDCOLOR\]|\{[^}]+\}|TXT_KEY_[A-Z0-9_]+)",
     re.IGNORECASE,
 )
 
@@ -49,7 +49,10 @@ class Translator:
         if text in self._cache:
             return self._cache[text]
         time.sleep(self.sleep_s)
-        out = self._impl.translate(text)
+        try:
+            out = self._impl.translate(text)
+        except Exception:
+            out = text
         self._cache[text] = out
         return out
 
@@ -68,9 +71,15 @@ class Translator:
 
         time.sleep(self.sleep_s)
         if hasattr(self._impl, "translate_batch"):
-            translated = self._impl.translate_batch(to_translate)
+            try:
+                translated = self._impl.translate_batch(to_translate)
+            except Exception:
+                translated = []
         else:  # pragma: no cover
-            translated = [self._impl.translate(t) for t in to_translate]
+            translated = []
+
+        if not translated or len(translated) != len(to_translate):
+            translated = [self.translate(t) for t in to_translate]
         for i, tr in zip(idxs, translated):
             out[i] = tr
             self._cache[texts[i]] = tr
@@ -157,9 +166,18 @@ def _apply_xml(path: Path, translator: Translator, dry_run: bool) -> tuple[int, 
     if not en or not zh:
         return (0, 0)
 
+    zh_match = re.search(
+        r"(<Language_zh_CN\b[^>]*>)([\s\S]*?)(</Language_zh_CN>)",
+        raw,
+        re.IGNORECASE,
+    )
+    if not zh_match:
+        return (0, 0)
+    zh_prefix, zh_body, zh_suffix = zh_match.group(1), zh_match.group(2), zh_match.group(3)
+
     replaced = 0
     attempted = 0
-    updated = raw
+    updated_body = zh_body
     for tag, en_text in en.items():
         zh_text = zh.get(tag)
         if zh_text is None:
@@ -171,6 +189,8 @@ def _apply_xml(path: Path, translator: Translator, dry_run: bool) -> tuple[int, 
         # Copy over if en_US already contains CJK and zh doesn't.
         if re.search(r"[\u4e00-\u9fff]", en_text) and not re.search(r"[\u4e00-\u9fff]", zh_text):
             attempted += 1
+            if dry_run:
+                continue
             new_text = en_text
         else:
             # Translate zh if it's English-like, else fall back to en.
@@ -178,18 +198,24 @@ def _apply_xml(path: Path, translator: Translator, dry_run: bool) -> tuple[int, 
             if not re.search(r"[A-Za-z]", source_text):
                 continue
             attempted += 1
+            if dry_run:
+                continue
             new_text = _translate_preserving_tokens(translator, source_text)
         if new_text and new_text != zh_text:
-            # Replace first occurrence within zh_CN block by tag context
             pattern = re.compile(
-                rf"(<(Row|Replace)\b[^>]*\bTag=\"{re.escape(tag)}\"[^>]*>[\s\S]*?<Text>)([\s\S]*?)(</Text>)",
+                rf"(<(?:Row|Replace)\b[^>]*\bTag=\"{re.escape(tag)}\"[^>]*>[\s\S]*?<Text>)([\s\S]*?)(</Text>)",
                 re.IGNORECASE,
             )
-            updated, n = pattern.subn(lambda m: m.group(1) + new_text + m.group(4), updated, count=1)
+            updated_body, n = pattern.subn(
+                lambda m: m.group(1) + new_text + m.group(3),
+                updated_body,
+                count=1,
+            )
             if n:
                 replaced += 1
 
     if replaced and not dry_run:
+        updated = raw[: zh_match.start(2)] + updated_body + raw[zh_match.end(2) :]
         path.write_text(updated, encoding="utf-8")
     return (attempted, replaced)
 
@@ -230,12 +256,16 @@ def _apply_sql(path: Path, translator: Translator, dry_run: bool) -> tuple[int, 
 
         if re.search(r"[\u4e00-\u9fff]", en_text) and not re.search(r"[\u4e00-\u9fff]", zh_text):
             attempted += 1
+            if dry_run:
+                continue
             new_text = en_text
         else:
             source_text = zh_text if re.search(r"[A-Za-z]", zh_text) else en_text
             if not re.search(r"[A-Za-z]", source_text):
                 continue
             attempted += 1
+            if dry_run:
+                continue
             new_text = _translate_preserving_tokens(translator, source_text)
         if not new_text or new_text == zh_text:
             continue

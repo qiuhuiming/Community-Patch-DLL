@@ -68,6 +68,8 @@ def _parse_sql_inserts(sql_text: str) -> dict[str, str]:
 
 
 def _build_reference_dictionary(reference_root: Path) -> dict[str, str]:
+    # Reference packs are for terminology/style reference only.
+    # Do not reuse translations by Tag.
     dictionary: dict[str, str] = {}
 
     xml_tag_text = re.compile(
@@ -137,7 +139,7 @@ def _render_entry(kind: str, tag: str, text: str, indent: str) -> str:
     )
 
 
-def _apply_xml(xml_path: Path, dictionary: dict[str, str]) -> bool:
+def _apply_xml(xml_path: Path, dictionary: dict[str, str], *, overwrite_existing: bool) -> bool:
     raw = _strip_bom(xml_path.read_text(encoding="utf-8", errors="replace"))
 
     en_match = _xml_block_en.search(raw)
@@ -162,8 +164,8 @@ def _apply_xml(xml_path: Path, dictionary: dict[str, str]) -> bool:
         for en_kind, tag, en_text in en_entries:
             seen.add(tag)
             kind, current_text = existing_by_tag.get(tag, (en_kind, en_text))
-            if current_text == en_text:
-                current_text = dictionary.get(tag, en_text)
+            if overwrite_existing:
+                current_text = en_text
             rendered.append(_render_entry(kind, tag, current_text, indent))
 
         for kind, tag, text in existing_entries:
@@ -180,7 +182,7 @@ def _apply_xml(xml_path: Path, dictionary: dict[str, str]) -> bool:
 
         additions = []
         for kind, tag, en_text in en_entries:
-            additions.append(_render_entry(kind, tag, dictionary.get(tag, en_text), entry_indent))
+            additions.append(_render_entry(kind, tag, en_text, entry_indent))
 
         zh_block = f"\n{lang_indent}<Language_zh_CN>\n{''.join(additions)}{lang_indent}</Language_zh_CN>"
         updated = raw[: en_match.end()] + zh_block + raw[en_match.end() :]
@@ -194,7 +196,11 @@ def _apply_xml(xml_path: Path, dictionary: dict[str, str]) -> bool:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--reference", required=True, help="参考中文包根目录（用于按 Tag 复用译文）")
+    parser.add_argument(
+        "--reference",
+        required=False,
+        help="参考中文包根目录（仅供术语/风格参考；本脚本不会按 Tag 复用译文）",
+    )
     parser.add_argument(
         "--in",
         dest="inputs",
@@ -202,16 +208,20 @@ def main() -> int:
         required=True,
         help="输入 XML 文件或目录路径（可重复传入；目录将递归处理其中所有 *.xml）",
     )
+    parser.add_argument(
+        "--overwrite-existing",
+        action="store_true",
+        help="覆盖已有的 Language_zh_CN 文本为英文原文（用于重做/清理，避免按 Tag 复用导致的偏差）",
+    )
     args = parser.parse_args()
 
-    reference_root = Path(args.reference).expanduser().resolve()
-    if not reference_root.exists():
-        print(f"reference path not found: {reference_root}", file=sys.stderr)
-        return 2
-
-    dictionary = _build_reference_dictionary(reference_root)
-    if not dictionary:
-        print("warning: reference dictionary is empty", file=sys.stderr)
+    dictionary: dict[str, str] = {}
+    if args.reference:
+        reference_root = Path(args.reference).expanduser().resolve()
+        if not reference_root.exists():
+            print(f"reference path not found: {reference_root}", file=sys.stderr)
+            return 2
+        dictionary = _build_reference_dictionary(reference_root)
 
     updated_count = 0
     unchanged_count = 0
@@ -232,7 +242,7 @@ def main() -> int:
                 print(f"skip (not an xml file): {xml_path}", file=sys.stderr)
                 skipped_count += 1
                 continue
-            if _apply_xml(xml_path, dictionary):
+            if _apply_xml(xml_path, dictionary, overwrite_existing=args.overwrite_existing):
                 print(f"updated: {xml_path}")
                 updated_count += 1
             else:
